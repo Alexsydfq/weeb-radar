@@ -1,0 +1,1011 @@
+{
+ "updated": "2026-10-03T00:00:00Z",
+ "events": [
+  {
+   "artist": "Yasuharu Takanashi",
+   "dateEnd": "2026-10-14",
+   "dateStart": "2026-09-30",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Kompozytor muzyki do Naruto Shippuden i Fairy Tail, gra na żywo z zespołem. Warszawa jest w tę niedzielę, 4.10, w Hybrydach.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-02",
+     "venue": "Dingwalls"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-10-04",
+     "venue": "Hybrydy"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-05",
+     "venue": "SO36"
+    },
+    {
+     "cc": "DE",
+     "city": "Monachium",
+     "date": "2026-10-06",
+     "venue": "Ampere"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2026-10-08",
+     "venue": "LegendClub"
+    },
+    {
+     "cc": "CH",
+     "city": "Yverdon-les-Bains",
+     "date": "2026-10-09",
+     "venue": "L'Amalgame"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-10-11",
+     "venue": "Pan Piper"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2026-10-13",
+     "venue": "WOLF"
+    },
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-10-14",
+     "venue": "Revilive"
+    }
+   ],
+   "tier": 2,
+   "title": "Far East Groove — The Battle for Glory",
+   "url": "https://www.jame-world.com/en/event/pl",
+   "id": "2026-09-yasuharu-takanashi-battle-for-glory"
+  },
+  {
+   "artist": "7!!",
+   "dateEnd": "2026-10-25",
+   "dateStart": "2026-10-25",
+   "foundAt": "2026-10-02",
+   "kind": "koncert",
+   "note": "Anisonowy zespół (Naruto Shippuden, Your Lie in April). Festiwal trwa 24–25.10 i jest głównie o popie z innych krajów Azji; 7!! to jedyny japoński akt, jaki znalazłam w składzie.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-10-25",
+     "venue": "Paris Event Center"
+    }
+   ],
+   "tier": 2,
+   "title": "The A Festival",
+   "url": "https://www.jame-world.com/en/concerts.html?page=4",
+   "id": "2026-10-7-the-a-festival-paris"
+  },
+  {
+   "artist": "BABYBEARD",
+   "dateEnd": "2026-10-24",
+   "dateStart": "2026-10-02",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Kawaii-idol metal z Ladybeardem. Między 3 a 17.10 grają jako support Samurai Pizza Cats (miast źródło nie rozpisuje).",
+   "stops": [
+    {
+     "cc": "NL",
+     "city": "Haga",
+     "date": "2026-10-02",
+     "venue": "Paard"
+    },
+    {
+     "cc": "IT",
+     "city": "Como",
+     "date": "2026-10-18",
+     "venue": "Como Fun"
+    },
+    {
+     "cc": "IT",
+     "city": "Rzym",
+     "date": "2026-10-19",
+     "venue": "Traffic"
+    },
+    {
+     "cc": "CZ",
+     "city": "Praga",
+     "date": "2026-10-21",
+     "venue": "Cafe V Lese"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-10-22",
+     "venue": "Hybrydy"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-23",
+     "venue": "MEX"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-24",
+     "venue": "MEX"
+    }
+   ],
+   "tier": 1,
+   "title": "Maximum Kawaii Chaos European Tour 2026",
+   "url": "https://tokyonoizu.com/japanese-band-tours",
+   "id": "2026-10-babybeard-europe"
+  },
+  {
+   "artist": "BLAZE",
+   "dateEnd": "2026-11-01",
+   "dateStart": "2026-10-23",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Visual kei, pierwsza trasa po Europie.",
+   "stops": [
+    {
+     "cc": "RO",
+     "city": "Bukareszt",
+     "date": "2026-10-23",
+     "venue": "Expirat Halele Carol"
+    },
+    {
+     "cc": "SK",
+     "city": "Bratysława",
+     "date": "2026-10-25",
+     "venue": "Randal Club"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-27",
+     "venue": "The Underworld"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-10-30",
+     "venue": "Hybrydy"
+    },
+    {
+     "cc": "DE",
+     "city": "Kolonia",
+     "date": "2026-11-01",
+     "venue": "Yuca Club"
+    }
+   ],
+   "tier": 1,
+   "title": "RENGOKU Europe Tour",
+   "url": "https://www.jame-world.com/en/event/pl",
+   "id": "2026-10-blaze-rengoku-europe"
+  },
+  {
+   "artist": "KAMIJO",
+   "dateEnd": "2026-10-03",
+   "dateStart": "2026-09-23",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Visual kei (wokalista Versailles). Końcówka trasy; Warszawa wypada 2.10.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-10-02",
+     "venue": "Hybrydy"
+    },
+    {
+     "cc": "HU",
+     "city": "Budapeszt",
+     "date": "2026-10-03",
+     "venue": "Analog Music Hall"
+    }
+   ],
+   "tier": 1,
+   "title": "Sanctuary of Europe",
+   "url": "https://www.jame-world.com/en/event/pl",
+   "id": "2026-10-kamijo-sanctuary-of-europe"
+  },
+  {
+   "artist": "Őszi MondoCon 2026",
+   "dateEnd": "2026-10-18",
+   "dateStart": "2026-10-16",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "16.10 o 17:30 koncert Ghibli: Azumi Inoue z córką Yuyu i orkiestrą. 17.10 o 19:00 Who-ya Extended (openingi Jujutsu Kaisen i Psycho-Pass 3). Sam konwent 17–18.10.",
+   "stops": [
+    {
+     "cc": "HU",
+     "city": "Budapeszt",
+     "date": "2026-10-16",
+     "venue": "Hungexpo"
+    }
+   ],
+   "tier": 2,
+   "title": "Azumi Inoue i Who-ya Extended",
+   "url": "https://budappest.hu/ghibli-koncert-animepremier-es-cosplay-vilagsztarok-ilyen-lesz-az-oszi-mondocon-2026-budapesten/",
+   "id": "2026-10-mondocon-autumn"
+  },
+  {
+   "artist": "Neonya!!",
+   "dateEnd": "2026-11-06",
+   "dateStart": "2026-10-10",
+   "foundAt": "2026-10-02",
+   "kind": "rave",
+   "note": "Fińska ekipa od J-core, happy hardcore i nightcore. Składu DJ-ów strona nie podaje.",
+   "stops": [
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2026-10-10",
+     "venue": "Lepakkomies (Neonya!! Party)"
+    },
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2026-11-06",
+     "venue": "Bar Kraken (W.E.E.B Lounge)"
+    }
+   ],
+   "tier": 2,
+   "title": "J-core i anime party",
+   "url": "https://neonya.party/",
+   "id": "2026-10-neonya-helsinki"
+  },
+  {
+   "artist": "SPYAIR",
+   "dateEnd": "2026-11-07",
+   "dateStart": "2026-10-30",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Anisonowy rock (Gintama, Haikyuu!!). Wiedeń to występ na konwencie YuniCon.",
+   "stops": [
+    {
+     "cc": "AT",
+     "city": "Wiedeń",
+     "date": "2026-10-30",
+     "venue": "Multiversum Schwechat (YuniCon)"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-02",
+     "venue": "Cabaret Sauvage"
+    },
+    {
+     "cc": "NL",
+     "city": "Eindhoven",
+     "date": "2026-11-04",
+     "venue": "Effenaar"
+    },
+    {
+     "cc": "DE",
+     "city": "Frankfurt",
+     "date": "2026-11-05",
+     "venue": "Batschkapp"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-11-07",
+     "venue": "Scala"
+    }
+   ],
+   "tier": 1,
+   "title": "Europe Tour 2026",
+   "url": "https://www.cdjapan.co.jp/feature/J-POP-Goes-Global-2026",
+   "id": "2026-10-spyair-europe"
+  },
+  {
+   "artist": "Yoko Kanno",
+   "dateEnd": "2026-11-03",
+   "dateStart": "2026-10-31",
+   "foundAt": "2026-10-02",
+   "kind": "koncert",
+   "note": "Kompozytorka Cowboy Bebop i Ghost in the Shell: SAC. W Mediolanie solowy projekt Piano Me: fortepian na żywo z obrazem.",
+   "stops": [
+    {
+     "cc": "IT",
+     "city": "Lucca",
+     "date": "2026-10-31",
+     "venue": "Lucca Comics & Games (gość 31.10–1.11)"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2026-11-03",
+     "venue": "Teatro Nazionale"
+    }
+   ],
+   "tier": 2,
+   "title": "Lucca Comics & Games + Piano Me",
+   "url": "https://www.animeclick.it/news/110995-lucca-comics-games-2026-yoko-kanno-sara-tra-gli-ospiti-dell-evento",
+   "id": "2026-10-yoko-kanno-lucca-milan"
+  },
+  {
+   "artist": "Zeke Deux",
+   "dateEnd": "2026-10-08",
+   "dateStart": "2026-10-04",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Visual kei. W kalendarzu JaME są tylko te trzy daty.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-04",
+     "venue": "Privatclub"
+    },
+    {
+     "cc": "CZ",
+     "city": "Praga",
+     "date": "2026-10-06",
+     "venue": "Futurum"
+    },
+    {
+     "cc": "AT",
+     "city": "Wiedeń",
+     "date": "2026-10-08",
+     "venue": "Szene"
+    }
+   ],
+   "tier": 1,
+   "title": "Europe 2026",
+   "url": "https://www.jame-world.com/en/concerts.html",
+   "id": "2026-10-zeke-deux-europe"
+  },
+  {
+   "artist": "Hatsune Miku",
+   "dateEnd": "2026-11-27",
+   "dateStart": "2026-11-12",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Gości ani supportów oficjalna strona na razie nie podaje.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-11-12",
+     "venue": "The O2"
+    },
+    {
+     "cc": "BE",
+     "city": "Bruksela",
+     "date": "2026-11-14",
+     "venue": "ING Arena"
+    },
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2026-11-15",
+     "venue": "AFAS Live"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-11-17",
+     "venue": "Velodrom"
+    },
+    {
+     "cc": "DE",
+     "city": "Düsseldorf",
+     "date": "2026-11-20",
+     "venue": "PSD Bank Dome"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-22",
+     "venue": "Accor Arena"
+    },
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-11-24",
+     "venue": "Palacio Vistalegre"
+    },
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-11-25",
+     "venue": "Palacio Vistalegre"
+    },
+    {
+     "cc": "PT",
+     "city": "Lizbona",
+     "date": "2026-11-27",
+     "venue": "Sagres Campo Pequeno"
+    }
+   ],
+   "tier": 3,
+   "title": "MIKU EXPO 2026 Europe",
+   "url": "https://mikuexpo.com/europe2026/",
+   "id": "2026-11-hatsune-miku-expo-europe"
+  },
+  {
+   "artist": "inba☆style",
+   "dateEnd": "2026-11-07",
+   "dateStart": "2026-11-07",
+   "foundAt": "2026-10-02",
+   "kind": "rave",
+   "note": "Start 22:00, wjazd 30 zł. Line-up: HakiSume i Yohiii (guest DJ), DJ CHRAPNEL, Pixa Galaxy, Kyuko, DJ Sapporo; wizualki VJ Nel i VJ Yuu.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-11-07",
+     "venue": "Bar Motocyklowy 2Koła, Tunelowa 2"
+    }
+   ],
+   "tier": 3,
+   "title": "Zettai Hardcore Territory",
+   "url": "https://www.facebook.com/inbastyle/",
+   "id": "2026-11-inba-style-zettai-hardcore-territory"
+  },
+  {
+   "artist": "MAYOHK",
+   "dateEnd": "2026-11-17",
+   "dateStart": "2026-11-11",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Közi (ex-MALICE MIZER) i Hora (Schwarz Stein): visual kei z elektroniką i dark wave. Warszawa: wejście 19:30, start 20:00, bilet 45 EUR.",
+   "stops": [
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2026-11-11",
+     "venue": "Kuudes Linja"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-13",
+     "venue": "Le 360 Paris Music Factory"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-11-15",
+     "venue": "VooDoo Club"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-11-17",
+     "venue": "Privatclub"
+    }
+   ],
+   "tickets": "https://www.tickettailor.com/events/asiarec/2358551",
+   "tier": 1,
+   "title": "World Tour 2026",
+   "url": "https://www.voodooclub.pl/event/mayohk-world-tour-2026-warsaw/",
+   "id": "2026-11-mayohk-world-tour"
+  },
+  {
+   "artist": "Tomohisa Yamashita",
+   "dateEnd": "2026-11-22",
+   "dateStart": "2026-11-22",
+   "foundAt": "2026-10-02",
+   "kind": "koncert",
+   "note": "J-popowy idol i aktor.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-22",
+     "venue": "Casino de Paris"
+    }
+   ],
+   "tier": 1,
+   "title": "TOUR 2026 DREAMING",
+   "url": "https://www.jame-world.com/en/concerts.html?page=8",
+   "id": "2026-11-tomohisa-yamashita-paris"
+  },
+  {
+   "artist": "Manga Barcelona 32",
+   "dateEnd": "2026-12-08",
+   "dateStart": "2026-12-05",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Koncerty: ALI (5–6.12), Reol (6–7.12), Lotus Juice (5 i 8.12), NIGHTMARE (7–8.12, na 20-lecie anime Death Note).",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2026-12-05",
+     "venue": "Fira Barcelona Gran Via"
+    }
+   ],
+   "tier": 2,
+   "title": "Reol, NIGHTMARE, ALI, Lotus Juice",
+   "url": "https://www.akibastation.es/2026/07/manga-barcelona-2026-conciertos.html",
+   "id": "2026-12-manga-barcelona"
+  },
+  {
+   "artist": "Upiko",
+   "dateEnd": "2026-12-05",
+   "dateStart": "2026-12-05",
+   "foundAt": "2026-10-02",
+   "kind": "koncert",
+   "note": "Na razie jedyna europejska data, jaką znalazłam.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-12-05",
+     "venue": "Pan Piper"
+    }
+   ],
+   "tier": 1,
+   "title": "UPIRISE TOUR 2026 — Europa",
+   "url": "https://www.jame-world.com/en/concerts.html?page=8",
+   "id": "2026-12-upiko-paris"
+  },
+  {
+   "artist": "SiM",
+   "dateEnd": "2027-02-16",
+   "dateStart": "2027-01-20",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "The Rumbling z Ataku Tytanów. Polski na trasie nie ma; najbliżej Berlin 4.02 i Praga 6.02.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Glasgow",
+     "date": "2027-01-20",
+     "venue": "SWG3"
+    },
+    {
+     "cc": "UK",
+     "city": "Leeds",
+     "date": "2027-01-22",
+     "venue": "The Wardrobe"
+    },
+    {
+     "cc": "UK",
+     "city": "Manchester",
+     "date": "2027-01-23",
+     "venue": "Academy 3"
+    },
+    {
+     "cc": "UK",
+     "city": "Birmingham",
+     "date": "2027-01-25",
+     "venue": "O2 Institute"
+    },
+    {
+     "cc": "UK",
+     "city": "Cardiff",
+     "date": "2027-01-26",
+     "venue": "Clwb Ifor Bach"
+    },
+    {
+     "cc": "UK",
+     "city": "Bristol",
+     "date": "2027-01-28",
+     "venue": "The Fleece"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-01-30",
+     "venue": "Electric Ballroom"
+    },
+    {
+     "cc": "NL",
+     "city": "Haarlem",
+     "date": "2027-01-31",
+     "venue": "Patronaat"
+    },
+    {
+     "cc": "DE",
+     "city": "Kolonia",
+     "date": "2027-02-01",
+     "venue": "Live Music Hall"
+    },
+    {
+     "cc": "DE",
+     "city": "Hamburg",
+     "date": "2027-02-03",
+     "venue": "Fabrik"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-02-04",
+     "venue": "Metropol"
+    },
+    {
+     "cc": "CZ",
+     "city": "Praga",
+     "date": "2027-02-06",
+     "venue": "Rock Cafe"
+    },
+    {
+     "cc": "DE",
+     "city": "Frankfurt",
+     "date": "2027-02-07",
+     "venue": "Batschkapp"
+    },
+    {
+     "cc": "DE",
+     "city": "Monachium",
+     "date": "2027-02-09",
+     "venue": "Technikum"
+    },
+    {
+     "cc": "BE",
+     "city": "Sint-Niklaas",
+     "date": "2027-02-10",
+     "venue": "De Casino"
+    },
+    {
+     "cc": "LU",
+     "city": "Luksemburg",
+     "date": "2027-02-12",
+     "venue": "den Atelier"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-02-13",
+     "venue": "Elysée Montmartre"
+    },
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2027-02-15",
+     "venue": "Mon Live"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2027-02-16",
+     "venue": "Razzmatazz 2"
+    }
+   ],
+   "tier": 1,
+   "title": "HOOMAN AFTER ALL World Tour — Europe",
+   "url": "https://www.jame-world.com/en/concerts.html?page=9",
+   "id": "2027-01-sim-hooman-after-all-europe"
+  },
+  {
+   "artist": "Esprit D'Air",
+   "dateEnd": "2027-02-19",
+   "dateStart": "2027-02-12",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "J-rock z Londynu, tylko Wielka Brytania.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Birmingham",
+     "date": "2027-02-12",
+     "venue": "Asylum"
+    },
+    {
+     "cc": "UK",
+     "city": "Cardiff",
+     "date": "2027-02-13",
+     "venue": "The Globe"
+    },
+    {
+     "cc": "UK",
+     "city": "Leeds",
+     "date": "2027-02-14",
+     "venue": "Brudenell Social Club"
+    },
+    {
+     "cc": "UK",
+     "city": "Edynburg",
+     "date": "2027-02-16",
+     "venue": "La Belle Angele"
+    },
+    {
+     "cc": "UK",
+     "city": "Newcastle",
+     "date": "2027-02-17",
+     "venue": "The Cluny"
+    },
+    {
+     "cc": "UK",
+     "city": "Nottingham",
+     "date": "2027-02-18",
+     "venue": "Rescue Rooms"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-02-19",
+     "venue": "The Garage"
+    }
+   ],
+   "tier": 1,
+   "title": "Aeons and Constellations Tour 2027",
+   "url": "https://tokyonoizu.com/japanese-band-tours",
+   "id": "2027-02-esprit-dair-uk"
+  },
+  {
+   "artist": "D'ESPAIRSRAY",
+   "dateEnd": "2027-03-15",
+   "dateStart": "2027-03-08",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Visual kei. Bilet zwykły 42 EUR, są też pakiety VIP.",
+   "stops": [
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2027-03-08",
+     "venue": "Tavastia"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2027-03-10",
+     "venue": "Niebo"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-03-11",
+     "venue": "Hole44"
+    },
+    {
+     "cc": "DE",
+     "city": "Kolonia",
+     "date": "2027-03-13",
+     "venue": "Club Volta"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-03-15",
+     "venue": "Backstage by the Mill"
+    }
+   ],
+   "tickets": "https://knockoutmusicstore.pl/wydarzenia/d-espairs-ray",
+   "tier": 1,
+   "title": "WORLD TOUR 2027 'Revenant'",
+   "url": "https://jrocknews.com/2026/07/despairsray-tours-europe-in-march-2027-as-part-of-revenant-world-tour.html",
+   "id": "2027-03-despairsray-europe"
+  },
+  {
+   "artist": "Jupiter",
+   "dateEnd": "2027-03-13",
+   "dateStart": "2027-03-09",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Visual kei / symphonic metal.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Monachium",
+     "date": "2027-03-09",
+     "venue": "Kranhalle"
+    },
+    {
+     "cc": "CH",
+     "city": "Aarburg",
+     "date": "2027-03-11",
+     "venue": "Musigburg"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-03-13",
+     "venue": "Badaboum"
+    }
+   ],
+   "tier": 1,
+   "title": "The Pantheon — EU Tour 2027",
+   "url": "https://tokyonoizu.com/japanese-band-tours",
+   "id": "2027-03-jupiter-europe"
+  },
+  {
+   "artist": "HAGANE",
+   "dateEnd": "2027-04-16",
+   "dateStart": "2027-04-09",
+   "foundAt": "2026-10-02",
+   "kind": "trasa",
+   "note": "Żeński power metal z Japonii.",
+   "stops": [
+    {
+     "cc": "DK",
+     "city": "Roskilde",
+     "date": "2027-04-09",
+     "venue": "Epic Fest"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-04-13",
+     "venue": "Lido"
+    },
+    {
+     "cc": "DE",
+     "city": "Hamburg",
+     "date": "2027-04-14",
+     "venue": "Markthalle"
+    },
+    {
+     "cc": "DE",
+     "city": "Kolonia",
+     "date": "2027-04-16",
+     "venue": "Club Volta"
+    }
+   ],
+   "tier": 1,
+   "title": "Through the Night — European Tour Part 1",
+   "url": "https://tokyonoizu.com/japanese-band-tours",
+   "id": "2027-04-hagane-europe"
+  },
+  {
+   "artist": "Animefest 2027",
+   "dateEnd": "2027-05-23",
+   "dateStart": "2027-05-21",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Goście jeszcze nieogłoszeni.",
+   "stops": [
+    {
+     "cc": "CZ",
+     "city": "Brno",
+     "date": "2027-05-21",
+     "venue": "Výstaviště Brno"
+    }
+   ],
+   "tier": 2,
+   "title": "",
+   "url": "https://www.animefest.cz/",
+   "id": "2027-05-animefest-brno"
+  },
+  {
+   "artist": "Pyrkon 2027",
+   "dateEnd": "2027-06-20",
+   "dateStart": "2027-06-18",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Start 18.06 według ogłoszenia; koniec wpisałem z typowego trzydniowego formatu. Pierwsi goście to Graham McTavish, Grady Hendrix i belgijski zespół Laïs — japońskiego artysty muzycznego jeszcze nie ogłoszono.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Poznań",
+     "date": "2027-06-18",
+     "venue": "MTP"
+    }
+   ],
+   "tier": 2,
+   "title": "Festiwal fantastyki",
+   "url": "https://pyrkon.pl/bez-kategorii/cos-sie-konczy-cos-zaczyna-poznajcie-pierwszych-gosci-pyrkonu-2027/",
+   "id": "2027-06-pyrkon"
+  },
+  {
+   "artist": "AnimagiC 2027",
+   "dateEnd": "2027-08-01",
+   "dateStart": "2027-07-30",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Ogłoszeni muzycznie: Hironobu Kageyama, Little Glee Monster, Eir Aoi, SHIHORI. Organizator zapowiada kolejnych gości.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Mannheim",
+     "date": "2027-07-30",
+     "venue": "Rosengarten"
+    }
+   ],
+   "tier": 2,
+   "title": "SHOWTIME",
+   "url": "https://animagic.de/",
+   "id": "2027-07-animagic"
+  },
+  {
+   "artist": "Anime Messe Babelsberg 2027",
+   "dateEnd": "2027-07-25",
+   "dateStart": "2027-07-22",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Ogłoszeni muzycznie: NANO i Kota Shinzato.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Poczdam",
+     "date": "2027-07-22",
+     "venue": "Filmpark Babelsberg"
+    }
+   ],
+   "tier": 2,
+   "title": "NANO, Kota Shinzato",
+   "url": "https://www.jame-world.com/en/concerts.html?page=10",
+   "id": "2027-07-anime-messe-babelsberg"
+  },
+  {
+   "artist": "DoKomi 2027",
+   "dateEnd": "2027-07-11",
+   "dateStart": "2027-07-09",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Uwaga: lipiec, nie przełom maja i czerwca jak dotąd. Dwa J-Rave (pt. i sob., 20:30–2:00), line-up DJ-ów jeszcze nieogłoszony. Termin nakłada się na Japan Expo w Paryżu (8–11.07).",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Düsseldorf",
+     "date": "2027-07-09",
+     "venue": "Messe Düsseldorf"
+    }
+   ],
+   "tier": 2,
+   "title": "J-Rave w piątek i sobotę",
+   "url": "https://www.dokomi.de/en/event/when-and-where",
+   "id": "2027-07-dokomi"
+  },
+  {
+   "artist": "Japan Expo Paris 2027",
+   "dateEnd": "2027-07-11",
+   "dateStart": "2027-07-08",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Program muzyczny jeszcze nieogłoszony. Termin nakłada się na DoKomi (9–11.07).",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Villepinte",
+     "date": "2027-07-08",
+     "venue": "Paris-Nord Villepinte"
+    }
+   ],
+   "tier": 2,
+   "title": "",
+   "url": "https://www.jds.fr/paris/foires-et-salons/foires/japan-expo-261090_A",
+   "id": "2027-07-japan-expo-paris"
+  },
+  {
+   "artist": "Hikari 2027",
+   "dateEnd": "2027-08-29",
+   "dateStart": "2027-08-27",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Termin ogłoszony po edycji 2026, gości jeszcze nie ma. W 2026 śpiewały tam TRUE i Machico.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Poznań",
+     "date": "2027-08-27"
+    }
+   ],
+   "tier": 2,
+   "title": "Festiwal Kultury Azjatyckiej",
+   "url": "https://hikari.pl/",
+   "id": "2027-08-hikari"
+  },
+  {
+   "artist": "Remcon 2028",
+   "dateEnd": "2028-02-27",
+   "dateStart": "2028-02-25",
+   "foundAt": "2026-10-02",
+   "kind": "konwent",
+   "note": "Edycji 2027 nie będzie: organizatorzy robią rok przerwy. Następna, jubileuszowa, dopiero 25–27.02.2028.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Gdańsk",
+     "date": "2028-02-25"
+    }
+   ],
+   "tier": 2,
+   "title": "10. edycja",
+   "url": "https://konwenty-poludniowe.pl/konwenty-informacje/zaskakujaca-decyzja-organizatorow-remcon-2027-sie-nie-odbedzie",
+   "id": "2028-02-remcon"
+  }
+ ]
+}
