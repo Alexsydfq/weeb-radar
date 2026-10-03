@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T00:00:00Z",
+ "updated": "2026-10-03T10:22:13Z",
  "events": [
   {
    "artist": "Yasuharu Takanashi",
@@ -90,18 +90,57 @@
    "id": "2026-10-7-the-a-festival-paris"
   },
   {
+   "artist": "ALT BLK ERA",
+   "dateEnd": "2026-11-28",
+   "dateStart": "2026-10-07",
+   "foundAt": "2026-10-03",
+   "kind": "koncert",
+   "note": "Brytyjski duet alt-rockowy z Nottingham. Dwa występy showcase'owe w Anglii, własnej trasy nie ogłoszono. Dzień 7.10 w Salford podaje tylko JamBase (festiwal Beyond The Music trwa 6–9.10); bilety na Leeds w sprzedaży od 2.10.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Salford",
+     "date": "2026-10-07",
+     "venue": "Dock 10, MediaCity (Beyond The Music)"
+    },
+    {
+     "cc": "UK",
+     "city": "Leeds",
+     "date": "2026-11-28",
+     "venue": "Oporto (BBC Introducing Live)"
+    }
+   ],
+   "tier": 3,
+   "title": "Beyond The Music + BBC Introducing Live",
+   "url": "https://leedsliving.co.uk/music-dance/introducing-live-takes-over-leeds-on-28-november/",
+   "id": "2026-10-alt-blk-era-uk"
+  },
+  {
    "artist": "BABYBEARD",
+   "changeNote": "Doszły daty supportu przed Samurai Pizza Cats: Antwerpia 3.10 i Tilburg 4.10",
    "dateEnd": "2026-10-24",
    "dateStart": "2026-10-02",
    "foundAt": "2026-10-02",
    "kind": "trasa",
-   "note": "Kawaii-idol metal z Ladybeardem. Między 3 a 17.10 grają jako support Samurai Pizza Cats (miast źródło nie rozpisuje).",
+   "note": "Kawaii-idol metal z Ladybeardem. Między 3 a 17.10 grają jako support na trasie Samurai Pizza Cats: źródła potwierdzają ich w Antwerpii (3.10) i Tilburgu (4.10, wyprzedane). W pozostałych miastach tej trasy (Paryż, Bochum, Frankfurt, Stuttgart, Monachium, Wiedeń, Drezno, Berlin, Hamburg) ich udział nie jest potwierdzony.",
    "stops": [
     {
      "cc": "NL",
      "city": "Haga",
      "date": "2026-10-02",
      "venue": "Paard"
+    },
+    {
+     "cc": "BE",
+     "city": "Antwerpia",
+     "date": "2026-10-03",
+     "venue": "TRIX (support Samurai Pizza Cats)"
+    },
+    {
+     "cc": "NL",
+     "city": "Tilburg",
+     "date": "2026-10-04",
+     "venue": "013 (support Samurai Pizza Cats)"
     },
     {
      "cc": "IT",
@@ -142,6 +181,7 @@
    ],
    "tier": 1,
    "title": "Maximum Kawaii Chaos European Tour 2026",
+   "updatedAt": "2026-10-03",
    "url": "https://tokyonoizu.com/japanese-band-tours",
    "id": "2026-10-babybeard-europe"
   },
@@ -237,11 +277,12 @@
   },
   {
    "artist": "Neonya!!",
+   "changeNote": "Ogłoszono line-upy DJ-ów na 10.10 i 6.11",
    "dateEnd": "2026-11-06",
    "dateStart": "2026-10-10",
    "foundAt": "2026-10-02",
    "kind": "rave",
-   "note": "Fińska ekipa od J-core, happy hardcore i nightcore. Składu DJ-ów strona nie podaje.",
+   "note": "Fińska ekipa od J-core, happy hardcore i nightcore. 10.10 (23:55–4:00, 18+): Hexexen, LARA KAAOS, DJ Degradation, Aversal. 6.11 (20:00–4:00, 18+, bilety od 12 EUR): OSC HOOD, DraGonis, Emiru, Sericanyan, DJ Twist, DJ Yukata, DJ Kehveli oraz kącik anime karaoke. Gości z Japonii nie zapowiedziano.",
    "stops": [
     {
      "cc": "FI",
@@ -258,8 +299,36 @@
    ],
    "tier": 2,
    "title": "J-core i anime party",
+   "updatedAt": "2026-10-03",
    "url": "https://neonya.party/",
    "id": "2026-10-neonya-helsinki"
+  },
+  {
+   "artist": "Seth, KOUKI i TSUKASA (Sakura Zensen)",
+   "dateEnd": "2026-10-11",
+   "dateStart": "2026-10-10",
+   "foundAt": "2026-10-03",
+   "kind": "koncert",
+   "note": "Seth (Moi dix Mois), KOUKI (D=OUT) i TSUKASA (D'ESPAIRSRAY): visual kei oraz ich enkowe trio Sakura Zensen, pierwszy występ poza Japonią. 10.10 fan meeting 14:00–16:00 (35 GBP), 11.10 koncert 18:00–22:30 (40 GBP); oba wydarzenia 18+.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-10",
+     "venue": "Rhum Tavern (fan meeting)"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-11",
+     "venue": "Colours Hoxton"
+    }
+   ],
+   "tickets": "https://dice.fm/event/3ox93x-seth-kouki-tsukasa-vs-sakura-zensen-11th-oct-colours-hoxton-london-tickets",
+   "tier": 1,
+   "title": "Live Show in London + fan meeting",
+   "url": "https://jrocknews.com/2026/05/seth-kouki-and-tsukasa-of-sakura-zensen-debut-overseas-in-london-this-october.html",
+   "id": "2026-10-sakura-zensen-london"
   },
   {
    "artist": "SPYAIR",
@@ -307,17 +376,24 @@
   },
   {
    "artist": "Yoko Kanno",
+   "changeNote": "Doszedł program w Lukce: 1.11 o 15:00 Yoko Kanno Celebration w Teatro del Giglio (na rezerwację)",
    "dateEnd": "2026-11-03",
    "dateStart": "2026-10-31",
    "foundAt": "2026-10-02",
    "kind": "koncert",
-   "note": "Kompozytorka Cowboy Bebop i Ghost in the Shell: SAC. W Mediolanie solowy projekt Piano Me: fortepian na żywo z obrazem.",
+   "note": "Kompozytorka Cowboy Bebop i Ghost in the Shell: SAC. W Lukce (festiwal trwa 28.10–1.11) 1.11 odbędzie się „Yoko Kanno Celebration”: spotkanie muzyczne z udziałem ANIMEniacs Corp i muzyków konserwatorium im. Boccheriniego, obowiązuje rezerwacja. W Mediolanie solowy projekt Piano Me: fortepian na żywo z obrazem.",
    "stops": [
     {
      "cc": "IT",
      "city": "Lucca",
      "date": "2026-10-31",
-     "venue": "Lucca Comics & Games (gość 31.10–1.11)"
+     "venue": "Auditorium del Suffragio (wywiad publiczny, 10:00)"
+    },
+    {
+     "cc": "IT",
+     "city": "Lucca",
+     "date": "2026-11-01",
+     "venue": "Teatro del Giglio (Yoko Kanno Celebration, 15:00–16:30)"
     },
     {
      "cc": "IT",
@@ -328,8 +404,29 @@
    ],
    "tier": 2,
    "title": "Lucca Comics & Games + Piano Me",
+   "updatedAt": "2026-10-03",
    "url": "https://www.animeclick.it/news/110995-lucca-comics-games-2026-yoko-kanno-sara-tra-gli-ospiti-dell-evento",
    "id": "2026-10-yoko-kanno-lucca-milan"
+  },
+  {
+   "artist": "YuniCon 2026",
+   "dateEnd": "2026-11-01",
+   "dateStart": "2026-10-30",
+   "foundAt": "2026-10-03",
+   "kind": "konwent",
+   "note": "Koncert SPYAIR w piątek 30.10 o 21:00 (wejście z biletem piątkowym albo karnetem), w sobotę Q&A 13:10 i autografy 14:30. Gościem jest też Saki Fujita, seiyuu i głos Hatsune Miku (Q&A w sobotę 15:30, autografy przez trzy dni). Na afterparty grają DJ Shen, Nerds at Raves i DJ Shiru; pozostałe koncerty to zespoły spoza Japonii.",
+   "stops": [
+    {
+     "cc": "AT",
+     "city": "Schwechat (Wiedeń)",
+     "date": "2026-10-30",
+     "venue": "Multiversum Schwechat, Möhringgasse 2-4"
+    }
+   ],
+   "tier": 2,
+   "title": "SPYAIR, Saki Fujita",
+   "url": "https://www.yunicon.at/programm-2025/",
+   "id": "2026-10-yunicon"
   },
   {
    "artist": "Zeke Deux",
@@ -362,6 +459,33 @@
    "title": "Europe 2026",
    "url": "https://www.jame-world.com/en/concerts.html",
    "id": "2026-10-zeke-deux-europe"
+  },
+  {
+   "artist": "FLAVOR FOLEY",
+   "dateEnd": "2026-11-19",
+   "dateStart": "2026-11-13",
+   "foundAt": "2026-10-03",
+   "kind": "koncert",
+   "note": "Klubowe imprezy towarzyszące MIKU EXPO. FLAVOR FOLEY (krąg tworzą Jamie Paige, Vane Lily i ricedeity, autorzy tegorocznego motywu przewodniego) gra w obu miastach; w Londynie także Creep-P i Mizu, w Berlinie Vault Kid i ShotenTaro. Oficjalna strona podaje godziny jako TBA, klub w Berlinie: wejście 19:00, start 20:00. Źródła nie precyzują, którzy członkowie kręgu wystąpią osobiście.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-11-13",
+     "venue": "HEAVEN"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-11-19",
+     "venue": "Hole44"
+    }
+   ],
+   "tickets": "https://www.livenation.de/digital-stars-tickets-adp1692626",
+   "tier": 3,
+   "title": "Digital Stars @ MIKU EXPO 2026 EUROPE",
+   "url": "https://mikuexpo.com/europe2026/events.html",
+   "id": "2026-11-flavor-foley-digital-stars-miku-expo"
   },
   {
    "artist": "Hatsune Miku",
@@ -511,6 +635,27 @@
    "id": "2026-11-tomohisa-yamashita-paris"
   },
   {
+   "artist": "Magnificon Winter EXPO 2026",
+   "dateEnd": "2026-12-13",
+   "dateStart": "2026-12-12",
+   "foundAt": "2026-10-03",
+   "kind": "konwent",
+   "note": "Zimowa edycja krakowskiego konwentu mangi i anime. Gości ani koncertów jeszcze nie podano; terminu głównej edycji 2027 organizator też nie ogłosił.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Kraków",
+     "date": "2026-12-12",
+     "venue": "EXPO Kraków, ul. Galicyjska 9"
+    }
+   ],
+   "tickets": "https://miohi.tixx.pl/bilety/2948/magnificon-expo-winter-2026.html",
+   "tier": 2,
+   "title": "Zimowa edycja",
+   "url": "https://konwenty-poludniowe.pl/konwenty/kalendarz/2260-magnificon-winter-expo-2026",
+   "id": "2026-12-magnificon-winter-expo"
+  },
+  {
    "artist": "Manga Barcelona 32",
    "dateEnd": "2026-12-08",
    "dateStart": "2026-12-05",
@@ -549,6 +694,26 @@
    "title": "UPIRISE TOUR 2026 — Europa",
    "url": "https://www.jame-world.com/en/concerts.html?page=8",
    "id": "2026-12-upiko-paris"
+  },
+  {
+   "artist": "Desucon Frostbite 2027",
+   "dateEnd": "2027-01-24",
+   "dateStart": "2027-01-22",
+   "foundAt": "2026-10-03",
+   "kind": "konwent",
+   "note": "Gościem honorowym jest kompozytor Yūki Hayashi (My Hero Academia, Haikyu!!). Koncertu strona konwentu nie zapowiada.",
+   "stops": [
+    {
+     "cc": "FI",
+     "city": "Lahti",
+     "date": "2027-01-22",
+     "venue": "Sibeliustalo"
+    }
+   ],
+   "tier": 2,
+   "title": "Gość honorowy: Yūki Hayashi",
+   "url": "https://desucon.fi/frostbite2027/",
+   "id": "2027-01-desucon-frostbite"
   },
   {
    "artist": "SiM",
@@ -736,11 +901,12 @@
   },
   {
    "artist": "D'ESPAIRSRAY",
+   "changeNote": "Warszawa 10.03: zmiana klubu z Niebo na Proximę, kupione bilety zachowują ważność",
    "dateEnd": "2027-03-15",
    "dateStart": "2027-03-08",
    "foundAt": "2026-10-02",
    "kind": "trasa",
-   "note": "Visual kei. Bilet zwykły 42 EUR, są też pakiety VIP.",
+   "note": "Visual kei. Warszawski koncert przeniesiono z klubu Niebo do Proximy (ul. Żwirki i Wigury 99a), godz. 18:00; bilety kupione przed zmianą zachowują ważność. Bilet zwykły 42 EUR, są też pakiety VIP.",
    "stops": [
     {
      "cc": "FI",
@@ -752,7 +918,7 @@
      "cc": "PL",
      "city": "Warszawa",
      "date": "2027-03-10",
-     "venue": "Niebo"
+     "venue": "Klub Proxima"
     },
     {
      "cc": "DE",
@@ -776,6 +942,7 @@
    "tickets": "https://knockoutmusicstore.pl/wydarzenia/d-espairs-ray",
    "tier": 1,
    "title": "WORLD TOUR 2027 'Revenant'",
+   "updatedAt": "2026-10-03",
    "url": "https://jrocknews.com/2026/07/despairsray-tours-europe-in-march-2027-as-part-of-revenant-world-tour.html",
    "id": "2027-03-despairsray-europe"
   },
@@ -810,6 +977,26 @@
    "title": "The Pantheon — EU Tour 2027",
    "url": "https://tokyonoizu.com/japanese-band-tours",
    "id": "2027-03-jupiter-europe"
+  },
+  {
+   "artist": "AnimeCon 2027",
+   "dateEnd": "2027-04-18",
+   "dateStart": "2027-04-16",
+   "foundAt": "2026-10-03",
+   "kind": "konwent",
+   "note": "Gości i koncertów na 2027 jeszcze nie ogłoszono. W poprzednich latach grały tam m.in. KOTOKO i fripSide.",
+   "stops": [
+    {
+     "cc": "NL",
+     "city": "Rijswijk",
+     "date": "2027-04-16",
+     "venue": "De Broodfabriek Expo"
+    }
+   ],
+   "tier": 2,
+   "title": "Into The Wild",
+   "url": "https://animecon.nl/en/",
+   "id": "2027-04-animecon-nl"
   },
   {
    "artist": "HAGANE",
@@ -875,7 +1062,7 @@
    "dateStart": "2027-06-18",
    "foundAt": "2026-10-02",
    "kind": "konwent",
-   "note": "Start 18.06 według ogłoszenia; koniec wpisałem z typowego trzydniowego formatu. Pierwsi goście to Graham McTavish, Grady Hendrix i belgijski zespół Laïs — japońskiego artysty muzycznego jeszcze nie ogłoszono.",
+   "note": "Termin 18–20.06.2027 potwierdzony. Pierwsi goście to Graham McTavish, Grady Hendrix i belgijski zespół Laïs; japońskiego artysty muzycznego jeszcze nie ogłoszono.",
    "stops": [
     {
      "cc": "PL",
@@ -911,11 +1098,12 @@
   },
   {
    "artist": "Anime Messe Babelsberg 2027",
+   "changeNote": "Oficjalnie potwierdzony tylko nano; doszedł czwartkowy koncert jubileuszowy 22.07",
    "dateEnd": "2027-07-25",
    "dateStart": "2027-07-22",
    "foundAt": "2026-10-02",
    "kind": "konwent",
-   "note": "Ogłoszeni muzycznie: NANO i Kota Shinzato.",
+   "note": "10. edycja, wydłużona o czwartek. Organizator potwierdził na razie tylko nano z pełnym zespołem; Kota Shinzato widnieje w kalendarzu JaME, ale oficjalna strona nie wymienia go na 2027. W czwartek 22.07 urodzinowy koncert z udziałem do ośmiu artystów z poprzednich edycji (nazwisk jeszcze nie ma).",
    "stops": [
     {
      "cc": "DE",
@@ -925,8 +1113,9 @@
     }
    ],
    "tier": 2,
-   "title": "NANO, Kota Shinzato",
-   "url": "https://www.jame-world.com/en/concerts.html?page=10",
+   "title": "nano z zespołem, koncert jubileuszowy",
+   "updatedAt": "2026-10-03",
+   "url": "https://www.animemesse.de/news/199/Der-Jubilaums-Vorverkauf-ist-gestartet-10-Jahre-Anime-Messe-Babelsberg",
    "id": "2027-07-anime-messe-babelsberg"
   },
   {
@@ -987,6 +1176,129 @@
    "title": "Festiwal Kultury Azjatyckiej",
    "url": "https://hikari.pl/",
    "id": "2027-08-hikari"
+  },
+  {
+   "artist": "MASS OF THE FERMENTING DREGS",
+   "dateEnd": "2027-10-20",
+   "dateStart": "2027-09-24",
+   "foundAt": "2026-10-03",
+   "kind": "trasa",
+   "note": "Japońskie trio, alternatywny rock i shoegaze. Warszawa 2.10.2027 w Palladium, start 19:00, organizuje Winiary Bookings; bilety w sprzedaży od 13.08.",
+   "stops": [
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2027-09-24",
+     "venue": "Paradiso"
+    },
+    {
+     "cc": "DE",
+     "city": "Wiesbaden",
+     "date": "2027-09-25",
+     "venue": "Schlachthof"
+    },
+    {
+     "cc": "DK",
+     "city": "Kopenhaga",
+     "date": "2027-09-27",
+     "venue": "Vega"
+    },
+    {
+     "cc": "DE",
+     "city": "Hamburg",
+     "date": "2027-09-29",
+     "venue": "Molotow"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-09-30",
+     "venue": "Hole 44"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2027-10-02",
+     "venue": "Palladium"
+    },
+    {
+     "cc": "CZ",
+     "city": "Praga",
+     "date": "2027-10-03",
+     "venue": "MeetFactory"
+    },
+    {
+     "cc": "HU",
+     "city": "Budapeszt",
+     "date": "2027-10-05",
+     "venue": "Akvárium Klub"
+    },
+    {
+     "cc": "AT",
+     "city": "Wiedeń",
+     "date": "2027-10-06",
+     "venue": "WUK"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2027-10-08",
+     "venue": "LIME"
+    },
+    {
+     "cc": "CH",
+     "city": "Zurych",
+     "date": "2027-10-09",
+     "venue": "Exil"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-10-11",
+     "venue": "Le Trabendo"
+    },
+    {
+     "cc": "BE",
+     "city": "Bruksela",
+     "date": "2027-10-12",
+     "venue": "Botanique"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-10-14",
+     "venue": "O2 Forum Kentish Town"
+    },
+    {
+     "cc": "UK",
+     "city": "Bristol",
+     "date": "2027-10-15",
+     "venue": "The Prospect Building"
+    },
+    {
+     "cc": "UK",
+     "city": "Manchester",
+     "date": "2027-10-16",
+     "venue": "New Century Hall"
+    },
+    {
+     "cc": "UK",
+     "city": "Glasgow",
+     "date": "2027-10-18",
+     "venue": "The Garage"
+    },
+    {
+     "cc": "TR",
+     "city": "Stambuł",
+     "date": "2027-10-20",
+     "venue": "IF Performance Hall"
+    }
+   ],
+   "tickets": "https://palladium.pl/2026/08/mass-of-the-fermenting-dregs-2/",
+   "tier": 1,
+   "title": "\"Iwaou\" THE TOUR — Europa",
+   "url": "https://electricbloomwebzine.com/tours/mass-of-the-fermenting-dregs-iwaou-the-tour",
+   "id": "2027-09-mass-of-the-fermenting-dregs-europe"
   },
   {
    "artist": "Remcon 2028",
