@@ -1,11 +1,18 @@
 {
- "updated": "2026-10-03T10:22:13Z",
+ "updated": "2026-10-04T02:02:14Z",
  "events": [
   {
+   "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
    "artist": "Yasuharu Takanashi",
    "dateEnd": "2026-10-14",
    "dateStart": "2026-09-30",
    "foundAt": "2026-10-02",
+   "hits": [
+    "Fairy Tail Main Theme",
+    "Naruto Shippuden – Hyouhaku",
+    "Fairy Tail – Dragon Force",
+    "Naruto Shippuden – Kokuten"
+   ],
    "kind": "trasa",
    "note": "Kompozytor muzyki do Naruto Shippuden i Fairy Tail, gra na żywo z zespołem. Warszawa jest w tę niedzielę, 4.10, w Hybrydach.",
    "stops": [
@@ -70,10 +77,16 @@
    "id": "2026-09-yasuharu-takanashi-battle-for-glory"
   },
   {
+   "about": "Japoński zespół pop-rockowy 7!! (Seven Oops) z Okinawy. Znany z endingów anime: Naruto Shippuden oraz Shigatsu wa Kimi no Uso (Your Lie in April).",
    "artist": "7!!",
    "dateEnd": "2026-10-25",
    "dateStart": "2026-10-25",
    "foundAt": "2026-10-02",
+   "hits": [
+    "Lovers",
+    "Orange",
+    "Ai no Uta"
+   ],
    "kind": "koncert",
    "note": "Anisonowy zespół (Naruto Shippuden, Your Lie in April). Festiwal trwa 24–25.10 i jest głównie o popie z innych krajów Azji; 7!! to jedyny japoński akt, jaki znalazłam w składzie.",
    "stops": [
@@ -230,10 +243,16 @@
    "id": "2026-10-blaze-rengoku-europe"
   },
   {
+   "about": "Japoński wokalista visual kei, dawniej frontman Versailles i Lareine. Solowo gra symfoniczny, barokowy rock wokół motywu wampirów i francuskiej historii.",
    "artist": "KAMIJO",
    "dateEnd": "2026-10-03",
    "dateStart": "2026-09-23",
    "foundAt": "2026-10-02",
+   "hits": [
+    "Vampire Rock Star",
+    "Moulin Rouge",
+    "Castle of Sand"
+   ],
    "kind": "trasa",
    "note": "Visual kei (wokalista Versailles). Końcówka trasy; Warszawa wypada 2.10.",
    "stops": [
@@ -256,10 +275,16 @@
    "id": "2026-10-kamijo-sanctuary-of-europe"
   },
   {
+   "about": "Jesienna edycja węgierskiego konwentu MondoCon w Budapeszcie. Gośćmi muzycznymi są Azumi Inoue, głos piosenek z filmów Studia Ghibli, oraz zespół Who-ya Extended, znany z openingu Jujutsu Kaisen.",
    "artist": "Őszi MondoCon 2026",
    "dateEnd": "2026-10-18",
    "dateStart": "2026-10-16",
    "foundAt": "2026-10-02",
+   "hits": [
+    "Azumi Inoue – Kimi wo Nosete",
+    "Azumi Inoue – Sanpo",
+    "Who-ya Extended – VIVID VICE"
+   ],
    "kind": "konwent",
    "note": "16.10 o 17:30 koncert Ghibli: Azumi Inoue z córką Yuyu i orkiestrą. 17.10 o 19:00 Who-ya Extended (openingi Jujutsu Kaisen i Psycho-Pass 3). Sam konwent 17–18.10.",
    "stops": [
@@ -331,10 +356,18 @@
    "id": "2026-10-sakura-zensen-london"
   },
   {
+   "about": "Japoński zespół rockowy znany z openingów anime, przede wszystkim Haikyu!! i Gintamy. Ich „Orange” to temat przewodni filmu Haikyu!! The Dumpster Battle.",
    "artist": "SPYAIR",
    "dateEnd": "2026-11-07",
    "dateStart": "2026-10-30",
    "foundAt": "2026-10-02",
+   "hits": [
+    "Imagination",
+    "Orange",
+    "Sakura Mitsutsuki",
+    "Samurai Heart (Some Like It Hot!!)",
+    "Rage of Dust"
+   ],
    "kind": "trasa",
    "note": "Anisonowy rock (Gintama, Haikyuu!!). Wiedeń to występ na konwencie YuniCon.",
    "stops": [
@@ -375,11 +408,19 @@
    "id": "2026-10-spyair-europe"
   },
   {
+   "about": "Legendarna japońska kompozytorka muzyki do anime i gier. Autorka ścieżek dźwiękowych do Cowboy Bebop, Ghost in the Shell: Stand Alone Complex, Macross Frontier i Wolf's Rain.",
    "artist": "Yoko Kanno",
    "changeNote": "Doszedł program w Lukce: 1.11 o 15:00 Yoko Kanno Celebration w Teatro del Giglio (na rezerwację)",
    "dateEnd": "2026-11-03",
    "dateStart": "2026-10-31",
    "foundAt": "2026-10-02",
+   "hits": [
+    "Tank!",
+    "Inner Universe",
+    "Lion",
+    "Rise",
+    "The Real Folk Blues"
+   ],
    "kind": "koncert",
    "note": "Kompozytorka Cowboy Bebop i Ghost in the Shell: SAC. W Lukce (festiwal trwa 28.10–1.11) 1.11 odbędzie się „Yoko Kanno Celebration”: spotkanie muzyczne z udziałem ANIMEniacs Corp i muzyków konserwatorium im. Boccheriniego, obowiązuje rezerwacja. W Mediolanie solowy projekt Piano Me: fortepian na żywo z obrazem.",
    "stops": [
@@ -409,10 +450,16 @@
    "id": "2026-10-yoko-kanno-lucca-milan"
   },
   {
+   "about": "Fiński konwent anime i mangi. W tej edycji gośćmi muzycznymi są SPYAIR (openingi Haikyu!! i Gintamy) oraz Saki Fujita, głos Hatsune Miku.",
    "artist": "YuniCon 2026",
    "dateEnd": "2026-11-01",
    "dateStart": "2026-10-30",
    "foundAt": "2026-10-03",
+   "hits": [
+    "SPYAIR – Imagination",
+    "SPYAIR – Orange",
+    "Hatsune Miku – World is Mine"
+   ],
    "kind": "konwent",
    "note": "Koncert SPYAIR w piątek 30.10 o 21:00 (wejście z biletem piątkowym albo karnetem), w sobotę Q&A 13:10 i autografy 14:30. Gościem jest też Saki Fujita, seiyuu i głos Hatsune Miku (Q&A w sobotę 15:30, autografy przez trzy dni). Na afterparty grają DJ Shen, Nerds at Raves i DJ Shiru; pozostałe koncerty to zespoły spoza Japonii.",
    "stops": [
@@ -488,10 +535,18 @@
    "id": "2026-11-flavor-foley-digital-stars-miku-expo"
   },
   {
+   "about": "Wirtualna piosenkarka Vocaloid od Crypton Future Media i twarz całej sceny vocaloidowej. Znana z tysięcy piosenek producentów takich jak DECO*27, ryo (supercell), wowaka i kz (livetune), z gier Project SEKAI i Project DIVA oraz koncertów Magical Mirai.",
    "artist": "Hatsune Miku",
    "dateEnd": "2026-11-27",
    "dateStart": "2026-11-12",
    "foundAt": "2026-10-02",
+   "hits": [
+    "World is Mine",
+    "Senbonzakura",
+    "Rolling Girl",
+    "Ievan Polkka",
+    "Vampire"
+   ],
    "kind": "trasa",
    "note": "Gości ani supportów oficjalna strona na razie nie podaje.",
    "stops": [
@@ -615,10 +670,16 @@
    "id": "2026-11-mayohk-world-tour"
   },
   {
+   "about": "Japoński piosenkarz i aktor (Yamapi), dawniej członek NEWS. Znany z dram, m.in. Nobuta wo Produce i Code Blue, oraz z przeboju nagranego z Kazuyą Kamenashim.",
    "artist": "Tomohisa Yamashita",
    "dateEnd": "2026-11-22",
    "dateStart": "2026-11-22",
    "foundAt": "2026-10-02",
+   "hits": [
+    "Seishun Amigo",
+    "Loveless",
+    "Daite Señorita"
+   ],
    "kind": "koncert",
    "note": "J-popowy idol i aktor.",
    "stops": [
@@ -635,6 +696,7 @@
    "id": "2026-11-tomohisa-yamashita-paris"
   },
   {
+   "about": "Zimowa edycja krakowskiego konwentu Magnificon, z cosplayem, panelami i strefą anime.",
    "artist": "Magnificon Winter EXPO 2026",
    "dateEnd": "2026-12-13",
    "dateStart": "2026-12-12",
@@ -656,10 +718,17 @@
    "id": "2026-12-magnificon-winter-expo"
   },
   {
+   "about": "Największy festiwal mangi i anime w Hiszpanii. Muzycznie gwiazdą edycji jest Reol, autorka i wokalistka znana z sieciowych hitów i utworów do anime, a obok niej NIGHTMARE (openingi Death Note).",
    "artist": "Manga Barcelona 32",
    "dateEnd": "2026-12-08",
    "dateStart": "2026-12-05",
    "foundAt": "2026-10-02",
+   "hits": [
+    "Reol – No title",
+    "Reol – HYPE MODE",
+    "NIGHTMARE – the WORLD",
+    "NIGHTMARE – Alumina"
+   ],
    "kind": "konwent",
    "note": "Koncerty: ALI (5–6.12), Reol (6–7.12), Lotus Juice (5 i 8.12), NIGHTMARE (7–8.12, na 20-lecie anime Death Note).",
    "stops": [
@@ -696,10 +765,16 @@
    "id": "2026-12-upiko-paris"
   },
   {
+   "about": "Zimowa edycja fińskiego konwentu Desucon. Gościem honorowym jest kompozytor Yūki Hayashi, autor muzyki do My Hero Academia i Haikyu!!.",
    "artist": "Desucon Frostbite 2027",
    "dateEnd": "2027-01-24",
    "dateStart": "2027-01-22",
    "foundAt": "2026-10-03",
+   "hits": [
+    "Yūki Hayashi – You Say Run",
+    "Yūki Hayashi – Jet Set Run",
+    "Yūki Hayashi – Haikyu!! Main Theme"
+   ],
    "kind": "konwent",
    "note": "Gościem honorowym jest kompozytor Yūki Hayashi (My Hero Academia, Haikyu!!). Koncertu strona konwentu nie zapowiada.",
    "stops": [
@@ -716,10 +791,17 @@
    "id": "2027-01-desucon-frostbite"
   },
   {
+   "about": "Japoński zespół grający mieszankę metalu, punku i reggae. Światową sławę dał mu „The Rumbling”, opening finałowego sezonu Attack on Titan.",
    "artist": "SiM",
    "dateEnd": "2027-02-16",
    "dateStart": "2027-01-20",
    "foundAt": "2026-10-02",
+   "hits": [
+    "The Rumbling",
+    "KiLLiNG ME",
+    "Blah Blah Blah",
+    "f.a.i.t.h"
+   ],
    "kind": "trasa",
    "note": "The Rumbling z Ataku Tytanów. Polski na trasie nie ma; najbliżej Berlin 4.02 i Praga 6.02.",
    "stops": [
@@ -979,6 +1061,7 @@
    "id": "2027-03-jupiter-europe"
   },
   {
+   "about": "Holenderski konwent anime w Hadze, na którym regularnie występuje m.in. Vocafest z koncertem fanowskich wykonań piosenek Vocaloid.",
    "artist": "AnimeCon 2027",
    "dateEnd": "2027-04-18",
    "dateStart": "2027-04-16",
@@ -1037,6 +1120,7 @@
    "id": "2027-04-hagane-europe"
   },
   {
+   "about": "Najstarszy czeski konwent anime i mangi, w Brnie.",
    "artist": "Animefest 2027",
    "dateEnd": "2027-05-23",
    "dateStart": "2027-05-21",
@@ -1057,6 +1141,7 @@
    "id": "2027-05-animefest-brno"
   },
   {
+   "about": "Największy festiwal fantastyki w Polsce, w Poznaniu, z mocną strefą anime i mangi. W poprzednich latach grali tu japońscy goście, np. Mili i ZAQ.",
    "artist": "Pyrkon 2027",
    "dateEnd": "2027-06-20",
    "dateStart": "2027-06-18",
@@ -1077,6 +1162,7 @@
    "id": "2027-06-pyrkon"
   },
   {
+   "about": "Jeden z najstarszych niemieckich konwentów anime, z koncertami japońskich artystów w głównej hali.",
    "artist": "AnimagiC 2027",
    "dateEnd": "2027-08-01",
    "dateStart": "2027-07-30",
@@ -1097,11 +1183,17 @@
    "id": "2027-07-animagic"
   },
   {
+   "about": "Konwent anime w Poczdamie-Babelsbergu. Największą gwiazdą muzyczną edycji jest nano, wokalistka znana z openingów Aldnoah.Zero i Senki Zesshō Symphogear, w koncercie jubileuszowym z zespołem.",
    "artist": "Anime Messe Babelsberg 2027",
    "changeNote": "Oficjalnie potwierdzony tylko nano; doszedł czwartkowy koncert jubileuszowy 22.07",
    "dateEnd": "2027-07-25",
    "dateStart": "2027-07-22",
    "foundAt": "2026-10-02",
+   "hits": [
+    "nano – Nevereverland",
+    "nano – Savior of Song",
+    "nano – Rock on."
+   ],
    "kind": "konwent",
    "note": "10. edycja, wydłużona o czwartek. Organizator potwierdził na razie tylko nano z pełnym zespołem; Kota Shinzato widnieje w kalendarzu JaME, ale oficjalna strona nie wymienia go na 2027. W czwartek 22.07 urodzinowy koncert z udziałem do ośmiu artystów z poprzednich edycji (nazwisk jeszcze nie ma).",
    "stops": [
@@ -1119,6 +1211,7 @@
    "id": "2027-07-anime-messe-babelsberg"
   },
   {
+   "about": "Jeden z największych konwentów anime w Europie, w Düsseldorfie. Ma własny J-Rave z japońskimi DJ-ami (grali tu m.in. DJ SHARPNEL, kors k, Moe Shop i TAKU INOUE).",
    "artist": "DoKomi 2027",
    "dateEnd": "2027-07-11",
    "dateStart": "2027-07-09",
@@ -1139,6 +1232,7 @@
    "id": "2027-07-dokomi"
   },
   {
+   "about": "Największy festiwal kultury japońskiej w Europie, w Paryżu. Co roku goszczą tu japońscy artyści, a koncerty Anisong Festa przyciągają gwiazdy anisongu.",
    "artist": "Japan Expo Paris 2027",
    "dateEnd": "2027-07-11",
    "dateStart": "2027-07-08",
@@ -1159,6 +1253,7 @@
    "id": "2027-07-japan-expo-paris"
   },
   {
+   "about": "Festiwal kultury azjatyckiej w Polsce, z konkursami cosplay, panelami i koncertami.",
    "artist": "Hikari 2027",
    "dateEnd": "2027-08-29",
    "dateStart": "2027-08-27",
@@ -1301,6 +1396,7 @@
    "id": "2027-09-mass-of-the-fermenting-dregs-europe"
   },
   {
+   "about": "Polski konwent mangi i anime, jubileuszowa 10. edycja.",
    "artist": "Remcon 2028",
    "dateEnd": "2028-02-27",
    "dateStart": "2028-02-25",
