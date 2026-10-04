@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T13:01:03Z",
+ "updated": "2026-10-04T14:01:11Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -3138,6 +3138,330 @@
    "title": "10. edycja",
    "url": "https://konwenty-poludniowe.pl/konwenty-informacje/zaskakujaca-decyzja-organizatorow-remcon-2027-sie-nie-odbedzie",
    "id": "2028-02-remcon"
+  },
+  {
+   "about": "Jeden z największych festiwali muzycznych VTuberów, trzy sceny w Shibuya Stream Hall; wśród gości AZKi (hololive).",
+   "artist": "Shinkai Fes 2026 'Super Deep Sea'",
+   "dateEnd": "2026-10-18",
+   "dateStart": "2026-10-17",
+   "facts": [
+    {
+     "k": "Godziny DAY1",
+     "v": "drzwi 12:30, start 13:30, koniec 21:30"
+    },
+    {
+     "k": "Godziny DAY2",
+     "v": "drzwi 10:00, start 11:00, koniec 19:00"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "AZKi – Kirari",
+    "Rim – Mukuro",
+    "Fuji Aoi – Tonari no Seki"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Rim",
+    "Harubiko",
+    "Fuji Aoi",
+    "Hoshikuzu Purane",
+    "Moemi",
+    "Amakuzu Sumoa",
+    "Tsukishiro Kasane",
+    "AZKi",
+    "YuNi",
+    "Ohmasa Chitamu",
+    "Kashiwamori Ema"
+   ],
+   "note": "Dostępne bilety streamingowe. KAMITSUBAKI (Rim, Harubiko) gra w DAY1.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Shibuya)",
+     "date": "2026-10-17",
+     "venue": "Shibuya Stream Hall"
+    }
+   ],
+   "tickets": "https://pjblue.zaiko.io/ja/item/383839",
+   "tier": 2,
+   "title": "Festiwal VTuber music, 100+ wykonawców, Shibuya",
+   "url": "https://panora.tokyo/archives/157583",
+   "id": "jp-2026-10-shinkai-fes-2026"
+  },
+  {
+   "about": "Cykliczna noc klubowa z muzyką Vocaloid w MOGRA w Akihabarze.",
+   "artist": "VOCALOID-ManiaX vol.58",
+   "dateEnd": "2026-10-18",
+   "dateStart": "2026-10-18",
+   "foundAt": "2026-10-04",
+   "kind": "rave",
+   "note": "Line-up DJ-ów, godziny i cena nieznane.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Akihabara)",
+     "date": "2026-10-18",
+     "venue": "MOGRA"
+    }
+   ],
+   "tier": 2,
+   "title": "Noc Vocaloid w MOGRA Akihabara",
+   "url": "https://club-mogra.jp/2026/10/",
+   "id": "jp-2026-10-vocaloid-maniax-vol58-mogra"
+  },
+  {
+   "about": "VTuberka hololive i wokalistka, znana z Template, Stellar Stellar i Ghost.",
+   "artist": "Hoshimachi Suisei",
+   "dateEnd": "2026-11-12",
+   "dateStart": "2026-10-21",
+   "facts": [
+    {
+     "k": "Sprzedaż",
+     "v": "loteria fanklubu Hoshi-yomi (od 22.03 do 06.04.2026)"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Stellar Stellar",
+    "Template",
+    "GHOST",
+    "Next Color Planet"
+   ],
+   "kind": "trasa",
+   "note": "Pozostałe terminy trasy (Yokohama 8–9.09) już się odbyły. Sprzedaż przez loterię fanklubu.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Kobe",
+     "date": "2026-10-21",
+     "venue": "Glion Arena Kobe"
+    },
+    {
+     "cc": "JP",
+     "city": "Nagoya",
+     "date": "2026-11-07",
+     "venue": "IG Arena"
+    },
+    {
+     "cc": "JP",
+     "city": "Fukuoka",
+     "date": "2026-11-12",
+     "venue": "Marine Messe Fukuoka A"
+    }
+   ],
+   "tier": 3,
+   "title": "ARENA TOUR 2026 Once Upon a Stellar",
+   "url": "https://animatetimes.com/news/details.php?id=1774251077",
+   "id": "jp-2026-11-hoshimachi-suisei-arena-tour"
+  },
+  {
+   "about": "Muzyczno-artystyczny festiwal kultury internetowej w Makuhari Messe. DAY2 to m.in. KAF (KAMITSUBAKI), Kizuna AI, Natori Sana i Pinocchio-P.",
+   "artist": "NIGHT HIKE 2026 in Makuhari",
+   "dateEnd": "2026-11-01",
+   "dateStart": "2026-10-31",
+   "facts": [
+    {
+     "k": "Terminy",
+     "v": "31.10–1.11.2026 (DAY1/DAY2)"
+    },
+    {
+     "k": "Bilety",
+     "v": "w sprzedaży, zniżki early bird (Zaiko)"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Kizuna AI – AI Party",
+    "PinocchioP – Hello, Planet.",
+    "PinocchioP – Brain Revolution Girl",
+    "KAF – Kyokusen",
+    "kz – Tell Your World"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Kana Yomori (KAF)",
+    "Kizuna AI",
+    "Natori Sana",
+    "Shinichirou Osawa",
+    "PinocchioP",
+    "Utsu-P meets siinamota",
+    "Iori Kanzaki",
+    "Dios",
+    "Shosuke Haraguchi",
+    "Takeaki Wada",
+    "kz (livetune)",
+    "Hachioji-P",
+    "Utsu-P",
+    "Suisou",
+    "KOTONOHOUSE"
+   ],
+   "note": "DAY2 (1 listopada) łączy VTuberów i producentów vocaloidowych. Transmisji online nie potwierdzono.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Chiba (Makuhari)",
+     "date": "2026-11-01",
+     "venue": "Makuhari Messe, Hale 9 i 11"
+    }
+   ],
+   "tickets": "https://tribalcon.zaiko.io/en/e/night-hike-2026-makuhari",
+   "tier": 3,
+   "title": "Festiwal sieci: DAY2 – KAF, Kizuna AI, Natori Sana, Pinocchio-P",
+   "url": "https://panora.tokyo/archives/149654",
+   "id": "jp-2026-11-night-hike-makuhari"
+  },
+  {
+   "about": "Wieczory artystów KAMITSUBAKI STUDIO, wytwórni VTuberów i Vocaloidów.",
+   "artist": "KAMITSUBAKI WARS 2026",
+   "dateEnd": "2026-12-13",
+   "dateStart": "2026-12-11",
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Rim – Mukuro",
+    "Harubiko – Tsuki ni Kuchizuke"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Rim",
+    "Harubiko",
+    "Koko"
+   ],
+   "note": "Trzy kolejne ONE-MAN LIVE w Kanadevia Hall, bilety w sprzedaży. Przydział artystów do dni nieustalony.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2026-12-11",
+     "venue": "Kanadevia Hall"
+    }
+   ],
+   "tier": 3,
+   "title": "Trzy solowe lajwy: Rim, Harubiko, Koko",
+   "url": "https://kamitsubaki.jp/news/2026/08/27/11915/",
+   "id": "jp-2026-12-kamitsubaki-wars-kanadevia"
+  },
+  {
+   "about": "Pierwszy girls idol festival NIJISANJI z Tsukino Mito, Lize Helesta i innymi.",
+   "artist": "NIJISANJI Girls Idol Festival",
+   "dateEnd": "2026-12-20",
+   "dateStart": "2026-12-19",
+   "foundAt": "2026-10-04",
+   "kind": "festiwal",
+   "lineup": [
+    "Tsukino Mito",
+    "Yomemi Rena",
+    "Ratna Petit",
+    "Lize Helesta",
+    "Suzuhara Lulu",
+    "Amemiya Kokoro",
+    "Nanase Suzuna"
+   ],
+   "note": "Szczegóły biletów i streamu jeszcze nieogłoszone.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Osaka",
+     "date": "2026-12-19",
+     "venue": "Intex Osaka"
+    }
+   ],
+   "tier": 2,
+   "title": "Festiwal 16 VTuberek NIJISANJI w Intex Osaka",
+   "url": "https://www.nijisanji.jp/news/sw9ttrq3kaot",
+   "id": "jp-2026-12-nijisanji-girls-idol-festival"
+  },
+  {
+   "about": "Koncert 3DCG gry Project SEKAI z Hatsune Miku, z piosenkami producentów vocaloidowych.",
+   "artist": "Project SEKAI COLORFUL LIVE 6th – Crossing –",
+   "dateEnd": "2027-02-28",
+   "dateStart": "2026-12-25",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "¥9,800–15,000; pakiety ze streamem ¥17,100–22,300"
+    },
+    {
+     "k": "Godziny",
+     "v": "pt wieczorem; sob/niedz. matinee 12:00 i wieczór 18:00"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "presale 10–18.10, sprzedaż ogólna od 7.11.2026"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Hatsune Miku – Tell Your World",
+    "Hatsune Miku – Senbonzakura",
+    "Hatsune Miku – World is Mine"
+   ],
+   "kind": "koncert",
+   "note": "Dostępne pakiety ze streamingiem. Transmisje kinowe (live viewing) od 27 grudnia.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Kobe",
+     "date": "2026-12-25",
+     "venue": "World Memorial Hall"
+    },
+    {
+     "cc": "JP",
+     "city": "Yokohama",
+     "date": "2027-02-26",
+     "venue": "Pia Arena MM"
+    }
+   ],
+   "tier": 3,
+   "title": "3DCG live Hatsune Miku i wirtualnych grup – Kobe i Yokohama",
+   "url": "https://pjsekai.sega.jp/colorfullive/6th-crossing/schedule-and-ticket.html",
+   "id": "jp-2026-12-project-sekai-colorful-live-6th"
+  },
+  {
+   "about": "Coroczny koncert i wystawa Hatsune Miku z udziałem producentów vocaloidowych.",
+   "artist": "Magical Mirai 2027",
+   "dateEnd": "2027-08-31",
+   "dateStart": "2027-07-01",
+   "facts": [
+    {
+     "k": "Konkurs",
+     "v": "konkurs piosenek na Piapro do 14.12.2026"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Hatsune Miku – World is Mine",
+    "Hatsune Miku – Senbonzakura",
+    "Hatsune Miku – Tell Your World"
+   ],
+   "kind": "festiwal",
+   "note": "Ogłoszono miasta i okres lipiec–sierpień 2027; dokładne daty i line-up jeszcze nieznane.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Hiroshima"
+    },
+    {
+     "cc": "JP",
+     "city": "Osaka"
+    },
+    {
+     "cc": "JP",
+     "city": "Tokio"
+    }
+   ],
+   "tier": 3,
+   "title": "Hatsune Miku Magical Mirai – Hiroshima, Osaka, Tokyo",
+   "url": "https://magicalmirai.com/2026/",
+   "id": "jp-2027-07-magical-mirai-2027"
   }
  ]
 }
