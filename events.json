@@ -1,11 +1,29 @@
 {
- "updated": "2026-10-04T02:02:14Z",
+ "updated": "2026-10-04T13:01:03Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
    "artist": "Yasuharu Takanashi",
    "dateEnd": "2026-10-14",
    "dateStart": "2026-09-30",
+   "facts": [
+    {
+     "k": "Warszawa 4.10",
+     "v": "Hybrydy, ul. Złota 7/9, wejście 19:00, start 20:00; organizuje Riot Rock Booking"
+    },
+    {
+     "k": "Bilety (Warszawa)",
+     "v": "od 110 zł przez Snapticket (GoodRaht); jest opcja VIP Meet & Greet"
+    },
+    {
+     "k": "Berlin 5.10",
+     "v": "SO36, VIP Meet & Greet 18:00, wejście 19:00, start 20:00; bilet 32,10 €"
+    },
+    {
+     "k": "Skład",
+     "v": "Far East Groove to zespół metalowy z muzykami Sigh, Turisas, Wolfheart i ex-Korpiklaani, grający motywy z anime na żywo"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "Fairy Tail Main Theme",
@@ -14,6 +32,14 @@
     "Naruto Shippuden – Kokuten"
    ],
    "kind": "trasa",
+   "lineup": [
+    "Yasuharu Takanashi",
+    "Juno",
+    "Nozomu Wakai (Sigh)",
+    "Jesper Anastasiadis (Turisas)",
+    "Tuomas Rounakari (ex-Korpiklaani)",
+    "Tino Jäntti (Wolfheart)"
+   ],
    "note": "Kompozytor muzyki do Naruto Shippuden i Fairy Tail, gra na żywo z zespołem. Warszawa jest w tę niedzielę, 4.10, w Hybrydach.",
    "stops": [
     {
@@ -71,6 +97,7 @@
      "venue": "Revilive"
     }
    ],
+   "tickets": "https://shop.snapticket.de/seller/goodraht-87hz/s/N6Epfmd9",
    "tier": 2,
    "title": "Far East Groove — The Battle for Glory",
    "url": "https://www.jame-world.com/en/event/pl",
@@ -103,11 +130,40 @@
    "id": "2026-10-7-the-a-festival-paris"
   },
   {
+   "about": "Brytyjski duet sióstr Nyrobi i Chayi Beckett-Messam z Nottingham, łączący alternatywny rock i nu metal z elektroniką rave'ową. Debiutancki album „Rave Immortal” ukazał się w 2025 r., a duet zdobył nagrodę MOBO w kategorii Best Alternative Music Act.",
    "artist": "ALT BLK ERA",
    "dateEnd": "2026-11-28",
    "dateStart": "2026-10-07",
+   "facts": [
+    {
+     "k": "Leeds 28.11",
+     "v": "Oporto, scena Introducing Rock Showcase (prowadzi Alyx Holcombe); Alt Blk Era jako główna gwiazda tej sceny"
+    },
+    {
+     "k": "Bilety (Leeds)",
+     "v": "w sprzedaży od 2.10, godz. 10:00; cen źródło nie podaje"
+    },
+    {
+     "k": "Pozostałe sceny w Leeds",
+     "v": "The Wardrobe (Radio 1 Introducing: Nxdia i inni, scena taneczna z DJ Jaguar) oraz Belgrave Music Hall (6 Music Introducing: GANS i inni)"
+    }
+   ],
    "foundAt": "2026-10-03",
+   "hits": [
+    "Run Rabbit",
+    "Straight To Heart",
+    "Hunt You Down",
+    "My Drummer's Girlfriend",
+    "Come Fight Me For It"
+   ],
    "kind": "koncert",
+   "lineup": [
+    "Alt Blk Era",
+    "Venus Grrrls",
+    "jo from school",
+    "Hollow Bloom",
+    "DUSTHOUSE"
+   ],
    "note": "Brytyjski duet alt-rockowy z Nottingham. Dwa występy showcase'owe w Anglii, własnej trasy nie ogłoszono. Dzień 7.10 w Salford podaje tylko JamBase (festiwal Beyond The Music trwa 6–9.10); bilety na Leeds w sprzedaży od 2.10.",
    "stops": [
     {
@@ -129,13 +185,98 @@
    "id": "2026-10-alt-blk-era-uk"
   },
   {
+   "about": "Hiszpańska ekipa organizująca nocne imprezy klubowe z muzyką z anime i gier w kilkunastu miastach kraju.",
+   "artist": "Atomic Pixel Party — Anime Rave",
+   "dateEnd": "2026-11-14",
+   "dateStart": "2026-10-09",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "przedsprzedaż 23 EUR (Saragossa od 19,50 EUR, Sewilla 16 EUR)"
+    },
+    {
+     "k": "Godziny",
+     "v": "23:45–6:00 (Grenada 1:00–7:00)"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "kind": "rave",
+   "note": "Objazdowy cykl „Anime Rave / Fiesta Anime”. Edycje w Madrycie (11.09) i Barcelonie (18.09) już się odbyły, nowych terminów w tych miastach nie znaleziono. Dla Grenady źródło nie podaje klubu; DJ-ów organizator nie wymienia.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Saragossa",
+     "date": "2026-10-09",
+     "venue": "Sala López"
+    },
+    {
+     "cc": "ES",
+     "city": "Bilbao",
+     "date": "2026-10-10",
+     "venue": "Sala Mytho"
+    },
+    {
+     "cc": "ES",
+     "city": "Walencja",
+     "date": "2026-10-16",
+     "venue": "Tulum Valencia Art of Wild"
+    },
+    {
+     "cc": "ES",
+     "city": "Grenada",
+     "date": "2026-11-13"
+    },
+    {
+     "cc": "ES",
+     "city": "Sewilla",
+     "date": "2026-11-14",
+     "venue": "Supra Music Hall"
+    }
+   ],
+   "tickets": "https://site.fourvenues.com/es/atomic-pixel-party-espana",
+   "tier": 2,
+   "title": "Jesienne imprezy anime w Hiszpanii",
+   "url": "https://site.fourvenues.com/es/atomic-pixel-party-espana",
+   "id": "2026-10-atomic-pixel-party-anime-rave-es"
+  },
+  {
+   "about": "Japońska grupa kawaii metalowa założona w 2021 r. wokół Ladybearda, australijskiego wrestlera i wokalisty znanego wcześniej z LADYBABY i Deadlift Lolita. Słodki idol-pop zderzony z growlem i ciężkimi riffami; grupa nagrała też „Ramen-Man” z Samurai Pizza Cats.",
    "artist": "BABYBEARD",
    "changeNote": "Doszły daty supportu przed Samurai Pizza Cats: Antwerpia 3.10 i Tilburg 4.10",
    "dateEnd": "2026-10-24",
    "dateStart": "2026-10-02",
+   "facts": [
+    {
+     "k": "Warszawa 22.10",
+     "v": "Hybrydy, ul. Złota 7/9; wg sklepu organizatora (Knock Out Productions) otwarcie klubu 18:30, start 19:30; strona klubu podaje godz. 20:00"
+    },
+    {
+     "k": "Bilety (Warszawa)",
+     "v": "119 zł (I pula), 129 zł (II pula), 150 zł w dniu koncertu; jest bilet rodzinny (dziecko do 13 lat z opiekunem)"
+    },
+    {
+     "k": "Dostępność (Warszawa)",
+     "v": "4.10 w sklepie Knockout przy bilecie widnieje status „Pula wyprzedana”"
+    },
+    {
+     "k": "Praga 21.10",
+     "v": "Café V lese, godz. 19:30, bilet 550 Kč (GoOut), organizuje RFP Concerts"
+    },
+    {
+     "k": "Berlin 23–24.10",
+     "v": "MEX, bilety przez sklep klubu (shop.mex-berlin.de)"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "NIPPON KARA KONNICHIWA",
+    "PIENNIZER",
+    "Twisted Kaiju Tale",
+    "MACHO!",
+    "Ramen-Man (Samurai Pizza Cats feat. BABYBEARD)"
+   ],
    "kind": "trasa",
-   "note": "Kawaii-idol metal z Ladybeardem. Między 3 a 17.10 grają jako support na trasie Samurai Pizza Cats: źródła potwierdzają ich w Antwerpii (3.10) i Tilburgu (4.10, wyprzedane). W pozostałych miastach tej trasy (Paryż, Bochum, Frankfurt, Stuttgart, Monachium, Wiedeń, Drezno, Berlin, Hamburg) ich udział nie jest potwierdzony.",
+   "note": "Kawaii-idol metal z Ladybeardem. Od 8.09.2026 grupa występuje w trzyosobowym składzie: SUZU, członkini pierwszego składu, odeszła 7.09 po sześciu latach. Między 3 a 17.10 grają jako support na trasie Samurai Pizza Cats: źródła potwierdzają ich w Antwerpii (3.10) i Tilburgu (4.10, wyprzedane). W pozostałych miastach tej trasy (Paryż, Bochum, Frankfurt, Stuttgart, Monachium, Wiedeń, Drezno, Berlin, Hamburg) ich udział nie jest potwierdzony.",
    "stops": [
     {
      "cc": "NL",
@@ -192,6 +333,7 @@
      "venue": "MEX"
     }
    ],
+   "tickets": "https://knockoutmusicstore.pl/wydarzenia/babybeard",
    "tier": 1,
    "title": "Maximum Kawaii Chaos European Tour 2026",
    "updatedAt": "2026-10-03",
@@ -199,10 +341,43 @@
    "id": "2026-10-babybeard-europe"
   },
   {
+   "about": "Japoński zespół visual kei założony w 2025 r. pod hasłem „for the irredeemable”: ciężkie, emocjonalne granie w mrocznej estetyce. Skład tworzą muzycy znani z innych zespołów sceny: Mio (ex-NAZARE), NERO (ex-KAKUMAY), Kururu (ex-Hueye) i Hotaru-chan (ex-gulu gulu).",
    "artist": "BLAZE",
    "dateEnd": "2026-11-01",
    "dateStart": "2026-10-23",
+   "facts": [
+    {
+     "k": "Warszawa 30.10",
+     "v": "Hybrydy, wejście 19:00, start 20:00, organizator 4BB; sprzedaż przez Going"
+    },
+    {
+     "k": "Bilety (Warszawa)",
+     "v": "GA 152 zł (35 €), VIP 304 zł (70 €)"
+    },
+    {
+     "k": "Bratysława 25.10",
+     "v": "Randal Club; na całej trasie wejściówki 35–40 €, upgrade VIP +70–80 €"
+    },
+    {
+     "k": "Kolonia 1.11",
+     "v": "Yuca Club, wejście 19:00, start 20:00; bilet 44,15 €, upgrade VIP 82,65 € (wejście o 18:00, zdjęcie z zespołem, pass, podpisane zdjęcie)"
+    },
+    {
+     "k": "Londyn 27.10",
+     "v": "The Underworld, VIP 18:00, wejście 19:00, start 20:00; 35 £ + opłata, wstęp od 14 lat"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "od 16.07.2026; to pierwsza trasa zespołu po Europie"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "ABYSS",
+    "DETERMINATIONS.",
+    "ルミナス",
+    "劣情"
+   ],
    "kind": "trasa",
    "note": "Visual kei, pierwsza trasa po Europie.",
    "stops": [
@@ -237,10 +412,288 @@
      "venue": "Yuca Club"
     }
    ],
+   "tickets": "https://linksta.ge/qRVlhyh0",
    "tier": 1,
    "title": "RENGOKU Europe Tour",
    "url": "https://www.jame-world.com/en/event/pl",
    "id": "2026-10-blaze-rengoku-europe"
+  },
+  {
+   "about": "Irlandzki zespół noise-rockowy i post-punkowy z Dublina, dawniej występujący jako Girl Band. Trasa towarzyszy nowemu albumowi „Pugnello”.",
+   "artist": "Gilla Band",
+   "dateEnd": "2027-02-27",
+   "dateStart": "2026-10-07",
+   "facts": [
+    {
+     "k": "Warszawa 30.01.2027",
+     "v": "Hydrozagadka, ul. 11 Listopada 22, start 20:00; bilety przez Ticketmaster, ceny nie udało się potwierdzić"
+    },
+    {
+     "k": "Berlin 29.01.2027",
+     "v": "SO36, wejście 19:00, start 20:00; bilet 27 €, organizuje GreyZone Concerts"
+    },
+    {
+     "k": "Supporty",
+     "v": "Berlin: Makeshift Art Bar; Dublin: SILVERWINGKILLER; na trasie także Annie-Claude Deschênes i Tournament (bez przypisania do miast)"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Paul",
+    "Lawman",
+    "Shoulderblades",
+    "Backwash",
+    "Eight Fivers"
+   ],
+   "kind": "trasa",
+   "lineup": [
+    "Gilla Band",
+    "Annie-Claude Deschênes",
+    "Tournament",
+    "Makeshift Art Bar",
+    "SILVERWINGKILLER"
+   ],
+   "note": "Warszawa 30.01.2027 w Hydrozagadce (start 20:00, bilety przez Ticketmaster). W regionie także Hamburg 26.01, Berlin 29.01 (SO36), Praga 31.01 (Subzero) i Wiedeń 3.02 (Fluc Wanne); Słowacji na trasie nie ma. Pełną listę podaje Songkick; JamBase pokazuje tylko jej część i dla Dublina błędnie 22.02 (link biletowy wskazuje 27.02). Nazwy trasy ani cen źródła nie podają; supporty wymienione są zbiorczo, bez przypisania do miast.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Salford",
+     "date": "2026-10-07",
+     "venue": "The White Hotel"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-08",
+     "venue": "ICA"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-01-20",
+     "venue": "Le Trabendo"
+    },
+    {
+     "cc": "BE",
+     "city": "Bruksela",
+     "date": "2027-01-21",
+     "venue": "Le Botanique"
+    },
+    {
+     "cc": "FR",
+     "city": "Tourcoing",
+     "date": "2027-01-22",
+     "venue": "Le Grand Mix"
+    },
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2027-01-23",
+     "venue": "Tolhuistuin"
+    },
+    {
+     "cc": "NL",
+     "city": "Utrecht",
+     "date": "2027-01-25",
+     "venue": "EKKO"
+    },
+    {
+     "cc": "DE",
+     "city": "Hamburg",
+     "date": "2027-01-26",
+     "venue": "Betty"
+    },
+    {
+     "cc": "DK",
+     "city": "Kopenhaga",
+     "date": "2027-01-27",
+     "venue": "Loppen"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-01-29",
+     "venue": "SO36"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2027-01-30",
+     "venue": "Hydrozagadka"
+    },
+    {
+     "cc": "CZ",
+     "city": "Praga",
+     "date": "2027-01-31",
+     "venue": "Subzero"
+    },
+    {
+     "cc": "HU",
+     "city": "Budapeszt",
+     "date": "2027-02-02",
+     "venue": "Dürer Kert (Room 041)"
+    },
+    {
+     "cc": "AT",
+     "city": "Wiedeń",
+     "date": "2027-02-03",
+     "venue": "Fluc Wanne"
+    },
+    {
+     "cc": "CH",
+     "city": "Zurych",
+     "date": "2027-02-05",
+     "venue": "Bogen F"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2027-02-06",
+     "venue": "Arci Bellezza"
+    },
+    {
+     "cc": "UK",
+     "city": "Bristol",
+     "date": "2027-02-10",
+     "venue": "Trinity Centre"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-02-11",
+     "venue": "Heaven"
+    },
+    {
+     "cc": "UK",
+     "city": "Manchester",
+     "date": "2027-02-12",
+     "venue": "Band on the Wall"
+    },
+    {
+     "cc": "UK",
+     "city": "Glasgow",
+     "date": "2027-02-13",
+     "venue": "The Classic Grand"
+    },
+    {
+     "cc": "IE",
+     "city": "Dublin",
+     "date": "2027-02-27",
+     "venue": "Vicar Street"
+    }
+   ],
+   "tickets": "https://www.ticketmaster.pl/event/gilla-band-bilety/1691255868",
+   "tier": 3,
+   "title": "Europa i Wielka Brytania 2027 (album „Pugnello”) + Salford i Londyn w październiku 2026",
+   "url": "https://www.songkick.com/artists/10184465/calendar",
+   "id": "2026-10-gilla-band-europe"
+  },
+  {
+   "about": "Brytyjski producent breakcore'u i lolicore'u, znany z sampli z anime i albumu „My Love Feels All Wrong”.",
+   "artist": "Goreshit",
+   "dateEnd": "2026-10-23",
+   "dateStart": "2026-10-23",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "start 23:00 (wg JamBase)"
+    },
+    {
+     "k": "Bilety",
+     "v": "od 15,30 GBP (wg JamBase)"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Fine Night",
+    "Burn This Moment Into the Retina of My Eye",
+    "Looming Shadow of a Tree Long Gone",
+    "Pekori Rave"
+   ],
+   "kind": "koncert",
+   "note": "Pozycja niepewna: datę podaje wyłącznie JamBase (start 23:00, bilety od 15,30 GBP), a kalendarz klubu The Deaf Institute nie pokazuje tego dnia wydarzenia pod nazwą Goreshit (jest tylko koncert o 19:00). Możliwe, że to nocna impreza klubowa pod inną nazwą; pozostałych wykonawców źródło nie podaje.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Manchester",
+     "date": "2026-10-23",
+     "venue": "The Deaf Institute"
+    }
+   ],
+   "tier": 3,
+   "title": "Występ klubowy w Manchesterze",
+   "url": "https://www.jambase.com/show/goreshit-the-deaf-institute-20261023",
+   "id": "2026-10-goreshit-manchester"
+  },
+  {
+   "about": "hololive English to anglojęzyczna gałąź agencji VTuberek hololive. Na ekranie oba dni czwartego koncertu grupy, w którym występują Mori Calliope, IRyS, Takanashi Kiara, Ninomae Ina'nis, Hakos Baelz i Ouro Kronii.",
+   "artist": "hololive English",
+   "dateEnd": "2026-10-18",
+   "dateStart": "2026-10-10",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "wejście 15:00 · dzień pierwszy 16:00–18:30 · dzień drugi 19:30–22:30"
+    },
+    {
+     "k": "Format",
+     "v": "pokaz kinowy nagrania obu dni koncertu, ok. 7,5 godziny"
+    },
+    {
+     "k": "Wiek",
+     "v": "osoby poniżej 14 lat tylko z opiekunem"
+    },
+    {
+     "k": "Bilety",
+     "v": "Eventbrite, bez zwrotów; ceny niepodane w źródłach"
+    },
+    {
+     "k": "Organizator",
+     "v": "Virtual Stage Productions (oficjalny pokaz hololive production EU)"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "hololive English – Connect the World",
+    "Mori Calliope – Excuse My Rudeness, But Could You Please RIP?",
+    "Ninomae Ina'nis – VIOLET",
+    "Takanashi Kiara – HINOTORI"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Mori Calliope",
+    "IRyS",
+    "Takanashi Kiara",
+    "Ninomae Ina'nis",
+    "Hakos Baelz",
+    "Ouro Kronii"
+   ],
+   "note": "Oficjalne pokazy kinowe nagrania koncertu (hololive production EU), nie występ na żywo. Wcześniejsze pokazy (Birmingham 17.09, Mediolan 26.09, Barcelona 3.10) już się odbyły. Dla Paryża strona trasy podaje kino UGC Ciné Cité Bercy, a strona biletowa UGC Montparnasse; cen biletów źródła nie pokazują.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-10-10",
+     "venue": "UGC Ciné Cité Bercy (wg strony trasy; bileteria podaje UGC Montparnasse)"
+    },
+    {
+     "cc": "DE",
+     "city": "Düsseldorf",
+     "date": "2026-10-17",
+     "venue": "UFA-Palast Düsseldorf"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-18",
+     "venue": "Colosseum Kino & Eventlocation"
+    }
+   ],
+   "tickets": "https://www.eventbrite.co.uk/e/paris-hololive-english-4th-concert-serendipity-screening-tickets-1994892741892",
+   "tier": 3,
+   "title": "4th Concert -Serendipity- — oficjalne pokazy kinowe w Europie",
+   "url": "https://www.serendipityscreening.com/",
+   "id": "2026-10-hololive-english-serendipity-screening"
   },
   {
    "about": "Japoński wokalista visual kei, dawniej frontman Versailles i Lareine. Solowo gra symfoniczny, barokowy rock wokół motywu wampirów i francuskiej historii.",
@@ -275,17 +728,90 @@
    "id": "2026-10-kamijo-sanctuary-of-europe"
   },
   {
+   "about": "Największy europejski festiwal komiksu, gier i popkultury, w 2026 r. obchodzi 60-lecie pod hasłem „Legacy”. Muzycznie najważniejsza jest Yoko Kanno, kompozytorka Cowboy Bebop, Ghost in the Shell: SAC i Macross Frontier, po raz pierwszy we Włoszech.",
+   "artist": "Lucca Comics & Games 2026",
+   "dateEnd": "2026-11-01",
+   "dateStart": "2026-10-28",
+   "facts": [
+    {
+     "k": "Bilety dzienne",
+     "v": "śr. 28.10 – 26,50 € · czw. 29.10 – 29,50 € · pt. 30.10 – 33,50 € · sob. 31.10 – 34,50 € · niedz. 1.11 – 33,50 €"
+    },
+    {
+     "k": "Karnety",
+     "v": "2 dni 40,50–58,50 € · 3 dni 61,50–78,50 € · 4 dni 83,50 € · 5 dni 95 €"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "ceny regularne od 1.09.2026 przez TicketOne; pakiety Level UP (601,50–682,60 €) wyprzedane"
+    },
+    {
+     "k": "Limit",
+     "v": "maks. 80 000 osób dziennie; oprócz biletu potrzebna opaska z welcome desku (6:30–18:30)"
+    },
+    {
+     "k": "Yoko Kanno",
+     "v": "31.10, 10:00 – wywiad (Auditorium del Suffragio) · 1.11, 15:00 – koncert (Teatro del Giglio), obowiązuje rezerwacja"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Yoko Kanno / Seatbelts – Tank!",
+    "Yoko Kanno – The Real Folk Blues",
+    "Yoko Kanno / Origa – Inner Universe"
+   ],
+   "kind": "konwent",
+   "lineup": [
+    "Yoko Kanno",
+    "ANIMEniacs Corp",
+    "I Cavalieri del Re",
+    "Finley",
+    "Giorgio Vanni"
+   ],
+   "note": "Poza Yoko Kanno (31.10 wywiad publiczny o 10:00 w Auditorium del Suffragio, 1.11 koncert o 15:00 w Teatro del Giglio) program muzyczny nie zawiera żadnego japońskiego artysty. Pozostałe koncerty to włoscy wykonawcy: I Cavalieri del Re (29–30.10), Finley (30.10, Piazzale Verdi), Giorgio Vanni, do tego Anime Vocal Contest i Giga Party.",
+   "stops": [
+    {
+     "cc": "IT",
+     "city": "Lukka",
+     "date": "2026-10-28",
+     "venue": "centrum miasta (Piazzale Verdi, Giardino degli Osservanti, Teatro del Giglio, Foro Boario)"
+    }
+   ],
+   "tickets": "https://lucca2026.luccacomicsandgames.com/it/biglietti",
+   "tier": 3,
+   "title": "60. edycja „Legacy” — Yoko Kanno jedynym japońskim gościem muzycznym",
+   "url": "https://www.animeclick.it/news/111846-lucca-comics-games-2026-il-resoconto-del-final-keynote",
+   "id": "2026-10-lucca-comics-and-games"
+  },
+  {
    "about": "Jesienna edycja węgierskiego konwentu MondoCon w Budapeszcie. Gośćmi muzycznymi są Azumi Inoue, głos piosenek z filmów Studia Ghibli, oraz zespół Who-ya Extended, znany z openingu Jujutsu Kaisen.",
    "artist": "Őszi MondoCon 2026",
    "dateEnd": "2026-10-18",
    "dateStart": "2026-10-16",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "11 000 HUF (od 19.09; wcześniej 9 000 HUF) · dzieci 6–14 lat 5 500 HUF · do 6 lat bezpłatnie"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "online (tickets.mondocon.hu), w sklepach partnerskich i na miejscu, pula na miejscu ograniczona"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "Azumi Inoue – Kimi wo Nosete",
+    "Azumi Inoue – Tonari no Totoro",
     "Azumi Inoue – Sanpo",
-    "Who-ya Extended – VIVID VICE"
+    "Who-ya Extended – VIVID VICE",
+    "Who-ya Extended – Q-vism"
    ],
    "kind": "konwent",
+   "lineup": [
+    "Azumi Inoue",
+    "Yuyu",
+    "Who-ya Extended"
+   ],
    "note": "16.10 o 17:30 koncert Ghibli: Azumi Inoue z córką Yuyu i orkiestrą. 17.10 o 19:00 Who-ya Extended (openingi Jujutsu Kaisen i Psycho-Pass 3). Sam konwent 17–18.10.",
    "stops": [
     {
@@ -295,18 +821,46 @@
      "venue": "Hungexpo"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "Azumi Inoue i Who-ya Extended",
    "url": "https://budappest.hu/ghibli-koncert-animepremier-es-cosplay-vilagsztarok-ilyen-lesz-az-oszi-mondocon-2026-budapesten/",
    "id": "2026-10-mondocon-autumn"
   },
   {
+   "about": "Neonya!! to fiński kolektyw DJ-ski i organizator imprez klubowych, założony w 2019 r. przez DJ-ów SadeN i Hexexen. Gra J-core, happy hardcore, hardtek, gabber i J-trance w Helsinkach, Tampere, Oulu i Jyväskyli; odnoga W.E.E.B (od 2022) stawia na spokojniejszą japońską muzykę klubową i anisony.",
    "artist": "Neonya!!",
    "changeNote": "Ogłoszono line-upy DJ-ów na 10.10 i 6.11",
    "dateEnd": "2026-11-06",
    "dateStart": "2026-10-10",
+   "facts": [
+    {
+     "k": "10.10 Neonya!! Party",
+     "v": "Lepakkomies, 23:55–4:00, 18+; bilety przez Tiketti (sprzedaż od 5.09)"
+    },
+    {
+     "k": "6.11 W.E.E.B Lounge",
+     "v": "Bar Kraken, 20:00–4:00, 18+; bilety od 12 EUR; kącik anime karaoke"
+    },
+    {
+     "k": "Muzyka",
+     "v": "J-core, happy hardcore, hardtek, nightcore (10.10); anime i japońska elektronika (6.11)"
+    }
+   ],
    "foundAt": "2026-10-02",
    "kind": "rave",
+   "lineup": [
+    "Hexexen (10.10)",
+    "LARA KAAOS (10.10)",
+    "DJ Degradation (10.10)",
+    "Aversal (10.10)",
+    "OSC HOOD (6.11)",
+    "DraGonis (6.11)",
+    "Emiru (6.11)",
+    "Sericanyan (6.11)",
+    "DJ Twist (6.11)",
+    "DJ Yukata (6.11)",
+    "DJ Kehveli (6.11)"
+   ],
    "note": "Fińska ekipa od J-core, happy hardcore i nightcore. 10.10 (23:55–4:00, 18+): Hexexen, LARA KAAOS, DJ Degradation, Aversal. 6.11 (20:00–4:00, 18+, bilety od 12 EUR): OSC HOOD, DraGonis, Emiru, Sericanyan, DJ Twist, DJ Yukata, DJ Kehveli oraz kącik anime karaoke. Gości z Japonii nie zapowiedziano.",
    "stops": [
     {
@@ -322,18 +876,94 @@
      "venue": "Bar Kraken (W.E.E.B Lounge)"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "J-core i anime party",
    "updatedAt": "2026-10-03",
    "url": "https://neonya.party/",
    "id": "2026-10-neonya-helsinki"
   },
   {
+   "about": "Amerykański zespół rockowy Josha Homme'a, jeden z najważniejszych przedstawicieli stoner rocka i alternatywnego rocka od końca lat 90.",
+   "artist": "Queens of the Stone Age",
+   "dateEnd": "2026-10-24",
+   "dateStart": "2026-10-24",
+   "facts": [
+    {
+     "k": "Support",
+     "v": "Virgin Orchestra (wg Songkick)"
+    },
+    {
+     "k": "Miejsce",
+     "v": "Laugardalshöll, Engjavegi 8, pojemność ok. 5500; pierwszy koncert zespołu w Reykjavíku od 21 lat"
+    },
+    {
+     "k": "Bilety",
+     "v": "w sprzedaży przez sprzedawcę hali; cen i godzin źródło nie podaje"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "No One Knows",
+    "Go with the Flow",
+    "Little Sister",
+    "Make It wit Chu",
+    "My God Is the Sun"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Queens of the Stone Age",
+    "Virgin Orchestra"
+   ],
+   "note": "Jedyna europejska data zespołu w okresie od października 2026 do końca 2027: Songkick i JamBase podają 24.10.2026 w hali Laugardalshöll. Potem trasa przenosi się do Japonii, Singapuru, Australii i Nowej Zelandii, a na 2027 widnieje tylko Meksyk (6.03). Supportu, godzin ani cen źródła nie podają; oficjalna strona zespołu nie zwróciła listy dat, więc termin opiera się na dwóch agregatorach.",
+   "stops": [
+    {
+     "cc": "IS",
+     "city": "Reykjavík",
+     "date": "2026-10-24",
+     "venue": "Laugardalshöll"
+    }
+   ],
+   "tier": 3,
+   "title": "Koncert w Reykjavíku (Laugardalshöll)",
+   "url": "https://www.songkick.com/concerts/43285077-queens-of-the-stone-age-at-laugardalsholl",
+   "id": "2026-10-queens-of-the-stone-age-reykjavik"
+  },
+  {
+   "about": "Sakura Zensen to enkowe trio wokalne muzyków sceny visual kei: Setha (wokalista Moi dix Mois), KOUKIego (wokalista D=OUT) i TSUKASY (perkusista D'ESPAIRSRAY, solowo śpiewający enkę jako Mogamigawa Tsukasa). Trio ma na koncie dwa single na szczycie japońskich list enka.",
    "artist": "Seth, KOUKI i TSUKASA (Sakura Zensen)",
    "dateEnd": "2026-10-11",
    "dateStart": "2026-10-10",
+   "facts": [
+    {
+     "k": "Koncert 11.10",
+     "v": "Colours Hoxton, 18:00–22:30; dwie części: występ Sakura Zensen, potem covery visual kei („Visual-kei Mavericks”)"
+    },
+    {
+     "k": "Bilety (koncert)",
+     "v": "40 £; upgrade VIP +40 £ (wcześniejsze wejście, wspólne zdjęcie, podpisana karta)"
+    },
+    {
+     "k": "Fan meeting 10.10",
+     "v": "Rhum Tavern, 14:00–16:00, 35 £ + opłaty; w cenie napój, mini gry, karta ze zdjęciem i sesja autografów"
+    },
+    {
+     "k": "Wiek i organizator",
+     "v": "oba wydarzenia 18+; organizuje Visual-kei Night"
+    }
+   ],
    "foundAt": "2026-10-03",
+   "hits": [
+    "Mogamigawa Tsukasa – Matsupoiyo",
+    "D=OUT – ROMAN REVOLUTION",
+    "D'ESPAIRSRAY – Garnet",
+    "Moi dix Mois – Lamentful Miss"
+   ],
    "kind": "koncert",
+   "lineup": [
+    "Seth",
+    "KOUKI",
+    "TSUKASA"
+   ],
    "note": "Seth (Moi dix Mois), KOUKI (D=OUT) i TSUKASA (D'ESPAIRSRAY): visual kei oraz ich enkowe trio Sakura Zensen, pierwszy występ poza Japonią. 10.10 fan meeting 14:00–16:00 (35 GBP), 11.10 koncert 18:00–22:30 (40 GBP); oba wydarzenia 18+.",
    "stops": [
     {
@@ -358,8 +988,27 @@
   {
    "about": "Japoński zespół rockowy znany z openingów anime, przede wszystkim Haikyu!! i Gintamy. Ich „Orange” to temat przewodni filmu Haikyu!! The Dumpster Battle.",
    "artist": "SPYAIR",
-   "dateEnd": "2026-11-07",
+   "changeNote": "Doszedł szósty koncert: Mediolan 8.11, Magazzini Generali",
+   "dateEnd": "2026-11-08",
    "dateStart": "2026-10-30",
+   "facts": [
+    {
+     "k": "Wiedeń 30.10 (YuniCon)",
+     "v": "koncert w piątek o 21:00, w cenie biletu na konwent: piątek 30 €, cały weekend 66 €; osobnego biletu nie trzeba; jest też panel Q&A z zespołem"
+    },
+    {
+     "k": "Frankfurt 5.11",
+     "v": "Batschkapp, wejście 19:00, start 20:00; bilety przez Snapticket"
+    },
+    {
+     "k": "Mediolan",
+     "v": "8.11, Magazzini Generali, wejście 20:00, organizator Versus Music Project"
+    },
+    {
+     "k": "Bilety (Mediolan)",
+     "v": "DICE; pakiet VIP: wcześniejsze wejście, meet & greet, autograf, zdjęcie grupowe"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "Imagination",
@@ -369,7 +1018,12 @@
     "Rage of Dust"
    ],
    "kind": "trasa",
-   "note": "Anisonowy rock (Gintama, Haikyuu!!). Wiedeń to występ na konwencie YuniCon.",
+   "lineup": [
+    "SPYAIR",
+    "Nanowar Of Steel (YuniCon)",
+    "Kontrollverlust (YuniCon)"
+   ],
+   "note": "Anisonowy rock (Gintama, Haikyuu!!). Wiedeń to występ na konwencie YuniCon. Trasę wydłużono o Mediolan (8.11, Magazzini Generali, wejście 20:00); bilety i pakiety VIP z meet & greet przez DICE.",
    "stops": [
     {
      "cc": "AT",
@@ -400,10 +1054,17 @@
      "city": "Londyn",
      "date": "2026-11-07",
      "venue": "Scala"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2026-11-08",
+     "venue": "Magazzini Generali"
     }
    ],
    "tier": 1,
    "title": "Europe Tour 2026",
+   "updatedAt": "2026-10-04",
    "url": "https://www.cdjapan.co.jp/feature/J-POP-Goes-Global-2026",
    "id": "2026-10-spyair-europe"
   },
@@ -413,6 +1074,24 @@
    "changeNote": "Doszedł program w Lukce: 1.11 o 15:00 Yoko Kanno Celebration w Teatro del Giglio (na rezerwację)",
    "dateEnd": "2026-11-03",
    "dateStart": "2026-10-31",
+   "facts": [
+    {
+     "k": "Lukka 31.10",
+     "v": "10:00 – wywiad publiczny, Auditorium del Suffragio"
+    },
+    {
+     "k": "Lukka 1.11",
+     "v": "15:00–16:30 – Yoko Kanno Celebration, Teatro del Giglio; obowiązuje rezerwacja"
+    },
+    {
+     "k": "Mediolan 3.11",
+     "v": "Piano Me w Teatro Nazionale: europejska premiera solowego projektu (fortepian na żywo z obrazem); produkcja Let Me See i Yellow Echoes"
+    },
+    {
+     "k": "Bilety Mediolan",
+     "v": "przedsprzedaż przez ticket.yellowechoes.com; godziny i cen źródła nie podają"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "Tank!",
@@ -422,6 +1101,11 @@
     "The Real Folk Blues"
    ],
    "kind": "koncert",
+   "lineup": [
+    "Yoko Kanno",
+    "ANIMEniacs Corp (Lukka, 1.11)",
+    "muzycy konserwatorium im. Boccheriniego (Lukka, 1.11)"
+   ],
    "note": "Kompozytorka Cowboy Bebop i Ghost in the Shell: SAC. W Lukce (festiwal trwa 28.10–1.11) 1.11 odbędzie się „Yoko Kanno Celebration”: spotkanie muzyczne z udziałem ANIMEniacs Corp i muzyków konserwatorium im. Boccheriniego, obowiązuje rezerwacja. W Mediolanie solowy projekt Piano Me: fortepian na żywo z obrazem.",
    "stops": [
     {
@@ -443,6 +1127,7 @@
      "venue": "Teatro Nazionale"
     }
    ],
+   "tickets": "https://ticket.yellowechoes.com/",
    "tier": 2,
    "title": "Lucca Comics & Games + Piano Me",
    "updatedAt": "2026-10-03",
@@ -450,17 +1135,51 @@
    "id": "2026-10-yoko-kanno-lucca-milan"
   },
   {
-   "about": "Fiński konwent anime i mangi. W tej edycji gośćmi muzycznymi są SPYAIR (openingi Haikyu!! i Gintamy) oraz Saki Fujita, głos Hatsune Miku.",
+   "about": "Austriacki konwent anime i popkultury w hali Multiversum w Schwechat pod Wiedniem. W tej edycji gośćmi muzycznymi są SPYAIR (openingi Haikyu!! i Gintamy) oraz Saki Fujita, głos Hatsune Miku.",
    "artist": "YuniCon 2026",
    "dateEnd": "2026-11-01",
    "dateStart": "2026-10-30",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "karnet 3-dniowy 66 € w przedsprzedaży · pt. 30 € (z koncertem SPYAIR) · sob. 34 € · niedz. 30 €"
+    },
+    {
+     "k": "W cenie",
+     "v": "koncerty, afterparty i autografy; wysyłka pocztą tylko dla zamówień do 16.10.2026"
+    },
+    {
+     "k": "Koncert SPYAIR",
+     "v": "pt. 30.10, 21:00–22:00; Q&A w sob. 13:10–14:10"
+    },
+    {
+     "k": "Pozostałe koncerty",
+     "v": "sob. 31.10: Kontrollverlust 21:15–22:15 · niedz. 1.11: Elevate & N.D.M.S 12:15, Nanowar Of Steel 19:15–20:15"
+    },
+    {
+     "k": "Imprezy",
+     "v": "pt. Asian Overload · sob. Anime & 90's · niedz. Rock of Ages (DJ Shen, Nerds at Raves, DJ Shiru)"
+    }
+   ],
    "foundAt": "2026-10-03",
    "hits": [
     "SPYAIR – Imagination",
     "SPYAIR – Orange",
+    "SPYAIR – Samurai Heart (Some Like It Hot!!)",
+    "SPYAIR – Genjō Destruction",
     "Hatsune Miku – World is Mine"
    ],
    "kind": "konwent",
+   "lineup": [
+    "SPYAIR",
+    "Saki Fujita",
+    "Kontrollverlust",
+    "Nanowar Of Steel",
+    "Elevate & N.D.M.S",
+    "DJ Shen",
+    "Nerds at Raves",
+    "DJ Shiru"
+   ],
    "note": "Koncert SPYAIR w piątek 30.10 o 21:00 (wejście z biletem piątkowym albo karnetem), w sobotę Q&A 13:10 i autografy 14:30. Gościem jest też Saki Fujita, seiyuu i głos Hatsune Miku (Q&A w sobotę 15:30, autografy przez trzy dni). Na afterparty grają DJ Shen, Nerds at Raves i DJ Shiru; pozostałe koncerty to zespoły spoza Japonii.",
    "stops": [
     {
@@ -470,16 +1189,42 @@
      "venue": "Multiversum Schwechat, Möhringgasse 2-4"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "SPYAIR, Saki Fujita",
    "url": "https://www.yunicon.at/programm-2025/",
    "id": "2026-10-yunicon"
   },
   {
+   "about": "Japoński zespół visual kei z metalowym zacięciem, działający od 2021 r.; na czele stoją wokalista Kakeru i gitarzysta Haruka. Znany z eleganckich kostiumów i fabularnych, melodyjnych utworów, m.in. z minialbumów „Advance to Glory” i „Lux en Athena” oraz albumu „Flare”.",
    "artist": "Zeke Deux",
    "dateEnd": "2026-10-08",
    "dateStart": "2026-10-04",
+   "facts": [
+    {
+     "k": "Berlin 4.10",
+     "v": "Privatclub, wejście 19:30, start 20:00; organizuje VK Beats_, bilety przez Eventim; limitowany VIP z wejściem ok. 17:00"
+    },
+    {
+     "k": "Praga 6.10",
+     "v": "Futurum, wejście 19:30, start 20:00; przedsprzedaż 950 Kč (Futurum, GoOut)"
+    },
+    {
+     "k": "VIP (Praga)",
+     "v": "1450 Kč: wcześniejsze wejście i zakup merchu, sześć zdjęć z zespołem, toast, spotkanie z muzykami, napój"
+    },
+    {
+     "k": "Wiedeń 8.10",
+     "v": "((szene)) Wien; godzin i cen klub na stronie głównej nie podaje"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "Fata Morgana",
+    "Zero",
+    "Flare",
+    "Mysterious Desire",
+    "Sweet Deadly Sin"
+   ],
    "kind": "trasa",
    "note": "Visual kei. W kalendarzu JaME są tylko te trzy daty.",
    "stops": [
@@ -508,11 +1253,40 @@
    "id": "2026-10-zeke-deux-europe"
   },
   {
+   "about": "FLAVOR FOLEY to anglojęzyczny krąg producentów muzyki na syntezatory śpiewu, który tworzą Jamie Paige, Vane Lily i ricedeity. Znani z viralowych „BUTCHER VANITY” i „Spoken For” oraz z solowych hitów Jamie Paige („Machine Love”, „BIRDBRAIN”); napisali też „CONNECT:COMMUNE”, piosenkę przewodnią MIKU EXPO 2026 EUROPE.",
    "artist": "FLAVOR FOLEY",
    "dateEnd": "2026-11-19",
    "dateStart": "2026-11-13",
+   "facts": [
+    {
+     "k": "Godziny Londyn",
+     "v": "wejście 21:00 wg Music of Our Desire (oficjalnie TBA)"
+    },
+    {
+     "k": "Godziny Berlin",
+     "v": "wejście 19:00, start 20:00 (wg klubu Hole44)"
+    },
+    {
+     "k": "Bilety",
+     "v": "Londyn: Live Nation UK / Ticketmaster, sprzedaż otwarta; Berlin: Live Nation DE / Eventim; cen strony nie pokazują"
+    }
+   ],
    "foundAt": "2026-10-03",
+   "hits": [
+    "Spoken For",
+    "BUTCHER VANITY",
+    "Static",
+    "weathergirl",
+    "Machine Love (Jamie Paige)"
+   ],
    "kind": "koncert",
+   "lineup": [
+    "FLAVOR FOLEY",
+    "Creep-P (Londyn)",
+    "Mizu (Londyn)",
+    "Vault Kid (Berlin)",
+    "ShotenTaro (Berlin)"
+   ],
    "note": "Klubowe imprezy towarzyszące MIKU EXPO. FLAVOR FOLEY (krąg tworzą Jamie Paige, Vane Lily i ricedeity, autorzy tegorocznego motywu przewodniego) gra w obu miastach; w Londynie także Creep-P i Mizu, w Berlinie Vault Kid i ShotenTaro. Oficjalna strona podaje godziny jako TBA, klub w Berlinie: wejście 19:00, start 20:00. Źródła nie precyzują, którzy członkowie kręgu wystąpią osobiście.",
    "stops": [
     {
@@ -539,6 +1313,32 @@
    "artist": "Hatsune Miku",
    "dateEnd": "2026-11-27",
    "dateStart": "2026-11-12",
+   "facts": [
+    {
+     "k": "Londyn 12.11 (The O2)",
+     "v": "wejście 18:30, koniec do 23:00; bilety przez AXS i Live Nation UK, są pakiety VIP"
+    },
+    {
+     "k": "Amsterdam 15.11 (AFAS Live)",
+     "v": "bilety od 67,32 €, także Premium i Sky Lounge; godzin jeszcze nie podano"
+    },
+    {
+     "k": "Berlin 17.11 (Velodrom)",
+     "v": "wejście 18:30, start 20:00; bilety przez Eventim, organizator Trinity Music"
+    },
+    {
+     "k": "Paryż 22.11 (Accor Arena)",
+     "v": "start punktualnie o 20:00, bez supportu i bez przerwy; pierwsza pula rozeszła się w kilka minut, dołożono nowe bilety"
+    },
+    {
+     "k": "Madryt 24–25.11",
+     "v": "start 20:30; z opłatami: trybuny 73,50 € i 51 €, płyta 62,50 €, VIP 175,50–187 €; osoby poniżej 16 lat tylko z opiekunem"
+    },
+    {
+     "k": "Oprawa i VIP",
+     "v": "motyw wizualny trasy: steampunk; piosenka przewodnia „CONNECT:COMMUNE” (FLAVOR FOLEY); pakiet VIP: bilet w najwyższej kategorii, wcześniejsze wejście, pamiątkowy identyfikator i gadżet"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "World is Mine",
@@ -611,11 +1411,36 @@
    "id": "2026-11-hatsune-miku-expo-europe"
   },
   {
+   "about": "inba☆style to polska ekipa organizująca w Warszawie imprezy klubowe z japońskim hardcorem (J-core) i muzyką w klimacie anime. „Zettai Hardcore Territory” to jej listopadowa noc z gościnnymi setami HakiSume i Yohiii oraz wizualizacjami na żywo.",
    "artist": "inba☆style",
    "dateEnd": "2026-11-07",
    "dateStart": "2026-11-07",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "start 22:00"
+    },
+    {
+     "k": "Wstęp",
+     "v": "30 zł"
+    },
+    {
+     "k": "Miejsce",
+     "v": "Bar Motocyklowy 2Koła, ul. Tunelowa 2, Warszawa"
+    }
+   ],
    "foundAt": "2026-10-02",
    "kind": "rave",
+   "lineup": [
+    "HakiSume (guest DJ)",
+    "Yohiii (guest DJ)",
+    "DJ CHRAPNEL",
+    "Pixa Galaxy",
+    "Kyuko",
+    "DJ Sapporo",
+    "VJ Nel",
+    "VJ Yuu"
+   ],
    "note": "Start 22:00, wjazd 30 zł. Line-up: HakiSume i Yohiii (guest DJ), DJ CHRAPNEL, Pixa Galaxy, Kyuko, DJ Sapporo; wizualki VJ Nel i VJ Yuu.",
    "stops": [
     {
@@ -631,10 +1456,164 @@
    "id": "2026-11-inba-style-zettai-hardcore-territory"
   },
   {
+   "about": "Festiwal retrogamingu poświęcony japońskim grom, automatom i konsolom, organizowany przez Warp Zone. Gwiazdą muzyczną jest Yuzo Koshiro, kompozytor ścieżek do serii Streets of Rage, ActRaiser, Ys i Etrian Odyssey, jeden z pionierów muzyki chiptune.",
+   "artist": "Japan Game Fest 2 (2026)",
+   "dateEnd": "2026-11-22",
+   "dateStart": "2026-11-21",
+   "facts": [
+    {
+     "k": "Koncert",
+     "v": "sobota 21.11, 19:00–21:00, bilet 20 €"
+    },
+    {
+     "k": "Wstęp na festiwal",
+     "v": "dorośli 13 € w przedsprzedaży online (15 € regularnie), 10–17 lat 8 € (10 €), dzieci do 10 lat bezpłatnie"
+    },
+    {
+     "k": "VIP weekend",
+     "v": "75 €: oba dni, koncert i priorytet do autografów; część wariantów VIP wyprzedana"
+    },
+    {
+     "k": "Godziny",
+     "v": "sobota i niedziela 10:00–18:00"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Yuzo Koshiro – Go Straight (Streets of Rage 2)",
+    "Yuzo Koshiro – Fighting in the Street (Streets of Rage)",
+    "Yuzo Koshiro – Fillmore (ActRaiser)",
+    "Yuzo Koshiro – To Make the End of Battling (Ys II)"
+   ],
+   "kind": "konwent",
+   "lineup": [
+    "Yūzō Koshiro"
+   ],
+   "note": "Druga edycja lyońskiego festiwalu japońskiego retrogamingu. Koncert chiptune Yuzo Koshiro w sobotę 21.11 w godz. 19:00–21:00, na osobny bilet; w oba dni także sesje autografów. Innych gości muzycznych nie zapowiedziano.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Lyon",
+     "date": "2026-11-21",
+     "venue": "Salle de la Ficelle, 65 boulevard des Canuts"
+    }
+   ],
+   "tickets": "https://warp-zone.com/event/japan-game-fest-2-21-22-novembre-lyon-4-international-edition-18/register",
+   "tier": 2,
+   "title": "Yuzo Koshiro Edition — koncert chiptune Yuzo Koshiro",
+   "url": "https://megaforcemagazine.com/2026/09/yuzo-koshiro-debarque-a-lyon-pour-un-concert-chiptune/",
+   "id": "2026-11-japan-game-fest-lyon-yuzo-koshiro"
+  },
+  {
+   "about": "Lotus Juice to japoński raper znany z wokali w ścieżkach dźwiękowych serii Persona (Persona 3, Persona 3 Reload) i anime. Shao Dow to niezależny brytyjski raper łączący angielski z japońskim.",
+   "artist": "Lotus Juice + Shao Dow",
+   "dateEnd": "2026-11-09",
+   "dateStart": "2026-11-05",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "25 GBP (Londyn, Manchester, Glasgow); w Manchesterze pakiety do ok. 75 GBP"
+    },
+    {
+     "k": "Godziny",
+     "v": "wejście 19:00, koniec ok. 22:30–23:00"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "DICE (Londyn, Manchester, Glasgow), Skiddle (Birmingham)"
+    },
+    {
+     "k": "Inne",
+     "v": "cosplay mile widziany, nieobowiązkowy"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Mass Destruction",
+    "Burn My Dread -Last Battle-",
+    "It's Going Down Now",
+    "Full Moon Full Life",
+    "Deep Breath Deep Breath"
+   ],
+   "kind": "trasa",
+   "lineup": [
+    "Lotus Juice",
+    "Shao Dow"
+   ],
+   "note": "Wspólna trasa po Wielkiej Brytanii, pierwsze występy Lotus Juice w tym kraju. Pięć klubowych dat: doszedł Cardiff 6.11 w The Canopi (start 19:00, bilety przez DICE od 22,02 GBP). Miesiąc później Lotus Juice gra na Manga Barcelona (5 i 8.12).",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Birmingham",
+     "date": "2026-11-05",
+     "venue": "Hare & Hounds"
+    },
+    {
+     "cc": "UK",
+     "city": "Cardiff",
+     "date": "2026-11-06",
+     "venue": "The Canopi"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-11-07",
+     "venue": "Hootananny Brixton"
+    },
+    {
+     "cc": "UK",
+     "city": "Manchester",
+     "date": "2026-11-08",
+     "venue": "Manchester Academy 3"
+    },
+    {
+     "cc": "UK",
+     "city": "Glasgow",
+     "date": "2026-11-09",
+     "venue": "Nice n' Sleazy"
+    }
+   ],
+   "tickets": "https://dice.fm/event/oea83m-lotus-juice-shao-dow-duel-elements-tour-9th-nov-nice-n-sleazy-glasgow-tickets",
+   "tier": 3,
+   "title": "The Duel Elements Tour 【風神雷神】",
+   "url": "https://www.datathistle.com/event/3025214-lotus-juice-and-shao-dow-duel-elements-tour/",
+   "id": "2026-11-lotus-juice-shao-dow-duel-elements-uk"
+  },
+  {
+   "about": "Japoński duet Köziego, gitarzysty i współzałożyciela legendy visual kei MALICE MIZER, oraz Hory, kompozytora znanego ze Schwarz Stein. Elektronika, alternatywa i dark wave w teatralnej oprawie visual kei.",
    "artist": "MAYOHK",
    "dateEnd": "2026-11-17",
    "dateStart": "2026-11-11",
+   "facts": [
+    {
+     "k": "Warszawa 15.11",
+     "v": "VooDoo Club, al. Prymasa Tysiąclecia 48A; VIP od 18:00, wejście 19:30, start 20:00"
+    },
+    {
+     "k": "Bilety (Warszawa)",
+     "v": "standard 45 €, VIP 80 €, sam upgrade VIP 55 € (wymaga biletu standard); sprzedaż przez Ticket Tailor"
+    },
+    {
+     "k": "VIP",
+     "v": "wcześniejsze wejście i dostęp do merchu, meet & greet, podpisany plakat, zdjęcie cyfrowe, miejsce z przodu"
+    },
+    {
+     "k": "Wiek (Warszawa)",
+     "v": "18+; 16–17 lat z opiekunem lub pisemną zgodą rodzica; poniżej 16 lat tylko z opiekunem"
+    },
+    {
+     "k": "Berlin 17.11",
+     "v": "Privatclub; VIP od 18:00, wejście 19:30, start 20:00; 14–15 lat z opiekunem, merch tylko za gotówkę"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "ADAGIO",
+    "TOO NIGHT",
+    "SEXY MUSIC",
+    "HK",
+    "PLANETA"
+   ],
    "kind": "trasa",
    "note": "Közi (ex-MALICE MIZER) i Hora (Schwarz Stein): visual kei z elektroniką i dark wave. Warszawa: wejście 19:30, start 20:00, bilet 45 EUR.",
    "stops": [
@@ -670,10 +1649,112 @@
    "id": "2026-11-mayohk-world-tour"
   },
   {
+   "about": "Atomic Pixel Party to hiszpańska ekipa objazdowych imprez klubowych z muzyką z anime i gier. Ta edycja jest tematycznie związana z Hatsune Miku.",
+   "artist": "Miku Expo Afterparty (Atomic Pixel Party)",
+   "dateEnd": "2026-11-25",
+   "dateStart": "2026-11-25",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "16 EUR (Early Bird, w puli zostało ok. 170 sztuk); tańsze pule 10 i 13,50 EUR wyprzedane"
+    },
+    {
+     "k": "Godziny",
+     "v": "23:45–6:00"
+    },
+    {
+     "k": "Wiek",
+     "v": "18+"
+    },
+    {
+     "k": "Muzyka",
+     "v": "Vocaloid (Miku, Rin i Len, Teto, Luka, KAITO, MEIKO, GUMI), anime, EDM; DJ-ów nie podano"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "kind": "rave",
+   "note": "Nocna impreza po drugim madryckim koncercie MIKU EXPO (24–25.11, Palacio Vistalegre). Organizuje ją Atomic Pixel Party; źródła nie wskazują związku z organizatorem trasy. DJ-ów nie podano.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-11-25",
+     "venue": "Marta, Cariño! (Calle de Silva 4)"
+    }
+   ],
+   "tickets": "https://site.fourvenues.com/es/atomic-pixel-party-espana/events/miku-expo-afterparty-25-11-2026-VN9Y",
+   "tier": 2,
+   "title": "Impreza klubowa po madryckich koncertach MIKU EXPO",
+   "url": "https://eventosfrikis.com/2026/07/25/miku-expo-afterparty/",
+   "id": "2026-11-miku-expo-afterparty-madrid"
+  },
+  {
+   "about": "Cykl klubowych imprez anime organizowany przez D&D Event Management, w poprzednich latach m.in. w Hamburgu, Lipsku, Düsseldorfie i Wiedniu. W programie zwykle sety DJ-skie z openingami anime, konkurs cosplayu i kącik retro gier.",
+   "artist": "Otaku Party — Die Anime Party",
+   "dateEnd": "2026-12-05",
+   "dateStart": "2026-11-07",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "Trewir od 24 EUR · Kaiserslautern od 18 EUR · Koblencja od 22,56 EUR"
+    },
+    {
+     "k": "Godziny",
+     "v": "start 22:00 (Koblencja 21:00)"
+    },
+    {
+     "k": "Wiek",
+     "v": "Kaiserslautern 18+; dla pozostałych miast nie podano"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "kind": "rave",
+   "note": "Objazdowa niemiecka impreza z muzyką z anime, J-popem i cosplayem. DJ-ów organizator nie podaje z nazwiska. Kwietniowa edycja w Lipsku została odwołana; jesiennych terminów w dużych miastach nie znaleziono.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Trewir",
+     "date": "2026-11-07",
+     "venue": "Forum Concert / Metropolis"
+    },
+    {
+     "cc": "DE",
+     "city": "Kaiserslautern",
+     "date": "2026-11-14",
+     "venue": "Puls Club"
+    },
+    {
+     "cc": "DE",
+     "city": "Koblencja",
+     "date": "2026-12-05",
+     "venue": "Nova"
+    }
+   ],
+   "tickets": "https://www.eventim.de/eventseries/otaku-party-die-anime-party-3808186/",
+   "tier": 2,
+   "title": "Imprezy anime w Trewirze, Kaiserslautern i Koblencji",
+   "url": "https://www.regioactive.de/party/otaku-party-die-anime-termine-tickets-ffcf6aa111cf",
+   "id": "2026-11-otaku-party-die-anime-party-de"
+  },
+  {
    "about": "Japoński piosenkarz i aktor (Yamapi), dawniej członek NEWS. Znany z dram, m.in. Nobuta wo Produce i Code Blue, oraz z przeboju nagranego z Kazuyą Kamenashim.",
    "artist": "Tomohisa Yamashita",
    "dateEnd": "2026-11-22",
    "dateStart": "2026-11-22",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "22.11.2026 (niedziela), start 19:00, drzwi godzinę wcześniej"
+    },
+    {
+     "k": "Bilety",
+     "v": "od 77,90 €; sala oznacza koncert jako „ostatnie wolne miejsca”"
+    },
+    {
+     "k": "Organizator",
+     "v": "Live Nation; Casino de Paris, 16 rue de Clichy"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "Seishun Amigo",
@@ -690,6 +1771,7 @@
      "venue": "Casino de Paris"
     }
    ],
+   "tickets": "https://www.casinodeparis.fr/fr/Yamashita-Tomohisa-A-Paris-22-Novembre-2026-Billetterie-Paris",
    "tier": 1,
    "title": "TOUR 2026 DREAMING",
    "url": "https://www.jame-world.com/en/concerts.html?page=8",
@@ -700,6 +1782,24 @@
    "artist": "Magnificon Winter EXPO 2026",
    "dateEnd": "2026-12-13",
    "dateStart": "2026-12-12",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "2 dni 203 zł · sobota 154 zł · niedziela 124 zł · VIP 303 zł (z pakietem gadżetów) · Junior do 10 lat 79 zł (1 dzień) / 103 zł (2 dni); ceny z opłatą serwisową 4 zł"
+    },
+    {
+     "k": "Przedsprzedaż",
+     "v": "obecny próg do 10.12.2026, potem drożej na miejscu"
+    },
+    {
+     "k": "Godziny",
+     "v": "sobota 9:15–21:00 · niedziela 9:15–18:00 · VIP wejście od 9:00"
+    },
+    {
+     "k": "Program",
+     "v": "konkursy cosplay, konkurs tańca K-pop, panele i spotkania z gośćmi (nazwisk brak)"
+    }
+   ],
    "foundAt": "2026-10-03",
    "kind": "konwent",
    "note": "Zimowa edycja krakowskiego konwentu mangi i anime. Gości ani koncertów jeszcze nie podano; terminu głównej edycji 2027 organizator też nie ogłosił.",
@@ -712,7 +1812,7 @@
     }
    ],
    "tickets": "https://miohi.tixx.pl/bilety/2948/magnificon-expo-winter-2026.html",
-   "tier": 2,
+   "tier": 3,
    "title": "Zimowa edycja",
    "url": "https://konwenty-poludniowe.pl/konwenty/kalendarz/2260-magnificon-winter-expo-2026",
    "id": "2026-12-magnificon-winter-expo"
@@ -722,14 +1822,39 @@
    "artist": "Manga Barcelona 32",
    "dateEnd": "2026-12-08",
    "dateStart": "2026-12-05",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "dzień 19 € · młodzież 17 € · dzieci 5–11 lat 15 € · karnet 4-dniowy 69 € · Fast Pass 35 € / 4 dni 122 €"
+    },
+    {
+     "k": "Godziny koncertów (Gran Escenari)",
+     "v": "sob. 5.12: Lotus Juice 13:00–14:00, ALI 18:30–19:30 · niedz. 6.12: ALI 13:00–14:00, Reol 16:00–17:00 · pon. 7.12: Reol 13:00–14:00, NIGHTMARE 18:30–19:30 · wt. 8.12: Lotus Juice 14:00–15:00, NIGHTMARE 15:30–16:30"
+    },
+    {
+     "k": "Koncerty",
+     "v": "każdy artysta gra dwa razy, wstęp w cenie biletu na dany dzień"
+    },
+    {
+     "k": "Zasady",
+     "v": "sprzedaż tylko online, jedno wejście dziennie bez możliwości powrotu, brak zwrotów"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "Reol – No title",
-    "Reol – HYPE MODE",
     "NIGHTMARE – the WORLD",
-    "NIGHTMARE – Alumina"
+    "NIGHTMARE – Alumina",
+    "ALI – LOST IN PARADISE (feat. AKLO)",
+    "Lotus Juice – Mass Destruction"
    ],
    "kind": "konwent",
+   "lineup": [
+    "Lotus Juice (sob. 5.12, 13:00 · wt. 8.12, 14:00)",
+    "ALI (sob. 5.12, 18:30 · niedz. 6.12, 13:00)",
+    "Reol (niedz. 6.12, 16:00 · pon. 7.12, 13:00)",
+    "NIGHTMARE (pon. 7.12, 18:30 · wt. 8.12, 15:30)"
+   ],
    "note": "Koncerty: ALI (5–6.12), Reol (6–7.12), Lotus Juice (5 i 8.12), NIGHTMARE (7–8.12, na 20-lecie anime Death Note).",
    "stops": [
     {
@@ -739,16 +1864,41 @@
      "venue": "Fira Barcelona Gran Via"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "Reol, NIGHTMARE, ALI, Lotus Juice",
    "url": "https://www.akibastation.es/2026/07/manga-barcelona-2026-conciertos.html",
    "id": "2026-12-manga-barcelona"
   },
   {
+   "about": "Japońska singer-songwriterka (うぴ子), działająca od 2020 r.: mocny, ekspresyjny wokal i gitara akustyczna na pograniczu folku i rocka. Ma na koncie albumy „Rashinban” (2024) i „Gekidou” (2026).",
    "artist": "Upiko",
    "dateEnd": "2026-12-05",
    "dateStart": "2026-12-05",
+   "facts": [
+    {
+     "k": "Godzina",
+     "v": "5.12.2026 (sobota), 20:30, Le Pan Piper, Paryż"
+    },
+    {
+     "k": "Bilety",
+     "v": "early bird 35 €, miejsca stojące; sprzedaż przez See Tickets France"
+    },
+    {
+     "k": "Charakter koncertu",
+     "v": "finał solowej trasy UPIRISE; wcześniejsze europejskie przystanki (Frankfurt, Londyn, Praga, Connichi) już się odbyły"
+    },
+    {
+     "k": "Wiek",
+     "v": "klub nie wpuszcza dzieci poniżej 6 lat"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "CROW",
+    "Red Spider Lily",
+    "Weak warriors with broken wings",
+    "Compass"
+   ],
    "kind": "koncert",
    "note": "Na razie jedyna europejska data, jaką znalazłam.",
    "stops": [
@@ -759,6 +1909,7 @@
      "venue": "Pan Piper"
     }
    ],
+   "tickets": "https://billetterie.seetickets.fr/upiko-concert-le-pan-piper-paris-05-decembre-2026-css5-panpiper-pg101-ri11953413.html",
    "tier": 1,
    "title": "UPIRISE TOUR 2026 — Europa",
    "url": "https://www.jame-world.com/en/concerts.html?page=8",
@@ -769,6 +1920,24 @@
    "artist": "Desucon Frostbite 2027",
    "dateEnd": "2027-01-24",
    "dateStart": "2027-01-22",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "22–24.01.2027, Sibeliustalo, Lahti"
+    },
+    {
+     "k": "Gość honorowy",
+     "v": "Yūki Hayashi; strona nie podaje, czy będzie koncert, czy tylko panel"
+    },
+    {
+     "k": "Bilety",
+     "v": "cen i terminu sprzedaży jeszcze nie podano"
+    },
+    {
+     "k": "Zgłoszenia",
+     "v": "otwarte nabory na prowadzących program, wolontariuszy i uczestników konkursu cosplay"
+    }
+   ],
    "foundAt": "2026-10-03",
    "hits": [
     "Yūki Hayashi – You Say Run",
@@ -776,6 +1945,9 @@
     "Yūki Hayashi – Haikyu!! Main Theme"
    ],
    "kind": "konwent",
+   "lineup": [
+    "Yūki Hayashi (gość honorowy)"
+   ],
    "note": "Gościem honorowym jest kompozytor Yūki Hayashi (My Hero Academia, Haikyu!!). Koncertu strona konwentu nie zapowiada.",
    "stops": [
     {
@@ -795,6 +1967,20 @@
    "artist": "SiM",
    "dateEnd": "2027-02-16",
    "dateStart": "2027-01-20",
+   "facts": [
+    {
+     "k": "Praga 6.02.2027",
+     "v": "Rock Café, Národní 20, godz. 19:00; bilet 590 Kč w przedsprzedaży (GoOut), organizuje RFP Concerts"
+    },
+    {
+     "k": "Frankfurt 7.02.2027",
+     "v": "Batschkapp, wejście 19:00, start 20:00; organizuje Live Nation, bilety przez Eventim i Ticketmaster"
+    },
+    {
+     "k": "Supporty",
+     "v": "kluby w Pradze i Frankfurcie nie podają supportu"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "The Rumbling",
@@ -926,10 +2112,86 @@
    "id": "2027-01-sim-hooman-after-all-europe"
   },
   {
+   "about": "Symfoniczny przegląd muzyki z anime (Ghibli, Naruto, Dragon Ball, One Piece, Evangelion, Fullmetal Alchemist, Demon Slayer) produkcji Overlook Events, z udziałem twórców oryginalnych ścieżek. Wokalnie największe nazwiska to KOKIA (Origin, The Ancient Magus' Bride) i Hiroki Takahashi, wykonawca pierwszego openingu Dragon Balla.",
+   "artist": "Anime Symphony 2027",
+   "dateEnd": "2027-02-05",
+   "dateStart": "2027-02-05",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "34,90–79,90 € (kat. 4–1), pakiety premium 175 €"
+    },
+    {
+     "k": "Godziny",
+     "v": "start 19:30, około 3 godzin"
+    },
+    {
+     "k": "W cenie",
+     "v": "program i light stick dla każdego widza; pakiety premium i limitowane sesje autografów jako dodatki"
+    },
+    {
+     "k": "Termin",
+     "v": "przeniesiony z 13.06.2026 na 5.02.2027"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Hiroki Takahashi – Makafushigi Adventure!",
+    "KOKIA – Ai no Melody",
+    "KOKIA – Tatta Hitotsu no Omoi",
+    "Yasuharu Takanashi – Fairy Tail Main Theme",
+    "Shiro Sagisu – Decisive Battle"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Yasuharu Takanashi",
+    "Michiru Ôshima",
+    "Hajime Mizoguchi",
+    "Shiro Sagisu",
+    "Hiroki Takahashi",
+    "KOKIA",
+    "Cécile Corbel",
+    "Orchestre Colonne",
+    "Cinephonia Choir",
+    "Adrián Ronda Sampayo (dyrygent)"
+   ],
+   "note": "Jedyny termin we Francji, start 19:30, około 3 godzin. Koncert przeniesiono z 13.06.2026. Gra Orchestre Colonne z chórem Cinephonia, a na scenie mają pojawić się japońscy goście: wokaliści KOKIA i Hiroki Takahashi oraz kompozytorzy Yasuharu Takanashi, Michiru Ōshima, Hajime Mizoguchi i Shiro Sagisu. Sagisu wymieniają anisong.fr i lasteve.fr, ale strona organizatora (Overlook Events) i bileteria już nie; źródła nie precyzują też, co dokładnie wykona każdy z gości.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-02-05",
+     "venue": "Palais des Congrès de Paris"
+    }
+   ],
+   "tickets": "https://billetterie.palaisdescongresdeparis.com/fr/manifestation/194/anime_symphony",
+   "tier": 2,
+   "title": "Koncert symfoniczny muzyki z anime — KOKIA, Hiroki Takahashi, Yasuharu Takanashi, Shiro Sagisu",
+   "url": "https://overlook-events.com/tyrell/anime-symphony/",
+   "id": "2027-02-anime-symphony-paris"
+  },
+  {
+   "about": "Londyński projekt japońskiego wokalisty, gitarzysty i producenta Kaia: elektroniczny rock i metal śpiewany po japońsku. Album „Aeons” dotarł na 1. miejsce brytyjskiej listy Official Rock & Metal Albums.",
    "artist": "Esprit D'Air",
    "dateEnd": "2027-02-19",
    "dateStart": "2027-02-12",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "sprzedaż przez See Tickets; cen i supportów nie udało się potwierdzić"
+    },
+    {
+     "k": "Materiał",
+     "v": "trasa promuje czwarty album studyjny „Aeons”"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "Shadow of Time",
+    "Leviathan",
+    "Chronos",
+    "Tsunami"
+   ],
    "kind": "trasa",
    "note": "J-rock z Londynu, tylko Wielka Brytania.",
    "stops": [
@@ -976,19 +2238,50 @@
      "venue": "The Garage"
     }
    ],
+   "tickets": "https://www.seetickets.com/tour/esprit-d-air",
    "tier": 1,
    "title": "Aeons and Constellations Tour 2027",
    "url": "https://tokyonoizu.com/japanese-band-tours",
    "id": "2027-02-esprit-dair-uk"
   },
   {
+   "about": "Legenda mrocznego, industrialnego visual kei z Tokio, znana z albumów „Coll:set”, „MIRROR” i „REDEEMER” oraz z europejskich tras w latach 2000. Zespół rozwiązał się w 2011 r., wrócił w 2025 r., a w maju 2026 wydał „RAPTURE”, pierwszy singiel od 16 lat.",
    "artist": "D'ESPAIRSRAY",
-   "changeNote": "Warszawa 10.03: zmiana klubu z Niebo na Proximę, kupione bilety zachowują ważność",
+   "changeNote": "Warszawa 10.03: w sklepie organizatora wszystkie pule biletów (zwykłe, rodzinne, VIP) mają status „Pula wyprzedana”; godziny wg sklepu: 18:30 klub, 20:00 start",
    "dateEnd": "2027-03-15",
    "dateStart": "2027-03-08",
+   "facts": [
+    {
+     "k": "Warszawa 10.03.2027",
+     "v": "Klub Proxima, ul. Żwirki i Wigury 99A; wg sklepu Knockout otwarcie klubu 18:30, start 20:00"
+    },
+    {
+     "k": "Bilety (Warszawa)",
+     "v": "149 zł (I pula), 159 zł (II pula i bilet rodzinny), 180 zł w dniu koncertu"
+    },
+    {
+     "k": "VIP (Warszawa)",
+     "v": "Silver „The Reunion Pass” 700 zł (wcześniejsze wejście, zdjęcie z zespołem, smycz, podpisana kartka, plakat); Gold „The Reunion Experience” 1255 zł (dodatkowo próba dźwięku, Q&A, autograf, merch); wymagają osobnego biletu"
+    },
+    {
+     "k": "Dostępność (Warszawa)",
+     "v": "4.10 w sklepie Knockout wszystkie pule (zwykła, rodzinna, oba VIP-y) mają status „Pula wyprzedana”"
+    },
+    {
+     "k": "Berlin i Kolonia",
+     "v": "Hole44 (11.03) i Club Volta (13.03): bilet 42 €, VIP Silver 139 €, VIP Gold 249 €; sprzedaż m.in. przez Neo Tokyo"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "Garnet",
+    "\"Forbidden\"",
+    "Infection",
+    "BORN",
+    "RAPTURE"
+   ],
    "kind": "trasa",
-   "note": "Visual kei. Warszawski koncert przeniesiono z klubu Niebo do Proximy (ul. Żwirki i Wigury 99a), godz. 18:00; bilety kupione przed zmianą zachowują ważność. Bilet zwykły 42 EUR, są też pakiety VIP.",
+   "note": "Visual kei. Warszawski koncert przeniesiono z klubu Niebo do Proximy (ul. Żwirki i Wigury 99a); bilety kupione przed zmianą zachowują ważność. W sklepie organizatora (Knock Out) wszystkie pule na Warszawę mają status „Pula wyprzedana”; otwarcie klubu 18:30, start 20:00.",
    "stops": [
     {
      "cc": "FI",
@@ -1024,17 +2317,44 @@
    "tickets": "https://knockoutmusicstore.pl/wydarzenia/d-espairs-ray",
    "tier": 1,
    "title": "WORLD TOUR 2027 'Revenant'",
-   "updatedAt": "2026-10-03",
+   "updatedAt": "2026-10-04",
    "url": "https://jrocknews.com/2026/07/despairsray-tours-europe-in-march-2027-as-part-of-revenant-world-tour.html",
    "id": "2027-03-despairsray-europe"
   },
   {
+   "about": "Japoński zespół visual kei grający symfoniczny power metal, założony w 2013 r. przez muzyków Versailles, z gitarzystami Hizakim i Teru na czele. Wirtuozerskie gitary, orkiestrowe aranżacje i barokowa estetyka.",
    "artist": "Jupiter",
-   "dateEnd": "2027-03-13",
+   "changeNote": "Doszła data w Polsce: Warszawa, VooDoo Club, 11.04.2027 (55 €, VIP 95 €); w Monachium VIP wyprzedany",
+   "dateEnd": "2027-04-11",
    "dateStart": "2027-03-09",
+   "facts": [
+    {
+     "k": "Warszawa 11.04.2027",
+     "v": "VooDoo Club, al. Prymasa Tysiąclecia 48A, od 19:00; bilet 55 €, VIP 95 € (wg sklepu organizatora VKBeats)"
+    },
+    {
+     "k": "Monachium 9.03.2027",
+     "v": "Kranhalle, wejście 18:00, start 19:00; bilet 62 €, VIP 90 € (wyprzedany)"
+    },
+    {
+     "k": "VIP",
+     "v": "wcześniejsze wejście, handshake, zdjęcie grupowe z zespołem i upominek; część VIP odbywa się po koncercie"
+    },
+    {
+     "k": "Bilety",
+     "v": "wszystkie daty przez pretix.eu/vkbeats, sprzedaż od 24.07.2026; Aarburg 11.03 i Paryż 13.03 od 19:00"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "Blessing of the Future",
+    "Last Moment",
+    "TOPAZ",
+    "The Spirit Within Me",
+    "Theory of Evolution"
+   ],
    "kind": "trasa",
-   "note": "Visual kei / symphonic metal.",
+   "note": "Visual kei / symphonic metal. Do marcowych koncertów doszła data w Polsce: 11.04.2027 w warszawskim VooDoo Club (na razie tylko w sklepie organizatora VKBeats).",
    "stops": [
     {
      "cc": "DE",
@@ -1053,10 +2373,18 @@
      "city": "Paryż",
      "date": "2027-03-13",
      "venue": "Badaboum"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2027-04-11",
+     "venue": "VooDoo Club"
     }
    ],
+   "tickets": "https://pretix.eu/vkbeats/",
    "tier": 1,
    "title": "The Pantheon — EU Tour 2027",
+   "updatedAt": "2026-10-04",
    "url": "https://tokyonoizu.com/japanese-band-tours",
    "id": "2027-03-jupiter-europe"
   },
@@ -1065,6 +2393,16 @@
    "artist": "AnimeCon 2027",
    "dateEnd": "2027-04-18",
    "dateStart": "2027-04-16",
+   "facts": [
+    {
+     "k": "Bilety (early bird)",
+     "v": "3 dni 72 € · pt. 30 € · sob. 46 € · niedz. 34 € (dzieci 7–12 lat: 40/15/23/17 €, do 6 lat bezpłatnie)"
+    },
+    {
+     "k": "Godziny",
+     "v": "pt. 14:00–2:00 · sob. 10:00–2:00 · niedz. 10:00–20:00"
+    }
+   ],
    "foundAt": "2026-10-03",
    "kind": "konwent",
    "note": "Gości i koncertów na 2027 jeszcze nie ogłoszono. W poprzednich latach grały tam m.in. KOTOKO i fripSide.",
@@ -1076,16 +2414,30 @@
      "venue": "De Broodfabriek Expo"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "Into The Wild",
    "url": "https://animecon.nl/en/",
    "id": "2027-04-animecon-nl"
   },
   {
+   "about": "Japoński żeński zespół power-metalowy: szybkie, melodyjne granie z samurajską symboliką, z tej samej sceny co Lovebites, Aldious, Bridear i NEMOPHILA.",
    "artist": "HAGANE",
    "dateEnd": "2027-04-16",
    "dateStart": "2027-04-09",
+   "facts": [
+    {
+     "k": "Bilety (Niemcy)",
+     "v": "Berlin, Hamburg i Kolonia przez Eventim; cen i godzin nie udało się potwierdzić"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "Tengagoken",
+    "BlackCult",
+    "Hero Time",
+    "WintrySky",
+    "Start Our Journey"
+   ],
    "kind": "trasa",
    "note": "Żeński power metal z Japonii.",
    "stops": [
@@ -1114,6 +2466,7 @@
      "venue": "Club Volta"
     }
    ],
+   "tickets": "https://www.eventim.de/artist/hagane/",
    "tier": 1,
    "title": "Through the Night — European Tour Part 1",
    "url": "https://tokyonoizu.com/japanese-band-tours",
@@ -1124,6 +2477,16 @@
    "artist": "Animefest 2027",
    "dateEnd": "2027-05-23",
    "dateStart": "2027-05-21",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "21–23.05.2027, Výstaviště Brno"
+    },
+    {
+     "k": "Goście i bilety",
+     "v": "gości, cen ani startu sprzedaży oficjalna strona jeszcze nie podaje"
+    }
+   ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
    "note": "Goście jeszcze nieogłoszeni.",
@@ -1135,16 +2498,122 @@
      "venue": "Výstaviště Brno"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "",
    "url": "https://www.animefest.cz/",
    "id": "2027-05-animefest-brno"
+  },
+  {
+   "about": "Amerykański zespół post-hardcore'owy z San Diego, znany m.in. z „King for a Day” z Kellinem Quinnem.",
+   "artist": "Pierce The Veil",
+   "dateEnd": "2027-06-15",
+   "dateStart": "2027-06-08",
+   "facts": [
+    {
+     "k": "Berlin",
+     "v": "8.06.2027, Waldbühne, start 19:00, bilety 102,60–122,75 € (Eventim)"
+    },
+    {
+     "k": "Mediolan",
+     "v": "13.06.2027, festiwal I-Days, start 16:00, bilety przez Ticketmaster"
+    },
+    {
+     "k": "Rola",
+     "v": "support; gwiazdą wieczoru jest Blink-182"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "King for a Day",
+    "Caraphernelia",
+    "Bulls in the Bronx",
+    "Emergency Contact",
+    "Hell Above"
+   ],
+   "kind": "trasa",
+   "lineup": [
+    "Blink-182",
+    "Pierce The Veil",
+    "Billy Talent"
+   ],
+   "note": "Występy w roli supportu Blink-182, razem z Billy Talent; najbliżej Polski Berlin 8.06.2027 (Waldbühne, start 19:00). Źródło pokazuje tylko te trzy daty: własnej trasy po Europie ani koncertów w Polsce, Czechach, Słowacji i Austrii nie ma. Możliwe, że europejska część trasy Blink-182 ma więcej przystanków, których źródło jeszcze nie wymienia.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-06-08",
+     "venue": "Waldbühne"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2027-06-13",
+     "venue": "Ippodromo Snai San Siro (I-Days)"
+    },
+    {
+     "cc": "FR",
+     "city": "Nanterre (Paryż)",
+     "date": "2027-06-15",
+     "venue": "Paris La Défense Arena"
+    }
+   ],
+   "tickets": "https://www.jambase.com/show/blink-182-waldbuhne-20270608",
+   "tier": 3,
+   "title": "Support na europejskich koncertach Blink-182 (z Billy Talent)",
+   "url": "https://www.jambase.com/band/pierce-the-veil",
+   "id": "2027-06-pierce-the-veil-blink-182-europe"
+  },
+  {
+   "about": "Jeden z najważniejszych europejskich festiwali miejskich (indie, elektronika, pop), w 2027 r. świętuje 25. edycję. W 2026 r. grali tam m.in. The Cure, Gorillaz, My Bloody Valentine i Massive Attack.",
+   "artist": "Primavera Sound Barcelona 2027",
+   "dateEnd": "2027-06-05",
+   "dateStart": "2027-06-03",
+   "facts": [
+    {
+     "k": "Line-up",
+     "v": "ogłoszenie pełnego składu: poniedziałek 5.10.2026"
+    },
+    {
+     "k": "Karnet",
+     "v": "285 € do 4.10.2026 · Fan Sale od 5.10: 295 € · sprzedaż ogólna: 350 € (plus opłaty)"
+    },
+    {
+     "k": "VIP",
+     "v": "495 € (cena sprzed ogłoszenia line-upu)"
+    },
+    {
+     "k": "Wiek",
+     "v": "dzieci do 12 lat bezpłatnie z opiekunem, 13–17 lat bilet ulgowy"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "kind": "festiwal",
+   "note": "Line-upu jeszcze nie ma: organizator zapowiedział ogłoszenie pełnego składu na poniedziałek 5.10.2026, razem ze startem Fan Sale (295 €). Do 4.10 karnet w sprzedaży „w ciemno” kosztował 285 €.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2027-06-03",
+     "venue": "Parc del Fòrum"
+    }
+   ],
+   "tickets": "https://www.primaverasound.com/en/barcelona",
+   "tier": 3,
+   "title": "25. edycja — pełny line-up zostanie ogłoszony 5.10.2026",
+   "url": "https://www.dodmagazine.es/cartel-primavera-sound-2027/",
+   "id": "2027-06-primavera-sound-barcelona"
   },
   {
    "about": "Największy festiwal fantastyki w Polsce, w Poznaniu, z mocną strefą anime i mangi. W poprzednich latach grali tu japońscy goście, np. Mili i ZAQ.",
    "artist": "Pyrkon 2027",
    "dateEnd": "2027-06-20",
    "dateStart": "2027-06-18",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "w sprzedaży od 24.06.2026 · w eBilet od 349,89 zł (z opłatami); dzieci do 6 lat bezpłatnie, bilet dziecięcy 6–12 lat"
+    }
+   ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
    "note": "Termin 18–20.06.2027 potwierdzony. Pierwsi goście to Graham McTavish, Grady Hendrix i belgijski zespół Laïs; japońskiego artysty muzycznego jeszcze nie ogłoszono.",
@@ -1156,19 +2625,53 @@
      "venue": "MTP"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "Festiwal fantastyki",
    "url": "https://pyrkon.pl/bez-kategorii/cos-sie-konczy-cos-zaczyna-poznajcie-pierwszych-gosci-pyrkonu-2027/",
    "id": "2027-06-pyrkon"
   },
   {
-   "about": "Jeden z najstarszych niemieckich konwentów anime, z koncertami japońskich artystów w głównej hali.",
+   "about": "Jeden z najstarszych niemieckich konwentów anime, z koncertami japońskich artystów w głównej sali Rosengarten w Mannheimie. Największą gwiazdą muzyczną edycji 2027 jest Hironobu Kageyama, głos „CHA-LA HEAD-CHA-LA” z Dragon Ball Z; obok niego Eir Aoi (Sword Art Online) i Little Glee Monster (My Hero Academia, Boruto).",
    "artist": "AnimagiC 2027",
+   "changeNote": "Nowi w programie muzycznym: VIDEOGAMES live in concert, Taiko Heidelberg; Eir Aoi zagra dwa koncerty",
    "dateEnd": "2027-08-01",
    "dateStart": "2027-07-30",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "30.07–1.08.2027, Rosengarten Mannheim"
+    },
+    {
+     "k": "Koncerty",
+     "v": "po dwa koncerty: Hironobu Kageyama, Eir Aoi i Little Glee Monster (plus sesje autografów); SHIHORI: koncerty, autografy i panel na 20-lecie; dni i godziny jeszcze niepodane"
+    },
+    {
+     "k": "Bilety",
+     "v": "sprzedaż przez animagic.tickettoaster.de; ceny early bird obowiązują do 30.11.2026 włącznie"
+    },
+    {
+     "k": "Night of Cosplay",
+     "v": "sobota 20:30–2:30, 18+, osobny bilet; tylko 171 miejsc, sprzedaż od 9.09.2026"
+    }
+   ],
    "foundAt": "2026-10-02",
+   "hits": [
+    "Hironobu Kageyama – CHA-LA HEAD-CHA-LA",
+    "Hironobu Kageyama – Saint Shinwa ~Soldier Dream~",
+    "Eir Aoi – IGNITE",
+    "Little Glee Monster – Dakara, Hitori ja nai",
+    "SHIHORI – Holy Steel"
+   ],
    "kind": "konwent",
-   "note": "Ogłoszeni muzycznie: Hironobu Kageyama, Little Glee Monster, Eir Aoi, SHIHORI. Organizator zapowiada kolejnych gości.",
+   "lineup": [
+    "VIDEOGAMES live in concert",
+    "Hironobu Kageyama",
+    "Little Glee Monster",
+    "Eir Aoi",
+    "Taiko Heidelberg",
+    "SHIHORI"
+   ],
+   "note": "Ogłoszeni muzycznie: Hironobu Kageyama (50-lecie kariery), Little Glee Monster (pierwszy raz w Europie w sześcioosobowym składzie), Eir Aoi (dwa koncerty), SHIHORI, a także VIDEOGAMES live in concert i Taiko Heidelberg. Organizator zapowiada kolejnych gości.",
    "stops": [
     {
      "cc": "DE",
@@ -1177,17 +2680,36 @@
      "venue": "Rosengarten"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "SHOWTIME",
+   "updatedAt": "2026-10-04",
    "url": "https://animagic.de/",
    "id": "2027-07-animagic"
   },
   {
    "about": "Konwent anime w Poczdamie-Babelsbergu. Największą gwiazdą muzyczną edycji jest nano, wokalistka znana z openingów Aldnoah.Zero i Senki Zesshō Symphogear, w koncercie jubileuszowym z zespołem.",
    "artist": "Anime Messe Babelsberg 2027",
-   "changeNote": "Oficjalnie potwierdzony tylko nano; doszedł czwartkowy koncert jubileuszowy 22.07",
+   "changeNote": "Cennik przedsprzedaży: najtańsza pula tylko do 5.10; czwartkowy koncert urodzinowy na osobne bilety (49/65 €)",
    "dateEnd": "2027-07-25",
    "dateStart": "2027-07-22",
+   "facts": [
+    {
+     "k": "Bilety dzienne",
+     "v": "pt. 45 € · sob. 62 € · niedz. 45 € (cena 6.10.2026–18.01.2027; potem 52/69/52 €)"
+    },
+    {
+     "k": "Karnety",
+     "v": "pt.+sob.+niedz. 109 € (potem 125 €) · dwa dni 89 € (potem 99 €)"
+    },
+    {
+     "k": "Czwartek 22.07",
+     "v": "koncert urodzinowy 16:00–22:30, show od 17:30, występ ekskluzywny 21:15 · stojące 65 €, siedzące 49 €, bez zniżek, pula mocno ograniczona"
+    },
+    {
+     "k": "Przedsprzedaż",
+     "v": "najtańsza pula tylko do 5.10.2026; sprzedaż online do 11.07.2027"
+    }
+   ],
    "foundAt": "2026-10-02",
    "hits": [
     "nano – Nevereverland",
@@ -1195,6 +2717,9 @@
     "nano – Rock on."
    ],
    "kind": "konwent",
+   "lineup": [
+    "nano (z zespołem)"
+   ],
    "note": "10. edycja, wydłużona o czwartek. Organizator potwierdził na razie tylko nano z pełnym zespołem; Kota Shinzato widnieje w kalendarzu JaME, ale oficjalna strona nie wymienia go na 2027. W czwartek 22.07 urodzinowy koncert z udziałem do ośmiu artystów z poprzednich edycji (nazwisk jeszcze nie ma).",
    "stops": [
     {
@@ -1204,20 +2729,39 @@
      "venue": "Filmpark Babelsberg"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "nano z zespołem, koncert jubileuszowy",
-   "updatedAt": "2026-10-03",
+   "updatedAt": "2026-10-04",
    "url": "https://www.animemesse.de/news/199/Der-Jubilaums-Vorverkauf-ist-gestartet-10-Jahre-Anime-Messe-Babelsberg",
    "id": "2027-07-anime-messe-babelsberg"
   },
   {
    "about": "Jeden z największych konwentów anime w Europie, w Düsseldorfie. Ma własny J-Rave z japońskimi DJ-ami (grali tu m.in. DJ SHARPNEL, kors k, Moe Shop i TAKU INOUE).",
    "artist": "DoKomi 2027",
+   "changeNote": "Przedsprzedaż biletów rusza 1.11.2026 o 20:00; jest cennik, J-Rave 25 € za noc",
    "dateEnd": "2027-07-11",
    "dateStart": "2027-07-09",
+   "facts": [
+    {
+     "k": "Przedsprzedaż",
+     "v": "start 1.11.2026, 20:00 (TicketPay)"
+    },
+    {
+     "k": "Bilety",
+     "v": "3 dni 92 € do 31.12.2026, potem 95 € · sob.+niedz. 72/75 € · pt. 39/40 € · sob. 45/47 € · niedz. 42/45 €"
+    },
+    {
+     "k": "J-Rave",
+     "v": "bilet na jedną noc (pt. lub sob.) 25 € · obie noce 45 €"
+    },
+    {
+     "k": "Cosplayball",
+     "v": "35 €"
+    }
+   ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
-   "note": "Uwaga: lipiec, nie przełom maja i czerwca jak dotąd. Dwa J-Rave (pt. i sob., 20:30–2:00), line-up DJ-ów jeszcze nieogłoszony. Termin nakłada się na Japan Expo w Paryżu (8–11.07).",
+   "note": "Uwaga: lipiec, nie przełom maja i czerwca jak dotąd. Dwa J-Rave (pt. i sob., 20:30–2:00), line-up DJ-ów jeszcze nieogłoszony. Przedsprzedaż biletów rusza 1.11.2026 o 20:00. Goście widoczni na stronie głównej (ALI, nano, STEREO DIVE FOUNDATION, ZERA) to skład edycji 2026, nie zapowiedź na 2027. Termin nakłada się na Japan Expo w Paryżu (8–11.07).",
    "stops": [
     {
      "cc": "DE",
@@ -1226,8 +2770,9 @@
      "venue": "Messe Düsseldorf"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "J-Rave w piątek i sobotę",
+   "updatedAt": "2026-10-04",
    "url": "https://www.dokomi.de/en/event/when-and-where",
    "id": "2027-07-dokomi"
   },
@@ -1236,6 +2781,20 @@
    "artist": "Japan Expo Paris 2027",
    "dateEnd": "2027-07-11",
    "dateStart": "2027-07-08",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "8–11.07.2027, Parc des Expositions Paris-Nord Villepinte (dojazd RER B)"
+    },
+    {
+     "k": "Bilety",
+     "v": "sprzedaż na 2027 jeszcze nie ruszyła; w poprzednich edycjach bilety dzienne, karnet 4-dniowy i pakiety premium (Zen, Zen+ Comfort, Ultimate)"
+    },
+    {
+     "k": "Program",
+     "v": "goście i koncerty na 2027 nieogłoszeni"
+    }
+   ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
    "note": "Program muzyczny jeszcze nieogłoszony. Termin nakłada się na DoKomi (9–11.07).",
@@ -1247,16 +2806,66 @@
      "venue": "Paris-Nord Villepinte"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "",
    "url": "https://www.jds.fr/paris/foires-et-salons/foires/japan-expo-261090_A",
    "id": "2027-07-japan-expo-paris"
+  },
+  {
+   "about": "Największy słowacki festiwal wielogatunkowy (muzyka, teatr, literatura, debaty) na lotnisku w Trenczynie, znany z kameralnej atmosfery. W wyprzedanej edycji 2026 grali m.in. The Cure i Gorillaz.",
+   "artist": "Pohoda 2027",
+   "dateEnd": "2027-07-10",
+   "dateStart": "2027-07-08",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "karnet 3-dniowy 149 € (z polem namiotowym) · junior 15–17 lat 109 € · dzieci 6–14 lat 69 € · 3–5 lat 19 €"
+    },
+    {
+     "k": "Line-up",
+     "v": "nieogłoszony; booking trwa od września 2026"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "kind": "festiwal",
+   "note": "Żadnego artysty na 2027 jeszcze nie ogłoszono; 10.09.2026 organizatorzy napisali, że dopiero zaczynają składać line-up (spotkania z agentami w Londynie). Bilety są już w sprzedaży. Lista wykonawców na oficjalnej stronie (The Cure, Gorillaz, The Prodigy, Yuki Chiba…) to wciąż skład edycji 2026.",
+   "stops": [
+    {
+     "cc": "SK",
+     "city": "Trenczyn",
+     "date": "2027-07-08",
+     "venue": "Letisko Trenčín"
+    }
+   ],
+   "tickets": "https://shop.pohodafestival.sk/en/tickets-2027",
+   "tier": 3,
+   "title": "Festiwal na lotnisku w Trenczynie — line-up jeszcze nieogłoszony",
+   "url": "https://www.pohodafestival.sk/en/news",
+   "id": "2027-07-pohoda"
   },
   {
    "about": "Festiwal kultury azjatyckiej w Polsce, z konkursami cosplay, panelami i koncertami.",
    "artist": "Hikari 2027",
    "dateEnd": "2027-08-29",
    "dateStart": "2027-08-27",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "27–29.08.2027, Poznań (8. edycja); obiektu strona jeszcze nie podaje"
+    },
+    {
+     "k": "Motyw",
+     "v": "yokai i mitologia japońska (w 2026 „Wonderland”)"
+    },
+    {
+     "k": "Bilety",
+     "v": "sprzedaż jeszcze nie ruszyła; pozycje w sklepie (100–450 zł) oznaczone jako niedostępne"
+    },
+    {
+     "k": "Goście",
+     "v": "na 2027 nieogłoszeni; strona pokazuje wciąż gwiazdy edycji 2026"
+    }
+   ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
    "note": "Termin ogłoszony po edycji 2026, gości jeszcze nie ma. W 2026 śpiewały tam TRUE i Machico.",
@@ -1267,16 +2876,117 @@
      "date": "2027-08-27"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "Festiwal Kultury Azjatyckiej",
    "url": "https://hikari.pl/",
    "id": "2027-08-hikari"
   },
   {
+   "about": "Nowojorski zespół Jamesa Murphy'ego łączący dance-punk z elektroniką, związany z wytwórnią DFA.",
+   "artist": "LCD Soundsystem",
+   "dateEnd": "2027-08-08",
+   "dateStart": "2027-08-07",
+   "facts": [
+    {
+     "k": "Rola",
+     "v": "support na obu rzymskich koncertach Harry'ego Stylesa: 7 i 8.08.2027, Circo Massimo"
+    },
+    {
+     "k": "Godziny i ceny",
+     "v": "źródła nie podają"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "hits": [
+    "Dance Yrself Clean",
+    "All My Friends",
+    "Daft Punk Is Playing at My House",
+    "Someone Great",
+    "Losing My Edge"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Harry Styles",
+    "LCD Soundsystem"
+   ],
+   "note": "To nie własny koncert: LCD Soundsystem jest wymieniony jako support obu rzymskich koncertów Harry'ego Stylesa (trasa Together, Together). Daty podają tabela trasy w Wikipedii, Songkick i JamBase. Własnych koncertów zespołu w Europie na 2026–2027 nie znaleziono (do końca 2026 gra rezydencje w Nowym Jorku i Aspen). Godzin i cen źródła nie podają.",
+   "stops": [
+    {
+     "cc": "IT",
+     "city": "Rzym",
+     "date": "2027-08-07",
+     "venue": "Circo Massimo"
+    },
+    {
+     "cc": "IT",
+     "city": "Rzym",
+     "date": "2027-08-08",
+     "venue": "Circo Massimo"
+    }
+   ],
+   "tier": 3,
+   "title": "Support przed Harrym Stylesem w Rzymie (trasa Together, Together)",
+   "url": "https://en.wikipedia.org/wiki/Together,_Together",
+   "id": "2027-08-lcd-soundsystem-rome-harry-styles"
+  },
+  {
+   "about": "Największy w Niemczech konwent anime i mangi organizowany przez wolontariuszy (Animexx), co roku we wrześniu w Wiesbaden, z japońskimi gośćmi honorowymi i koncertem. W 2026 gwiazdą muzyczną był steampunkowo-metalowy duet FATE GEAR.",
+   "artist": "Connichi 2027",
+   "dateEnd": "2027-09-05",
+   "dateStart": "2027-09-03",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "ceny i start sprzedaży na 2027 jeszcze niepodane"
+    }
+   ],
+   "foundAt": "2026-10-04",
+   "kind": "konwent",
+   "note": "Termin 3–5.09.2027 podaje strona RMCC i profil konwentu na Mastodonie; oficjalna strona connichi.de wciąż pokazuje edycję 2026. Gości muzycznych, cen ani startu sprzedaży biletów jeszcze nie ogłoszono. W 2026 koncert zagrało japońskie FATE GEAR.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Wiesbaden",
+     "date": "2027-09-03",
+     "venue": "RheinMain CongressCenter (RMCC), Friedrich-Ebert-Allee 1"
+    }
+   ],
+   "tier": 3,
+   "title": "Konwent anime i mangi w Wiesbaden — goście jeszcze nieogłoszeni",
+   "url": "https://www.wiesbaden.de/en/microsite/rmcc/veranstaltungen/connichi-rmcc",
+   "id": "2027-09-connichi"
+  },
+  {
+   "about": "Japońskie trio z Kobe z basistką i wokalistką Natsuko Miyamoto: post-hardcore'owa intensywność, shoegaze'owe ściany gitar i indie-rockowe melodie. Trasa promuje szósty album „Iwaou” (sierpień 2026) i jest największą w historii zespołu.",
    "artist": "MASS OF THE FERMENTING DREGS",
    "dateEnd": "2027-10-20",
    "dateStart": "2027-09-24",
+   "facts": [
+    {
+     "k": "Warszawa 2.10.2027",
+     "v": "Palladium, ul. Złota 9; wg organizatora (Winiary Bookings) otwarcie 19:00, start 20:00; strona klubu podaje godz. 19:00"
+    },
+    {
+     "k": "Bilety (Warszawa)",
+     "v": "od 136,74 zł; w sprzedaży od 13.08: Winiary Bookings, Going, Empik Bilety, Eventim, eBilet, Ticketmaster"
+    },
+    {
+     "k": "Wiek (Warszawa)",
+     "v": "dla osób od 13 lat dostępny formularz zgody rodzica"
+    },
+    {
+     "k": "Kontekst",
+     "v": "powrót do Warszawy po wyprzedanym koncercie w Proximie; cała trasa to 47 koncertów w 26 krajach, finał 7.11.2027 w Tokio"
+    }
+   ],
    "foundAt": "2026-10-03",
+   "hits": [
+    "Aoi, Koi, Daidaiiro no Hi",
+    "Kakuiumono",
+    "Slow Motion Replay",
+    "Sugar",
+    "Iwaou"
+   ],
    "kind": "trasa",
    "note": "Japońskie trio, alternatywny rock i shoegaze. Warszawa 2.10.2027 w Palladium, start 19:00, organizuje Winiary Bookings; bilety w sprzedaży od 13.08.",
    "stops": [
@@ -1389,7 +3099,7 @@
      "venue": "IF Performance Hall"
     }
    ],
-   "tickets": "https://palladium.pl/2026/08/mass-of-the-fermenting-dregs-2/",
+   "tickets": "https://winiarybookings.pl/wydarzenie/mass-of-the-fermenting-dregs-warszawa-2-w1n1ary-warszawa-pazdziernik-2027",
    "tier": 1,
    "title": "\"Iwaou\" THE TOUR — Europa",
    "url": "https://electricbloomwebzine.com/tours/mass-of-the-fermenting-dregs-iwaou-the-tour",
@@ -1400,6 +3110,20 @@
    "artist": "Remcon 2028",
    "dateEnd": "2028-02-27",
    "dateStart": "2028-02-25",
+   "facts": [
+    {
+     "k": "Edycja 2027",
+     "v": "nie odbędzie się (rok przerwy)"
+    },
+    {
+     "k": "Termin",
+     "v": "25–27.02.2028, Gdańsk"
+    },
+    {
+     "k": "Bilety i goście",
+     "v": "nic jeszcze nie ogłoszono; oficjalna strona pokazuje tylko zasady zwrotów za odwołaną niedzielę edycji 2026 (15.02.2026)"
+    }
+   ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
    "note": "Edycji 2027 nie będzie: organizatorzy robią rok przerwy. Następna, jubileuszowa, dopiero 25–27.02.2028.",
@@ -1410,7 +3134,7 @@
      "date": "2028-02-25"
     }
    ],
-   "tier": 2,
+   "tier": 3,
    "title": "10. edycja",
    "url": "https://konwenty-poludniowe.pl/konwenty-informacje/zaskakujaca-decyzja-organizatorow-remcon-2027-sie-nie-odbedzie",
    "id": "2028-02-remcon"
