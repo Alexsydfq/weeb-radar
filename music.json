@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T14:01:11Z",
+ "updated": "2026-10-05T04:42:19Z",
  "songs": [
   {
    "about": "FLAVOR FOLEY to anglojęzyczny krąg producentów muzyki na syntezatory śpiewu (Jamie Paige, Vane Lily, ricedeity), znany z „BUTCHER VANITY” i „Spoken For”; autorzy piosenki przewodniej MIKU EXPO 2026 EUROPE.",
@@ -336,6 +336,18 @@
    "title": "騒げ★ぐるぐるTIME！",
    "url": "https://open.spotify.com/album/0F247d6CF4XHiqj0YCwCyg",
    "id": "asobi-mawari-tai-sawage-guruguru-time"
+  },
+  {
+   "about": "LiSA to japońska wokalistka anisong, znana z openingów „Gurenge” i „Homura” (Demon Slayer) oraz „unlasting” (Sword Art Online).",
+   "artist": "LiSA",
+   "foundAt": "2026-10-05",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-25",
+   "songAbout": "Piosenka przewodnia filmu „Matching TRUE LOVE”, wydana cyfrowo 25 września 2026 o północy.",
+   "title": "ソフィリア (Sophilia)",
+   "url": "https://movies.kadokawa.co.jp/matching/info/2026/09/05/260905-1/",
+   "id": "lisa-sophilia"
   }
  ]
 }
