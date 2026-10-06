@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T04:42:19Z",
+ "updated": "2026-10-06T04:41:55Z",
  "songs": [
   {
    "about": "FLAVOR FOLEY to anglojęzyczny krąg producentów muzyki na syntezatory śpiewu (Jamie Paige, Vane Lily, ricedeity), znany z „BUTCHER VANITY” i „Spoken For”; autorzy piosenki przewodniej MIKU EXPO 2026 EUROPE.",
@@ -12,6 +12,18 @@
    "title": "Clover",
    "url": "https://open.spotify.com/album/5qnwdZRh6XDboLQ1pG1dYx",
    "id": "flavor-foley-clover"
+  },
+  {
+   "about": "cosMo@暴走P to legendarny producent vocaloidowy, autor „Hatsune Miku no Shoshitsu”.",
+   "artist": "夏代孝明 / cosMo@暴走P feat. 初音ミク",
+   "foundAt": "2026-10-06",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-03",
+   "songAbout": "Remiks utworu „キラー” Natsushiro Takaaki przygotowany na Project SEKAI Championship 2026; szybki, intensywny styl cosMo.",
+   "title": "キラー (remixed by cosMo＠暴走P)",
+   "url": "https://vocaloard.injpok.tokyo/",
+   "id": "cosmobousou-p-killer-remix"
   },
   {
    "about": "PinocchioP to japoński producent Vocaloid aktywny od 2009 roku, autor m.in. „神っぽいな (God-ish)” i „Non-breath oblige”. Znany z ironicznych tekstów i teledysków z własnymi rysunkami.",
@@ -84,6 +96,18 @@
    "title": "かまいたちに因る",
    "url": "https://open.spotify.com/album/3R1srFxxHvoLg4Zy8sGJaD",
    "id": "hifumi-kamaitachi-ni-yoru"
+  },
+  {
+   "about": "Marasy to pianista i kompozytor znany z coverów na pianinie i występów z Miku na koncertach symfonicznych.",
+   "artist": "まらしぃ feat. 初音ミク",
+   "foundAt": "2026-10-06",
+   "kind": "MV",
+   "pick": false,
+   "released": "2026-10-02",
+   "songAbout": "Piosenka przewodnia koncertów Hatsune Miku Symphony 2026-2027; połączenie fortepianu i orkiestry.",
+   "title": "開演",
+   "url": "https://youtu.be/vlCN8PFNhIk",
+   "id": "marasy-feat-hatsune-miku-kaien"
   },
   {
    "about": "Steve Aoki to amerykański DJ i producent EDM, założyciel wytwórni Dim Mak, znany z energetycznych setów i licznych kolaboracji, także z japońskimi artystami.",
