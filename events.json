@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T04:41:55Z",
+ "updated": "2026-10-07T04:41:55Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -1916,6 +1916,48 @@
    "id": "2026-12-upiko-paris"
   },
   {
+   "about": "Anime-noc klubowa w Berlinie: DJ gra anime openingi i endingi oraz anime rap, na miejscu występują też Anbu Studios i Lia-Zi & Friends.",
+   "artist": "Anime Night Hangover (Berlin)",
+   "dateEnd": "2027-01-16",
+   "dateStart": "2027-01-16",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "od 21,29 €"
+    },
+    {
+     "k": "Godziny",
+     "v": "start 23:00"
+    },
+    {
+     "k": "Wiek",
+     "v": "16+ (młodsi z zgodą rodziców)"
+    }
+   ],
+   "foundAt": "2026-10-07",
+   "hits": [],
+   "kind": "rave",
+   "lineup": [
+    "DJ Steve Hang",
+    "Anbu Studios",
+    "Lia-Zi & Friends"
+   ],
+   "note": "Oficjalny after-party po wyprzedanym koncercie Anbu Studios w Live Music Hall; goście z niemieckiego dubbingu anime.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-01-16",
+     "venue": "Kulturbrauerei – Kesselhaus"
+    }
+   ],
+   "tickets": "https://www.berlin.de/en/tickets/party/anime-night-hangover/2027-01-16-anime-night-hangover-cda09788-49cc-4a0f-baa7-7fefece9a665/ticketshop/",
+   "tier": 2,
+   "title": "Anime-afterparty po koncercie Anbu Studios: DJ Steve Hang, Lia-Zi & Friends",
+   "url": "https://www.berlin.de/en/tickets/party/anime-night-hangover/2027-01-16-anime-night-hangover-cda09788-49cc-4a0f-baa7-7fefece9a665/",
+   "id": "2027-01-anime-night-hangover-berlin"
+  },
+  {
    "about": "Zimowa edycja fińskiego konwentu Desucon. Gościem honorowym jest kompozytor Yūki Hayashi, autor muzyki do My Hero Academia i Haikyu!!.",
    "artist": "Desucon Frostbite 2027",
    "dateEnd": "2027-01-24",
@@ -2566,29 +2608,62 @@
   {
    "about": "Jeden z najważniejszych europejskich festiwali miejskich (indie, elektronika, pop), w 2027 r. świętuje 25. edycję. W 2026 r. grali tam m.in. The Cure, Gorillaz, My Bloody Valentine i Massive Attack.",
    "artist": "Primavera Sound Barcelona 2027",
-   "dateEnd": "2027-06-05",
-   "dateStart": "2027-06-03",
+   "changeNote": "Ogłoszono line-up: m.in. Gilla Band, Doechii, Massive Attack, The Chemical Brothers; Fan Sale 8.10, sprzedaż ogólna 9.10",
+   "dateEnd": "2027-06-06",
+   "dateStart": "2027-06-02",
    "facts": [
     {
-     "k": "Line-up",
-     "v": "ogłoszenie pełnego składu: poniedziałek 5.10.2026"
+     "k": "Termin",
+     "v": "2–6.06.2027, Parc del Fòrum, Barcelona"
     },
     {
      "k": "Karnet",
-     "v": "285 € do 4.10.2026 · Fan Sale od 5.10: 295 € · sprzedaż ogólna: 350 € (plus opłaty)"
+     "v": "Fan Sale od 8.10 11:00 CEST: 295 € · sprzedaż ogólna od 9.10 11:00 CEST: 350 € (plus opłaty)"
     },
     {
      "k": "VIP",
-     "v": "495 € (cena sprzed ogłoszenia line-upu)"
+     "v": "545 €"
     },
     {
-     "k": "Wiek",
-     "v": "dzieci do 12 lat bezpłatnie z opiekunem, 13–17 lat bilet ulgowy"
+     "k": "Primavera Bits",
+     "v": "6.06: Richie Hawtin, Four Tet, Dixon"
     }
    ],
    "foundAt": "2026-10-04",
    "kind": "festiwal",
-   "note": "Line-upu jeszcze nie ma: organizator zapowiedział ogłoszenie pełnego składu na poniedziałek 5.10.2026, razem ze startem Fan Sale (295 €). Do 4.10 karnet w sprzedaży „w ciemno” kosztował 285 €.",
+   "lineup": [
+    "Doechii",
+    "Phoebe Bridgers",
+    "Fontaines D.C.",
+    "Massive Attack",
+    "Turnstile",
+    "Hayley Williams",
+    "FKA twigs",
+    "The Chemical Brothers",
+    "Robyn",
+    "Bad Gyal",
+    "Lola Young",
+    "Pavement",
+    "Skrillex b2b Ninajirachi",
+    "Caroline Polachek",
+    "Gilla Band",
+    "Underworld",
+    "Bicep",
+    "Metronomy",
+    "King Gizzard & the Lizard Wizard",
+    "Weyes Blood",
+    "Julien Baker",
+    "DIIV",
+    "Dinosaur Jr.",
+    "Tinashe",
+    "Shygirl",
+    "Kim Petras",
+    "Converge",
+    "Richie Hawtin",
+    "Four Tet",
+    "Dixon"
+   ],
+   "note": "Line-up ogłoszony 5.10.2026; z listy „artists” gra Gilla Band. Brak japońskich artystów otaku. Termin: 2–6.06.2027, Parc del Fòrum (niedziela 6.06 to Primavera Bits, elektronika).",
    "stops": [
     {
      "cc": "ES",
@@ -2599,7 +2674,8 @@
    ],
    "tickets": "https://www.primaverasound.com/en/barcelona",
    "tier": 3,
-   "title": "25. edycja — pełny line-up zostanie ogłoszony 5.10.2026",
+   "title": "25. edycja — line-up ogłoszony 5.10.2026 (151 wykonawców): Doechii, Phoebe Bridgers, Massive Attack, The Chemical Brothers, Gilla Band",
+   "updatedAt": "2026-10-07",
    "url": "https://www.dodmagazine.es/cartel-primavera-sound-2027/",
    "id": "2027-06-primavera-sound-barcelona"
   },
@@ -3316,6 +3392,39 @@
    "id": "jp-2026-11-night-hike-makuhari"
   },
   {
+   "about": "Hakos Baelz to VTuberka z hololive English (generacja Council), znana z chaotycznej energii i występów muzycznych w hololive. Koncert to jej pierwszy solowy lajw w Japonii.",
+   "artist": "Hakos Baelz (hololive English)",
+   "dateEnd": "2026-12-01",
+   "dateStart": "2026-12-01",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "drzwi 16:45 (early) / 17:35, start 18:30 JST"
+    },
+    {
+     "k": "Bilety",
+     "v": "loteria na miejsca siedzące od 28.09.2026 · bilety na stream przez SPWN"
+    }
+   ],
+   "foundAt": "2026-10-07",
+   "hits": [],
+   "kind": "koncert",
+   "note": "Pierwszy solowy koncert Baelz. Dostępny też stream online przez SPWN. Na miejscu loteria na miejsca siedzące (pierwsza runda od 28.09.2026).",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2026-12-01",
+     "venue": "Kanadevia Hall MEETS PORT"
+    }
+   ],
+   "tier": 3,
+   "title": "1st Concert „REGALIA” — Kanadevia Hall, Tokio",
+   "url": "https://regalia.hololivepro.com",
+   "id": "jp-2026-12-hakos-baelz-regalia"
+  },
+  {
    "about": "Wieczory artystów KAMITSUBAKI STUDIO, wytwórni VTuberów i Vocaloidów.",
    "artist": "KAMITSUBAKI WARS 2026",
    "dateEnd": "2026-12-13",
@@ -3423,6 +3532,100 @@
    "title": "3DCG live Hatsune Miku i wirtualnych grup – Kobe i Yokohama",
    "url": "https://pjsekai.sega.jp/colorfullive/6th-crossing/schedule-and-ticket.html",
    "id": "jp-2026-12-project-sekai-colorful-live-6th"
+  },
+  {
+   "about": "Dwudniowy lajw label hololive RECORDS z czołowymi VTuberkami agencji, w tym Sakura Miko, Shirakami Fubuki i Houshou Marine. Okazją jest album-box z 67 piosenkami.",
+   "artist": "hololive RECORDS MUSIC STAGE 2027",
+   "dateEnd": "2027-01-10",
+   "dateStart": "2027-01-09",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "loteria z kodami z albumu HISTORY COLLECTION (11 CD, 17 600 jen)"
+    },
+    {
+     "k": "Termin",
+     "v": "9–10.01.2027, K Arena Yokohama"
+    }
+   ],
+   "foundAt": "2026-10-07",
+   "hits": [
+    "Houshou Marine – Ahoy!! Wareraga Houshou Kaizokudan!!"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Dzień 1: AZKi",
+    "Dzień 1: Sakura Miko",
+    "Dzień 1: Hakos Baelz",
+    "Dzień 1: ReGLOSS",
+    "Dzień 2: Shirakami Fubuki",
+    "Dzień 2: Houshou Marine",
+    "Dzień 2: Kobo Kanaeru",
+    "Dzień 2: FLOW GLOW"
+   ],
+   "note": "Bilety przez loterię z kodami dołączonymi do albumu „hololive RECORDS HISTORY COLLECTION” (przedsprzedaż od 16.07.2026). Szczegóły cen i streamu jeszcze nieznane.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Jokohama",
+     "date": "2027-01-09",
+     "venue": "K Arena Yokohama"
+    },
+    {
+     "cc": "JP",
+     "city": "Jokohama",
+     "date": "2027-01-10",
+     "venue": "K Arena Yokohama"
+    }
+   ],
+   "tier": 3,
+   "title": "2 dni w K Arena Yokohama: AZKi, Sakura Miko, Hakos Baelz, ReGLOSS / Fubuki, Marine, Kobo Kanaeru, FLOW GLOW",
+   "url": "https://www.4gamers.com.tw/news/detail/80699/hololive-records-history-collection-music-stage-live-2027-announced",
+   "id": "jp-2027-01-hololive-records-music-stage-2027"
+  },
+  {
+   "about": "Animelo Summer Live (Anisama) to największy festiwal anison na świecie, organizowany przez Dwango od 2005 r. Edycja w Fukuoce to jego pierwsza wizyta w zachodniej Japonii.",
+   "artist": "ANISAMA FUKUOKA 2027",
+   "dateEnd": "2027-03-14",
+   "dateStart": "2027-03-13",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "13–14.03.2027, Mizuho PayPay Dome Fukuoka"
+    },
+    {
+     "k": "Line-up i bilety",
+     "v": "do ogłoszenia jesienią 2026"
+    },
+    {
+     "k": "Edycja letnia",
+     "v": "Animelo Summer Live 2027: 27–29.08, GMO Arena Saitama"
+    }
+   ],
+   "foundAt": "2026-10-07",
+   "hits": [],
+   "kind": "festiwal",
+   "note": "Line-up i bilety zostaną ogłoszone jesienią 2026. Standardowa edycja Animelo Summer Live 2027: 27–29.08.2027, GMO Arena Saitama.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Fukuoka",
+     "date": "2027-03-13",
+     "venue": "Mizuho PayPay Dome Fukuoka"
+    },
+    {
+     "cc": "JP",
+     "city": "Fukuoka",
+     "date": "2027-03-14",
+     "venue": "Mizuho PayPay Dome Fukuoka"
+    }
+   ],
+   "tier": 2,
+   "title": "Pierwszy Animelo Summer Live w zachodniej Japonii — Mizuho PayPay Dome Fukuoka",
+   "url": "https://kai-you.net/article/95941",
+   "id": "jp-2027-03-anisama-fukuoka-2027"
   },
   {
    "about": "Coroczny koncert i wystawa Hatsune Miku z udziałem producentów vocaloidowych.",
