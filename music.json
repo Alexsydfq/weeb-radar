@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-07T04:41:55Z",
+ "updated": "2026-10-08T04:42:37Z",
  "songs": [
+  {
+   "about": "Harumakigohan to japoński producent vocaloidowy znany z melancholijnych utworów z Miku.",
+   "artist": "Harumaki Gohan feat. 初音ミク",
+   "foundAt": "2026-10-08",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-06",
+   "songAbout": "Nowy singiel w klimacie deep house z 2D MV o wypaleniu zawodowym.",
+   "title": "マイバッド (My Bad)",
+   "url": "https://youtu.be/BBCRBlHT_Go",
+   "id": "harumakigohan-my-bad"
+  },
+  {
+   "about": "Kanaria to japoński producent vocaloidowy, autor hitów takich jak \"KING\" i \"Ghost\".",
+   "artist": "Kanaria × Vivid BAD SQUAD",
+   "foundAt": "2026-10-08",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-06",
+   "songAbout": "Wersja Project SEKAI z 3D MV, śpiewana przez Vivid BAD SQUAD i Kagamine Lena; mroczny, mocny klimat.",
+   "title": "デーモンロード (Demon Lord)",
+   "url": "https://youtu.be/5QMGGR_qC58",
+   "id": "kanaria-demon-lord"
+  },
   {
    "about": "FLAVOR FOLEY to anglojęzyczny krąg producentów muzyki na syntezatory śpiewu (Jamie Paige, Vane Lily, ricedeity), znany z „BUTCHER VANITY” i „Spoken For”; autorzy piosenki przewodniej MIKU EXPO 2026 EUROPE.",
    "artist": "FLAVOR FOLEY",
@@ -12,6 +36,30 @@
    "title": "Clover",
    "url": "https://open.spotify.com/album/5qnwdZRh6XDboLQ1pG1dYx",
    "id": "flavor-foley-clover"
+  },
+  {
+   "about": "TAK to japoński producent znany z energetycznych utworów dla Project SEKAI i współpracy z hololive.",
+   "artist": "TAK × Colorful Palette (MORE MORE JUMP!)",
+   "foundAt": "2026-10-08",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-04",
+   "songAbout": "Wesoła, popowa wersja z 3D MV w wykonaniu Colorful Palette i Hatsune Miku, wydana w Project SEKAI.",
+   "title": "LEMON MELON COOKIE",
+   "url": "https://youtu.be/6u3KsJhGC_s",
+   "id": "tak-colorful-palette-lemon-melon-cookie"
+  },
+  {
+   "about": "Camellia (かめりあ) to japoński producent EDM/hardcore i vocaloidowy, znany z utworów rytmicznych i współpracy z serią Project SEKAI.",
+   "artist": "Camellia feat. 初音ミク",
+   "foundAt": "2026-10-08",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-03",
+   "songAbout": "Własny remix utworu \"化けの花\" w klimacie hardcore/EDM z migoczącym intro, wydany w ramach Project SEKAI.",
+   "title": "化けの花 (かめりあ's \"憑椿\" Remix) / Monstrous Flower",
+   "url": "https://youtu.be/1qHHr5Gznh0",
+   "id": "camellia-monstrous-flower-possessed-camellia-remix"
   },
   {
    "about": "cosMo@暴走P to legendarny producent vocaloidowy, autor „Hatsune Miku no Shoshitsu”.",
@@ -36,6 +84,18 @@
    "title": "ENEMy (feat. HATSUNE MIKU & KASANE TETO)",
    "url": "https://open.spotify.com/album/55TM6SSZWQt5ApjYGFAWRn",
    "id": "pinocchiop-enemy"
+  },
+  {
+   "about": "t+pazolite to japoński twórca J-core, speedcore i happy hardcore, znany z TANO*C i gier rytmicznych.",
+   "artist": "t+pazolite feat. 初音ミク",
+   "foundAt": "2026-10-08",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-03",
+   "songAbout": "Speedcore/breakcore'owy remix \"Glory Steady Go!\" z Project SEKAI (Wonderlands×Showtime Miku).",
+   "title": "Glory Steady Go! (t+pazolite REMIX)",
+   "url": "https://youtu.be/6BoNDZGQDFw",
+   "id": "t-pazolite-glory-steady-go-t-pazolite-remix"
   },
   {
    "about": "TRUE (Miho Karasawa) to japońska piosenkarka i autorka tekstów, znana z piosenek do anime Kyoto Animation, m.in. „Sincerely” (Violet Evergarden) i „DREAM SOLISTER” (Hibike! Euphonium).",
@@ -108,6 +168,18 @@
    "title": "開演",
    "url": "https://youtu.be/vlCN8PFNhIk",
    "id": "marasy-feat-hatsune-miku-kaien"
+  },
+  {
+   "about": "NAKISO to japoński producent vocaloidowy tworzący mroczne, narracyjne utwory z Hatsune Miku.",
+   "artist": "NAKISO feat. 初音ミク",
+   "foundAt": "2026-10-08",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-02",
+   "songAbout": "Mroczny singiel o telefonie i końcu świata, z animowanym MV autorstwa RY.",
+   "title": "もしもしも (if if)",
+   "url": "https://youtu.be/7qUq1yOjoPM",
+   "id": "nakiso-if-if"
   },
   {
    "about": "Steve Aoki to amerykański DJ i producent EDM, założyciel wytwórni Dim Mak, znany z energetycznych setów i licznych kolaboracji, także z japońskimi artystami.",
@@ -278,6 +350,18 @@
    "id": "pmarusama-p-oshikatsu-kyoudan-e-youkoso"
   },
   {
+   "about": "Tatsuya Kitani to japoński producent i wokalista, znany z piosenek dla Hatsune Miku i Project SEKAI.",
+   "artist": "Tatsuya Kitani feat. 初音ミク",
+   "foundAt": "2026-10-08",
+   "kind": "singiel",
+   "pick": true,
+   "released": "2026-09-30",
+   "songAbout": "Chwytliwy, pogodny pop z Miku V6, dostępny z MV na YouTube.",
+   "title": "エメラルド (Emerald)",
+   "url": "https://youtu.be/kM8HEzBGU-0",
+   "id": "tatsuya-kitani-emerald"
+  },
+  {
    "about": "Dwie VTuberki z trzeciej generacji hololive Indonesia: Kobo Kanaeru, energiczna „zaklinaczka deszczu” i jedna z najpopularniejszych talentek holoID, oraz Vestia Zeta, występująca w roli tajnej agentki.",
    "artist": "Kobo Kanaeru × Vestia Zeta",
    "foundAt": "2026-10-04",
@@ -348,6 +432,18 @@
    "title": "GYAO・GYAO・パニック！",
    "url": "https://open.spotify.com/album/6vKPbrIR6p8HIDaC5jLuty",
    "id": "machico-gyao-gyao-panic"
+  },
+  {
+   "about": "MASA WORKS DESIGN to producent vocaloidowy znany z utworów w japońskim, tradycyjnym stylu i dużej skali.",
+   "artist": "MASA WORKS DESIGN feat. 初音ミク & GUMI",
+   "foundAt": "2026-10-08",
+   "kind": "singiel",
+   "pick": true,
+   "released": "2026-09-27",
+   "songAbout": "Mroczny, folkowy singiel w stylu japońskim z tradycyjnymi instrumentami, w duecie Miku i GUMI.",
+   "title": "アノ子ノ七ツノオ祝イニ (On That Girl's Seventh Celebration)",
+   "url": "https://youtu.be/Sg4aBwqqqWE",
+   "id": "masa-works-design-anoko-no-nanatsu-no-oiwai-ni"
   },
   {
    "about": "Zupełnie nowy czteroosobowy unit hololive (百灯キョーコ, 熱千めら, 鈴鳴つづり, 宙科そぴあ), ogłoszony 18 września 2026 i debiutujący pod hasłem „unitu wyznającego prymat zabawy”. Pierwsze streamy członkiń odbyły się 24–25 września.",
