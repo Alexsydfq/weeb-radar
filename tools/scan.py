@@ -145,7 +145,7 @@ def safe(label: str, fn, *a):
 
 def itunes_releases(entry: str, terms: list[str]) -> list[dict]:
     res = []
-    for kind in ("album", "song"):
+    for kind in ("album",):  # single są w sklepie jako „<tytuł> - Single”
         url = (f"https://itunes.apple.com/search?term={q(terms[0])}&entity={kind}&attribute=artistTerm"
                f"&country=JP&limit=50")
         data = itunes.get(url) or {}
@@ -162,8 +162,6 @@ def itunes_releases(entry: str, terms: list[str]) -> list[dict]:
                 "kind": "singiel" if kind == "song" or "Single" in (title or "") else ("EP" if " - EP" in (title or "") else "album"),
                 "url": r.get("collectionViewUrl") or r.get("trackViewUrl"), "source": "itunes",
             })
-        if kind == "album" and res:
-            break  # single i tak pojawia się jako „album – Single”
     return res
 
 
