@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T04:42:37Z",
+ "updated": "2026-10-09T04:42:19Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -927,6 +927,47 @@
    "title": "Koncert w Reykjavíku (Laugardalshöll)",
    "url": "https://www.songkick.com/concerts/43285077-queens-of-the-stone-age-at-laugardalsholl",
    "id": "2026-10-queens-of-the-stone-age-reykjavik"
+  },
+  {
+   "about": "Śląska edycja konwentu Ryucon: targi kultury japońskiej, cosplay, stoiska i strefy tematyczne. Główną gwiazdą muzyczną jest Mika Kobayashi, wokalistka znana z motywów z Attack on Titan i gier.",
+   "artist": "Ryucon Silesia 2026",
+   "dateEnd": "2026-10-11",
+   "dateStart": "2026-10-10",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "10–11.10.2026, PreZero Arena Gliwice"
+    },
+    {
+     "k": "Koncert",
+     "v": "Mika Kobayashi (godzina w planie atrakcji na stronie)"
+    },
+    {
+     "k": "Bilety",
+     "v": "sprzedaż przez stronę organizatora (ceny niepodane na stronie głównej)"
+    }
+   ],
+   "foundAt": "2026-10-09",
+   "hits": [
+    "Mika Kobayashi – Call Your Name"
+   ],
+   "kind": "konwent",
+   "lineup": [
+    "Mika Kobayashi"
+   ],
+   "note": "Na stronie organizatora zapowiedziany koncert Miki Kobayashi (godzina niepodana); pełna lista gości i plan atrakcji na stronie imprezy.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Gliwice",
+     "date": "2026-10-10",
+     "venue": "PreZero Arena Gliwice"
+    }
+   ],
+   "tier": 2,
+   "title": "Targi kultury japońskiej w Gliwicach — koncert Miki Kobayashi",
+   "url": "https://silesia.ryucon.pl/",
+   "id": "2026-10-ryucon-silesia-gliwice"
   },
   {
    "about": "Sakura Zensen to enkowe trio wokalne muzyków sceny visual kei: Setha (wokalista Moi dix Mois), KOUKIego (wokalista D=OUT) i TSUKASY (perkusista D'ESPAIRSRAY, solowo śpiewający enkę jako Mogamigawa Tsukasa). Trio ma na koncie dwa single na szczycie japońskich list enka.",
@@ -2608,7 +2649,7 @@
   {
    "about": "Jeden z najważniejszych europejskich festiwali miejskich (indie, elektronika, pop), w 2027 r. świętuje 25. edycję. W 2026 r. grali tam m.in. The Cure, Gorillaz, My Bloody Valentine i Massive Attack.",
    "artist": "Primavera Sound Barcelona 2027",
-   "changeNote": "Ogłoszono line-up: m.in. Gilla Band, Doechii, Massive Attack, The Chemical Brothers; Fan Sale 8.10, sprzedaż ogólna 9.10",
+   "changeNote": "W line-upie także Brutalismus 3000 b2b ISOxo",
    "dateEnd": "2027-06-06",
    "dateStart": "2027-06-02",
    "facts": [
@@ -2647,6 +2688,7 @@
     "Skrillex b2b Ninajirachi",
     "Caroline Polachek",
     "Gilla Band",
+    "Brutalismus 3000 b2b ISOxo",
     "Underworld",
     "Bicep",
     "Metronomy",
@@ -2663,7 +2705,7 @@
     "Four Tet",
     "Dixon"
    ],
-   "note": "Line-up ogłoszony 5.10.2026; z listy „artists” gra Gilla Band. Brak japońskich artystów otaku. Termin: 2–6.06.2027, Parc del Fòrum (niedziela 6.06 to Primavera Bits, elektronika).",
+   "note": "Line-up ogłoszony 5.10.2026; z listy „artists” grają Gilla Band i Brutalismus 3000 (b2b ISOxo). Brak japońskich artystów otaku. Termin: 2–6.06.2027, Parc del Fòrum (niedziela 6.06 to Primavera Bits, elektronika).",
    "stops": [
     {
      "cc": "ES",
@@ -2675,7 +2717,7 @@
    "tickets": "https://www.primaverasound.com/en/barcelona",
    "tier": 3,
    "title": "25. edycja — line-up ogłoszony 5.10.2026 (151 wykonawców): Doechii, Phoebe Bridgers, Massive Attack, The Chemical Brothers, Gilla Band",
-   "updatedAt": "2026-10-07",
+   "updatedAt": "2026-10-09",
    "url": "https://www.dodmagazine.es/cartel-primavera-sound-2027/",
    "id": "2027-06-primavera-sound-barcelona"
   },
