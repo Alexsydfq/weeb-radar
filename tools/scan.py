@@ -7,7 +7,7 @@ co jest już w opublikowanych events.json i music.json, więc pomija tylko to, c
 Źródła (wszystkie bez klucza):
   muzyka:   iTunes Search (sklep JP), MusicBrainz release-groups, VocaDB songs
   koncerty: Songkick (kalendarz artysty, adres z relacji MusicBrainz), VocaDB release events
-  Japonia:  Songkick (JP), Eventernote (wyszukiwarka eventów)
+  Japonia:  Songkick (JP)
 
 Uruchomienie: python3 tools/scan.py [--limit N] [--only music,concerts,japan]
 """
@@ -196,9 +196,9 @@ def vocadb_id(entry: str, terms: list[str], ids: dict) -> int | None:
                           f"&fields=None") or {}
         bump("vocadb_calls")
         for a in data.get("items", []):
-            if a.get("artistType") in ("Producer", "CoverArtist", "Circle", "OtherGroup", "Vocaloid",
-                                       "UTAU", "SynthesizerV", "OtherVoiceSynthesizer", "Band", "Utaite",
-                                       "Vocalist", "Unknown", "Label", "OtherIndividual", "Illustrator"):
+            # Głosy syntezatorów (Miku, Teto…) mają tysiące cudzych piosenek, więc je pomijamy.
+            if a.get("artistType") in ("Producer", "CoverArtist", "Circle", "OtherGroup", "Band", "Utaite",
+                                       "Vocalist", "Unknown", "OtherIndividual"):
                 found = a["id"]
                 break
         if found:
@@ -218,7 +218,7 @@ def vocadb_songs(entry: str, terms: list[str], ids: dict) -> list[dict]:
     res = []
     for s in data.get("items", []):
         d = (s.get("publishDate") or "")[:10]
-        if not d or d < MUSIC_FROM.isoformat():
+        if not d or not (MUSIC_FROM.isoformat() <= d <= MUSIC_TO.isoformat()):
             continue
         pv = next((p.get("url") for p in s.get("pvs", []) if p.get("service") == "Youtube" and p.get("pvType") == "Original"), None)
         res.append({
@@ -257,9 +257,30 @@ def mb_songkick(entry: str, terms: list[str], ids: dict) -> str | None:
                 sk = m.group(1)
             if "bandsintown.com" in u:
                 rec["bandsintown"] = u
+    if not sk:
+        sk = songkick_search(terms)
     rec["songkick"] = sk
     rec["checked"] = TODAY.isoformat()
     return sk
+
+
+def slug(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+
+
+def songkick_search(terms: list[str]) -> str | None:
+    """Songkick nie ma otwartego API, ale wyszukiwarka zwraca linki /artists/<id>-<slug>."""
+    for t in terms[:2]:
+        want = slug(t)
+        if len(want) < 2:
+            continue
+        page = songkick.get(f"https://www.songkick.com/search?query={q(t)}&type=artists", js=False)
+        bump("songkick_calls")
+        for m in re.finditer(r'href="/artists/(\d+)-([^"/?]+)', page or ""):
+            if m.group(2) == want:
+                return f"{m.group(1)}-{m.group(2)}"
+    return None
 
 
 def cc_of(addr: dict) -> str:
@@ -429,8 +450,6 @@ def main() -> None:
             return songkick_events(e, sk) if sk else []
         # MusicBrainz jest wspólny z muzyką, więc Songkick idzie po muzyce w tym samym limicie.
         threads.append(("songkick",) + run_pool("songkick", artists, sk_fn))
-    if "japan" in only:
-        threads.append(("eventernote",) + run_pool("eventernote", artists[:200], eventernote_events))
     for _, t, _ in threads:
         t.join()
     got = {name: res for name, _, res in threads}
@@ -461,7 +480,7 @@ def main() -> None:
             jp = dedupe(jp, lambda e: (norm(e["name"])[:30], e["date"]))
             fresh = [e for e in jp if not known_event(e, events)]
             fresh.sort(key=lambda e: e["date"])
-            write("japan", fresh, "Lajwy w Japonii (Songkick, Eventernote), których nie ma w events.json")
+            write("japan", fresh, "Lajwy w Japonii (Songkick), których nie ma w events.json")
             summary["japan"] = {"found": len(jp), "new": len(fresh)}
     summary["calls"] = stats
     summary["errors"] = errors
