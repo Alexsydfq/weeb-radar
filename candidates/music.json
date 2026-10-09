@@ -1,26 +1,8 @@
 {
  "generated": "2026-10-09T14:17:12Z",
  "about": "Premiery 2026-09-25..2026-11-08 artystów z watch.json, których nie ma w music.json",
- "count": 159,
+ "count": 118,
  "items": [
-  {
-   "watch": "Grace (Vo.Hikari Kodama)",
-   "artist": "Robert Grace",
-   "title": "My Father's Son",
-   "released": "2026-11-06",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/201848f9-7321-4b2e-bda5-aa302c14b85f",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "Cult of Luna",
-   "title": "In the Shadow of Your Shadow",
-   "released": "2026-11-06",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/32ab8682-b406-4c00-8e44-ea3b5ff6aa36",
-   "source": "musicbrainz"
-  },
   {
    "watch": "花冷え。",
    "artist": "花冷え。",
@@ -58,15 +40,6 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Queen",
-   "artist": "Josiah Queen",
-   "title": "Damascus Road",
-   "released": "2026-10-23",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/06451a17-a07c-4af7-96f6-7ef84bb9a803",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "picco",
    "artist": "Various artists",
    "title": "flip-flop",
@@ -92,15 +65,6 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/insane-single/6818033944?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "Grace (Vo.Hikari Kodama)",
-   "artist": "Grace Carter",
-   "title": "When Saturn Returns",
-   "released": "2026-10-16",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/fb6801ef-a4b2-42be-a028-2d5d247e0a19",
-   "source": "musicbrainz"
   },
   {
    "watch": "ビートまりお",
@@ -202,69 +166,6 @@
    "source": "vocadb"
   },
   {
-   "watch": "IDONO KAWAZU",
-   "artist": "IDONO KAWAZU feat. 重音テトSV",
-   "title": "無為",
-   "released": "2026-10-10",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1036387",
-   "source": "vocadb"
-  },
-  {
-   "watch": "IDONO KAWAZU",
-   "artist": "IDONO KAWAZU feat. 重音テトSV",
-   "title": "無手",
-   "released": "2026-10-10",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1036386",
-   "source": "vocadb"
-  },
-  {
-   "watch": "IDONO KAWAZU",
-   "artist": "IDONO KAWAZU feat. 重音テトSV",
-   "title": "無毒",
-   "released": "2026-10-10",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1036385",
-   "source": "vocadb"
-  },
-  {
-   "watch": "IDONO KAWAZU",
-   "artist": "IDONO KAWAZU feat. 重音テトSV",
-   "title": "無辜",
-   "released": "2026-10-10",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1036384",
-   "source": "vocadb"
-  },
-  {
-   "watch": "IDONO KAWAZU",
-   "artist": "IDONO KAWAZU feat. 重音テトSV",
-   "title": "無恥",
-   "released": "2026-10-10",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1036383",
-   "source": "vocadb"
-  },
-  {
-   "watch": "IDONO KAWAZU",
-   "artist": "IDONO KAWAZU feat. 重音テトSV",
-   "title": "無聊",
-   "released": "2026-10-10",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1036382",
-   "source": "vocadb"
-  },
-  {
-   "watch": "IDONO KAWAZU",
-   "artist": "IDONO KAWAZU feat. 重音テトSV",
-   "title": "無始",
-   "released": "2026-10-10",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1036381",
-   "source": "vocadb"
-  },
-  {
    "watch": "タケノコ少年",
    "artist": "タケノコ少年 feat. 初音ミク",
    "title": "ロマンチシズムコースター",
@@ -317,24 +218,6 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/blue-summer-tail-road-single/6816013952?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "LiSA",
-   "artist": "Lisa Pariente",
-   "title": "Effets Secondaires",
-   "released": "2026-10-09",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/fe108506-3281-46fa-b72e-c4a6e8bf8f4d",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "marina",
-   "artist": "Marina Herlop",
-   "title": "Dja Dja",
-   "released": "2026-10-09",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/fb8011c9-6074-4aba-a737-0887ec3f5e42",
-   "source": "musicbrainz"
   },
   {
    "watch": "Eminem",
@@ -409,15 +292,6 @@
    "source": "itunes"
   },
   {
-   "watch": "TRUE",
-   "artist": "True Damage, Sofía Reyes & VIC MENSA",
-   "title": "Know My Name",
-   "released": "2026-10-08",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/cdc4fcc3-9d71-40ba-9c7a-05cbf812b42e",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "PinocchioP",
    "artist": "ピノキオピー feat. various",
    "title": "アルティメットセンパイ",
@@ -445,15 +319,6 @@
    "source": "itunes"
   },
   {
-   "watch": "初音ミク",
-   "artist": "ざんぎ & 初音ミク",
-   "title": "Almani - Single",
-   "released": "2026-10-07",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/almani-single/6816014194?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "MARUMOCHI from HoneyWorks",
    "artist": "MARUMOCHI from HoneyWorks",
    "title": "影響力∞アイドル (feat. ハコニワリリィ) - EP",
@@ -461,33 +326,6 @@
    "kind": "EP",
    "url": "https://music.apple.com/jp/album/%E5%BD%B1%E9%9F%BF%E5%8A%9B-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-feat-%E3%83%8F%E3%82%B3%E3%83%8B%E3%83%AF%E3%83%AA%E3%83%AA%E3%82%A3-ep/6815915313?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "夢ノ結唱",
-   "artist": "はるよよ & 夢ノ結唱 POPY",
-   "title": "The Sky, the Wind, the Map, and You in My Heart - Single",
-   "released": "2026-10-07",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/the-sky-the-wind-the-map-and-you-in-my-heart-single/6812969176?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Ryu*",
-   "artist": "RYU PROJECT",
-   "title": "Jibun O Shinjiro - Single",
-   "released": "2026-10-07",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/jibun-o-shinjiro-single/6819331745?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "Cult Of Luna",
-   "title": "The Rift",
-   "released": "2026-10-07",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/c7732c3d-dfc0-433b-8aa3-c0b5b5b6f3ae",
-   "source": "musicbrainz"
   },
   {
    "watch": "メイプル(伊藤美来)",
@@ -580,24 +418,6 @@
    "source": "itunes"
   },
   {
-   "watch": "hololive (Suisei, Koyori, La+, Fubuki, Miko, Luna, Matsuri, Pekora, Ina'nis)",
-   "artist": "hololive -Justice-",
-   "title": "Guren no Yumiya",
-   "released": "2026-10-05",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/ed525235-d310-4667-add3-2e79c53d2438",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Queen",
-   "artist": "CLAN QUEEN",
-   "title": "WARNING!!",
-   "released": "2026-10-05",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/f63e3c92-f741-468f-b3db-de7b4fe64f46",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "夢ノ結唱 POPY",
    "artist": "夢ノ結唱 POPY",
    "title": "In Unison - Single",
@@ -688,42 +508,6 @@
    "source": "vocadb"
   },
   {
-   "watch": "Jamie Paige",
-   "artist": "あ feat. 弦巻マキ AI 2",
-   "title": "Clover",
-   "released": "2026-10-03",
-   "kind": "cover",
-   "url": "https://youtu.be/j51cZ58wV-w",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "CatDroplet feat. Yuma 2",
-   "title": "Clover",
-   "released": "2026-10-03",
-   "kind": "cover",
-   "url": "https://youtu.be/i22BNFKmrOw",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "henby feat. 山田誠DS2.0",
-   "title": "Clover",
-   "released": "2026-10-03",
-   "kind": "cover",
-   "url": "https://youtu.be/QGkKH0sNetg",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "Various artists",
-   "title": "Clover",
-   "released": "2026-10-03",
-   "kind": "singiel",
-   "url": "https://youtu.be/cY0qV7q9IC4",
-   "source": "vocadb"
-  },
-  {
    "watch": "電音部",
    "artist": "Ma’Scar’Piece & 電音部",
    "title": "Vampire Kiss - Single",
@@ -796,39 +580,12 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "OTS",
-   "artist": "Ots J Huncho",
-   "title": "Dont Blink",
-   "released": "2026-10-02",
-   "kind": "EP",
-   "url": "https://musicbrainz.org/release-group/7c29f336-a937-4384-9f7c-2ee2f2ab6d22",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "OTS",
-   "artist": "Ots J Huncho",
-   "title": "Guerrilla War4are",
-   "released": "2026-10-02",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/61ddab43-68a5-46e3-b422-4902dab6a440",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "RADWIMPS",
    "artist": "RADWIMPS",
    "title": "夕星-ゆうづつ-",
    "released": "2026-10-02",
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/3b08fae1-8632-4302-946c-9cfc618178e4",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Queen",
-   "artist": "Ivy Queen",
-   "title": "NO LO DEJES CAER",
-   "released": "2026-10-02",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/c073fd2e-ad1a-495e-bc83-9a252f450fcf",
    "source": "musicbrainz"
   },
   {
@@ -857,15 +614,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/vlCN8PFNhIk",
    "source": "vocadb"
-  },
-  {
-   "watch": "Eve (japoński wokalista)",
-   "artist": "Alison Eve",
-   "title": "Demos",
-   "released": "2026-10-01",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/d52c2e83-29f4-4656-88b6-3e32ed6c0bcc",
-   "source": "musicbrainz"
   },
   {
    "watch": "Yoshida Yasei",
@@ -947,15 +695,6 @@
    "kind": "EP",
    "url": "https://musicbrainz.org/release-group/e4216db6-51f0-4806-ac6a-f9f95efcd21e",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "Near feat. エエロ",
-   "title": "BIRDBRAIN",
-   "released": "2026-09-30",
-   "kind": "cover",
-   "url": "https://youtu.be/3C0-BI24T_U",
-   "source": "vocadb"
   },
   {
    "watch": "Atena",
@@ -1046,15 +785,6 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/%E5%A4%A2%E6%88%91%E5%A4%A2%E4%B8%AD-single/6814317904?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "hololive (Suisei, Koyori, La+, Fubuki, Miko, Luna, Matsuri, Pekora, Ina'nis)",
-   "artist": "hololive IDOL PROJECT",
-   "title": "PARADISE！",
-   "released": "2026-09-28",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/71c41a39-01b4-4b30-b93d-5d8a8c252b15",
-   "source": "musicbrainz"
   },
   {
    "watch": "夢限大みゅーたいぷ",
@@ -1192,33 +922,6 @@
    "source": "vocadb"
   },
   {
-   "watch": "LonePi",
-   "artist": "LonePi feat. v4 flower",
-   "title": "ひよこのスープ",
-   "released": "2026-09-26",
-   "kind": "singiel",
-   "url": "https://youtu.be/H_hvXEDaaBo",
-   "source": "vocadb"
-  },
-  {
-   "watch": "LonePi",
-   "artist": "LonePi feat. Ryo, Mai",
-   "title": "ULTRA MARINE",
-   "released": "2026-09-26",
-   "kind": "singiel",
-   "url": "https://youtu.be/7Gdw5wN8ksQ",
-   "source": "vocadb"
-  },
-  {
-   "watch": "LonePi",
-   "artist": "LonePi feat. 初音ミク V4X (Dark)",
-   "title": "部屋",
-   "released": "2026-09-26",
-   "kind": "singiel",
-   "url": "https://youtu.be/p6jSPqpJWhM",
-   "source": "vocadb"
-  },
-  {
    "watch": "DYES IWASAKI",
    "artist": "DYES IWASAKI, ど～ぱみん feat. 初音ミク",
    "title": "リブラ・フロイライン",
@@ -1282,15 +985,6 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Mannequin",
-   "artist": "Mannequin Pants’d",
-   "title": "Shrinking Sun",
-   "released": "2026-09-25",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/1cc0c4de-49f9-42b5-a4a3-18946d7bc375",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "Gilla Band",
    "artist": "Gilla Band",
    "title": "Pugnello",
@@ -1300,75 +994,12 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Grace (Vo.Hikari Kodama)",
-   "artist": "Baker Grace",
-   "title": "What Do You Say?",
-   "released": "2026-09-25",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/23cd6fe6-c8fc-4beb-ad9d-e29035c1d9a4",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Grace (Vo.Hikari Kodama)",
-   "artist": "Grace Carter",
-   "title": "Rather You Leave",
-   "released": "2026-09-25",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/8d129d1c-4bfb-4fb8-bb1e-e9b4b1a423db",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Grace (Vo.Hikari Kodama)",
-   "artist": "Mckenna Grace",
-   "title": "Bones and All",
-   "released": "2026-09-25",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/c01d9689-b0c9-4653-b51e-28fbca4ebe23",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Grace (Vo.Hikari Kodama)",
-   "artist": "Grace Blue",
-   "title": "Trapped Energy",
-   "released": "2026-09-25",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/d457fcc6-fdd6-4385-ad3a-f3d44de6f12f",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "Luna Ki",
-   "title": "Diva Suicida",
-   "released": "2026-09-25",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/4909ce34-c298-4177-b1a4-a9215219cf9f",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "Luna City Express",
-   "title": "Essentials",
-   "released": "2026-09-25",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/1c50398d-b583-480a-ac30-8ab0721a8850",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "hya",
    "artist": "kana. べ！ feat. 鏡音レン Append (Power)",
    "title": "ME! BARE.",
    "released": "2026-09-25",
    "kind": "cover",
    "url": "https://youtu.be/LcWy95gKR8o",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "Vane Lily, friendxp feat. ROSE",
-   "title": "STILL ALIVE",
-   "released": "2026-09-25",
-   "kind": "singiel",
-   "url": "https://youtu.be/EVxGIY7C_5w",
    "source": "vocadb"
   },
   {

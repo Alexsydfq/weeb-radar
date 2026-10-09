@@ -82,9 +82,13 @@ def terms_for(entry: str) -> list[str]:
     return res
 
 
+SPLIT = re.compile(r"\s*(?:&|,|、|×|\bx\b|\bfeat\.?|\bft\.?|\bwith\b|\band\b|\bvs\.?|/|\+)\s*", re.I)
+
+
 def matches(name: str, terms: list[str]) -> bool:
-    n = norm(name)
-    return any(norm(t) and (norm(t) == n or norm(t) in n.split("&") or norm(t) in n) for t in terms)
+    """Czy wśród wykonawców jest dokładnie ten artysta (nie „Cult of Luna” dla „*Luna”)."""
+    names = {norm(x) for x in SPLIT.split(name or "") if x} | {norm(name)}
+    return any(norm(t) and norm(t) in names for t in terms)
 
 
 class Http:
@@ -407,6 +411,17 @@ def dedupe(items: list[dict], key) -> list[dict]:
     return out
 
 
+def cap(items: list[dict], n: int = 5) -> list[dict]:
+    """Najwyżej n najnowszych pozycji na artystę z jednego źródła (zalew 12 piosenek z jednego dnia nic nie daje)."""
+    per: dict[str, int] = {}
+    out = []
+    for it in sorted(items, key=lambda m: m["released"], reverse=True):
+        per[it["watch"]] = per.get(it["watch"], 0) + 1
+        if per[it["watch"]] <= n:
+            out.append(it)
+    return out
+
+
 def run_pool(label: str, entries: list[str], fn) -> list[dict]:
     """Każde źródło ma własny wątek, więc limity hostów nie blokują się nawzajem."""
     res: list[dict] = []
@@ -456,7 +471,7 @@ def main() -> None:
                "artists": len(artists), "seconds": int(time.time() - started)}
 
     if "music" in only:
-        music = got["itunes"] + got["mb_music"] + got["vocadb"]
+        music = cap(got["itunes"]) + cap(got["mb_music"]) + cap(got["vocadb"])
         music = dedupe(music, lambda m: (norm(m["artist"])[:12], norm(re.sub(r"\s*-\s*(Single|EP)$", "", m["title"] or ""))))
         fresh = [m for m in music if not known_song(m, songs)]
         fresh.sort(key=lambda m: m["released"], reverse=True)
