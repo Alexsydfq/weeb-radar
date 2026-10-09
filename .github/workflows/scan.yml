@@ -1,0 +1,32 @@
+name: Nocny skaner API
+on:
+  schedule:
+    - cron: "20 21 * * *"   # ok. 23:20 w Warszawie, przed skanem koncertów (01:00) i muzyki (05:00)
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Ilu pierwszych artystów sprawdzić (0 = wszystkich)"
+        default: "0"
+      only:
+        description: "Co skanować"
+        default: "music,concerts,japan"
+permissions:
+  contents: write
+concurrency:
+  group: scan
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/scan.py --limit "${{ inputs.limit || 0 }}" --only "${{ inputs.only || 'music,concerts,japan' }}"
+      - name: Zapisz kandydatów
+        run: |
+          git config user.name "weeb-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidates tools/ids.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update scan candidates"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1
