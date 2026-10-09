@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T04:42:19Z",
+ "updated": "2026-10-09T17:11:38Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -1110,6 +1110,59 @@
    "id": "2026-10-spyair-europe"
   },
   {
+   "about": "Woodkid (Yoann Lemoine) to francuski wokalista, kompozytor i reżyser teledysków, znany z epickiego, orkiestrowego popu i muzyki z zwiastunów gier i filmów.",
+   "artist": "Woodkid",
+   "dateEnd": "2026-10-11",
+   "dateStart": "2026-10-10",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "studia otwarte dla publiczności 10–11.10.2026"
+    },
+    {
+     "k": "Miejsce",
+     "v": "Funkhaus Berlin, 12 scen"
+    },
+    {
+     "k": "Program",
+     "v": "bez stałego line-upu, spontaniczne składy"
+    }
+   ],
+   "foundAt": "2026-10-09",
+   "hits": [
+    "Run Boy Run",
+    "Iron",
+    "The Golden Age",
+    "Goodbye"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Aaron & Bryce Dessner",
+    "Ben Howard",
+    "Damien Rice",
+    "Patrick Watson",
+    "Nick Zinner",
+    "Sarah Neufeld",
+    "Thom Sonny Green",
+    "Woodkid",
+    "Henning May",
+    "Bosse"
+   ],
+   "note": "Woodkid ogłoszony na festiwalu PEOPLE (Funkhaus). Festiwal nie ma stałego programu — artyści grają wspólnie, kto z kim, wychodzi na miejscu. Ceny biletów nie podane w źródle.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-10",
+     "venue": "Funkhaus Berlin"
+    }
+   ],
+   "tier": 3,
+   "title": "PEOPLE Festival 2026 (Funkhaus Berlin)",
+   "url": "https://www.regioactive.de/news/2026/07/13/people-festival-feiert-2026-rueckkehr-ins-funkhaus-berlin-79SR9SKQdp",
+   "id": "2026-10-woodkid-people-festival-berlin"
+  },
+  {
    "about": "Legendarna japońska kompozytorka muzyki do anime i gier. Autorka ścieżek dźwiękowych do Cowboy Bebop, Ghost in the Shell: Stand Alone Complex, Macross Frontier i Wolf's Rain.",
    "artist": "Yoko Kanno",
    "changeNote": "Doszedł program w Lukce: 1.11 o 15:00 Yoko Kanno Celebration w Teatro del Giglio (na rezerwację)",
@@ -1544,6 +1597,45 @@
    "title": "Yuzo Koshiro Edition — koncert chiptune Yuzo Koshiro",
    "url": "https://megaforcemagazine.com/2026/09/yuzo-koshiro-debarque-a-lyon-pour-un-concert-chiptune/",
    "id": "2026-11-japan-game-fest-lyon-yuzo-koshiro"
+  },
+  {
+   "about": "Jimmy Gnecco to amerykański wokalista, lider zespołu Ours, znany z emocjonalnego, rockowego wokalu.",
+   "artist": "Jimmy Gnecco (Ours)",
+   "dateEnd": "2026-11-08",
+   "dateStart": "2026-11-01",
+   "foundAt": "2026-10-09",
+   "hits": [
+    "Sometimes",
+    "Moon Song",
+    "Realize",
+    "Mercy"
+   ],
+   "kind": "trasa",
+   "note": "Daty ze Songkick (wpisy dotyczą Ours / Jimmy Gnecco); brak informacji o biletach i godzinach.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-11-01",
+     "venue": "Café la Palma"
+    },
+    {
+     "cc": "FR",
+     "city": "Barberaz",
+     "date": "2026-11-07",
+     "venue": "Brin de Zinc"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-08",
+     "venue": "Le Klub"
+    }
+   ],
+   "tier": 3,
+   "title": "Jimmy Gnecco — wybrane daty w Hiszpanii i Francji",
+   "url": "https://www.songkick.com/concerts/43268147-ours-at-cafe-la-palma",
+   "id": "2026-11-jimmy-gnecco-france-spain"
   },
   {
    "about": "Lotus Juice to japoński raper znany z wokali w ścieżkach dźwiękowych serii Persona (Persona 3, Persona 3 Reload) i anime. Shao Dow to niezależny brytyjski raper łączący angielski z japońskim.",
@@ -1999,6 +2091,50 @@
    "id": "2027-01-anime-night-hangover-berlin"
   },
   {
+   "about": "Koncert niemieckich twórców anime-rapu (utwory o postaciach i seriach anime) z gośćmi z niemieckiego dubbingu. Scena znana głównie z YouTube i konwentów w DACH.",
+   "artist": "Anime Rap Revolution Vol. I",
+   "dateEnd": "2027-01-16",
+   "dateStart": "2027-01-16",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "od ok. 49 € (Eventim), VIP od ok. 174 €"
+    },
+    {
+     "k": "Godziny",
+     "v": "start 19:00; VIP meet & greet 15:00–17:00"
+    },
+    {
+     "k": "Wiek",
+     "v": "od 8 lat"
+    }
+   ],
+   "foundAt": "2026-10-09",
+   "hits": [],
+   "kind": "koncert",
+   "lineup": [
+    "Anbu Monastir",
+    "Animetrix",
+    "Momoku",
+    "Onican & Amelia",
+    "niemieccy seiyuu (goście)"
+   ],
+   "note": "Niemiecka scena anime-rapu i dubbingu; strony biletowe wspominają też VIP „Hamburg & Berlin”, ale terminu w Hamburgu nie potwierdzono. Ta sama data i miejsce co Anime Night Hangover (afterparty).",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-01-16",
+     "venue": "Kulturbrauerei – Kesselhaus"
+    }
+   ],
+   "tickets": "https://www.eventim.de/eventseries/anime-rap-revolution-vol-i-4063900/",
+   "tier": 2,
+   "title": "Anime-rapowy koncert w Berlinie: Anbu Monastir, Animetrix, Momoku, Onican & Amelia + niemieccy seiyuu",
+   "url": "https://www.regioactive.de/konzert/anime-rap-revolution-vol-i-prenzlauer-berg-events-in-der-kulturbrauerei-2027-01-16-tickets-lFGfKMXLcz",
+   "id": "2027-01-anime-rap-revolution-vol-1-berlin"
+  },
+  {
    "about": "Zimowa edycja fińskiego konwentu Desucon. Gościem honorowym jest kompozytor Yūki Hayashi, autor muzyki do My Hero Academia i Haikyu!!.",
    "artist": "Desucon Frostbite 2027",
    "dateEnd": "2027-01-24",
@@ -2328,6 +2464,42 @@
    "id": "2027-02-esprit-dair-uk"
   },
   {
+   "about": "Włoski zespół rockowy, zwycięzca Eurowizji 2021 i Sanremo 2021, znany z globalnych hitów.",
+   "artist": "Måneskin",
+   "dateEnd": "2027-02-20",
+   "dateStart": "2027-02-16",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "77. Festiwal w Sanremo, 16–20.02.2027"
+    }
+   ],
+   "foundAt": "2026-10-09",
+   "hits": [
+    "Zitti e buoni",
+    "I Wanna Be Your Slave",
+    "Beggin'",
+    "Supermodel",
+    "Mamma Mia"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Måneskin"
+   ],
+   "note": "Festiwal telewizyjny 16–20.02.2027; dyrektor artystyczny Stefano De Martino potwierdził reunion zespołu, dokładny dzień występu nieznany. Bilety na Sanremo to osobna sprzedaż; zespół oficjalnie jeszcze nie skomentował.",
+   "stops": [
+    {
+     "cc": "IT",
+     "city": "Sanremo",
+     "venue": "Teatro Ariston"
+    }
+   ],
+   "tier": 3,
+   "title": "Powrót Måneskin na festiwalu w Sanremo 2027 (jednorazowy występ)",
+   "url": "https://www.wantedinrome.com/news/maneskin-to-reunite-at-italys-sanremo-music-festival-2027.html",
+   "id": "2027-02-maneskin-sanremo-reunion"
+  },
+  {
    "about": "Legenda mrocznego, industrialnego visual kei z Tokio, znana z albumów „Coll:set”, „MIRROR” i „REDEEMER” oraz z europejskich tras w latach 2000. Zespół rozwiązał się w 2011 r., wrócił w 2025 r., a w maju 2026 wydał „RAPTURE”, pierwszy singiel od 16 lat.",
    "artist": "D'ESPAIRSRAY",
    "changeNote": "Warszawa 10.03: w sklepie organizatora wszystkie pule biletów (zwykłe, rodzinne, VIP) mają status „Pula wyprzedana”; godziny wg sklepu: 18:30 klub, 20:00 start",
@@ -2472,6 +2644,34 @@
    "id": "2027-03-jupiter-europe"
   },
   {
+   "about": "Steve Aoki to amerykański DJ i producent EDM, znany z elektrycznych setów z tortami i współprac m.in. z BTS i Linkin Park.",
+   "artist": "Steve Aoki",
+   "dateEnd": "2027-03-20",
+   "dateStart": "2027-03-20",
+   "foundAt": "2026-10-09",
+   "hits": [
+    "Boneless",
+    "Delirious (Boneless)",
+    "Waste It on Me",
+    "Pretty Boy",
+    "Darker Than Blood"
+   ],
+   "kind": "koncert",
+   "note": "Pojedynczy występ DJ-a w Francji wg Songkick; szczegółów (godziny, cen) źródło nie podaje.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Déols",
+     "date": "2027-03-20",
+     "venue": "M.A.CH 36"
+    }
+   ],
+   "tier": 3,
+   "title": "Steve Aoki @ M.A.CH 36, Déols (Francja)",
+   "url": "https://www.songkick.com/concerts/43448188-steve-aoki-at-mach-36",
+   "id": "2027-03-steve-aoki-deols"
+  },
+  {
    "about": "Holenderski konwent anime w Hadze, na którym regularnie występuje m.in. Vocafest z koncertem fanowskich wykonań piosenek Vocaloid.",
    "artist": "AnimeCon 2027",
    "dateEnd": "2027-04-18",
@@ -2587,9 +2787,44 @@
    "id": "2027-05-animefest-brno"
   },
   {
+   "about": "Brytyjski zespół symfonicznego rocka Jeffa Lynne'a, kultowy z lat 70. i 80.; piosenki znane z licznych filmów i seriali.",
+   "artist": "Jeff Lynne's ELO",
+   "dateEnd": "2027-05-15",
+   "dateStart": "2027-05-05",
+   "foundAt": "2026-10-09",
+   "hits": [
+    "Mr. Blue Sky",
+    "Don't Bring Me Down",
+    "Evil Woman",
+    "Livin' Thing",
+    "Telephone Line"
+   ],
+   "kind": "trasa",
+   "note": "Daty z Songkick; źródło nie podaje cen biletów ani godzin. Możliwe kolejne przystanki.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Heilbronn",
+     "date": "2027-05-05",
+     "venue": "Konzert- & Kongresszentrum Harmonie"
+    },
+    {
+     "cc": "DE",
+     "city": "Stuttgart",
+     "date": "2027-05-15",
+     "venue": "Theaterhaus – T1"
+    }
+   ],
+   "tier": 3,
+   "title": "Koncerty w Niemczech: Heilbronn i Stuttgart",
+   "url": "https://www.songkick.com/concerts/43435382-jeff-lynnes-elo-at-konzert-and-kongresszentrum-harmonie",
+   "id": "2027-05-jeff-lynnes-elo-germany"
+  },
+  {
    "about": "Amerykański zespół post-hardcore'owy z San Diego, znany m.in. z „King for a Day” z Kellinem Quinnem.",
    "artist": "Pierce The Veil",
-   "dateEnd": "2027-06-15",
+   "changeNote": "Dodane festiwale Southside i Hurricane (18–20.06.2027, Niemcy)",
+   "dateEnd": "2027-06-20",
    "dateStart": "2027-06-08",
    "facts": [
     {
@@ -2638,11 +2873,24 @@
      "city": "Nanterre (Paryż)",
      "date": "2027-06-15",
      "venue": "Paris La Défense Arena"
+    },
+    {
+     "cc": "DE",
+     "city": "Neuhausen ob Eck",
+     "date": "2027-06-18",
+     "venue": "Southside Festival (18–20.06)"
+    },
+    {
+     "cc": "DE",
+     "city": "Scheeßel",
+     "date": "2027-06-18",
+     "venue": "Hurricane Festival (18–20.06)"
     }
    ],
    "tickets": "https://www.jambase.com/show/blink-182-waldbuhne-20270608",
    "tier": 3,
    "title": "Support na europejskich koncertach Blink-182 (z Billy Talent)",
+   "updatedAt": "2026-10-09",
    "url": "https://www.jambase.com/band/pierce-the-veil",
    "id": "2027-06-pierce-the-veil-blink-182-europe"
   },
@@ -2724,16 +2972,24 @@
   {
    "about": "Największy festiwal fantastyki w Polsce, w Poznaniu, z mocną strefą anime i mangi. W poprzednich latach grali tu japońscy goście, np. Mili i ZAQ.",
    "artist": "Pyrkon 2027",
+   "changeNote": "Pierwsze ogłoszenia: muzycznie belgijski zespół Laïs; goście Graham McTavish i Grady Hendrix. Japońskich gości muzycznych jeszcze brak.",
    "dateEnd": "2027-06-20",
    "dateStart": "2027-06-18",
    "facts": [
     {
+     "k": "Termin",
+     "v": "18–20.06.2027, Międzynarodowe Targi Poznańskie"
+    },
+    {
      "k": "Bilety",
-     "v": "w sprzedaży od 24.06.2026 · w eBilet od 349,89 zł (z opłatami); dzieci do 6 lat bezpłatnie, bilet dziecięcy 6–12 lat"
+     "v": "sprzedaż przez eBilet, ceny i start sprzedaży nie podane w źródle"
     }
    ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
+   "lineup": [
+    "Laïs"
+   ],
    "note": "Termin 18–20.06.2027 potwierdzony. Pierwsi goście to Graham McTavish, Grady Hendrix i belgijski zespół Laïs; japońskiego artysty muzycznego jeszcze nie ogłoszono.",
    "stops": [
     {
@@ -2745,6 +3001,7 @@
    ],
    "tier": 3,
    "title": "Festiwal fantastyki",
+   "updatedAt": "2026-10-09",
    "url": "https://pyrkon.pl/bez-kategorii/cos-sie-konczy-cos-zaczyna-poznajcie-pierwszych-gosci-pyrkonu-2027/",
    "id": "2027-06-pyrkon"
   },
@@ -2861,20 +3118,16 @@
    "dateStart": "2027-07-09",
    "facts": [
     {
-     "k": "Przedsprzedaż",
-     "v": "start 1.11.2026, 20:00 (TicketPay)"
+     "k": "Termin",
+     "v": "9–11.07.2027, Düsseldorf"
     },
     {
      "k": "Bilety",
-     "v": "3 dni 92 € do 31.12.2026, potem 95 € · sob.+niedz. 72/75 € · pt. 39/40 € · sob. 45/47 € · niedz. 42/45 €"
+     "v": "strona wskazuje start sprzedaży 1 listopada o 20:00 (rok nie podany wprost, ceny na dokomi.de/en/tickets)"
     },
     {
-     "k": "J-Rave",
-     "v": "bilet na jedną noc (pt. lub sob.) 25 € · obie noce 45 €"
-    },
-    {
-     "k": "Cosplayball",
-     "v": "35 €"
+     "k": "J-RAVE",
+     "v": "15. rocznica nocy J-RAVE; line-up 2027 jeszcze nieogłoszony, rezydenci DJ Knux i DJ BrainShit"
     }
    ],
    "foundAt": "2026-10-02",
@@ -2936,12 +3189,16 @@
    "dateStart": "2027-07-08",
    "facts": [
     {
-     "k": "Bilety",
-     "v": "karnet 3-dniowy 149 € (z polem namiotowym) · junior 15–17 lat 109 € · dzieci 6–14 lat 69 € · 3–5 lat 19 €"
+     "k": "Termin",
+     "v": "8–10.07.2027, Letisko Trenčín"
     },
     {
      "k": "Line-up",
-     "v": "nieogłoszony; booking trwa od września 2026"
+     "v": "brak ogłoszonych nazwisk; organizatorzy negocjują z agentami (IFF Londyn), pierwsze nazwiska wkrótce"
+    },
+    {
+     "k": "Bilety",
+     "v": "sekcja Tickets 2027 w sklepie festiwalu, ceny niepodane w źródle"
     }
    ],
    "foundAt": "2026-10-04",
@@ -3309,6 +3566,33 @@
    "id": "jp-2026-10-shinkai-fes-2026"
   },
   {
+   "about": "Japoński zespół math-rockowy z Tokio, znany z instrumentalnych, technicznych utworów i międzynarodowych tras.",
+   "artist": "toe",
+   "dateEnd": "2026-10-25",
+   "dateStart": "2026-10-25",
+   "foundAt": "2026-10-09",
+   "hits": [
+    "Goodbye",
+    "Past and Language",
+    "Because I Hear You"
+   ],
+   "kind": "koncert",
+   "note": "Termin z Songkick (festiwal The Argument 2026); godziny i bilety nie sprawdzone.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Shibuya)",
+     "date": "2026-10-25",
+     "venue": "Shibuya O-East"
+    }
+   ],
+   "tier": 3,
+   "title": "Występ na festiwalu The Argument 2026, Shibuya O-East",
+   "url": "https://www.songkick.com/festivals/3802634-argument/id/43386069-the-argument-2026",
+   "id": "jp-2026-10-toe-the-argument"
+  },
+  {
    "about": "Cykliczna noc klubowa z muzyką Vocaloid w MOGRA w Akihabarze.",
    "artist": "VOCALOID-ManiaX vol.58",
    "dateEnd": "2026-10-18",
@@ -3432,6 +3716,46 @@
    "title": "Festiwal sieci: DAY2 – KAF, Kizuna AI, Natori Sana, Pinocchio-P",
    "url": "https://panora.tokyo/archives/149654",
    "id": "jp-2026-11-night-hike-makuhari"
+  },
+  {
+   "about": "Amerykański zespół stoner rocka z Kalifornii prowadzony przez Josha Homme'a, znany z mocnego, riffowego brzmienia.",
+   "artist": "Queens of the Stone Age",
+   "dateEnd": "2026-11-28",
+   "dateStart": "2026-11-25",
+   "foundAt": "2026-10-09",
+   "hits": [
+    "No One Knows",
+    "Little Sister",
+    "Go with the Flow",
+    "Burn the Witch"
+   ],
+   "kind": "trasa",
+   "note": "Trzy daty z Songkick; ceny i sprzedaż biletów nie sprawdzone. Brak informacji o streamie.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2026-11-25",
+     "venue": "Zepp Haneda"
+    },
+    {
+     "cc": "JP",
+     "city": "Nagoja",
+     "date": "2026-11-26",
+     "venue": "Zepp Nagoya"
+    },
+    {
+     "cc": "JP",
+     "city": "Osaka",
+     "date": "2026-11-28",
+     "venue": "Zepp Namba"
+    }
+   ],
+   "tier": 3,
+   "title": "Trasa po Japonii: Tokio, Nagoja, Osaka",
+   "url": "https://www.songkick.com/concerts/43322665-queens-of-the-stone-age-at-zepp-haneda",
+   "id": "jp-2026-11-queens-of-the-stone-age-japan"
   },
   {
    "about": "Hakos Baelz to VTuberka z hololive English (generacja Council), znana z chaotycznej energii i występów muzycznych w hololive. Koncert to jej pierwszy solowy lajw w Japonii.",

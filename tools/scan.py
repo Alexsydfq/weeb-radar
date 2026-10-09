@@ -235,6 +235,8 @@ def vocadb_songs(entry: str, terms: list[str], ids: dict) -> list[dict]:
 
 def mb_songkick(entry: str, terms: list[str], ids: dict) -> str | None:
     rec = ids.setdefault(entry, {})
+    if rec.get("lock"):  # ręcznie zablokowane złe dopasowanie
+        return rec.get("songkick")
     if "songkick" in rec and rec.get("checked", "") >= (TODAY - dt.timedelta(days=30)).isoformat():
         return rec["songkick"]
     sk = None

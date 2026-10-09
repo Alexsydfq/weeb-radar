@@ -407,8 +407,9 @@
  },
  "Eve (japoński wokalista)": {
   "checked": "2026-10-09",
+  "lock": true,
   "mbid": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
-  "songkick": "486754-eve",
+  "songkick": null,
   "vocadb": 10233
  },
  "FARUCO": {
@@ -657,8 +658,9 @@
  },
  "KAFKA": {
   "checked": "2026-10-09",
+  "lock": true,
   "mbid": "43b658ff-e3e4-4928-9685-b1b7224d61d4",
-  "songkick": "286897-kafka",
+  "songkick": null,
   "vocadb": 122453
  },
  "KAITO": {
@@ -1158,8 +1160,9 @@
  },
  "OZIGIRI": {
   "checked": "2026-10-09",
+  "lock": true,
   "mbid": "3fe2ad4f-9835-4fc1-8f72-1af8054af8e2",
-  "songkick": "10415220-ozigiri",
+  "songkick": null,
   "vocadb": null
  },
  "Otonashi AF": {
@@ -1775,8 +1778,9 @@
  },
  "choko": {
   "checked": "2026-10-09",
+  "lock": true,
   "mbid": "6f70644a-87e4-47dd-980a-4fde3a65f819",
-  "songkick": "917453-choko",
+  "songkick": null,
   "vocadb": 136599
  },
  "cosMo@Bousou-P": {

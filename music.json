@@ -1,6 +1,222 @@
 {
- "updated": "2026-10-09T04:42:19Z",
+ "updated": "2026-10-09T17:11:38Z",
  "songs": [
+  {
+   "about": "TOOBOE to japoński wokalista i producent tworzący energiczny rock-pop.",
+   "artist": "TOOBOE",
+   "foundAt": "2026-10-09",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-04",
+   "songAbout": "EP-ka zapowiedziana na 04.11.2026.",
+   "title": "夢心地",
+   "url": "https://music.apple.com/jp/album/%E5%A4%A2%E5%BF%83%E5%9C%B0-ep/6810941092?uo=4",
+   "id": "tooboe-yumegokochi"
+  },
+  {
+   "about": "Japońska wokalistka znana z openingów anime, m.in. „Gurenge” (Demon Slayer) i „Unlasting” (Sword Art Online).",
+   "artist": "LISA",
+   "foundAt": "2026-10-09",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Nowa EP-ka LiSA; premiera zapowiedziana na 23.10.2026.",
+   "title": "PRESS PLAY",
+   "url": "https://musicbrainz.org/release-group/3493bfb0-a8d4-4ca0-925a-52b3a3cee36a",
+   "id": "lisa-press-play"
+  },
+  {
+   "about": "Nakiso to producent vocaloidowy znany z szybkich, taneczno-elektronicznych utworów.",
+   "artist": "なきそ, 威戸れもね。",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Singiel zapowiedziany na 23.10.2026.",
+   "title": "In the Womb",
+   "url": "https://vocadb.net/S/1041614",
+   "id": "nakiso-in-the-womb"
+  },
+  {
+   "about": "picco to producent vocaloidowy i elektroniczny, współpracujący ze sceną hyperpop.",
+   "artist": "picco (various)",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Utwór zapowiedziany na 23.10.2026.",
+   "title": "flip-flop",
+   "url": "https://vocadb.net/S/1041617",
+   "id": "picco-flip-flop"
+  },
+  {
+   "about": "beatMARIO (COOL&CREATE) to jeden z najbardziej znanych producentów J-core i electro, związany z serią Touhou.",
+   "artist": "ビートまりお",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Singiel zapowiedziany na 19.10.2026.",
+   "title": "Insane",
+   "url": "https://music.apple.com/jp/album/insane-single/6818033944?uo=4",
+   "id": "beatmario-insane"
+  },
+  {
+   "about": "FLAVOR FOLEY to producent i DJ ze sceny vocaloidowej i J-core, autor piosenki przewodniej MIKU EXPO 2026 „CONNECT:COMMUNE”.",
+   "artist": "FLAVOR FOLEY",
+   "foundAt": "2026-10-09",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-11",
+   "songAbout": "Album elektroniczny wydany 11.10.2026 — zapowiedź premiery.",
+   "title": "MIRROR MODULATION",
+   "url": "https://musicbrainz.org/release-group/13a5e545-1bcd-43aa-9c3c-12fd7f6a4edc",
+   "id": "flavor-foley-mirror-modulation"
+  },
+  {
+   "about": "IDONO KAWAZU to producent tworzący utwory z Kasane Teto (SV), znany ze sceny nowej fali utaite/vocaloid.",
+   "artist": "IDONO KAWAZU feat. 重音テトSV",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Singiel z serii pięciu premier tego samego dnia; śpiewa Kasane Teto SV. Premiera zapowiedziana na 10.10.2026.",
+   "title": "無礼",
+   "url": "https://vocadb.net/S/1036392",
+   "id": "idono-kawazu-burei"
+  },
+  {
+   "about": "IDONO KAWAZU to producent tworzący utwory z Kasane Teto (SV), znany ze sceny nowej fali utaite/vocaloid.",
+   "artist": "IDONO KAWAZU feat. 重音テトSV",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Piąty utwór z serii wydanej 10.10.2026 (zapowiedź); wokal: Kasane Teto SV.",
+   "title": "無終",
+   "url": "https://vocadb.net/S/1036388",
+   "id": "idono-kawazu-mushuu"
+  },
+  {
+   "about": "Takenoko Shounen to producent vocaloidowy tworzący popowe utwory z Hatsune Miku.",
+   "artist": "タケノコ少年 feat. 初音ミク",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Energetyczny, popowy utwór z Hatsune Miku; premiera zapowiedziana na 10.10.2026.",
+   "title": "ロマンチシズムコースター",
+   "url": "https://vocadb.net/S/1041256",
+   "id": "takenoko-shounen-romanticism-coaster"
+  },
+  {
+   "about": "ano to japońska wokalistka i była idolka, znana z ostrego, rockowo-popowego stylu i piosenek do anime.",
+   "artist": "ano",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": true,
+   "released": "2026-10-09",
+   "songAbout": "Opening anime „Keroro Gunsō”; wersja streamingowa i kolaboracyjne MV od 9.10.2026.",
+   "title": "キライのちスキ！",
+   "url": "https://www.lisani.jp/news/",
+   "id": "ano-kirai-nochi-suki"
+  },
+  {
+   "about": "Iyowa to znany producent vocaloidowy ze sceny nowej fali.",
+   "artist": "いよわ feat. 足立レイ AI, 足立レイ",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Nowy utwór z głosami Adachi Rei i Adachi Rei AI; premiera na YouTube.",
+   "title": "惑星直列",
+   "url": "https://youtu.be/hL9W5TSUfwM",
+   "id": "iyowa-wakusei-chokuretsu"
+  },
+  {
+   "about": "r-906 to producent vocaloidowy, znany ze scen Project SEKAI i electro-popowych utworów.",
+   "artist": "r-906 feat. 足立レイ AI, 足立レイ",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Nowy utwór z głosami Adachi Rei i Adachi Rei AI; premiera na YouTube.",
+   "title": "Yoyo2",
+   "url": "https://youtu.be/xhDSaqgNtVQ",
+   "id": "r-906-yoyo2"
+  },
+  {
+   "about": "snarewaves to producent elektroniczny, tworzący z głosami Hatsune Miku i Megurine Luki.",
+   "artist": "snarewaves, 巡音ルカ & 初音ミク",
+   "foundAt": "2026-10-09",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Nowa EP-ka z głosami Miku i Luki.",
+   "title": "STAT",
+   "url": "https://music.apple.com/jp/album/stat-ep/6816014046?uo=4",
+   "id": "snarewaves-stat"
+  },
+  {
+   "about": "Yuuyu to producent vocaloidowy tworzący mroczne, melodyjne rockowe utwory.",
+   "artist": "ゆうゆ feat. Ci flower",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Nowy utwór z Ci flower; premiera na YouTube.",
+   "title": "流涕焦ガルルヲ禁ズ",
+   "url": "https://youtu.be/8RnTqBha3WM",
+   "id": "yuuyu-ruitei-kogaru"
+  },
+  {
+   "about": "Denonbu (電音部) to japoński projekt muzyczny EDM z idolami wirtualnymi i DJ-ami z każdej dzielnicy Tokio.",
+   "artist": "電音部 & KOERU",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-08",
+   "songAbout": "Nowy singiel — współpraca z KOERU.",
+   "title": "Brain Juice",
+   "url": "https://music.apple.com/jp/album/brain-juice-single/6818388379?uo=4",
+   "id": "denonbu-brain-juice"
+  },
+  {
+   "about": "PinocchioP to znany producent vocaloidowy, autor m.in. „Ukiyo Jikan” i „Hello, Hello”, znany z luźnego, humorystycznego stylu.",
+   "artist": "ピノキオピー feat. various",
+   "foundAt": "2026-10-09",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-08",
+   "songAbout": "Nowa piosenka z wieloma głosami syntezatorów; premiera na YouTube.",
+   "title": "アルティメットセンパイ",
+   "url": "https://youtu.be/xSbxsecpDOY",
+   "id": "pinocchiop-ultimate-senpai"
+  },
+  {
+   "about": "MARUMOCHI from HoneyWorks to wokalista związany ze sceną HoneyWorks i idolowymi piosenkami.",
+   "artist": "MARUMOCHI from HoneyWorks",
+   "foundAt": "2026-10-09",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-07",
+   "songAbout": "EP-ka z udziałem Hakoniwa Lily.",
+   "title": "影響力∞アイドル (feat. ハコニワリリィ)",
+   "url": "https://music.apple.com/jp/album/%E5%BD%B1%E9%9F%BF%E5%8A%9B-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-feat-%E3%83%8F%E3%82%B3%E3%83%8B%E3%83%AF%E3%83%AA%E3%83%AA%E3%82%A3-ep/6815915313?uo=4",
+   "id": "marumochi-honeyworks-eikyouryoku-idol"
+  },
+  {
+   "about": "Camellia (kamelia) to jeden z najbardziej znanych producentów J-core i hardcore, związany m.in. z Taiko no Tatsujin i Vocaloid.",
+   "artist": "Camellia",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-06",
+   "songAbout": "Szalony utwór w stylu hardcore/taiko — wydany przy współpracy z „Taiko no Tatsujin”.",
+   "title": "Don-doko Don-tastic!!!",
+   "url": "https://musicbrainz.org/release-group/2b5dd9d7-3e96-4efa-b3f1-77c173c95727",
+   "id": "camellia-don-doko-don-tastic"
+  },
   {
    "about": "Harumakigohan to japoński producent vocaloidowy znany z melancholijnych utworów z Miku.",
    "artist": "Harumaki Gohan feat. 初音ミク",
@@ -24,6 +240,54 @@
    "title": "デーモンロード (Demon Lord)",
    "url": "https://youtu.be/5QMGGR_qC58",
    "id": "kanaria-demon-lord"
+  },
+  {
+   "about": "Shirakami Fubuki to VTuberka z hololive (1. generacja), zwana „Ojou-sama” i znana z lisich motywów.",
+   "artist": "白上フブキ",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-06",
+   "songAbout": "Singiel VTuberki wydany w sklepach muzycznych.",
+   "title": "FOXXXROOM",
+   "url": "https://music.apple.com/jp/album/foxxxroom-single/6815579913?uo=4",
+   "id": "shirakami-fubuki-foxxxroom"
+  },
+  {
+   "about": "Suzuki Konomi to japońska wokalistka anison, znana z openingów anime, m.in. „This Game” (No Game No Life).",
+   "artist": "鈴木このみ",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": true,
+   "released": "2026-10-06",
+   "songAbout": "Opening anime „Yowaki MAX Reijō” — energetyczny anisong, streaming od 6.10.2026.",
+   "title": "強気MAX宣言",
+   "url": "https://www.lisani.jp/news/",
+   "id": "suzuki-konomi-tsuyoki-max-sengen"
+  },
+  {
+   "about": "beatMARIO (COOL&CREATE) to jeden z najbardziej znanych producentów J-core i electro, związany z serią Touhou.",
+   "artist": "ビートまりお",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-05",
+   "songAbout": "Nowy singiel producenta.",
+   "title": "Limo Nana",
+   "url": "https://music.apple.com/jp/album/limo-nana-single/6818034092?uo=4",
+   "id": "beatmario-limo-nana"
+  },
+  {
+   "about": "Mili to japońsko-amerykański zespół znany z filmowego, fantasy popu, m.in. „world.execute(me);” i utworów do gier; grali m.in. na Pyrkonie.",
+   "artist": "Mili",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-05",
+   "songAbout": "Nowy singiel zespołu Mili.",
+   "title": "Rendezvous",
+   "url": "https://music.apple.com/jp/album/rendezvous-single/6817152221?uo=4",
+   "id": "mili-rendezvous"
   },
   {
    "about": "FLAVOR FOLEY to anglojęzyczny krąg producentów muzyki na syntezatory śpiewu (Jamie Paige, Vane Lily, ricedeity), znany z „BUTCHER VANITY” i „Spoken For”; autorzy piosenki przewodniej MIKU EXPO 2026 EUROPE.",
@@ -86,6 +350,18 @@
    "id": "pinocchiop-enemy"
   },
   {
+   "about": "Surii to japoński producent i wokalista internetowy, tworzący melodyjne piosenki rockowo-popowe.",
+   "artist": "すりぃ",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-03",
+   "songAbout": "Nowy singiel.",
+   "title": "ラキラキ",
+   "url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%AD%E3%83%A9%E3%82%AD-single/6815596270?uo=4",
+   "id": "suri-rakiraki"
+  },
+  {
    "about": "t+pazolite to japoński twórca J-core, speedcore i happy hardcore, znany z TANO*C i gier rytmicznych.",
    "artist": "t+pazolite feat. 初音ミク",
    "foundAt": "2026-10-08",
@@ -120,6 +396,18 @@
    "title": "ゆるり。",
    "url": "https://open.spotify.com/album/0r7lvbrtF2WZn3pCNOk6bx",
    "id": "true-yururi"
+  },
+  {
+   "about": "ZAQ to japońska wokalistka i autorka tekstów znana z openingów anime (m.in. „Sparkling Daydream” z Chuunibyou); grała na Pyrkonie.",
+   "artist": "zaq",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-03",
+   "songAbout": "Nowy singiel ZAQ.",
+   "title": "Attitude",
+   "url": "https://music.apple.com/jp/album/attitude-single/6814150633?uo=4",
+   "id": "zaq-attitude"
   },
   {
    "about": "電音部 (Denonbu) to multimedialny projekt Bandai Namco łączący postacie z muzyką klubową, do którego utwory piszą producenci sceny elektronicznej. Ma’Scar’Piece to jeden z unitów projektu, znany m.in. z „OTAKEBI”.",
@@ -170,6 +458,18 @@
    "id": "marasy-feat-hatsune-miku-kaien"
   },
   {
+   "about": "Marasy to pianista i producent vocaloidowy, znany z aranżacji fortepianowych i współpracy z Hatsune Miku.",
+   "artist": "まらしぃ, びび, KOUICHI feat. 初音ミク NT (Ver.2) (Original++)",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-02",
+   "songAbout": "Nowa kolaboracja z Hatsune Miku NT.",
+   "title": "開演",
+   "url": "https://youtu.be/vlCN8PFNhIk",
+   "id": "marasy-kaien-2026"
+  },
+  {
    "about": "NAKISO to japoński producent vocaloidowy tworzący mroczne, narracyjne utwory z Hatsune Miku.",
    "artist": "NAKISO feat. 初音ミク",
    "foundAt": "2026-10-08",
@@ -180,6 +480,30 @@
    "title": "もしもしも (if if)",
    "url": "https://youtu.be/7qUq1yOjoPM",
    "id": "nakiso-if-if"
+  },
+  {
+   "about": "Nakiso to producent vocaloidowy znany z szybkich, taneczno-elektronicznych utworów.",
+   "artist": "なきそ feat. 初音ミク",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-02",
+   "songAbout": "Nowy utwór z Hatsune Miku; premiera na YouTube.",
+   "title": "もしもしも",
+   "url": "https://youtu.be/7qUq1yOjoPM",
+   "id": "nakiso-moshimoshimo"
+  },
+  {
+   "about": "RADWIMPS to japoński zespół rockowy znany z muzyki do filmów Makoto Shinkai („Your Name”, „Weathering With You”).",
+   "artist": "RADWIMPS",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-02",
+   "songAbout": "Nowy singiel zespołu — dostępny też w wersji „夕星-ゆうづつ-”.",
+   "title": "Yuzutsu",
+   "url": "https://music.apple.com/jp/album/yuzutsu-single/6815505067?uo=4",
+   "id": "radwimps-yuzutsu"
   },
   {
    "about": "Steve Aoki to amerykański DJ i producent EDM, założyciel wytwórni Dim Mak, znany z energetycznych setów i licznych kolaboracji, także z japońskimi artystami.",
@@ -254,6 +578,18 @@
    "id": "nekozume-yes-or-no"
   },
   {
+   "about": "Producentka Otonashi AF, Yoshida Yoru i zespół Bokagaku (ボカ学) tworzą wspólny, eklektyczny utwór.",
+   "artist": "音無あふ, 吉田夜世, ボカ学 feat. 足立レイ, 重音テトSV",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-01",
+   "songAbout": "Taneczny utwór z głosami Adachi Rei i Kasane Teto SV; premiera na YouTube.",
+   "title": "FLEX☆DANCE",
+   "url": "https://youtu.be/7YlhM6OCHBs",
+   "id": "otonashi-af-flex-dance"
+  },
+  {
    "about": "THØRNS to twórca z anglojęzycznej sceny vocal synth, publikujący single z gościnnym udziałem syntezatorów śpiewu i innych producentów.",
    "artist": "THØRNS",
    "foundAt": "2026-10-04",
@@ -314,6 +650,18 @@
    "id": "denonbu-bukuroelectro2nd-zumadesukoto-remix"
   },
   {
+   "about": "Houshou Marine to VTuberka z hololive (3. generacja), kapitan piratów z „Houshou Kaizokudan”.",
+   "artist": "宝鐘マリン",
+   "foundAt": "2026-10-09",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-09-30",
+   "songAbout": "Nowa EP-ka VTuberki.",
+   "title": "New World Carnival",
+   "url": "https://music.apple.com/jp/album/new-world-carnival-iza-miwaku-no-ounabarae-ep/6811848369?uo=4",
+   "id": "houshou-marine-new-world-carnival"
+  },
+  {
    "about": "kinoshita to producent vocaloidowy znany z szybkich, chwytliwych piosenek z Hatsune Miku i Otomachi Uną, m.in. „ポッピンキャンディ☆フィーバー!”.",
    "artist": "kinoshita",
    "foundAt": "2026-10-04",
@@ -360,6 +708,18 @@
    "title": "エメラルド (Emerald)",
    "url": "https://youtu.be/kM8HEzBGU-0",
    "id": "tatsuya-kitani-emerald"
+  },
+  {
+   "about": "HoneyWorks to japoński producent i kolektyw twórców znany z serii „Kokuhaku Jikkō Iinkai” i wielu piosenek wykorzystywanych w anime i filmach.",
+   "artist": "MARUMOCHI from HoneyWorks",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-29",
+   "songAbout": "Nowy singiel z wokalem Hoshikawa Sara.",
+   "title": "初恋リプライ",
+   "url": "https://music.apple.com/jp/album/%E5%88%9D%E6%81%8B%E3%83%AA%E3%83%97%E3%83%A9%E3%82%A4-feat-%E6%98%9F%E5%B7%9D%E3%82%B5%E3%83%A9-single/6810162490?uo=4",
+   "id": "honeyworks-hatsukoi-reply"
   },
   {
    "about": "Dwie VTuberki z trzeciej generacji hololive Indonesia: Kobo Kanaeru, energiczna „zaklinaczka deszczu” i jedna z najpopularniejszych talentek holoID, oraz Vestia Zeta, występująca w roli tajnej agentki.",
@@ -422,6 +782,18 @@
    "id": "camellia-exoplanetary-mirage"
   },
   {
+   "about": "DYES IWASAKI to producent i DJ ze sceny vocaloidowej i electro.",
+   "artist": "DYES IWASAKI",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-27",
+   "songAbout": "Wersja z kolaboracją z Dopam!ne oraz wersja z Hatsune Miku („リブラ・フロイライン”).",
+   "title": "Libra Fräulein (feat. Dopam!ne)",
+   "url": "https://music.apple.com/jp/album/libra-fr%C3%A4ulein-feat-dopam-ne-single/6812178491?uo=4",
+   "id": "dyes-iwasaki-libra-fraulein"
+  },
+  {
    "about": "Machico to japońska piosenkarka i seiyuu, znana z openingów anime „KonoSuba” („fantastic dreamer”, „TOMORROW”) oraz z roli Tokai Teio w „Uma Musume”.",
    "artist": "Machico",
    "foundAt": "2026-10-04",
@@ -458,6 +830,66 @@
    "id": "asobi-mawari-tai-sawage-guruguru-time"
   },
   {
+   "about": "Kanaria to producent vocaloidowy, autor popularnych utworów internetowych, także dla wokalistów i VTuberów.",
+   "artist": "Kanaria",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-26",
+   "songAbout": "Singiel ze znanym wokalistą Kuzuha (NIJISANJI).",
+   "title": "Identity (feat. Kuzuha)",
+   "url": "https://music.apple.com/jp/album/identity-feat-kuzuha-single/6813761116?uo=4",
+   "id": "kanaria-identity-kuzuha"
+  },
+  {
+   "about": "LonePi to producent vocaloidowy znany z mrocznych, melodyjnych utworów.",
+   "artist": "LonePi",
+   "foundAt": "2026-10-09",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-09-26",
+   "songAbout": "Nowy album, którego utwory ukazały się też na YouTube.",
+   "title": "Female",
+   "url": "https://music.apple.com/jp/album/female/6810088572?uo=4",
+   "id": "lonepi-female"
+  },
+  {
+   "about": "Ado to japońska wokalistka sławna jako głos Uty w „One Piece Film: Red”, autorka „Usseewa”.",
+   "artist": "Ado",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-25",
+   "songAbout": "Nowy singiel Ado, wydany też w wersji z kolaboracją z Kuromi.",
+   "title": "DND",
+   "url": "https://music.apple.com/jp/album/dnd-feat-kuromi-single/6812997394?uo=4",
+   "id": "ado-dnd"
+  },
+  {
+   "about": "Gilla Band to irlandzki zespół noise-rockowy, występuje na Primavera Sound 2027.",
+   "artist": "Gilla Band",
+   "foundAt": "2026-10-09",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-09-25",
+   "songAbout": "Nowy album zespołu.",
+   "title": "Pugnello",
+   "url": "https://musicbrainz.org/release-group/57abbb77-2308-4813-8367-e17f34d99238",
+   "id": "gilla-band-pugnello"
+  },
+  {
+   "about": "jon-YAKITORY to producent ze sceny elektronicznej i vocaloidowej, tworzy ambitne, taneczne utwory z Miku.",
+   "artist": "jon-YAKITORY, MOLIY, BEYOND BORDERs feat. 初音ミク",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-25",
+   "songAbout": "Taneczny utwór z Hatsune Miku we współpracy z MOLIY i BEYOND BORDERs.",
+   "title": "All Mine",
+   "url": "https://youtu.be/dxbo5IxaCP4",
+   "id": "jon-yakitory-all-mine"
+  },
+  {
    "about": "LiSA to japońska wokalistka anisong, znana z openingów „Gurenge” i „Homura” (Demon Slayer) oraz „unlasting” (Sword Art Online).",
    "artist": "LiSA",
    "foundAt": "2026-10-05",
@@ -468,6 +900,42 @@
    "title": "ソフィリア (Sophilia)",
    "url": "https://movies.kadokawa.co.jp/matching/info/2026/09/05/260905-1/",
    "id": "lisa-sophilia"
+  },
+  {
+   "about": "picco to producent vocaloidowy i elektroniczny, współpracujący ze sceną hyperpop.",
+   "artist": "picco, George Clanton, BEYOND BORDERs feat. 初音ミク",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-25",
+   "songAbout": "Współpraca z George’em Clantonem i BEYOND BORDERs; śpiewa Hatsune Miku.",
+   "title": "All Across The World",
+   "url": "https://youtu.be/V6CpshKqSEs",
+   "id": "picco-all-across-the-world"
+  },
+  {
+   "about": "SAWTOWNE to producent elektroniczny i vocaloidowy, związany ze sceną hyperpop/J-core.",
+   "artist": "SAWTOWNE & 初音ミク",
+   "foundAt": "2026-10-09",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-09-25",
+   "songAbout": "Nowy album producenta, na którym śpiewa m.in. Hatsune Miku.",
+   "title": "CHECKPOiNT!",
+   "url": "https://music.apple.com/jp/album/checkpoint/6804896491?uo=4",
+   "id": "sawtowne-checkpoint"
+  },
+  {
+   "about": "SAWTOWNE to producent elektroniczny i vocaloidowy, związany ze sceną hyperpop/J-core.",
+   "artist": "SAWTOWNE feat. 初音ミク",
+   "foundAt": "2026-10-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-25",
+   "songAbout": "Singiel z Hatsune Miku.",
+   "title": "Operation: Fix My Brother!",
+   "url": "https://youtu.be/fbmFkRr9zgU",
+   "id": "sawtowne-operation-fix-my-brother"
   }
  ]
 }
