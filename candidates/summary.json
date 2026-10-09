@@ -1,0 +1,27 @@
+{
+ "generated": "2026-10-09T14:17:11Z",
+ "artists": 471,
+ "seconds": 2232,
+ "music": {
+  "found": 175,
+  "new": 159
+ },
+ "concerts": {
+  "found": 77,
+  "new": 31
+ },
+ "japan": {
+  "found": 5,
+  "new": 5
+ },
+ "calls": {
+  "vocadb_calls": 718,
+  "itunes_calls": 471,
+  "mb_calls": 1286,
+  "songkick_calls": 462,
+  "errors": 1
+ },
+ "errors": [
+  "songkick jon-YAKITORY: HTTPError HTTP Error 503: Service Temporarily Unavailable"
+ ]
+}
