@@ -20,6 +20,8 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+      - if: inputs.only == 'debug'
+        run: python3 tools/debug.py && exit 1
       - run: python3 tools/scan.py --limit "${{ inputs.limit || 0 }}" --only "${{ inputs.only || 'music,concerts,japan' }}"
       - name: Zapisz kandydatów
         run: |
