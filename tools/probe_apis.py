@@ -1,40 +1,48 @@
-"""Sprawdza, które darmowe API z koncertami i premierami odpowiadają z GitHub Actions."""
-import json, sys, time, urllib.parse, urllib.request
+"""Sprawdza, które źródła koncertów odpowiadają z GitHub Actions."""
+import json, re, time, urllib.parse, urllib.request
 
-UA = "WeebRadar/0.1 (https://github.com/Alexsydfq/weeb-radar)"
-ARTISTS = ["Ado", "YOASOBI", "Hatsune Miku", "Babymetal", "Camellia"]
+UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
+q = urllib.parse.quote
 
 
-def get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+def get(url, js=False):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json" if js else "text/html,*/*", "Accept-Language": "en"})
     t = time.time()
     try:
-        with urllib.request.urlopen(req, timeout=20) as r:
-            return r.status, json.loads(r.read().decode()), time.time() - t
+        with urllib.request.urlopen(req, timeout=25) as r:
+            b = r.read().decode("utf-8", "replace")
+            return r.status, b, time.time() - t
     except Exception as e:  # noqa: BLE001
-        return getattr(e, "code", "ERR"), str(e)[:200], time.time() - t
+        return getattr(e, "code", "ERR"), str(e)[:150], time.time() - t
 
 
-def show(name, url, pick):
-    code, body, dt = get(url)
-    try:
-        out = pick(body) if code == 200 else body
-    except Exception as e:  # noqa: BLE001
-        out = f"parse error {e}: {str(body)[:200]}"
-    print(f"[{name}] {code} {dt:.1f}s -> {json.dumps(out, ensure_ascii=False)[:600]}")
+def probe(name, url, js=False, pat=None):
+    code, body, dt = get(url, js)
+    info = f"len={len(body)}"
+    if code == 200:
+        ld = len(re.findall(r'"@type"\s*:\s*"(?:Music)?Event"', body))
+        info += f" jsonld_events={ld}"
+        if pat:
+            info += " hits=" + json.dumps(re.findall(pat, body)[:6], ensure_ascii=False)[:500]
+        else:
+            info += " head=" + json.dumps(body[:300], ensure_ascii=False)
+    else:
+        info += " " + body
+    print(f"[{name}] {code} {dt:.1f}s {info}\n")
 
 
-q = urllib.parse.quote
-for a in ARTISTS:
-    print(f"\n=== {a}")
-    show("bandsintown", f"https://rest.bandsintown.com/artists/{q(a)}/events?app_id=weebradar&date=upcoming",
-         lambda b: [(e["datetime"][:10], e["venue"]["city"], e["venue"]["country"]) for e in b][:8])
-    show("musicbrainz", "https://musicbrainz.org/ws/2/release-group?fmt=json&limit=5&query="
-         + q(f'artist:"{a}" AND firstreleasedate:[2026-09-01 TO 2027-12-31]'),
-         lambda b: [(r["title"], r.get("first-release-date")) for r in b["release-groups"]])
-    time.sleep(1.2)
-    show("deezer", "https://api.deezer.com/search/album?limit=50&q=" + q('artist:"' + a + '"'),
-         lambda b: sorted({(x["title"], x["artist"]["name"]) for x in b["data"]})[:5])
-    show("itunes", f"https://itunes.apple.com/search?term={q(a)}&entity=album&country=JP&limit=50",
-         lambda b: sorted([(r["releaseDate"][:10], r["collectionName"]) for r in b["results"]], reverse=True)[:5])
-    show("vocadb", f"https://vocadb.net/api/artists?query={q(a)}&maxResults=1", lambda b: [x["name"] for x in b["items"]])
+probe("songkick-search", "https://www.songkick.com/search?type=artists&query=Ado", pat=r'href="(/artists/\d+-[^"]+)"')
+probe("songkick-cal", "https://www.songkick.com/artists/8932659-ado/calendar", pat=r'"startDate":"([^"]+)"[^}]*?"name":"([^"]+)"')
+probe("jame", "https://www.jame-world.com/en/concerts.html", pat=r'<h3[^>]*>([^<]+)')
+probe("eventim-api", "https://public-api.eventim.com/websearch/search/api/exploration/v2/productGroups?webId=web__eventim-de&language=de&search_term=" + q("BABYMETAL"), js=True, pat=r'"name":"([^"]+)"')
+probe("eventernote", "https://www.eventernote.com/actors/IOSYS/10656/events", pat=r'<h4><a[^>]*>([^<]+)')
+probe("vocadb-events", "https://vocadb.net/api/releaseEvents?sort=Date&maxResults=10&afterDate=2026-10-01&fields=Venue", js=True, pat=r'"name":"([^"]+)"')
+probe("vocafest", "https://vocafest.co.uk/", pat=r'<title>([^<]+)')
+probe("nautiljon", "https://www.nautiljon.com/agenda/", pat=r'<title>([^<]+)')
+probe("animexx", "https://www.animexx.de/events/", pat=r'<title>([^<]+)')
+probe("dice", "https://dice.fm/search?query=anime%20rave", pat=r'<title>([^<]+)')
+probe("ra", "https://ra.co/events/pl/warsaw", pat=r'<title>([^<]+)')
+probe("bit-web", "https://www.bandsintown.com/a/9614017-babymetal", pat=r'<title>([^<]+)')
+probe("ticketmaster-web", "https://www.ticketmaster.de/search?q=babymetal", pat=r'<title>([^<]+)')
+probe("lastfm-events", "https://www.last.fm/music/BABYMETAL/+events", pat=r'<title>([^<]+)')
+probe("musicbrainz-events", "https://musicbrainz.org/ws/2/event?query=" + q('artist:"BABYMETAL"') + "&fmt=json&limit=5", js=True, pat=r'"name":"([^"]+)"')
