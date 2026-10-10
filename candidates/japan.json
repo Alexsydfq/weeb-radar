@@ -1,62 +1,6 @@
 {
- "generated": "2026-10-09T14:17:13Z",
+ "generated": "2026-10-10T01:19:50Z",
  "about": "Lajwy w Japonii (Songkick), których nie ma w events.json",
- "count": 5,
- "items": [
-  {
-   "watch": "toe",
-   "name": "Toe @ Shibuya O East",
-   "date": "2026-10-25",
-   "dateEnd": "2026-10-25",
-   "city": "Shibuya",
-   "cc": "JP",
-   "venue": "Shibuya O East",
-   "url": "https://www.songkick.com/festivals/3802634-argument/id/43386069-the-argument-2026",
-   "source": "songkick"
-  },
-  {
-   "watch": "OZIGIRI",
-   "name": "OZIGIRI @ Tokyo",
-   "date": "2026-11-01",
-   "dateEnd": "2026-11-01",
-   "city": "Tokyo",
-   "cc": "JP",
-   "venue": "Tokyo",
-   "url": "https://www.songkick.com/concerts/43421456-djkurara-at-unknown-venue",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Zepp Haneda",
-   "date": "2026-11-25",
-   "dateEnd": "2026-11-25",
-   "city": "Tokyo",
-   "cc": "JP",
-   "venue": "Zepp Haneda",
-   "url": "https://www.songkick.com/concerts/43322665-queens-of-the-stone-age-at-zepp-haneda",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Zepp Nagoya",
-   "date": "2026-11-26",
-   "dateEnd": "2026-11-26",
-   "city": "Nagoya",
-   "cc": "JP",
-   "venue": "Zepp Nagoya",
-   "url": "https://www.songkick.com/concerts/43322667-queens-of-the-stone-age-at-zepp-nagoya",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Zepp Namba",
-   "date": "2026-11-28",
-   "dateEnd": "2026-11-28",
-   "city": "Osaka",
-   "cc": "JP",
-   "venue": "Zepp Namba",
-   "url": "https://www.songkick.com/concerts/43322680-queens-of-the-stone-age-at-zepp-namba",
-   "source": "songkick"
-  }
- ]
+ "count": 0,
+ "items": []
 }

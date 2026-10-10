@@ -1856,6 +1856,9 @@
   "vocadb": 43375
  },
  "jon-YAKITORY": {
+  "checked": "2026-10-10",
+  "mbid": "af1b35f6-7cfa-4f2f-a57b-364b7406de89",
+  "songkick": null,
   "vocadb": 9917
  },
  "kinoshita": {
@@ -2032,6 +2035,12 @@
   "mbid": "7ea8a523-b33d-4944-ad31-fad25a81d603",
   "songkick": "421785",
   "vocadb": null
+ },
+ "tofubeats": {
+  "checked": "2026-10-10",
+  "mbid": "6c6869ac-cd89-4740-b808-949bff1652fa",
+  "songkick": "5638979",
+  "vocadb": 9571
  },
  "vally.exe": {
   "checked": "2026-10-09",

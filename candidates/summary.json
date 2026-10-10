@@ -1,27 +1,24 @@
 {
- "generated": "2026-10-09T14:17:11Z",
- "artists": 471,
- "seconds": 2232,
+ "generated": "2026-10-10T01:19:49Z",
+ "artists": 472,
+ "seconds": 1460,
  "music": {
-  "found": 175,
-  "new": 118
+  "found": 130,
+  "new": 86
  },
  "concerts": {
-  "found": 77,
-  "new": 31
+  "found": 61,
+  "new": 10
  },
  "japan": {
-  "found": 5,
-  "new": 5
+  "found": 4,
+  "new": 0
  },
  "calls": {
-  "vocadb_calls": 718,
-  "itunes_calls": 471,
-  "mb_calls": 1286,
-  "songkick_calls": 462,
-  "errors": 1
+  "vocadb_calls": 243,
+  "songkick_calls": 140,
+  "itunes_calls": 472,
+  "mb_calls": 476
  },
- "errors": [
-  "songkick jon-YAKITORY: HTTPError HTTP Error 503: Service Temporarily Unavailable"
- ]
+ "errors": []
 }
