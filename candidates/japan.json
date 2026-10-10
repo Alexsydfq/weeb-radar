@@ -1,6 +1,106 @@
 {
- "generated": "2026-10-10T01:19:50Z",
- "about": "Lajwy w Japonii (Songkick), których nie ma w events.json",
- "count": 0,
- "items": []
+ "generated": "2026-10-10T13:14:13Z",
+ "about": "Lajwy w Japonii i Korei (Songkick, VocaDB), których nie ma w events.json",
+ "count": 9,
+ "items": [
+  {
+   "watch": null,
+   "name": "初音ミクシンフォニー 2026-2027 〜Melodies on the Keys〜 横浜",
+   "date": "2026-10-10",
+   "dateEnd": null,
+   "city": "横浜国際平和会議場",
+   "cc": "JP",
+   "category": "Concert",
+   "url": "https://x.com/mikusymphony/status/2073754168125222956",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "実験曲投稿祭",
+   "date": "2026-10-10",
+   "dateEnd": "2026-10-10",
+   "city": "ニコニコ動画",
+   "cc": "JP",
+   "category": "Festival",
+   "url": "https://www.twipla.jp/events/730062",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "かいとぱ BigCity",
+   "date": "2026-10-11",
+   "dateEnd": null,
+   "city": "東京ビッグサイト",
+   "cc": "JP",
+   "category": "Festival",
+   "url": "https://c1ouo1y.wixsite.com/cocktailkaito/kaitopar",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "UTAU男祭り2026",
+   "date": "2026-11-09",
+   "dateEnd": "2026-11-23",
+   "city": "ニコニコ動画",
+   "cc": "JP",
+   "category": "Festival",
+   "url": "https://x.com/utau_otoko_fest",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "初音ミク×鼓童スペシャルライブ～響演～",
+   "date": "2026-11-20",
+   "dateEnd": "2026-11-21",
+   "city": "NHK Hall",
+   "cc": "JP",
+   "category": "Concert",
+   "url": "https://www.event.nhk.or.jp/e-portal/detail.html?id=4460",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "ボカロ曲匿名投稿イベント 無色透名祭4",
+   "date": "2026-11-20",
+   "dateEnd": "2026-11-23",
+   "city": "ニコニコ動画",
+   "cc": "JP",
+   "category": "Festival",
+   "url": "https://site.nicovideo.jp/mushokutomeisai/",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "発表ドラゴン投稿祭",
+   "date": "2026-12-04",
+   "dateEnd": null,
+   "city": "ニコニコ動画",
+   "cc": "JP",
+   "category": "Festival",
+   "url": "https://note.com/nbaji/n/n9b14d298adcf",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "UTAUがんばり祭り",
+   "date": "2026-12-12",
+   "dateEnd": "2026-12-19",
+   "city": "ニコニコ動画",
+   "cc": "JP",
+   "category": "Festival",
+   "url": "https://bsky.app/profile/hachi-hajime.bsky.social/post/3mnlib43z7k27",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "初音ミクシンフォニー 2026-2027 〜Melodies on the Keys〜 大阪",
+   "date": "2027-01-10",
+   "dateEnd": null,
+   "city": "大阪府立国際会議場",
+   "cc": "JP",
+   "category": "Concert",
+   "url": "https://x.com/mikusymphony/status/2073754168125222956",
+   "source": "vocadb"
+  }
+ ]
 }
