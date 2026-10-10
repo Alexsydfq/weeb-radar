@@ -7,7 +7,7 @@ co jest już w opublikowanych events.json i music.json, więc pomija tylko to, c
 Źródła (wszystkie bez klucza):
   muzyka:   iTunes Search (sklep JP), MusicBrainz release-groups, VocaDB songs
   koncerty: Songkick (kalendarz artysty, adres z relacji MusicBrainz), VocaDB release events
-  Japonia:  Songkick (JP)
+  Japonia:  Songkick + VocaDB (JP i KR)
 
 Uruchomienie: python3 tools/scan.py [--limit N] [--only music,concerts,japan]
 """
@@ -35,6 +35,7 @@ UA_WEB = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
 TODAY = dt.date.today()
 MUSIC_FROM = TODAY - dt.timedelta(days=14)
 MUSIC_TO = TODAY + dt.timedelta(days=30)
+ASIA = {"JP", "KR"}  # zakładka „Japonia i Korea”
 EUROPE = set(
     "AL AD AT BY BE BA BG HR CY CZ DK EE FI FR DE GR HU IS IE IT XK LV LI LT LU MT MD MC ME NL MK NO PL PT RO "
     "SM RS SK SI ES SE CH UA GB UK VA".split()
@@ -46,6 +47,7 @@ COUNTRY_CC = {
     "sweden": "SE", "norway": "NO", "denmark": "DK", "finland": "FI", "ireland": "IE", "portugal": "PT",
     "slovakia": "SK", "slovenia": "SI", "croatia": "HR", "romania": "RO", "bulgaria": "BG", "greece": "GR",
     "lithuania": "LT", "latvia": "LV", "estonia": "EE", "luxembourg": "LU", "serbia": "RS", "japan": "JP",
+    "south korea": "KR", "korea": "KR", "republic of korea": "KR", "korea, republic of": "KR",
     "ukraine": "UA", "iceland": "IS", "malta": "MT", "cyprus": "CY",
 }
 DROP_PAREN = re.compile(r"dowoln|japońsk|wokalist|^vo\.|^cv|festiwal|konwent", re.I)
@@ -319,7 +321,7 @@ def songkick_events(entry: str, sk: str) -> list[dict]:
                 loc = loc[0] if loc else {}
             addr = loc.get("address") or {}
             cc = cc_of(addr)
-            if cc not in EUROPE and cc != "JP":
+            if cc not in EUROPE and cc not in ASIA:
                 continue
             res.append({
                 "watch": entry, "name": html.unescape(e.get("name", "")), "date": d,
@@ -482,10 +484,11 @@ def main() -> None:
     if "concerts" in only or "japan" in only:
         sk = got.get("songkick", [])
         sk = dedupe(sk, lambda e: (norm(e["watch"]), e["date"], norm(e.get("city") or "")))
-        eu = [e for e in sk if e["cc"] != "JP"]
-        jp = [e for e in sk if e["cc"] == "JP"] + got.get("eventernote", [])
+        eu = [e for e in sk if e["cc"] not in ASIA]
+        jp = [e for e in sk if e["cc"] in ASIA] + got.get("eventernote", [])
         voc = safe("vocadb events", vocadb_events) or []
         voc_eu = [e for e in voc if e["cc"] in EUROPE]
+        jp += [e for e in voc if e["cc"] in ASIA and e["category"] in ("Concert", "Festival")]  # bez klubów i targów doujin
         if "concerts" in only:
             fresh = [e for e in eu + voc_eu if not known_event(e, events)]
             fresh.sort(key=lambda e: e["date"])
@@ -495,7 +498,7 @@ def main() -> None:
             jp = dedupe(jp, lambda e: (norm(e["name"])[:30], e["date"]))
             fresh = [e for e in jp if not known_event(e, events)]
             fresh.sort(key=lambda e: e["date"])
-            write("japan", fresh, "Lajwy w Japonii (Songkick), których nie ma w events.json")
+            write("japan", fresh, "Lajwy w Japonii i Korei (Songkick, VocaDB), których nie ma w events.json")
             summary["japan"] = {"found": len(jp), "new": len(fresh)}
     summary["calls"] = stats
     summary["errors"] = errors
