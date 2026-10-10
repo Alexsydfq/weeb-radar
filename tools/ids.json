@@ -1523,9 +1523,11 @@
  },
  "TAK": {
   "checked": "2026-10-09",
-  "mbid": "b5e0d3ad-e1f6-4e97-b02a-9f7a3e02323b",
-  "songkick": "10293860-tak",
-  "vocadb": 163345
+  "lock": true,
+  "mbid": null,
+  "note": "koreański producent Vocaloid (탁, Han Wontak); Songkick/MB niepewne",
+  "songkick": null,
+  "vocadb": 144288
  },
  "TENKO SHIBUKI": {
   "checked": "2026-10-09",
