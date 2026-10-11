@@ -1,30 +1,8 @@
 {
- "generated": "2026-10-10T13:14:13Z",
+ "generated": "2026-10-11T00:39:45Z",
  "about": "Lajwy w Japonii i Korei (Songkick, VocaDB), których nie ma w events.json",
- "count": 9,
+ "count": 8,
  "items": [
-  {
-   "watch": null,
-   "name": "初音ミクシンフォニー 2026-2027 〜Melodies on the Keys〜 横浜",
-   "date": "2026-10-10",
-   "dateEnd": null,
-   "city": "横浜国際平和会議場",
-   "cc": "JP",
-   "category": "Concert",
-   "url": "https://x.com/mikusymphony/status/2073754168125222956",
-   "source": "vocadb"
-  },
-  {
-   "watch": null,
-   "name": "実験曲投稿祭",
-   "date": "2026-10-10",
-   "dateEnd": "2026-10-10",
-   "city": "ニコニコ動画",
-   "cc": "JP",
-   "category": "Festival",
-   "url": "https://www.twipla.jp/events/730062",
-   "source": "vocadb"
-  },
   {
    "watch": null,
    "name": "かいとぱ BigCity",
@@ -100,6 +78,17 @@
    "cc": "JP",
    "category": "Concert",
    "url": "https://x.com/mikusymphony/status/2073754168125222956",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "初音ミクシンフォニー 2027 横浜",
+   "date": "2027-03-13",
+   "dateEnd": null,
+   "city": "横浜国際平和会議場",
+   "cc": "JP",
+   "category": "Concert",
+   "url": "https://x.com/mikusymphony/status/2108885503928095114",
    "source": "vocadb"
   }
  ]

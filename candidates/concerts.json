@@ -1,19 +1,8 @@
 {
- "generated": "2026-10-10T01:19:50Z",
+ "generated": "2026-10-11T00:39:45Z",
  "about": "Koncerty w Europie (Songkick, VocaDB), których nie ma w events.json",
- "count": 10,
+ "count": 9,
  "items": [
-  {
-   "watch": "Mori Calliope",
-   "name": "Mori Calliope @ UGC Montparnasse",
-   "date": "2026-10-10",
-   "dateEnd": "2026-10-10",
-   "city": "Paris",
-   "cc": "FR",
-   "venue": "UGC Montparnasse",
-   "url": "https://www.songkick.com/concerts/43339021-mori-calliope-at-ugc-montparnasse",
-   "source": "songkick"
-  },
   {
    "watch": "Mori Calliope",
    "name": "Mori Calliope @ Ufa-palast Düsseldorf",
