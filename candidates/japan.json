@@ -1,19 +1,8 @@
 {
- "generated": "2026-10-11T00:39:45Z",
+ "generated": "2026-10-12T01:00:17Z",
  "about": "Lajwy w Japonii i Korei (Songkick, VocaDB), których nie ma w events.json",
- "count": 8,
+ "count": 7,
  "items": [
-  {
-   "watch": null,
-   "name": "かいとぱ BigCity",
-   "date": "2026-10-11",
-   "dateEnd": null,
-   "city": "東京ビッグサイト",
-   "cc": "JP",
-   "category": "Festival",
-   "url": "https://c1ouo1y.wixsite.com/cocktailkaito/kaitopar",
-   "source": "vocadb"
-  },
   {
    "watch": null,
    "name": "UTAU男祭り2026",
