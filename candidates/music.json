@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-12T01:00:15Z",
- "about": "Premiery 2026-09-28..2026-11-11 artystów z watch.json, których nie ma w music.json",
- "count": 61,
+ "generated": "2026-10-13T03:00:05Z",
+ "about": "Premiery 2026-09-29..2026-11-12 artystów z watch.json, których nie ma w music.json",
+ "count": 70,
  "items": [
   {
    "watch": "RiraN",
@@ -28,6 +28,24 @@
    "released": "2026-10-14",
    "kind": "album",
    "url": "https://music.apple.com/jp/album/twinkle-telepathy/6818020564?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "芦沢ポトフ & 重音テト",
+   "title": "Shirahanoya - Single",
+   "released": "2026-10-13",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/shirahanoya-single/6812951839?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "PoppoOVO, 初音ミク, 重音テト & 音街ウナ",
+   "title": "雨晴I Wish - Single",
+   "released": "2026-10-13",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E9%9B%A8%E6%99%B4i-wish-single/6821887290?uo=4",
    "source": "itunes"
   },
   {
@@ -58,6 +76,33 @@
    "source": "itunes"
   },
   {
+   "watch": "洛天依",
+   "artist": "洛天依",
+   "title": "卖核弹的小女孩 - Single",
+   "released": "2026-10-12",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E5%8D%96%E6%A0%B8%E5%BC%B9%E7%9A%84%E5%B0%8F%E5%A5%B3%E5%AD%A9-single/6821838653?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "夢ノ結唱 ROSE",
+   "artist": "夢ノ結唱 ROSE",
+   "title": "Beyond the Way Home - Single",
+   "released": "2026-10-12",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/beyond-the-way-home-single/6821843146?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "夢ノ結唱 ROSE",
+   "artist": "夢ノ結唱 ROSE",
+   "title": "Masquerade Waltz - Single",
+   "released": "2026-10-12",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/masquerade-waltz-single/6821844983?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "ビートまりお",
    "artist": "ビートまりお",
    "title": "Beavers - Single",
@@ -74,6 +119,51 @@
    "kind": "EP",
    "url": "https://music.apple.com/jp/album/riot-in-hell-ep/6816827241?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "マドロミ feat. 初音ミク",
+   "title": "コーディネイト",
+   "released": "2026-10-12",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/64a7b85b-b6b0-4967-9ca2-26b1d1559cad",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "Abaraya",
+   "artist": "あばらや feat. various",
+   "title": "星、ときどき光",
+   "released": "2026-10-12",
+   "kind": "cover",
+   "url": "https://vocadb.net/S/1045474",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Abaraya",
+   "artist": "あばらや feat. v flower",
+   "title": "星、ときどき光",
+   "released": "2026-10-12",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1045472",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Vane Lily",
+   "artist": "BlazingP feat. 電気彩",
+   "title": "ROT",
+   "released": "2026-10-12",
+   "kind": "cover",
+   "url": "https://youtu.be/lEFyYrybcws",
+   "source": "vocadb"
+  },
+  {
+   "watch": "11vein",
+   "artist": "SaphsSapphire feat. メカスズカ",
+   "title": "the box",
+   "released": "2026-10-12",
+   "kind": "cover",
+   "url": "https://youtu.be/LaEzPKiUcwE",
+   "source": "vocadb"
   },
   {
    "watch": "重音テト",
@@ -95,12 +185,21 @@
   },
   {
    "watch": "洛天依",
-   "artist": "洛天依",
-   "title": "长安不见你 - Single",
+   "artist": "E.TOM, 白雾.YM & 洛天依",
+   "title": "GlowMe - Single",
    "released": "2026-10-11",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E9%95%BF%E5%AE%89%E4%B8%8D%E8%A7%81%E4%BD%A0-single/6820798291?uo=4",
+   "url": "https://music.apple.com/jp/album/glowme-single/6821835891?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "博衣こより",
+   "artist": "博衣こより",
+   "title": "RISING 酸",
+   "released": "2026-10-11",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/8da4d6f9-34ce-4e37-bf33-a4e73c64396a",
+   "source": "musicbrainz"
   },
   {
    "watch": "BilliumMoto",
@@ -256,6 +355,15 @@
    "source": "vocadb"
   },
   {
+   "watch": "ずんだもん",
+   "artist": "ほねまる & ずんだもん",
+   "title": "UFOキャッチャーあるあるの歌 (Ver.2) - Single",
+   "released": "2026-10-08",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/ufo%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E3%81%AE%E6%AD%8C-ver-2-single/6812215773?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "夢ノ結唱 POPY",
    "artist": "はるよよ & 夢ノ結唱 POPY",
    "title": "The Sky, the Wind, the Map, and You in My Heart - Single",
@@ -325,15 +433,6 @@
    "released": "2026-10-05",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/swim-single/6815546832?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "洛天依",
-   "artist": "WeyJimft & 洛天依",
-   "title": "主人公 (Vocaloid Edition) - Single",
-   "released": "2026-10-04",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E4%B8%BB%E4%BA%BA%E5%85%AC-vocaloid-edition-single/6821307185?uo=4",
    "source": "itunes"
   },
   {
@@ -445,6 +544,15 @@
    "source": "vocadb"
   },
   {
+   "watch": "Pentakill",
+   "artist": "League of Legends Music & Pentakill",
+   "title": "2026 World Championship Theme - Single",
+   "released": "2026-10-01",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/2026-world-championship-theme-single/6817972543?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "Aiobahn",
    "artist": "Aiobahn +81 & DEMONDICE",
    "title": "DEMON'S SHOT - Single",
@@ -478,7 +586,7 @@
    "released": "2026-09-29",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/%E5%B1%95%E7%A4%BA%E4%B8%AD%E6%AF%92-single/6812980550?uo=4",
-   "source": "itunes+musicbrainz+vocadb"
+   "source": "itunes"
   },
   {
    "watch": "Aiobahn",
@@ -490,21 +598,21 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "HoneyWorks",
-   "artist": "HoneyWorks feat.星川サラ",
-   "title": "初恋リプライ",
-   "released": "2026-09-29",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/9c157b13-230a-4893-9a31-c0a489bcd0a4",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "秦谷美鈴",
    "artist": "初星学園, 倉本千奈, 紫雲清夏, 十王星南 & 秦谷美鈴",
    "title": "修楽旅行 (倉本千奈・紫雲清夏・十王星南・秦谷美鈴 ver.)",
    "released": "2026-09-29",
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/ea591250-b5f1-4530-8e2a-d6b740b885a9",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "*Luna",
+   "artist": "幽音しの & *Luna",
+   "title": "Linger",
+   "released": "2026-09-29",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/ac1b5717-68b4-40c2-b549-1795c3df37d2",
    "source": "musicbrainz"
   },
   {
@@ -523,33 +631,6 @@
    "released": "2026-09-29",
    "kind": "singiel",
    "url": "https://vocadb.net/S/1041264",
-   "source": "vocadb"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "*Luna",
-   "title": "夏が僕らを呼ぶのなら(2026 Ver.)",
-   "released": "2026-09-28",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/ef2c6747-64ee-4245-a8d2-d48b4df6a999",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "tofubeats",
-   "artist": "tofubeats",
-   "title": "TVアニメ『正反対な君と僕』オリジナル･サウンドトラック Vol.02",
-   "released": "2026-09-28",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/b224457e-5f81-481e-87e8-596a0c852b27",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Something's off with my Vocaloid",
-   "artist": "うちのボカロは様子がおかしい feat. 雨衣, Google Text to Speech, 初音ミク V4 (English)",
-   "title": "アクマバライ",
-   "released": "2026-09-28",
-   "kind": "cover",
-   "url": "https://youtu.be/TzH5BsJj81Y",
    "source": "vocadb"
   }
  ]
