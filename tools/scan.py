@@ -441,6 +441,27 @@ def run_pool(label: str, entries: list[str], fn) -> list[dict]:
     return t, res
 
 
+# Orkiestrowe serie z muzyką z gier i anime: nie ma ich na liście artystów,
+# więc Songkick szuka ich osobno (sama wyszukiwarka, bez MusicBrainz).
+ORCHESTRAL = [
+    "NieR:Orchestra Concert", "NieR Orchestra", "Distant Worlds", "Final Symphony", "Video Games Live",
+    "The Legend of Zelda: Symphony of the Goddesses", "Kingdom Hearts Orchestra", "Joe Hisaishi",
+    "Studio Ghibli in Concert", "Anime Symphony", "Pokémon Symphonic Evolutions", "Monster Hunter Orchestra",
+    "Genshin Impact Concert", "Dragon Quest Symphony", "Persona Concert", "Final Fantasy VII Rebirth Orchestra",
+    "Undertale Concert", "Hiroyuki Sawano", "Yoko Shimomura", "Nobuo Uematsu", "Keiichi Okabe",
+    "Game Music Festival", "Candlelight Anime",
+]
+
+
+def orchestral_songkick(entry: str, terms: list[str], ids: dict) -> str | None:
+    rec = ids.setdefault(entry, {})
+    if rec.get("lock") or ("songkick" in rec and rec.get("checked", "") >= (TODAY - dt.timedelta(days=30)).isoformat()):
+        return rec.get("songkick")
+    rec["songkick"] = songkick_search(terms)
+    rec["checked"] = TODAY.isoformat()
+    return rec["songkick"]
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0)
@@ -463,10 +484,13 @@ def main() -> None:
         threads.append(("vocadb",) + run_pool("vocadb", artists, lambda e, t: vocadb_songs(e, t, ids)))
     if "concerts" in only or "japan" in only:
         def sk_fn(e, t):
+            if e in ORCHESTRAL:
+                sk = orchestral_songkick(e, t, ids)
+                return [dict(x, kind="symfoniczny") for x in songkick_events(e, sk)] if sk else []
             sk = mb_songkick(e, t, ids)
             return songkick_events(e, sk) if sk else []
         # MusicBrainz jest wspólny z muzyką, więc Songkick idzie po muzyce w tym samym limicie.
-        threads.append(("songkick",) + run_pool("songkick", artists, sk_fn))
+        threads.append(("songkick",) + run_pool("songkick", artists + ORCHESTRAL, sk_fn))
     for _, t, _ in threads:
         t.join()
     got = {name: res for name, _, res in threads}
@@ -492,7 +516,7 @@ def main() -> None:
         if "concerts" in only:
             fresh = [e for e in eu + voc_eu if not known_event(e, events)]
             fresh.sort(key=lambda e: e["date"])
-            write("concerts", fresh, "Koncerty w Europie (Songkick, VocaDB), których nie ma w events.json")
+            write("concerts", fresh, "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json")
             summary["concerts"] = {"found": len(eu) + len(voc_eu), "new": len(fresh)}
         if "japan" in only:
             jp = dedupe(jp, lambda e: (norm(e["name"])[:30], e["date"]))
