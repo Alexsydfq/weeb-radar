@@ -5632,7 +5632,26 @@
      "venue": "MTP Poznań"
     }
    ],
-   "url": "https://en.wikipedia.org/wiki/Pyrkon"
+   "url": "https://en.wikipedia.org/wiki/Pyrkon",
+   "lineup": [
+    "Mili"
+   ]
+  },
+  {
+   "id": "past-2023-06-16-mili-pyrkon-poznan",
+   "artist": "Mili",
+   "title": "Pyrkon 2023 – pierwszy koncert Mili w Europie",
+   "kind": "koncert",
+   "dateStart": "2023-06-16",
+   "stops": [
+    {
+     "date": "2023-06-16",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "Sala Ziemi (Pyrkon)"
+    }
+   ],
+   "url": "https://www.setlist.fm/setlist/mili/2023/sala-ziemi-pozna-poland-3a66d17.html"
   },
   {
    "id": "past-2023-06-13-man-with-a-mission",
