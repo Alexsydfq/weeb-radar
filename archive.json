@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:29:53Z",
+ "updated": "2026-10-14T16:17:33Z",
  "events": [
   {
    "id": "past-2026-10-13-nier-orchestra-concert-12026-yorha-krakow",
@@ -33,6 +33,9 @@
      "venue": "PreZero Arena Gliwice"
     }
    ],
+   "lineup": [
+    "Mika Kobayashi"
+   ],
    "url": "https://silesia.ryucon.pl/"
   },
   {
@@ -57,6 +60,11 @@
      "venue": "Colours Hoxton"
     }
    ],
+   "lineup": [
+    "Seth",
+    "KOUKI",
+    "TSUKASA"
+   ],
    "url": "https://jrocknews.com/2026/05/seth-kouki-and-tsukasa-of-sakura-zensen-debut-overseas-in-london-this-october.html"
   },
   {
@@ -74,6 +82,18 @@
      "date": "2026-10-10",
      "venue": "Funkhaus Berlin"
     }
+   ],
+   "lineup": [
+    "Aaron & Bryce Dessner",
+    "Ben Howard",
+    "Damien Rice",
+    "Patrick Watson",
+    "Nick Zinner",
+    "Sarah Neufeld",
+    "Thom Sonny Green",
+    "Woodkid",
+    "Henning May",
+    "Bosse"
    ],
    "url": "https://www.regioactive.de/news/2026/07/13/people-festival-feiert-2026-rueckkehr-ins-funkhaus-berlin-79SR9SKQdp"
   },
@@ -638,6 +658,48 @@
     }
    ],
    "url": "https://avo-magazine.com/en/2026/06/animeradio-de-will-host-summer-of-japanese-music-2026-in-three-german-cities/"
+  },
+  {
+   "id": "past-2026-07-17-animatsuri-2026-warszawa",
+   "artist": "Animatsuri 2026",
+   "title": "Festiwal kultury japońskiej · z Vocafest!",
+   "kind": "konwent",
+   "dateStart": "2026-07-17",
+   "dateEnd": "2026-07-19",
+   "stops": [
+    {
+     "date": "2026-07-17",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "EXPO XXI"
+    },
+    {
+     "date": "2026-07-18",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "EXPO XXI"
+    },
+    {
+     "date": "2026-07-19",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "EXPO XXI"
+    }
+   ],
+   "lineup": [
+    "VocaFest UK",
+    "Shota Nakama",
+    "Kinami",
+    "Cele",
+    "Katarzyna Karpowicz",
+    "Hoshinori x Sakuhana",
+    "B1/Wonderz",
+    "Cherroses",
+    "Sakuramai Poland",
+    "Konrad Shiryū Fijałkowski",
+    "Asylum Awaits"
+   ],
+   "url": "https://festiwal.animatsuri.pl/atrakcje/nasi-goscie/"
   },
   {
    "id": "past-2026-07-11-b7klan-j-rock-fest",
