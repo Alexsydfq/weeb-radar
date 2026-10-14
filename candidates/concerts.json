@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-14T00:44:21Z",
- "about": "Koncerty w Europie (Songkick, VocaDB), których nie ma w events.json",
- "count": 9,
+ "generated": "2026-10-14T15:10:52Z",
+ "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
+ "count": 11,
  "items": [
   {
    "watch": "Mori Calliope",
@@ -79,6 +79,30 @@
    "venue": "Fira Gran Via",
    "url": "https://www.songkick.com/concerts/43312779-lotus-juice-at-fira-gran-via",
    "source": "songkick"
+  },
+  {
+   "watch": "Nobuo Uematsu",
+   "name": "Nobuo Uematsu @ Roig Arena",
+   "date": "2026-12-18",
+   "dateEnd": "2026-12-18",
+   "city": "Valencia",
+   "cc": "ES",
+   "venue": "Roig Arena",
+   "url": "https://www.songkick.com/concerts/43414288-nobuo-uematsu-at-roig-arena",
+   "source": "songkick",
+   "kind": "symfoniczny"
+  },
+  {
+   "watch": "Anime Symphony",
+   "name": "Anime Symphony @ Palais des Congrès",
+   "date": "2027-02-05",
+   "dateEnd": "2027-02-05",
+   "city": "Paris",
+   "cc": "FR",
+   "venue": "Palais des Congrès",
+   "url": "https://www.songkick.com/concerts/43197665-anime-symphony-at-palais-des-congres",
+   "source": "songkick",
+   "kind": "symfoniczny"
   },
   {
    "watch": "Gilla Band",

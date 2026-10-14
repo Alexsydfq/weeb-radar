@@ -133,6 +133,10 @@
   "songkick": null,
   "vocadb": null
  },
+ "Anime Symphony": {
+  "checked": "2026-10-14",
+  "songkick": "10404525-anime-symphony"
+ },
  "AnythingBecomeMoe": {
   "checked": "2026-10-09",
   "mbid": "873c89a4-3032-4211-9cbf-dce2a8cab2f4",
@@ -231,6 +235,10 @@
   "mbid": "010a57ab-fa4a-4ac1-b233-35333c71601a",
   "songkick": "1347188-camellia",
   "vocadb": 154407
+ },
+ "Candlelight Anime": {
+  "checked": "2026-10-14",
+  "songkick": null
  },
  "Capchii": {
   "checked": "2026-10-09",
@@ -361,11 +369,19 @@
   "songkick": null,
   "vocadb": null
  },
+ "Distant Worlds": {
+  "checked": "2026-10-14",
+  "songkick": "2308532-distant-worlds"
+ },
  "Doubutsu Biscuits": {
   "checked": "2026-10-09",
   "mbid": null,
   "songkick": null,
   "vocadb": null
+ },
+ "Dragon Quest Symphony": {
+  "checked": "2026-10-14",
+  "songkick": null
  },
  "EMIRI": {
   "checked": "2026-10-09",
@@ -424,6 +440,14 @@
   "songkick": null,
   "vocadb": 136284
  },
+ "Final Fantasy VII Rebirth Orchestra": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
+ "Final Symphony": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
  "Franz Ferdinand": {
   "bandsintown": "https://www.bandsintown.com/a/596",
   "checked": "2026-10-09",
@@ -442,6 +466,14 @@
   "mbid": "ef46bbef-dba2-46e3-b534-1b44cbddf249",
   "songkick": null,
   "vocadb": null
+ },
+ "Game Music Festival": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
+ "Genshin Impact Concert": {
+  "checked": "2026-10-14",
+  "songkick": null
  },
  "Getty": {
   "checked": "2026-10-09",
@@ -559,6 +591,10 @@
   "songkick": "10296692-hikaru-utada",
   "vocadb": null
  },
+ "Hiroyuki Sawano": {
+  "checked": "2026-10-14",
+  "songkick": "10312468-hiroyuki-sawano"
+ },
  "HoYoFair": {
   "checked": "2026-10-09",
   "mbid": "820b2d48-54c1-4456-be08-9c17a2a9102e",
@@ -650,6 +686,10 @@
   "songkick": null,
   "vocadb": 72204
  },
+ "Joe Hisaishi": {
+  "checked": "2026-10-14",
+  "songkick": "22021-joe-hisaishi"
+ },
  "Jun Maeda": {
   "checked": "2026-10-09",
   "mbid": null,
@@ -723,6 +763,10 @@
   "songkick": "10339064-kasane-teto",
   "vocadb": null
  },
+ "Keiichi Okabe": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
  "Kid Cudi": {
   "checked": "2026-10-09",
   "mbid": "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
@@ -740,6 +784,10 @@
   "mbid": "2feabd45-4cb0-4dd2-a647-24b37f9f3988",
   "songkick": "10300921-kikuo",
   "vocadb": 470
+ },
+ "Kingdom Hearts Orchestra": {
+  "checked": "2026-10-14",
+  "songkick": "9444049-kingdom-hearts-orchestra"
  },
  "Kobaryo": {
   "checked": "2026-10-09",
@@ -1013,6 +1061,10 @@
   "songkick": null,
   "vocadb": 143881
  },
+ "Monster Hunter Orchestra": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
  "Mori Calliope": {
   "checked": "2026-10-09",
   "mbid": "8a9d0b90-951e-4ab8-b2dc-9d3618af3d28",
@@ -1116,6 +1168,14 @@
   "songkick": "10121375-neko-hacker",
   "vocadb": 120767
  },
+ "NieR Orchestra": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
+ "NieR:Orchestra Concert": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
  "Nilfruits": {
   "checked": "2026-10-09",
   "mbid": null,
@@ -1133,6 +1193,10 @@
   "mbid": "4ca9110a-8313-455f-9ddf-ee26d6db028a",
   "songkick": null,
   "vocadb": null
+ },
+ "Nobuo Uematsu": {
+  "checked": "2026-10-14",
+  "songkick": "335642-nobuo-uematsu"
  },
  "ODDEEO": {
   "checked": "2026-10-09",
@@ -1213,6 +1277,10 @@
   "songkick": "10169906-pentakill",
   "vocadb": null
  },
+ "Persona Concert": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
  "Pierce The Veil": {
   "bandsintown": "https://www.bandsintown.com/a/4072",
   "checked": "2026-10-09",
@@ -1255,6 +1323,10 @@
   "mbid": null,
   "songkick": null,
   "vocadb": null
+ },
+ "Pokémon Symphonic Evolutions": {
+  "checked": "2026-10-14",
+  "songkick": null
  },
  "PolyphonicBranch": {
   "checked": "2026-10-09",
@@ -1521,6 +1593,10 @@
   "songkick": "567464-steve-aoki",
   "vocadb": null
  },
+ "Studio Ghibli in Concert": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
  "TAK": {
   "checked": "2026-10-09",
   "lock": true,
@@ -1583,6 +1659,10 @@
   "songkick": null,
   "vocadb": 66892
  },
+ "The Legend of Zelda: Symphony of the Goddesses": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
  "Toby Fox": {
   "checked": "2026-10-09",
   "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
@@ -1631,6 +1711,10 @@
   "songkick": null,
   "vocadb": null
  },
+ "Undertale Concert": {
+  "checked": "2026-10-14",
+  "songkick": null
+ },
  "UniChØrd": {
   "checked": "2026-10-09",
   "mbid": "c79d9f04-f35b-4a01-a108-bb4c395487dd",
@@ -1661,6 +1745,10 @@
   "mbid": "ebdc2124-09ef-4540-803e-a30d059eac5e",
   "songkick": null,
   "vocadb": 57128
+ },
+ "Video Games Live": {
+  "checked": "2026-10-14",
+  "songkick": "579843-video-games-live"
  },
  "VocaloKAT": {
   "checked": "2026-10-09",
@@ -1717,6 +1805,10 @@
   "mbid": "fbe5a7e6-51e0-4306-ae69-146a1645b66c",
   "songkick": null,
   "vocadb": 58768
+ },
+ "Yoko Shimomura": {
+  "checked": "2026-10-14",
+  "songkick": "130382-yoko-shimomura"
  },
  "Yoko Takahashi": {
   "checked": "2026-10-09",
