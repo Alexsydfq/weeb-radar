@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-13T03:00:05Z",
+ "generated": "2026-10-14T00:44:18Z",
  "artists": 472,
  "seconds": 1460,
  "music": {
-  "found": 134,
-  "new": 70
+  "found": 129,
+  "new": 68
  },
  "concerts": {
   "found": 59,
@@ -15,10 +15,10 @@
   "new": 7
  },
  "calls": {
-  "vocadb_calls": 242,
   "itunes_calls": 472,
+  "songkick_calls": 138,
   "mb_calls": 472,
-  "songkick_calls": 138
+  "vocadb_calls": 242
  },
  "errors": []
 }
