@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-14T15:24:57Z",
+ "updated": "2026-10-14T15:29:53Z",
  "events": [
+  {
+   "id": "past-2026-10-13-nier-orchestra-concert-12026-yorha-krakow",
+   "artist": "NieR:Orchestra Concert 12026 [ YoRHa ]",
+   "title": "NieR:Orchestra Concert 12026 [ YoRHa ] (dyr. Eric Roth, orkiestra + chór)",
+   "kind": "symfoniczny",
+   "dateStart": "2026-10-13",
+   "stops": [
+    {
+     "date": "2026-10-13",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "TAURON Arena Kraków"
+    }
+   ],
+   "url": "https://www.nierconcert.com/12026/krakow"
+  },
   {
    "id": "2026-10-ryucon-silesia-gliwice",
    "artist": "Ryucon Silesia 2026",
@@ -62,6 +78,77 @@
    "url": "https://www.regioactive.de/news/2026/07/13/people-festival-feiert-2026-rueckkehr-ins-funkhaus-berlin-79SR9SKQdp"
   },
   {
+   "id": "past-2026-10-10-ryucon-silesia-2026-gosc-mika-kobayashi-gliwice",
+   "artist": "Ryucon Silesia 2026 (gość: Mika Kobayashi)",
+   "title": "Ryucon Silesia",
+   "kind": "konwent",
+   "dateStart": "2026-10-10",
+   "dateEnd": "2026-10-11",
+   "stops": [
+    {
+     "date": "2026-10-10",
+     "city": "Gliwice",
+     "cc": "PL",
+     "venue": "PreZero Arena Gliwice"
+    },
+    {
+     "date": "2026-10-11",
+     "city": "Gliwice",
+     "cc": "PL",
+     "venue": "PreZero Arena Gliwice"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/10/whats-on-japanese-music-in-europe-october-2026/"
+  },
+  {
+   "id": "past-2026-10-10-mori-calliope",
+   "artist": "Mori Calliope",
+   "title": "Mori Calliope (gość: IRyS) – wydarzenie w kinie UGC",
+   "kind": "koncert",
+   "dateStart": "2026-10-10",
+   "stops": [
+    {
+     "date": "2026-10-10",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "UGC Ciné Cité Bercy"
+    }
+   ],
+   "url": "https://www.songkick.com/concerts/43339021-mori-calliope-at-ugc-cine-cite-bercy"
+  },
+  {
+   "id": "past-2026-10-06-yasuharu-takanashi-s-far-east-groove-monachium",
+   "artist": "Yasuharu Takanashi's Far East Groove",
+   "title": "The Battle For Glory",
+   "kind": "koncert",
+   "dateStart": "2026-10-06",
+   "stops": [
+    {
+     "date": "2026-10-06",
+     "city": "Monachium",
+     "cc": "DE",
+     "venue": "Ampere"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/05/yasuharu-takanashis-far-east-groove-set-to-tour-europe-for-the-second-time/"
+  },
+  {
+   "id": "past-2026-10-05-yasuharu-takanashi-s-far-east-groove-berlin",
+   "artist": "Yasuharu Takanashi's Far East Groove",
+   "title": "The Battle For Glory",
+   "kind": "koncert",
+   "dateStart": "2026-10-05",
+   "stops": [
+    {
+     "date": "2026-10-05",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "SO36"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/05/yasuharu-takanashis-far-east-groove-set-to-tour-europe-for-the-second-time/"
+  },
+  {
    "id": "2026-10-zeke-deux-europe",
    "artist": "Zeke Deux",
    "title": "Europe 2026",
@@ -92,6 +179,93 @@
    "url": "https://www.jame-world.com/en/concerts.html"
   },
   {
+   "id": "past-2026-10-04-yasuharu-takanashi-s-far-east-groove-warszawa",
+   "artist": "Yasuharu Takanashi's Far East Groove",
+   "title": "The Battle For Glory (muzyka z Naruto, Fairy Tail)",
+   "kind": "koncert",
+   "dateStart": "2026-10-04",
+   "stops": [
+    {
+     "date": "2026-10-04",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Hybrydy"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/05/yasuharu-takanashis-far-east-groove-set-to-tour-europe-for-the-second-time/"
+  },
+  {
+   "id": "past-2026-10-03-kamijo-budapeszt",
+   "artist": "KAMIJO",
+   "title": "Sanctuary of Europe",
+   "kind": "koncert",
+   "dateStart": "2026-10-03",
+   "stops": [
+    {
+     "date": "2026-10-03",
+     "city": "Budapeszt",
+     "cc": "HU",
+     "venue": "Analog Music Hall"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/04/kamijo-announces-european-tour-sanctuary-of-europe/"
+  },
+  {
+   "id": "past-2026-10-02-kamijo-warszawa",
+   "artist": "KAMIJO",
+   "title": "Sanctuary of Europe",
+   "kind": "koncert",
+   "dateStart": "2026-10-02",
+   "stops": [
+    {
+     "date": "2026-10-02",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+kamijo"
+  },
+  {
+   "id": "past-2026-09-30-kamijo-berlin",
+   "artist": "KAMIJO",
+   "title": "Sanctuary of Europe",
+   "kind": "koncert",
+   "dateStart": "2026-09-30",
+   "stops": [
+    {
+     "date": "2026-09-30",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Bi Nuu"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/04/kamijo-announces-european-tour-sanctuary-of-europe/"
+  },
+  {
+   "id": "past-2026-09-26-japan-weekend-madrid",
+   "artist": "Japan Weekend Madrid",
+   "title": "Japan Weekend Madrid 2026 (Liella!, May'n, Machico, bôa)",
+   "kind": "konwent",
+   "dateStart": "2026-09-26",
+   "dateEnd": "2026-09-27",
+   "stops": [
+    {
+     "date": "2026-09-26",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Riyadh Air Metropolitano"
+    },
+    {
+     "date": "2026-09-27",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Riyadh Air Metropolitano"
+    }
+   ],
+   "url": "https://animecorner.me/japan-weekend-madrid-2026-finalizes-japanese-guest-lineup-to-feature-katsuyuki-konishi-machico-liella-mayn-boa-more/"
+  },
+  {
    "id": "2026-10-kamijo-sanctuary-of-europe",
    "artist": "KAMIJO",
    "title": "Sanctuary of Europe",
@@ -114,6 +288,5820 @@
     }
    ],
    "url": "https://www.jame-world.com/en/event/pl"
+  },
+  {
+   "id": "past-2026-09-23-kamijo",
+   "artist": "KAMIJO",
+   "title": "Sanctuary of Europe 2026",
+   "kind": "trasa",
+   "dateStart": "2026-09-23",
+   "dateEnd": "2026-09-28",
+   "stops": [
+    {
+     "date": "2026-09-23",
+     "city": "Helsinki",
+     "cc": "FI",
+     "venue": "Ääniwalli"
+    },
+    {
+     "date": "2026-09-24",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The Dome"
+    },
+    {
+     "date": "2026-09-26",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Sala Cats"
+    },
+    {
+     "date": "2026-09-28",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "L'Alhambra"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/04/kamijo-announces-european-tour-sanctuary-of-europe/"
+  },
+  {
+   "id": "past-2026-09-17-lisa-dusseldorf",
+   "artist": "LiSA",
+   "title": "LiVE is Smile Always ~15~ Europe & UK Tour 2026",
+   "kind": "koncert",
+   "dateStart": "2026-09-17",
+   "stops": [
+    {
+     "date": "2026-09-17",
+     "city": "Düsseldorf",
+     "cc": "DE",
+     "venue": "Mitsubishi Electric Halle"
+    }
+   ],
+   "url": "https://www.japanconcerttickets.com/lisa-europe-uk-tour-2026/"
+  },
+  {
+   "id": "past-2026-09-15-lisa",
+   "artist": "LiSA",
+   "title": "LiVE is Smile Always～15～ Europe & UK Tour 2026",
+   "kind": "trasa",
+   "dateStart": "2026-09-15",
+   "dateEnd": "2026-09-22",
+   "stops": [
+    {
+     "date": "2026-09-15",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Unipol Forum"
+    },
+    {
+     "date": "2026-09-20",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Zénith Paris La Villette"
+    },
+    {
+     "date": "2026-09-22",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Troxy"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/lisa-will-tour-europe-for-the-first-time"
+  },
+  {
+   "id": "past-2026-09-14-jiluka-warszawa",
+   "artist": "JILUKA",
+   "kind": "koncert",
+   "dateStart": "2026-09-14",
+   "stops": [
+    {
+     "date": "2026-09-14",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Niebo"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+jiluka"
+  },
+  {
+   "id": "past-2026-09-13-jiluka-krakow",
+   "artist": "JILUKA",
+   "kind": "koncert",
+   "dateStart": "2026-09-13",
+   "stops": [
+    {
+     "date": "2026-09-13",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Kwadrat"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+jiluka"
+  },
+  {
+   "id": "past-2026-09-08-jiluka",
+   "artist": "JILUKA",
+   "title": "DeViLs World Tour 2026 – Europe",
+   "kind": "trasa",
+   "dateStart": "2026-09-08",
+   "dateEnd": "2026-09-22",
+   "stops": [
+    {
+     "date": "2026-09-08",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "Academy 2"
+    },
+    {
+     "date": "2026-09-09",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Academy Islington"
+    },
+    {
+     "date": "2026-09-22",
+     "city": "Utrecht",
+     "cc": "NL",
+     "venue": "TivoliVredenburg (Pandora)"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/06/jiluka-shared-tour-dates-for-european-leg-of-devils-world-tour-2026/"
+  },
+  {
+   "id": "past-2026-09-04-sigh-krakow",
+   "artist": "Sigh",
+   "kind": "koncert",
+   "dateStart": "2026-09-04",
+   "stops": [
+    {
+     "date": "2026-09-04",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Zaścianek"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+sigh"
+  },
+  {
+   "id": "past-2026-09-03-sigh-aleksandrow-odzki",
+   "artist": "Sigh",
+   "title": "Summer Dying Loud 2026",
+   "kind": "festiwal",
+   "dateStart": "2026-09-03",
+   "stops": [
+    {
+     "date": "2026-09-03",
+     "city": "Aleksandrów Łódzki",
+     "cc": "PL",
+     "venue": "MOSiR (Summer Dying Loud)"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+sigh"
+  },
+  {
+   "id": "past-2026-09-01-kaya-schwarz-stein-warszawa",
+   "artist": "Kaya + Schwarz Stein",
+   "title": "Kaya World Tour 2026 \"The World\"",
+   "kind": "koncert",
+   "dateStart": "2026-09-01",
+   "stops": [
+    {
+     "date": "2026-09-01",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "VooDoo Club"
+    }
+   ],
+   "url": "https://www.tickettailor.com/events/asiarec/2203308"
+  },
+  {
+   "id": "past-2026-07-31-animagic-2026-yuki-kajiura-fictionjuncti-mannheim",
+   "artist": "AnimagiC 2026 (Yuki Kajiura/FictionJunction, ASCA, Ai Higuchi)",
+   "title": "AnimagiC – SACRA MUSIC FES.",
+   "kind": "konwent",
+   "dateStart": "2026-07-31",
+   "dateEnd": "2026-08-02",
+   "stops": [
+    {
+     "date": "2026-07-31",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    },
+    {
+     "date": "2026-08-01",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    },
+    {
+     "date": "2026-08-02",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/08/whats-on-japanese-music-in-europe-august-2026/"
+  },
+  {
+   "id": "past-2026-07-26-lovebites-praga",
+   "artist": "LOVEBITES",
+   "title": "Outstanding Power European Tour 2026",
+   "kind": "koncert",
+   "dateStart": "2026-07-26",
+   "stops": [
+    {
+     "date": "2026-07-26",
+     "city": "Praga",
+     "cc": "CZ",
+     "venue": "Rock Cafe"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/04/lovebites-to-return-to-europe-for-summer-tour-with-new-album-outstanding-power/"
+  },
+  {
+   "id": "past-2026-07-26-queen-bee",
+   "artist": "QUEEN BEE",
+   "title": "QUEEN BEE w Paryżu (pierwszy koncert)",
+   "kind": "koncert",
+   "dateStart": "2026-07-26",
+   "stops": [
+    {
+     "date": "2026-07-26",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Bataclan"
+    }
+   ],
+   "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/349033-the-japanese-band-queen-bee-to-perform-in-paris-for-the-first-time-in-july-2026"
+  },
+  {
+   "id": "past-2026-07-25-lovebites-warszawa",
+   "artist": "LOVEBITES",
+   "title": "Outstanding Power European Tour 2026",
+   "kind": "koncert",
+   "dateStart": "2026-07-25",
+   "stops": [
+    {
+     "date": "2026-07-25",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Oczki"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+lovebites"
+  },
+  {
+   "id": "past-2026-07-24-hyper-japan",
+   "artist": "HYPER JAPAN",
+   "title": "HYPER JAPAN Festival 2026 (QUEEN BEE, Eir Aoi, IA)",
+   "kind": "konwent",
+   "dateStart": "2026-07-24",
+   "stops": [
+    {
+     "date": "2026-07-24",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Olympia London"
+    }
+   ],
+   "url": "https://sonicabuse.com/hyper-japan-returns-to-london-24-26-july-2026/"
+  },
+  {
+   "id": "past-2026-07-23-lovebites-budapeszt",
+   "artist": "LOVEBITES",
+   "title": "Outstanding Power European Tour 2026",
+   "kind": "koncert",
+   "dateStart": "2026-07-23",
+   "stops": [
+    {
+     "date": "2026-07-23",
+     "city": "Budapeszt",
+     "cc": "HU",
+     "venue": "Analog Music Hall"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/04/lovebites-to-return-to-europe-for-summer-tour-with-new-album-outstanding-power/"
+  },
+  {
+   "id": "past-2026-07-22-lovebites-wieden",
+   "artist": "LOVEBITES",
+   "title": "Outstanding Power European Tour 2026",
+   "kind": "koncert",
+   "dateStart": "2026-07-22",
+   "stops": [
+    {
+     "date": "2026-07-22",
+     "city": "Wiedeń",
+     "cc": "AT",
+     "venue": "Flex"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/04/lovebites-to-return-to-europe-for-summer-tour-with-new-album-outstanding-power/"
+  },
+  {
+   "id": "past-2026-07-18-atarashii-gakko-berlin",
+   "artist": "ATARASHII GAKKO!",
+   "title": "Lollapalooza Berlin 2026",
+   "kind": "festiwal",
+   "dateStart": "2026-07-18",
+   "stops": [
+    {
+     "date": "2026-07-18",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Olympiastadion"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+atarashii+gakko"
+  },
+  {
+   "id": "past-2026-07-18-mpi-diana-garnet-kota-shinzato-poczdam",
+   "artist": "mpi, Diana Garnet, Kota Shinzato",
+   "title": "Summer of Japanese Music 2026 @ Anime Messe Babelsberg",
+   "kind": "konwent",
+   "dateStart": "2026-07-18",
+   "dateEnd": "2026-07-19",
+   "stops": [
+    {
+     "date": "2026-07-18",
+     "city": "Poczdam",
+     "cc": "DE",
+     "venue": "Anime Messe Babelsberg"
+    },
+    {
+     "date": "2026-07-19",
+     "city": "Poczdam",
+     "cc": "DE",
+     "venue": "Anime Messe Babelsberg"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/06/animeradio-de-will-host-summer-of-japanese-music-2026-in-three-german-cities/"
+  },
+  {
+   "id": "past-2026-07-11-b7klan-j-rock-fest",
+   "artist": "B7KLAN J-Rock Fest",
+   "title": "B7KLAN J-Rock Fest 2026 (Versailles, Moi dix Mois, MUCC, D'espairsRay, LM.C, An Cafe)",
+   "kind": "festiwal",
+   "dateStart": "2026-07-11",
+   "dateEnd": "2026-07-12",
+   "stops": [
+    {
+     "date": "2026-07-11",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Arena Grand Paris (Tremblay-en-France)"
+    },
+    {
+     "date": "2026-07-12",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Arena Grand Paris (Tremblay-en-France)"
+    }
+   ],
+   "url": "https://shotgun.live/en/festivals/b-7-klan-j-rock-fest"
+  },
+  {
+   "id": "past-2026-07-11-mucc",
+   "artist": "MUCC",
+   "title": "MUCC Live in Europe 2026",
+   "kind": "trasa",
+   "dateStart": "2026-07-11",
+   "dateEnd": "2026-07-13",
+   "stops": [
+    {
+     "date": "2026-07-11",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Arena Grand Paris (B7KLAN J-Rock Fest)"
+    },
+    {
+     "date": "2026-07-13",
+     "city": "Helsinki",
+     "cc": "FI",
+     "venue": "Ääniwalli"
+    }
+   ],
+   "url": "https://jrocknews.com/2026/04/mucc-adds-two-solo-shows-to-europe-appearance.html"
+  },
+  {
+   "id": "past-2026-07-09-japan-expo-paris",
+   "artist": "Japan Expo Paris",
+   "title": "Japan Expo 2026 (25. rocznica, gość: YOSHIKI)",
+   "kind": "konwent",
+   "dateStart": "2026-07-09",
+   "stops": [
+    {
+     "date": "2026-07-09",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Paris-Nord Villepinte"
+    }
+   ],
+   "url": "https://leclaireur.fnac.com/article/681700-japan-expo-2026-dates-invites-animations-infos-pratiques/"
+  },
+  {
+   "id": "past-2026-07-09-upiko",
+   "artist": "UPIKO",
+   "title": "Across the Oceans 2026",
+   "kind": "trasa",
+   "dateStart": "2026-07-09",
+   "dateEnd": "2026-07-24",
+   "stops": [
+    {
+     "date": "2026-07-09",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Japan Expo"
+    },
+    {
+     "date": "2026-07-24",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "HYPER JAPAN Festival"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/06/upiko-goes-across-the-oceans-for-her-first-european-tour/"
+  },
+  {
+   "id": "past-2026-06-28-joe-hisaishi",
+   "artist": "Joe Hisaishi",
+   "title": "Joe Hisaishi World Tour 2026 (Europa)",
+   "kind": "symfoniczny",
+   "dateStart": "2026-06-28",
+   "dateEnd": "2026-10-04",
+   "stops": [
+    {
+     "date": "2026-06-28",
+     "city": "Nîmes",
+     "cc": "FR",
+     "venue": "Arènes de Nîmes"
+    },
+    {
+     "date": "2026-10-02",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Ziggo Dome (z Royal Concertgebouw Orchestra)"
+    },
+    {
+     "date": "2026-10-04",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Ziggo Dome (z Royal Concertgebouw Orchestra)"
+    }
+   ],
+   "url": "https://soundtrackfest.com/en/news/joe-hisaishi-world-tour-2026/"
+  },
+  {
+   "id": "past-2026-06-27-persona",
+   "artist": "Persona",
+   "title": "London Game Music Festival – Persona Grooves (gość: Shoji Meguro)",
+   "kind": "symfoniczny",
+   "dateStart": "2026-06-27",
+   "stops": [
+    {
+     "date": "2026-06-27",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Royal Festival Hall"
+    }
+   ],
+   "url": "https://www.siliconera.com/london-game-music-festival-includes-persona-and-hades-concerts/"
+  },
+  {
+   "id": "past-2026-06-25-man-with-a-mission",
+   "artist": "MAN WITH A MISSION",
+   "title": "Marking New Ground World Tour 2026 – Europe",
+   "kind": "trasa",
+   "dateStart": "2026-06-25",
+   "dateEnd": "2026-07-01",
+   "stops": [
+    {
+     "date": "2026-06-25",
+     "city": "Aarau",
+     "cc": "CH",
+     "venue": "KIFF"
+    },
+    {
+     "date": "2026-06-27",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Circolo Magnolia (ASIA WAVE FEST 2026)"
+    },
+    {
+     "date": "2026-06-28",
+     "city": "Monthey",
+     "cc": "CH",
+     "venue": "Pont Rouge"
+    },
+    {
+     "date": "2026-07-01",
+     "city": "Viveiro",
+     "cc": "ES",
+     "venue": "Resurrection Fest"
+    }
+   ],
+   "url": "https://j-generation.com/2026/03/man-with-a-mission-announces-marking-new-ground-world-tour/"
+  },
+  {
+   "id": "past-2026-06-20-man-with-a-mission-drezno",
+   "artist": "MAN WITH A MISSION",
+   "title": "European Summer Tour 2026",
+   "kind": "koncert",
+   "dateStart": "2026-06-20",
+   "stops": [
+    {
+     "date": "2026-06-20",
+     "city": "Drezno",
+     "cc": "DE",
+     "venue": "Blauer Salon"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/man-with-a-mission-to-mark-new-ground-with-summer-tour-in-europe/"
+  },
+  {
+   "id": "past-2026-06-20-hololive-english",
+   "artist": "hololive English",
+   "title": "hololive English 3rd Concert -All for One- Screening Tour (pokaz)",
+   "kind": "koncert",
+   "dateStart": "2026-06-20",
+   "dateEnd": "2026-06-27",
+   "stops": [
+    {
+     "date": "2026-06-20",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "UCI Cinemas Bicocca"
+    },
+    {
+     "date": "2026-06-25",
+     "city": "Lyon",
+     "cc": "FR",
+     "venue": "La Rayonne"
+    },
+    {
+     "date": "2026-06-27",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "UGC Ciné Cité Bercy"
+    }
+   ],
+   "url": "https://hololivepro.com/news_en/20260512-01-240"
+  },
+  {
+   "id": "past-2026-06-19-man-with-a-mission-warszawa",
+   "artist": "MAN WITH A MISSION",
+   "title": "Summer Punch Festival 2026",
+   "kind": "festiwal",
+   "dateStart": "2026-06-19",
+   "stops": [
+    {
+     "date": "2026-06-19",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Letnia Scena Progresji"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+man+with+a+mission"
+  },
+  {
+   "id": "past-2026-06-18-babymetal-warszawa",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2026-06-18",
+   "stops": [
+    {
+     "date": "2026-06-18",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Letnia Scena Progresji"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+babymetal"
+  },
+  {
+   "id": "past-2026-06-17-man-with-a-mission-budapeszt",
+   "artist": "MAN WITH A MISSION",
+   "title": "European Summer Tour 2026",
+   "kind": "koncert",
+   "dateStart": "2026-06-17",
+   "stops": [
+    {
+     "date": "2026-06-17",
+     "city": "Budapeszt",
+     "cc": "HU",
+     "venue": "Akvarium"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/man-with-a-mission-to-mark-new-ground-with-summer-tour-in-europe/"
+  },
+  {
+   "id": "past-2026-06-15-otoboke-beaver-warszawa",
+   "artist": "Otoboke Beaver",
+   "kind": "koncert",
+   "dateStart": "2026-06-15",
+   "stops": [
+    {
+     "date": "2026-06-15",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "PGE Narodowy"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+otoboke+beaver"
+  },
+  {
+   "id": "past-2026-06-14-man-with-a-mission-hradec-kralove",
+   "artist": "MAN WITH A MISSION",
+   "title": "Rock for People 2026",
+   "kind": "festiwal",
+   "dateStart": "2026-06-14",
+   "stops": [
+    {
+     "date": "2026-06-14",
+     "city": "Hradec Králové",
+     "cc": "CZ",
+     "venue": "Park 360"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/man-with-a-mission-to-mark-new-ground-with-summer-tour-in-europe/"
+  },
+  {
+   "id": "past-2026-06-13-anime-symphony",
+   "artist": "Anime Symphony",
+   "title": "Anime Symphony",
+   "kind": "symfoniczny",
+   "dateStart": "2026-06-13",
+   "stops": [
+    {
+     "date": "2026-06-13",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Palais des Congrès"
+    }
+   ],
+   "url": "https://www.sortiraparis.com/sv/vad-man-ska-se-i-paris/festivalmusikkonsert/articles/342192-anime-symphony-en-konsert-med-japansk-animationsmusik-pa-kongresspalatset"
+  },
+  {
+   "id": "past-2026-06-13-hitoshi-sakimoto",
+   "artist": "Hitoshi Sakimoto",
+   "title": "The Colors of Harmony: Hitoshi Sakimoto 40th Anniversary",
+   "kind": "symfoniczny",
+   "dateStart": "2026-06-13",
+   "stops": [
+    {
+     "date": "2026-06-13",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Southbank Centre"
+    }
+   ],
+   "url": "https://www.siliconera.com/london-game-music-festival-includes-persona-and-hades-concerts/"
+  },
+  {
+   "id": "past-2026-06-11-babymetal-hradec-kralove",
+   "artist": "BABYMETAL",
+   "title": "Rock for People 2026",
+   "kind": "festiwal",
+   "dateStart": "2026-06-11",
+   "stops": [
+    {
+     "date": "2026-06-11",
+     "city": "Hradec Králové",
+     "cc": "CZ",
+     "venue": "Park 360"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:cz+babymetal"
+  },
+  {
+   "id": "past-2026-06-09-babymetal-kufstein",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2026-06-09",
+   "stops": [
+    {
+     "date": "2026-06-09",
+     "city": "Kufstein",
+     "cc": "AT",
+     "venue": "Festung Kufstein"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:at+babymetal"
+  },
+  {
+   "id": "past-2026-06-09-band-maid",
+   "artist": "BAND-MAID",
+   "title": "World Tour 2026 – Europe",
+   "kind": "trasa",
+   "dateStart": "2026-06-09",
+   "dateEnd": "2026-06-11",
+   "stops": [
+    {
+     "date": "2026-06-09",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Bataclan"
+    },
+    {
+     "date": "2026-06-11",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Electric Brixton"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/band-maid-to-play-five-shows-in-europe-as-part-of-their-2026-world-tour"
+  },
+  {
+   "id": "past-2026-06-03-band-maid-berlin",
+   "artist": "BAND-MAID",
+   "title": "World Tour 2026",
+   "kind": "koncert",
+   "dateStart": "2026-06-03",
+   "stops": [
+    {
+     "date": "2026-06-03",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Columbia Theater"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/band-maid-to-play-five-shows-in-europe-as-part-of-their-2026-world-tour"
+  },
+  {
+   "id": "past-2026-06-03-babymetal",
+   "artist": "BABYMETAL",
+   "title": "World Tour 2026 – European festivals",
+   "kind": "trasa",
+   "dateStart": "2026-06-03",
+   "dateEnd": "2026-06-27",
+   "stops": [
+    {
+     "date": "2026-06-03",
+     "city": "Sölvesborg",
+     "cc": "SE",
+     "venue": "Norje Havsbad (Sweden Rock Festival)"
+    },
+    {
+     "date": "2026-06-13",
+     "city": "Castle Donington",
+     "cc": "UK",
+     "venue": "Donington Park (Download Festival)"
+    },
+    {
+     "date": "2026-06-20",
+     "city": "Dessel",
+     "cc": "BE",
+     "venue": "Graspop Metal Meeting"
+    },
+    {
+     "date": "2026-06-24",
+     "city": "Oslo",
+     "cc": "NO",
+     "venue": "Ekebergsletta (Tons of Rock)"
+    },
+    {
+     "date": "2026-06-27",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "Refshaleøen (Copenhell)"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Metal_Forth"
+  },
+  {
+   "id": "past-2026-06-03-jujutsu-kaisen",
+   "artist": "Jujutsu Kaisen",
+   "title": "JUJUTSU KAISEN IN CONCERT (premiera trasy)",
+   "kind": "symfoniczny",
+   "dateStart": "2026-06-03",
+   "stops": [
+    {
+     "date": "2026-06-03",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Eventim Apollo"
+    }
+   ],
+   "url": "https://otakunews.com/Article/12156/jujutsu-kaisen-in-concert-london-uk-details"
+  },
+  {
+   "id": "past-2026-06-02-kanekoayano",
+   "artist": "kanekoayano",
+   "title": "kanekoayano World Tour 2026 – Europe",
+   "kind": "trasa",
+   "dateStart": "2026-06-02",
+   "dateEnd": "2026-06-17",
+   "stops": [
+    {
+     "date": "2026-06-02",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "Deaf Institute"
+    },
+    {
+     "date": "2026-06-03",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Academy Islington"
+    },
+    {
+     "date": "2026-06-04",
+     "city": "Bristol",
+     "cc": "UK",
+     "venue": "Exchange"
+    },
+    {
+     "date": "2026-06-06",
+     "city": "Antwerpia",
+     "cc": "BE",
+     "venue": "Trix"
+    },
+    {
+     "date": "2026-06-09",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Petit Bain"
+    },
+    {
+     "date": "2026-06-10",
+     "city": "Utrecht",
+     "cc": "NL",
+     "venue": "dB's"
+    },
+    {
+     "date": "2026-06-16",
+     "city": "Göteborg",
+     "cc": "SE",
+     "venue": "Monument"
+    },
+    {
+     "date": "2026-06-17",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Slaktkyrkan"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/04/ayano-kaneko-goes-on-world-tour-with-her-band-kanekoayano-and-ventures-further-into-europe-for-the-first-time/"
+  },
+  {
+   "id": "past-2026-05-25-hyde-wieden",
+   "artist": "HYDE",
+   "title": "HYDE Orchestra Tour 2026 JEKYLL in Wien",
+   "kind": "symfoniczny",
+   "dateStart": "2026-05-25",
+   "stops": [
+    {
+     "date": "2026-05-25",
+     "city": "Wiedeń",
+     "cc": "AT",
+     "venue": "Wiener Konzerthaus, Großer Saal"
+    }
+   ],
+   "url": "https://www.hyde.com/pages/jekyll2026wien"
+  },
+  {
+   "id": "past-2026-05-22-animefest-2026-gosc-rolling-quartz-brno",
+   "artist": "Animefest 2026 (gość: Rolling Quartz)",
+   "title": "Animefest",
+   "kind": "konwent",
+   "dateStart": "2026-05-22",
+   "dateEnd": "2026-05-24",
+   "stops": [
+    {
+     "date": "2026-05-22",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    },
+    {
+     "date": "2026-05-23",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    },
+    {
+     "date": "2026-05-24",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Animefest"
+  },
+  {
+   "id": "past-2026-04-10-toe",
+   "artist": "toe",
+   "title": "Loneliness Will Shine – European Tour 2026 (25th anniversary)",
+   "kind": "trasa",
+   "dateStart": "2026-04-10",
+   "dateEnd": "2026-04-19",
+   "stops": [
+    {
+     "date": "2026-04-10",
+     "city": "Bristol",
+     "cc": "UK",
+     "venue": "The Prospect Building"
+    },
+    {
+     "date": "2026-04-11",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Troxy"
+    },
+    {
+     "date": "2026-04-13",
+     "city": "Glasgow",
+     "cc": "UK",
+     "venue": "St Luke's"
+    },
+    {
+     "date": "2026-04-15",
+     "city": "Haarlem",
+     "cc": "NL",
+     "venue": "Patronaat"
+    },
+    {
+     "date": "2026-04-16",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Trabendo"
+    },
+    {
+     "date": "2026-04-17",
+     "city": "Antwerpia",
+     "cc": "BE",
+     "venue": "Trix"
+    },
+    {
+     "date": "2026-04-19",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "VEGA"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/01/toe-to-celebrate-25th-anniversary-with-spring-tour-in-europe/"
+  },
+  {
+   "id": "past-2026-03-18-kikuo-warszawa",
+   "artist": "Kikuo",
+   "title": "Kikuoland: Above All Bounds",
+   "kind": "koncert",
+   "dateStart": "2026-03-18",
+   "stops": [
+    {
+     "date": "2026-03-18",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Stodoła"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+kikuo"
+  },
+  {
+   "id": "past-2026-03-17-kikuo-krakow",
+   "artist": "Kikuo",
+   "title": "Kikuoland: Above All Bounds",
+   "kind": "koncert",
+   "dateStart": "2026-03-17",
+   "stops": [
+    {
+     "date": "2026-03-17",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Klub Studio"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+kikuo"
+  },
+  {
+   "id": "past-2026-03-17-ichiko-aoba",
+   "artist": "Ichiko Aoba",
+   "title": "Across the Oceans Tour 2026 – Europe",
+   "kind": "trasa",
+   "dateStart": "2026-03-17",
+   "dateEnd": "2026-04-12",
+   "stops": [
+    {
+     "date": "2026-03-17",
+     "city": "Helsinki",
+     "cc": "FI",
+     "venue": "Finlandia Hall"
+    },
+    {
+     "date": "2026-03-25",
+     "city": "Lozanna",
+     "cc": "CH",
+     "venue": "Théâtre de Beaulieu"
+    },
+    {
+     "date": "2026-03-27",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Salle Pleyel"
+    },
+    {
+     "date": "2026-03-31",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Royal Albert Hall"
+    },
+    {
+     "date": "2026-04-05",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "Ancienne Belgique (BRDCST)"
+    },
+    {
+     "date": "2026-04-07",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Het Concertgebouw"
+    },
+    {
+     "date": "2026-04-10",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "DR Koncerthuset"
+    },
+    {
+     "date": "2026-04-12",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Göta Lejon"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/ichiko-aoba-returns-to-europe-with-across-the-oceans-tour/"
+  },
+  {
+   "id": "past-2026-03-16-kikuo-budapeszt",
+   "artist": "Kikuo",
+   "title": "Kikuoland: Above All Bounds",
+   "kind": "koncert",
+   "dateStart": "2026-03-16",
+   "stops": [
+    {
+     "date": "2026-03-16",
+     "city": "Budapeszt",
+     "cc": "HU",
+     "venue": "Dürer Kert"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/11/kikuo-reveals-european-dates-for-world-tour-kikuoland-above-all-bounds/"
+  },
+  {
+   "id": "past-2026-03-14-kikuo-praga",
+   "artist": "Kikuo",
+   "title": "Kikuoland: Above All Bounds",
+   "kind": "koncert",
+   "dateStart": "2026-03-14",
+   "stops": [
+    {
+     "date": "2026-03-14",
+     "city": "Praga",
+     "cc": "CZ",
+     "venue": "ARCHA+"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/11/kikuo-reveals-european-dates-for-world-tour-kikuoland-above-all-bounds/"
+  },
+  {
+   "id": "past-2026-03-13-kikuo-wieden",
+   "artist": "Kikuo",
+   "title": "Kikuoland: Above All Bounds",
+   "kind": "koncert",
+   "dateStart": "2026-03-13",
+   "stops": [
+    {
+     "date": "2026-03-13",
+     "city": "Wiedeń",
+     "cc": "AT",
+     "venue": "FLEX"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/11/kikuo-reveals-european-dates-for-world-tour-kikuoland-above-all-bounds/"
+  },
+  {
+   "id": "past-2026-03-11-kikuo-berlin",
+   "artist": "Kikuo",
+   "title": "Kikuoland: Above All Bounds",
+   "kind": "koncert",
+   "dateStart": "2026-03-11",
+   "stops": [
+    {
+     "date": "2026-03-11",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Huxleys Neue Welt"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/11/kikuo-reveals-european-dates-for-world-tour-kikuoland-above-all-bounds/"
+  },
+  {
+   "id": "past-2026-03-03-zenbu-kimi-no-sei-da-wieden",
+   "artist": "Zenbu Kimi no Sei da.",
+   "title": "10th Anniversary European Tour",
+   "kind": "koncert",
+   "dateStart": "2026-03-03",
+   "stops": [
+    {
+     "date": "2026-03-03",
+     "city": "Wiedeń",
+     "cc": "AT",
+     "venue": "Replugged"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/zenbu-kimi-no-sei-da-celebrate-tenth-anniversary-with-first-european-tour/"
+  },
+  {
+   "id": "past-2026-02-25-kikuo",
+   "artist": "Kikuo",
+   "title": "Kikuoland: Above All Bounds – Europe 2026",
+   "kind": "trasa",
+   "dateStart": "2026-02-25",
+   "dateEnd": "2026-03-08",
+   "stops": [
+    {
+     "date": "2026-02-25",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Forum Kentish Town"
+    },
+    {
+     "date": "2026-02-26",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "New Century Hall"
+    },
+    {
+     "date": "2026-02-28",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Paral·lel 62"
+    },
+    {
+     "date": "2026-03-01",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Sala La Riviera"
+    },
+    {
+     "date": "2026-03-03",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Magazzini Generali"
+    },
+    {
+     "date": "2026-03-04",
+     "city": "Zurych",
+     "cc": "CH",
+     "venue": "Komplex 457"
+    },
+    {
+     "date": "2026-03-06",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Salle Pleyel"
+    },
+    {
+     "date": "2026-03-08",
+     "city": "Utrecht",
+     "cc": "NL",
+     "venue": "TivoliVredenburg Ronda"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/11/kikuo-reveals-european-dates-for-world-tour-kikuoland-above-all-bounds"
+  },
+  {
+   "id": "past-2026-02-21-hoyoverse",
+   "artist": "HoYoverse",
+   "title": "Once Upon a HoYoFair – fan concert tour 2026",
+   "kind": "symfoniczny",
+   "dateStart": "2026-02-21",
+   "dateEnd": "2026-03-01",
+   "stops": [
+    {
+     "date": "2026-02-21",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Grand Rex"
+    },
+    {
+     "date": "2026-03-01",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Eventim Apollo"
+    }
+   ],
+   "url": "https://www.gosugamers.net/entertainment/news/77641-hoyoverse-announces-once-upon-hoyofair-fan-concert-tour-across-europe-and-the-u-s-in-2026"
+  },
+  {
+   "id": "past-2026-02-15-zenbu-kimi-no-sei-da-gdynia",
+   "artist": "Zenbu Kimi no Sei da.",
+   "title": "10th Anniversary European Tour",
+   "kind": "koncert",
+   "dateStart": "2026-02-15",
+   "stops": [
+    {
+     "date": "2026-02-15",
+     "city": "Gdynia",
+     "cc": "PL",
+     "venue": "Klub PODWÓRKO.art"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/zenbu-kimi-no-sei-da-celebrate-tenth-anniversary-with-first-european-tour/"
+  },
+  {
+   "id": "past-2026-02-13-zenbu-kimi-no-sei-da-gdansk",
+   "artist": "Zenbu Kimi no Sei da.",
+   "title": "RemCon 2026 – 10th Anniversary European Tour",
+   "kind": "konwent",
+   "dateStart": "2026-02-13",
+   "dateEnd": "2026-02-14",
+   "stops": [
+    {
+     "date": "2026-02-13",
+     "city": "Gdańsk",
+     "cc": "PL",
+     "venue": "Festiwal RemCon 2026"
+    },
+    {
+     "date": "2026-02-14",
+     "city": "Gdańsk",
+     "cc": "PL",
+     "venue": "Festiwal RemCon 2026"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2026/02/zenbu-kimi-no-sei-da-celebrate-tenth-anniversary-with-first-european-tour/"
+  },
+  {
+   "id": "past-2026-01-25-ash-da-hero-budapeszt",
+   "artist": "ASH DA HERO",
+   "title": "World Tour in Europe 2026",
+   "kind": "koncert",
+   "dateStart": "2026-01-25",
+   "stops": [
+    {
+     "date": "2026-01-25",
+     "city": "Budapeszt",
+     "cc": "HU",
+     "venue": "Analog Music Hall"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/08/ash-da-hero-to-tour-europe-for-the-first-time-in-january-2026/"
+  },
+  {
+   "id": "past-2026-01-24-ash-da-hero-warszawa",
+   "artist": "ASH DA HERO",
+   "title": "World Tour in Europe 2026",
+   "kind": "koncert",
+   "dateStart": "2026-01-24",
+   "stops": [
+    {
+     "date": "2026-01-24",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Hybrydy"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/08/ash-da-hero-to-tour-europe-for-the-first-time-in-january-2026/"
+  },
+  {
+   "id": "past-2025-12-19-muzyka-studia-ghibli-wrocaw",
+   "artist": "Muzyka Studia Ghibli",
+   "title": "koncert muzyki Joe Hisaishiego (tribute)",
+   "kind": "symfoniczny",
+   "dateStart": "2025-12-19",
+   "stops": [
+    {
+     "date": "2025-12-19",
+     "city": "Wrocław",
+     "cc": "PL",
+     "venue": "Sala Koncertowa Radia Wrocław"
+    }
+   ],
+   "url": "https://www.wroclaw.pl/go/wydarzenia/muzyka/1404506-muzyka-studia-ghibli"
+  },
+  {
+   "id": "past-2025-12-10-coldrain-berlin",
+   "artist": "coldrain",
+   "title": "European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-12-10",
+   "stops": [
+    {
+     "date": "2025-12-10",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Lido"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+coldrain"
+  },
+  {
+   "id": "past-2025-12-09-coldrain-warszawa",
+   "artist": "coldrain",
+   "title": "European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-12-09",
+   "stops": [
+    {
+     "date": "2025-12-09",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+coldrain"
+  },
+  {
+   "id": "past-2025-12-02-damned-warszawa",
+   "artist": "DAMNED",
+   "title": "JUKAI European Tour",
+   "kind": "koncert",
+   "dateStart": "2025-12-02",
+   "stops": [
+    {
+     "date": "2025-12-02",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/05/damned-to-embark-on-first-european-tour-in-autumn-2025/"
+  },
+  {
+   "id": "past-2025-11-29-magnificon-expo-2025-krakow",
+   "artist": "Magnificon Expo 2025",
+   "title": "festiwal kultury japońskiej",
+   "kind": "konwent",
+   "dateStart": "2025-11-29",
+   "dateEnd": "2025-11-30",
+   "stops": [
+    {
+     "date": "2025-11-29",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "EXPO Kraków"
+    },
+    {
+     "date": "2025-11-30",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "EXPO Kraków"
+    }
+   ],
+   "url": "https://expokrakow.com/en/news/an-autumn-full-of-events-at-expo-krakow,4057"
+  },
+  {
+   "id": "past-2025-11-28-damned-bratysawa",
+   "artist": "DAMNED",
+   "title": "JUKAI European Tour",
+   "kind": "koncert",
+   "dateStart": "2025-11-28",
+   "stops": [
+    {
+     "date": "2025-11-28",
+     "city": "Bratysława",
+     "cc": "SK",
+     "venue": "Randal Club"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/05/damned-to-embark-on-first-european-tour-in-autumn-2025/"
+  },
+  {
+   "id": "past-2025-11-28-mono-warszawa",
+   "artist": "MONO",
+   "title": "OATH Tour",
+   "kind": "koncert",
+   "dateStart": "2025-11-28",
+   "stops": [
+    {
+     "date": "2025-11-28",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+mono"
+  },
+  {
+   "id": "past-2025-11-27-mono-krakow",
+   "artist": "MONO",
+   "title": "OATH Tour",
+   "kind": "koncert",
+   "dateStart": "2025-11-27",
+   "stops": [
+    {
+     "date": "2025-11-27",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Kwadrat"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+mono"
+  },
+  {
+   "id": "past-2025-11-26-deviloof-warszawa",
+   "artist": "DEVILOOF",
+   "title": "The Unholy European Tour",
+   "kind": "koncert",
+   "dateStart": "2025-11-26",
+   "stops": [
+    {
+     "date": "2025-11-26",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Hybrydy"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/10/changes-announced-to-deviloofs-the-unholy-tour-in-europe-no-amstelveen-extra-date-in-france/"
+  },
+  {
+   "id": "past-2025-11-22-hanabie-sun-praga",
+   "artist": "HANABIE. + SUN",
+   "kind": "koncert",
+   "dateStart": "2025-11-22",
+   "stops": [
+    {
+     "date": "2025-11-22",
+     "city": "Praga",
+     "cc": "CZ",
+     "venue": "Palác Akropolis"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:cz+hanabie"
+  },
+  {
+   "id": "past-2025-11-22-coldrain",
+   "artist": "coldrain",
+   "title": "UK / Euro Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-11-22",
+   "dateEnd": "2025-12-02",
+   "stops": [
+    {
+     "date": "2025-11-22",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "Rebellion"
+    },
+    {
+     "date": "2025-11-23",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Electric Ballroom"
+    },
+    {
+     "date": "2025-11-25",
+     "city": "Antwerpia",
+     "cc": "BE",
+     "venue": "Trix"
+    },
+    {
+     "date": "2025-11-26",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Trabendo"
+    },
+    {
+     "date": "2025-11-30",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Melkweg"
+    },
+    {
+     "date": "2025-12-02",
+     "city": "Aarau",
+     "cc": "CH",
+     "venue": "KIFF"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/06/coldrain-to-bring-noisemaker-and-revnoir-on-their-upcoming-european-tour-in-november-and-december"
+  },
+  {
+   "id": "past-2025-11-18-hanabie-sun-berlin",
+   "artist": "HANABIE. + SUN",
+   "kind": "koncert",
+   "dateStart": "2025-11-18",
+   "stops": [
+    {
+     "date": "2025-11-18",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Huxleys Neue Welt"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+hanabie"
+  },
+  {
+   "id": "past-2025-11-16-hanabie-sun-krakow",
+   "artist": "HANABIE. + SUN",
+   "kind": "koncert",
+   "dateStart": "2025-11-16",
+   "stops": [
+    {
+     "date": "2025-11-16",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Kwadrat"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+hanabie"
+  },
+  {
+   "id": "past-2025-11-15-hanabie-sun-gdansk",
+   "artist": "HANABIE. + SUN",
+   "kind": "koncert",
+   "dateStart": "2025-11-15",
+   "stops": [
+    {
+     "date": "2025-11-15",
+     "city": "Gdańsk",
+     "cc": "PL",
+     "venue": "B90"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+hanabie"
+  },
+  {
+   "id": "past-2025-11-14-hanabie-sun-warszawa",
+   "artist": "HANABIE. + SUN",
+   "kind": "koncert",
+   "dateStart": "2025-11-14",
+   "stops": [
+    {
+     "date": "2025-11-14",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Progresja"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+hanabie"
+  },
+  {
+   "id": "past-2025-11-14-hyde",
+   "artist": "HYDE",
+   "title": "HYDE [INSIDE] LIVE 2025 WORLD TOUR – Europe",
+   "kind": "trasa",
+   "dateStart": "2025-11-14",
+   "dateEnd": "2025-11-23",
+   "stops": [
+    {
+     "date": "2025-11-14",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Bataclan"
+    },
+    {
+     "date": "2025-11-20",
+     "city": "Utrecht",
+     "cc": "NL",
+     "venue": "TivoliVredenburg"
+    },
+    {
+     "date": "2025-11-23",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Berns"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/05/hyde-announces-biggest-world-tour-to-date-and-does-not-skip-europe/"
+  },
+  {
+   "id": "past-2025-11-13-kukangendai",
+   "artist": "Kukangendai",
+   "title": "Europe Autumn Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-11-13",
+   "dateEnd": "2025-11-19",
+   "stops": [
+    {
+     "date": "2025-11-13",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Maison de la culture du Japon à Paris"
+    },
+    {
+     "date": "2025-11-18",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "Trône"
+    },
+    {
+     "date": "2025-11-19",
+     "city": "Haga",
+     "cc": "NL",
+     "venue": "Musicon"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/10/kukangendai-to-europe-for-a-short-autumn-tour-of-five-shows"
+  },
+  {
+   "id": "past-2025-11-08-38-samurai-orchestra-wiesbaden",
+   "artist": "38 Samurai Orchestra",
+   "title": "Anime Sympho-Show",
+   "kind": "symfoniczny",
+   "dateStart": "2025-11-08",
+   "stops": [
+    {
+     "date": "2025-11-08",
+     "city": "Wiesbaden",
+     "cc": "DE",
+     "venue": "Kurhaus Wiesbaden"
+    }
+   ],
+   "url": "https://www.wiesbaden.de/en/microsite/kurhaus/veranstaltungen/va-pool/anime-sympho-show-38-samurai-orchestra"
+  },
+  {
+   "id": "past-2025-10-31-flow-wieden",
+   "artist": "FLOW",
+   "title": "YuniCon 2025 – NARUTO THE ROCK",
+   "kind": "konwent",
+   "dateStart": "2025-10-31",
+   "stops": [
+    {
+     "date": "2025-10-31",
+     "city": "Wiedeń",
+     "cc": "AT",
+     "venue": "YuniCon @ Multiversum Schwechat"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/07/flow-to-go-on-naruto-themed-world-tour-with-shows-in-europe-and-north-america/"
+  },
+  {
+   "id": "past-2025-10-29-one-ok-rock-praga",
+   "artist": "ONE OK ROCK",
+   "title": "DETOX European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-10-29",
+   "stops": [
+    {
+     "date": "2025-10-29",
+     "city": "Praga",
+     "cc": "CZ",
+     "venue": "Forum Karlín"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:cz+one+ok+rock"
+  },
+  {
+   "id": "past-2025-10-27-one-ok-rock-paledusk-warszawa",
+   "artist": "ONE OK ROCK (+ Paledusk)",
+   "title": "DETOX European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-10-27",
+   "stops": [
+    {
+     "date": "2025-10-27",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Arena COS Torwar"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+one+ok+rock"
+  },
+  {
+   "id": "past-2025-10-26-flow-krakow",
+   "artist": "FLOW",
+   "title": "NARUTO THE ROCK World Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-10-26",
+   "stops": [
+    {
+     "date": "2025-10-26",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Klub Studio"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+flow"
+  },
+  {
+   "id": "past-2025-10-24-flow-berlin",
+   "artist": "FLOW",
+   "title": "NARUTO THE ROCK World Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-10-24",
+   "stops": [
+    {
+     "date": "2025-10-24",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Columbiahalle"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/07/flow-to-go-on-naruto-themed-world-tour-with-shows-in-europe-and-north-america/"
+  },
+  {
+   "id": "past-2025-10-24-one-ok-rock-berlin",
+   "artist": "ONE OK ROCK",
+   "title": "DETOX European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-10-24",
+   "stops": [
+    {
+     "date": "2025-10-24",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Max-Schmeling-Halle"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+one+ok+rock"
+  },
+  {
+   "id": "past-2025-10-15-hitsujibungaku",
+   "artist": "Hitsujibungaku",
+   "title": "Europe Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-10-15",
+   "dateEnd": "2025-10-24",
+   "stops": [
+    {
+     "date": "2025-10-15",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "L'Alhambra"
+    },
+    {
+     "date": "2025-10-16",
+     "city": "Nijmegen",
+     "cc": "NL",
+     "venue": "Doornroosje"
+    },
+    {
+     "date": "2025-10-24",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Academy Islington"
+    }
+   ],
+   "url": "https://niewmedia.com/en/news/077769/"
+  },
+  {
+   "id": "past-2025-10-12-flow",
+   "artist": "FLOW",
+   "title": "FLOW World Tour 2025 \"NARUTO THE ROCK\"",
+   "kind": "trasa",
+   "dateStart": "2025-10-12",
+   "dateEnd": "2025-11-05",
+   "stops": [
+    {
+     "date": "2025-10-12",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Forum Kentish Town"
+    },
+    {
+     "date": "2025-10-13",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Salle Pleyel"
+    },
+    {
+     "date": "2025-10-15",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "La Madeleine"
+    },
+    {
+     "date": "2025-10-16",
+     "city": "Eindhoven",
+     "cc": "NL",
+     "venue": "Effenaar"
+    },
+    {
+     "date": "2025-10-20",
+     "city": "Oslo",
+     "cc": "NO",
+     "venue": "Vulkan Arena"
+    },
+    {
+     "date": "2025-10-22",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Fållan"
+    },
+    {
+     "date": "2025-11-02",
+     "city": "Zurych",
+     "cc": "CH",
+     "venue": "Komplex 457"
+    },
+    {
+     "date": "2025-11-03",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Magazzini Generali"
+    },
+    {
+     "date": "2025-11-05",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Apolo 2"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/07/flow-to-go-on-naruto-themed-world-tour-with-shows-in-europe-and-north-america"
+  },
+  {
+   "id": "past-2025-10-06-one-ok-rock",
+   "artist": "ONE OK ROCK",
+   "title": "DETOX European Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-10-06",
+   "dateEnd": "2025-10-20",
+   "stops": [
+    {
+     "date": "2025-10-06",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Palacio Vistalegre"
+    },
+    {
+     "date": "2025-10-08",
+     "city": "Nantes",
+     "cc": "FR",
+     "venue": "Zénith Nantes Métropole"
+    },
+    {
+     "date": "2025-10-10",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Accor Arena"
+    },
+    {
+     "date": "2025-10-11",
+     "city": "Strasburg",
+     "cc": "FR",
+     "venue": "Zénith Strasbourg"
+    },
+    {
+     "date": "2025-10-13",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "AO Arena"
+    },
+    {
+     "date": "2025-10-15",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The O2 Arena"
+    },
+    {
+     "date": "2025-10-16",
+     "city": "Cardiff",
+     "cc": "UK",
+     "venue": "Utilita Arena"
+    },
+    {
+     "date": "2025-10-18",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "Forest National"
+    },
+    {
+     "date": "2025-10-20",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "AFAS Live"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/03/one-ok-rock-return-to-europe-for-an-extensive-tour-with-paledusk-as-support/"
+  },
+  {
+   "id": "past-2025-10-02-man-with-a-mission",
+   "artist": "MAN WITH A MISSION",
+   "title": "HOWLING ACROSS THE WORLD Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-10-02",
+   "dateEnd": "2025-10-15",
+   "stops": [
+    {
+     "date": "2025-10-02",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Shepherd's Bush Empire"
+    },
+    {
+     "date": "2025-10-03",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "O2 Ritz"
+    },
+    {
+     "date": "2025-10-05",
+     "city": "Birmingham",
+     "cc": "UK",
+     "venue": "XOYO"
+    },
+    {
+     "date": "2025-10-10",
+     "city": "Eindhoven",
+     "cc": "NL",
+     "venue": "Effenaar"
+    },
+    {
+     "date": "2025-10-11",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Salle Pleyel"
+    },
+    {
+     "date": "2025-10-15",
+     "city": "Lyon",
+     "cc": "FR",
+     "venue": "Le Transbordeur"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/07/man-with-a-mission-to-celebrate-15th-anniversary-with-european-tour-in-october/"
+  },
+  {
+   "id": "past-2025-09-19-attack-on-titan",
+   "artist": "Attack on Titan",
+   "title": "Attack on Titan Orchestra Concert World Tour 2025",
+   "kind": "symfoniczny",
+   "dateStart": "2025-09-19",
+   "dateEnd": "2025-10-02",
+   "stops": [
+    {
+     "date": "2025-09-19",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Palais des Congrès"
+    },
+    {
+     "date": "2025-09-20",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Palais des Congrès"
+    },
+    {
+     "date": "2025-09-21",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Palais des Congrès"
+    },
+    {
+     "date": "2025-09-28",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "OVO Arena Wembley"
+    },
+    {
+     "date": "2025-09-30",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "ING Arena"
+    },
+    {
+     "date": "2025-10-02",
+     "city": "Lyon",
+     "cc": "FR",
+     "venue": "Amphithéâtre 3000"
+    }
+   ],
+   "url": "https://animecorner.me/attack-on-titan-orchestra-concert-world-tour-begins-in-april-2025/"
+  },
+  {
+   "id": "past-2025-09-18-youthpit-takeru-ex-sug-shou-bratysawa",
+   "artist": "youthpit (Takeru ex-SuG, Shou)",
+   "title": "youthpit European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-09-18",
+   "stops": [
+    {
+     "date": "2025-09-18",
+     "city": "Bratysława",
+     "cc": "SK",
+     "venue": "Randal Club"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/04/youthpit-takeru-ex-sug-and-shou-verde-join-forces-for-european-tour-this-autumn/"
+  },
+  {
+   "id": "past-2025-09-14-youthpit-takeru-ex-sug-shou-warszawa",
+   "artist": "youthpit (Takeru ex-SuG, Shou)",
+   "title": "youthpit European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-09-14",
+   "stops": [
+    {
+     "date": "2025-09-14",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "VooDoo Club"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/04/youthpit-takeru-ex-sug-and-shou-verde-join-forces-for-european-tour-this-autumn/"
+  },
+  {
+   "id": "past-2025-09-10-ainakanna-wrocaw",
+   "artist": "AINAKANNA",
+   "title": "Rising Sun Tour Europe",
+   "kind": "koncert",
+   "dateStart": "2025-09-10",
+   "stops": [
+    {
+     "date": "2025-09-10",
+     "city": "Wrocław",
+     "cc": "PL",
+     "venue": "Stary Klasztor"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/08/european-tour-for-ainakanna-across-the-united-kingdom-poland-and-lithuania/"
+  },
+  {
+   "id": "past-2025-09-01-poison-girl-friend-warszawa",
+   "artist": "POiSON GiRL FRiEND",
+   "title": "Summer European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-09-01",
+   "stops": [
+    {
+     "date": "2025-09-01",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Hydrozagadka"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/08/poison-girl-friend-will-soon-kick-off-european-summer-tour-at-rally-festival-in-london/"
+  },
+  {
+   "id": "past-2025-08-30-poison-girl-friend-berlin",
+   "artist": "POiSON GiRL FRiEND",
+   "title": "Summer European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-08-30",
+   "stops": [
+    {
+     "date": "2025-08-30",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Gretchen"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/08/poison-girl-friend-will-soon-kick-off-european-summer-tour-at-rally-festival-in-london/"
+  },
+  {
+   "id": "past-2025-08-09-hanabie-jaromer",
+   "artist": "HANABIE.",
+   "title": "Brutal Assault XXVIII",
+   "kind": "festiwal",
+   "dateStart": "2025-08-09",
+   "stops": [
+    {
+     "date": "2025-08-09",
+     "city": "Jaroměř",
+     "cc": "CZ",
+     "venue": "Pevnost Josefov"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:cz+hanabie"
+  },
+  {
+   "id": "past-2025-08-02-envy-katowice",
+   "artist": "envy",
+   "title": "OFF Festival 2025",
+   "kind": "festiwal",
+   "dateStart": "2025-08-02",
+   "stops": [
+    {
+     "date": "2025-08-02",
+     "city": "Katowice",
+     "cc": "PL",
+     "venue": "Dolina Trzech Stawów"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+envy"
+  },
+  {
+   "id": "past-2025-08-01-animagic-2025-sacra-music-fes-mannheim",
+   "artist": "AnimagiC 2025 (SACRA MUSIC FES.)",
+   "title": "AnimagiC",
+   "kind": "konwent",
+   "dateStart": "2025-08-01",
+   "dateEnd": "2025-08-03",
+   "stops": [
+    {
+     "date": "2025-08-01",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    },
+    {
+     "date": "2025-08-02",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    },
+    {
+     "date": "2025-08-03",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    }
+   ],
+   "url": "https://www.festivalsindeutschland.de/festival/animagic-mannheim/2025"
+  },
+  {
+   "id": "past-2025-08-01-hanabie",
+   "artist": "HANABIE.",
+   "title": "EU/UK Tour 2025 (festiwale + trasa jesienna)",
+   "kind": "trasa",
+   "dateStart": "2025-08-01",
+   "dateEnd": "2025-11-30",
+   "stops": [
+    {
+     "date": "2025-08-01",
+     "city": "Gränichen",
+     "cc": "CH",
+     "venue": "Open Air Gränichen"
+    },
+    {
+     "date": "2025-08-07",
+     "city": "Villena",
+     "cc": "ES",
+     "venue": "Leyendas del Rock"
+    },
+    {
+     "date": "2025-08-16",
+     "city": "Eindhoven",
+     "cc": "NL",
+     "venue": "Dynamo Metalfest"
+    },
+    {
+     "date": "2025-10-31",
+     "city": "Glasgow",
+     "cc": "UK",
+     "venue": "QMU"
+    },
+    {
+     "date": "2025-11-01",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "Academy 2"
+    },
+    {
+     "date": "2025-11-02",
+     "city": "Birmingham",
+     "cc": "UK",
+     "venue": "O2 Institute 2"
+    },
+    {
+     "date": "2025-11-04",
+     "city": "Dublin",
+     "cc": "IE",
+     "venue": "The Academy"
+    },
+    {
+     "date": "2025-11-05",
+     "city": "Belfast",
+     "cc": "UK",
+     "venue": "Limelight"
+    },
+    {
+     "date": "2025-11-07",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Electric Brixton"
+    },
+    {
+     "date": "2025-11-08",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Élysée Montmartre"
+    },
+    {
+     "date": "2025-11-09",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "Ancienne Belgique"
+    },
+    {
+     "date": "2025-11-11",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Melkweg"
+    },
+    {
+     "date": "2025-11-28",
+     "city": "Tuluza",
+     "cc": "FR",
+     "venue": "La Cabane"
+    },
+    {
+     "date": "2025-11-29",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Apolo 2"
+    },
+    {
+     "date": "2025-11-30",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Sala Mon"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/02/hanabie-back-in-europe-for-summer-festivals-and-a-headline-tour-in-autumn-2025/"
+  },
+  {
+   "id": "past-2025-07-31-hanabie-broczyno",
+   "artist": "HANABIE.",
+   "title": "Pol'and'Rock Festival 2025",
+   "kind": "festiwal",
+   "dateStart": "2025-07-31",
+   "stops": [
+    {
+     "date": "2025-07-31",
+     "city": "Broczyno",
+     "cc": "PL",
+     "venue": "Lotnisko Broczyno (Pol'and'Rock)"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+hanabie"
+  },
+  {
+   "id": "past-2025-07-27-wednesday-campanella",
+   "artist": "Wednesday Campanella",
+   "title": "Summer Time Ghost – Europe 2025",
+   "kind": "trasa",
+   "dateStart": "2025-07-27",
+   "dateEnd": "2025-07-31",
+   "stops": [
+    {
+     "date": "2025-07-27",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Heaven"
+    },
+    {
+     "date": "2025-07-29",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Legend Club"
+    },
+    {
+     "date": "2025-07-31",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Petit Bain"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/05/summer-time-ghost-wednesday-campanella-to-perform-select-shows-in-asia-and-europe-this-summer"
+  },
+  {
+   "id": "past-2025-07-20-fukuro-warszawa",
+   "artist": "FUKURO",
+   "title": "Road to Europe",
+   "kind": "koncert",
+   "dateStart": "2025-07-20",
+   "stops": [
+    {
+     "date": "2025-07-20",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/03/road-to-europe-fukuros-first-european-tour-announced/"
+  },
+  {
+   "id": "past-2025-07-18-hyper-japan",
+   "artist": "HYPER JAPAN",
+   "title": "HYPER JAPAN Festival 2025",
+   "kind": "konwent",
+   "dateStart": "2025-07-18",
+   "stops": [
+    {
+     "date": "2025-07-18",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Olympia London"
+    }
+   ],
+   "url": "https://www.uk.emb-japan.go.jp/JAPANUKEvent/event/2025/202507/18-HyperJapan2025.html"
+  },
+  {
+   "id": "past-2025-07-12-fukuro",
+   "artist": "FUKURO",
+   "title": "Road to Europe 2025",
+   "kind": "trasa",
+   "dateStart": "2025-07-12",
+   "dateEnd": "2025-07-17",
+   "stops": [
+    {
+     "date": "2025-07-12",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Zèbre"
+    },
+    {
+     "date": "2025-07-15",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The Underworld"
+    },
+    {
+     "date": "2025-07-17",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Legend Club"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/03/road-to-europe-fukuros-first-european-tour-announced/"
+  },
+  {
+   "id": "past-2025-07-09-fukuro-bratysawa",
+   "artist": "FUKURO",
+   "title": "Road to Europe",
+   "kind": "koncert",
+   "dateStart": "2025-07-09",
+   "stops": [
+    {
+     "date": "2025-07-09",
+     "city": "Bratysława",
+     "cc": "SK",
+     "venue": "Randal Club"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/03/road-to-europe-fukuros-first-european-tour-announced/"
+  },
+  {
+   "id": "past-2025-07-06-final-symphony-ii-wrocaw",
+   "artist": "Final Symphony II",
+   "title": "Final Symphony II – muzyka z Final Fantasy V, VIII, IX, XIII",
+   "kind": "symfoniczny",
+   "dateStart": "2025-07-06",
+   "stops": [
+    {
+     "date": "2025-07-06",
+     "city": "Wrocław",
+     "cc": "PL",
+     "venue": "Narodowe Forum Muzyki"
+    }
+   ],
+   "url": "https://gamemusic.net/?p=20287"
+  },
+  {
+   "id": "past-2025-07-04-fujii-kaze",
+   "artist": "Fujii Kaze",
+   "title": "European Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-07-04",
+   "dateEnd": "2025-07-14",
+   "stops": [
+    {
+     "date": "2025-07-04",
+     "city": "Roskilde",
+     "cc": "DK",
+     "venue": "Roskilde Festival"
+    },
+    {
+     "date": "2025-07-06",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Shepherd's Bush Empire"
+    },
+    {
+     "date": "2025-07-07",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Shepherd's Bush Empire"
+    },
+    {
+     "date": "2025-07-10",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "L'Olympia"
+    },
+    {
+     "date": "2025-07-12",
+     "city": "Rotterdam",
+     "cc": "NL",
+     "venue": "North Sea Jazz Festival"
+    },
+    {
+     "date": "2025-07-14",
+     "city": "Montreux",
+     "cc": "CH",
+     "venue": "Montreux Jazz Festival"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/04/fujii-kaze-announces-european-tour-with-performances-at-roskilde-montreux-jazz-festival-and-north-sea-jazz-festival/"
+  },
+  {
+   "id": "past-2025-07-03-japan-expo-paris",
+   "artist": "Japan Expo Paris",
+   "title": "Japan Expo 2025",
+   "kind": "konwent",
+   "dateStart": "2025-07-03",
+   "stops": [
+    {
+     "date": "2025-07-03",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Paris-Nord Villepinte"
+    }
+   ],
+   "url": "https://www.anime-atelier.com/japan-expo-2025-reveals-impressive-guest-lineup/"
+  },
+  {
+   "id": "past-2025-06-17-ado-berlin",
+   "artist": "Ado",
+   "title": "Ado WORLD TOUR 2025 \"Hibana\"",
+   "kind": "koncert",
+   "dateStart": "2025-06-17",
+   "stops": [
+    {
+     "date": "2025-06-17",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Uber Arena"
+    }
+   ],
+   "url": "https://anitrendz.com/news/2024/10/24/ado-crunchyroll-embark-on-34-city-2nd-world-tour-in-2025"
+  },
+  {
+   "id": "past-2025-06-15-centimillimental-poznan",
+   "artist": "Centimillimental",
+   "title": "ribbon Europe Tour 2025 – występ na Pyrkonie",
+   "kind": "koncert",
+   "dateStart": "2025-06-15",
+   "stops": [
+    {
+     "date": "2025-06-15",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "Pyrkon, MTP Poznań"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/05/centimillimental-on-european-tour-for-the-first-time-ribbon/"
+  },
+  {
+   "id": "past-2025-06-15-crossfaith-hradec-kralove",
+   "artist": "Crossfaith",
+   "title": "Rock for People 2025",
+   "kind": "festiwal",
+   "dateStart": "2025-06-15",
+   "stops": [
+    {
+     "date": "2025-06-15",
+     "city": "Hradec Králové",
+     "cc": "CZ",
+     "venue": "Park 360"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/05/crossfaith-return-to-europe-for-13-show-tour-across-8-countries/"
+  },
+  {
+   "id": "past-2025-06-15-jiluka-berlin",
+   "artist": "JILUKA",
+   "title": "THE KVLT European Tour",
+   "kind": "koncert",
+   "dateStart": "2025-06-15",
+   "stops": [
+    {
+     "date": "2025-06-15",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Hole44"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/03/jiluka-to-tour-europe-this-summer-with-nini-as-support-act/"
+  },
+  {
+   "id": "past-2025-06-14-jiluka-warszawa",
+   "artist": "JILUKA",
+   "title": "THE KVLT European Tour",
+   "kind": "koncert",
+   "dateStart": "2025-06-14",
+   "stops": [
+    {
+     "date": "2025-06-14",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/03/jiluka-to-tour-europe-this-summer-with-nini-as-support-act/"
+  },
+  {
+   "id": "past-2025-06-13-pyrkon-2025-poznan",
+   "artist": "Pyrkon 2025",
+   "title": "Festiwal Fantastyki (gość: Centimillimental)",
+   "kind": "konwent",
+   "dateStart": "2025-06-13",
+   "dateEnd": "2025-06-15",
+   "stops": [
+    {
+     "date": "2025-06-13",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    },
+    {
+     "date": "2025-06-14",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    },
+    {
+     "date": "2025-06-15",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Pyrkon"
+  },
+  {
+   "id": "past-2025-06-13-survive-said-the-prophet",
+   "artist": "Survive Said The Prophet",
+   "title": "European Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-06-13",
+   "dateEnd": "2025-06-15",
+   "stops": [
+    {
+     "date": "2025-06-13",
+     "city": "Utrecht",
+     "cc": "NL",
+     "venue": "De Helling"
+    },
+    {
+     "date": "2025-06-14",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Camden Assembly"
+    },
+    {
+     "date": "2025-06-15",
+     "city": "Castle Donington",
+     "cc": "UK",
+     "venue": "Download Festival"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/03/survive-said-the-prophet-to-tour-europe-with-stops-at-major-festivals"
+  },
+  {
+   "id": "past-2025-06-12-jiluka-hradec-kralove",
+   "artist": "JILUKA",
+   "title": "Rock for People 2025",
+   "kind": "festiwal",
+   "dateStart": "2025-06-12",
+   "stops": [
+    {
+     "date": "2025-06-12",
+     "city": "Hradec Králové",
+     "cc": "CZ",
+     "venue": "Park 360"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/03/jiluka-to-tour-europe-this-summer-with-nini-as-support-act/"
+  },
+  {
+   "id": "past-2025-06-11-crossfaith",
+   "artist": "Crossfaith",
+   "title": "European Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-06-11",
+   "dateEnd": "2025-06-29",
+   "stops": [
+    {
+     "date": "2025-06-11",
+     "city": "Southampton",
+     "cc": "UK",
+     "venue": "Engine Rooms"
+    },
+    {
+     "date": "2025-06-13",
+     "city": "Castle Donington",
+     "cc": "UK",
+     "venue": "Download Festival"
+    },
+    {
+     "date": "2025-06-20",
+     "city": "Lucerna",
+     "cc": "CH",
+     "venue": "Musikzentrum Sedel"
+    },
+    {
+     "date": "2025-06-22",
+     "city": "Dessel",
+     "cc": "BE",
+     "venue": "Graspop Metal Meeting"
+    },
+    {
+     "date": "2025-06-27",
+     "city": "Ysselsteyn",
+     "cc": "NL",
+     "venue": "Jera On Air"
+    },
+    {
+     "date": "2025-06-28",
+     "city": "Viveiro",
+     "cc": "ES",
+     "venue": "Resurrection Fest"
+    },
+    {
+     "date": "2025-06-29",
+     "city": "Lizbona",
+     "cc": "PT",
+     "venue": "Evil Live"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/05/crossfaith-return-to-europe-for-13-show-tour-across-8-countries"
+  },
+  {
+   "id": "past-2025-06-10-ado",
+   "artist": "Ado",
+   "title": "Hibana World Tour 2025",
+   "kind": "trasa",
+   "dateStart": "2025-06-10",
+   "dateEnd": "2025-07-02",
+   "stops": [
+    {
+     "date": "2025-06-10",
+     "city": "Antwerpia",
+     "cc": "BE",
+     "venue": "Sportpaleis"
+    },
+    {
+     "date": "2025-06-14",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "Royal Arena"
+    },
+    {
+     "date": "2025-06-19",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The O2 Arena"
+    },
+    {
+     "date": "2025-06-21",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Ziggo Dome"
+    },
+    {
+     "date": "2025-06-25",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Accor Arena"
+    },
+    {
+     "date": "2025-06-29",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Palau Sant Jordi"
+    },
+    {
+     "date": "2025-07-02",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Unipol Forum (Assago)"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Hibana_World_Tour"
+  },
+  {
+   "id": "past-2025-06-08-yoasobi",
+   "artist": "YOASOBI",
+   "title": "YOASOBI Live at Wembley Arena",
+   "kind": "koncert",
+   "dateStart": "2025-06-08",
+   "dateEnd": "2025-06-09",
+   "stops": [
+    {
+     "date": "2025-06-08",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "OVO Arena Wembley"
+    },
+    {
+     "date": "2025-06-09",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "OVO Arena Wembley"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/List_of_Yoasobi_live_performances"
+  },
+  {
+   "id": "past-2025-06-06-yoasobi",
+   "artist": "YOASOBI",
+   "title": "Primavera Sound 2025",
+   "kind": "festiwal",
+   "dateStart": "2025-06-06",
+   "stops": [
+    {
+     "date": "2025-06-06",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Parc del Fòrum (Primavera Sound)"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/List_of_Yoasobi_live_performances"
+  },
+  {
+   "id": "past-2025-05-23-animefest-2025-goscie-nana-kitade-mion-brno",
+   "artist": "Animefest 2025 (goście: Nana Kitade, MION)",
+   "title": "Animefest",
+   "kind": "konwent",
+   "dateStart": "2025-05-23",
+   "dateEnd": "2025-05-25",
+   "stops": [
+    {
+     "date": "2025-05-23",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    },
+    {
+     "date": "2025-05-24",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    },
+    {
+     "date": "2025-05-25",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Animefest"
+  },
+  {
+   "id": "past-2025-05-19-babymetal-krakow",
+   "artist": "BABYMETAL",
+   "title": "European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-05-19",
+   "stops": [
+    {
+     "date": "2025-05-19",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "TAURON Arena Kraków"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+babymetal"
+  },
+  {
+   "id": "past-2025-05-17-babymetal-berlin",
+   "artist": "BABYMETAL",
+   "title": "European Tour 2025",
+   "kind": "koncert",
+   "dateStart": "2025-05-17",
+   "stops": [
+    {
+     "date": "2025-05-17",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Velodrom"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+babymetal"
+  },
+  {
+   "id": "past-2025-05-10-babymetal",
+   "artist": "BABYMETAL",
+   "title": "World Tour 2025 – European Arena Tour",
+   "kind": "trasa",
+   "dateStart": "2025-05-10",
+   "dateEnd": "2025-05-30",
+   "stops": [
+    {
+     "date": "2025-05-10",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "Forest National"
+    },
+    {
+     "date": "2025-05-13",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "AFAS Live"
+    },
+    {
+     "date": "2025-05-22",
+     "city": "Zurych",
+     "cc": "CH",
+     "venue": "THE HALL (Dübendorf)"
+    },
+    {
+     "date": "2025-05-25",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Palacio Vistalegre"
+    },
+    {
+     "date": "2025-05-26",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Poble Espanyol"
+    },
+    {
+     "date": "2025-05-28",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Zénith Paris La Villette"
+    },
+    {
+     "date": "2025-05-30",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The O2 Arena"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/10/babymetal-set-to-return-to-europe-in-2025-with-12-date-arena-tour"
+  },
+  {
+   "id": "past-2025-05-05-crystal-lake-poznan",
+   "artist": "Crystal Lake",
+   "kind": "koncert",
+   "dateStart": "2025-05-05",
+   "stops": [
+    {
+     "date": "2025-05-05",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "2Progi"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+crystal+lake"
+  },
+  {
+   "id": "past-2025-04-19-nier",
+   "artist": "NieR",
+   "title": "NieR:Piano Concert – Journeys 12025",
+   "kind": "symfoniczny",
+   "dateStart": "2025-04-19",
+   "dateEnd": "2025-07-03",
+   "stops": [
+    {
+     "date": "2025-04-19",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Salle Gaveau"
+    },
+    {
+     "date": "2025-05-09",
+     "city": "Lyon",
+     "cc": "FR",
+     "venue": "Salle Molière"
+    },
+    {
+     "date": "2025-06-07",
+     "city": "Rzym",
+     "cc": "IT",
+     "venue": "Teatro Ghione"
+    },
+    {
+     "date": "2025-06-08",
+     "city": "Birmingham",
+     "cc": "UK",
+     "venue": "Elgar Concert Hall"
+    },
+    {
+     "date": "2025-06-13",
+     "city": "Lizbona",
+     "cc": "PT",
+     "venue": "Teatro Variedades"
+    },
+    {
+     "date": "2025-07-03",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Cadogan Hall"
+    }
+   ],
+   "url": "https://gamespress.com/NieRPiano-Concert---Journeys-12025---Tour-Dates-Announced"
+  },
+  {
+   "id": "past-2025-04-01-demon-slayer",
+   "artist": "Demon Slayer",
+   "title": "Demon Slayer: Kimetsu no Yaiba in Concert",
+   "kind": "symfoniczny",
+   "dateStart": "2025-04-01",
+   "stops": [
+    {
+     "date": "2025-04-01",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Barbican Hall"
+    }
+   ],
+   "url": "https://otakunews.com/Article/12101/demon-slayer-in-concert-at-barbican-london"
+  },
+  {
+   "id": "past-2025-03-30-kenshi-yonezu",
+   "artist": "Kenshi Yonezu",
+   "title": "2025 WORLD TOUR / JUNK",
+   "kind": "trasa",
+   "dateStart": "2025-03-30",
+   "dateEnd": "2025-04-01",
+   "stops": [
+    {
+     "date": "2025-03-30",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Eventim Apollo"
+    },
+    {
+     "date": "2025-04-01",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Zénith Paris La Villette"
+    }
+   ],
+   "url": "https://jrocknews.com/2024/10/kenshi-yonezu-launches-2025-world-tour-junk-with-debut-shows-in-asia-europe-u-s.html"
+  },
+  {
+   "id": "past-2025-03-28-joe-hisaishi",
+   "artist": "Joe Hisaishi",
+   "title": "Joe Hisaishi conducts – Rotterdam Philharmonic",
+   "kind": "symfoniczny",
+   "dateStart": "2025-03-28",
+   "dateEnd": "2025-03-29",
+   "stops": [
+    {
+     "date": "2025-03-28",
+     "city": "Rotterdam",
+     "cc": "NL",
+     "venue": "De Doelen"
+    },
+    {
+     "date": "2025-03-29",
+     "city": "Rotterdam",
+     "cc": "NL",
+     "venue": "De Doelen"
+    }
+   ],
+   "url": "https://www.rotterdamsphilharmonisch.nl/en/joe-hisaishi-concert-2025"
+  },
+  {
+   "id": "past-2025-03-22-genshin-impact",
+   "artist": "Genshin Impact",
+   "title": "Genshin Concert 2024 – Special Tour (London, przełożony)",
+   "kind": "symfoniczny",
+   "dateStart": "2025-03-22",
+   "stops": [
+    {
+     "date": "2025-03-22",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Eventim Apollo"
+    }
+   ],
+   "url": "https://www.siliconera.com/london-genshin-impact-concert-delayed-until-2025/"
+  },
+  {
+   "id": "past-2025-03-10-ichiko-aoba",
+   "artist": "Ichiko Aoba",
+   "title": "Luminescent Creatures World Tour 2025 – Europe",
+   "kind": "trasa",
+   "dateStart": "2025-03-10",
+   "dateEnd": "2025-04-05",
+   "stops": [
+    {
+     "date": "2025-03-10",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Paral·lel 62"
+    },
+    {
+     "date": "2025-03-11",
+     "city": "Walencja",
+     "cc": "ES",
+     "venue": "Teatro La Rambleta"
+    },
+    {
+     "date": "2025-03-13",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Auditorium San Fedele"
+    },
+    {
+     "date": "2025-03-15",
+     "city": "Zurych",
+     "cc": "CH",
+     "venue": "Mascotte"
+    },
+    {
+     "date": "2025-03-21",
+     "city": "Utrecht",
+     "cc": "NL",
+     "venue": "TivoliVredenburg"
+    },
+    {
+     "date": "2025-03-23",
+     "city": "Groningen",
+     "cc": "NL",
+     "venue": "De Oosterpoort"
+    },
+    {
+     "date": "2025-03-25",
+     "city": "Antwerpia",
+     "cc": "BE",
+     "venue": "De Roma (Borgerhout)"
+    },
+    {
+     "date": "2025-03-27",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Trianon"
+    },
+    {
+     "date": "2025-03-31",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Barbican Centre"
+    },
+    {
+     "date": "2025-04-02",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "Albert Hall"
+    },
+    {
+     "date": "2025-04-04",
+     "city": "Gateshead",
+     "cc": "UK",
+     "venue": "The Glasshouse"
+    },
+    {
+     "date": "2025-04-05",
+     "city": "Glasgow",
+     "cc": "UK",
+     "venue": "City Halls"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/01/ichiko-aoba-celebrates-new-album-with-world-tour-in-2025"
+  },
+  {
+   "id": "past-2025-02-26-miku-an-cafe",
+   "artist": "Miku (An Cafe)",
+   "title": "Miku Around The World ~Nyappy Party Europe~",
+   "kind": "trasa",
+   "dateStart": "2025-02-26",
+   "dateEnd": "2025-03-01",
+   "stops": [
+    {
+     "date": "2025-02-26",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The Water Rats"
+    },
+    {
+     "date": "2025-02-28",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Apollo Théâtre"
+    },
+    {
+     "date": "2025-03-01",
+     "city": "Murcja",
+     "cc": "ES",
+     "venue": "Winter Freak"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/01/an-cafes-miku-comes-to-europe-for-a-solo-tour-including-london-paris-and-murcia"
+  },
+  {
+   "id": "past-2025-02-24-porter-robinson",
+   "artist": "Porter Robinson",
+   "title": "SMILE! :D World Tour – Europe",
+   "kind": "trasa",
+   "dateStart": "2025-02-24",
+   "dateEnd": "2025-03-10",
+   "stops": [
+    {
+     "date": "2025-02-24",
+     "city": "Oslo",
+     "cc": "NO",
+     "venue": "Rockefeller Music Hall"
+    },
+    {
+     "date": "2025-02-25",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Berns"
+    },
+    {
+     "date": "2025-02-26",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "Vega"
+    },
+    {
+     "date": "2025-02-28",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Melkweg"
+    },
+    {
+     "date": "2025-03-04",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Salle Pleyel"
+    },
+    {
+     "date": "2025-03-06",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Academy Brixton"
+    },
+    {
+     "date": "2025-03-07",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "Albert Hall"
+    },
+    {
+     "date": "2025-03-08",
+     "city": "Glasgow",
+     "cc": "UK",
+     "venue": "SWG3 Galvanizers"
+    },
+    {
+     "date": "2025-03-10",
+     "city": "Dublin",
+     "cc": "IE",
+     "venue": "3Olympia Theatre"
+    }
+   ],
+   "url": "https://www.sportskeeda.com/us/music/porter-robinson-smile-d-world-tour-2024-25-presale-code-tickets-dates-venues-need-know"
+  },
+  {
+   "id": "past-2025-02-19-kikuo-warszawa",
+   "artist": "Kikuo",
+   "title": "Kikuo World Tour (Europe)",
+   "kind": "koncert",
+   "dateStart": "2025-02-19",
+   "stops": [
+    {
+     "date": "2025-02-19",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Palladium"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+kikuo"
+  },
+  {
+   "id": "past-2025-02-05-kikuo-berlin",
+   "artist": "Kikuo",
+   "title": "Kikuo World Tour (Europe)",
+   "kind": "koncert",
+   "dateStart": "2025-02-05",
+   "stops": [
+    {
+     "date": "2025-02-05",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Festsaal Kreuzberg"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/01/kikuos-world-tour-reaches-europe-with-overwhelming-success/"
+  },
+  {
+   "id": "past-2025-01-30-kikuo",
+   "artist": "Kikuo",
+   "title": "Kikuoland-Go-Round World Tour – Europe",
+   "kind": "trasa",
+   "dateStart": "2025-01-30",
+   "dateEnd": "2025-02-17",
+   "stops": [
+    {
+     "date": "2025-01-30",
+     "city": "Glasgow",
+     "cc": "UK",
+     "venue": "SWG3 Warehouse"
+    },
+    {
+     "date": "2025-02-01",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "Manchester Academy 2"
+    },
+    {
+     "date": "2025-02-02",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "HERE at Outernet"
+    },
+    {
+     "date": "2025-02-07",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "La Madeleine"
+    },
+    {
+     "date": "2025-02-09",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Melkweg Max"
+    },
+    {
+     "date": "2025-02-11",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Yoyo"
+    },
+    {
+     "date": "2025-02-12",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "HERE at Outernet"
+    },
+    {
+     "date": "2025-02-14",
+     "city": "Dublin",
+     "cc": "IE",
+     "venue": "Opium"
+    },
+    {
+     "date": "2025-02-15",
+     "city": "Dublin",
+     "cc": "IE",
+     "venue": "Button Factory"
+    },
+    {
+     "date": "2025-02-17",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Sala But"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2025/01/kikuos-world-tour-reaches-europe-with-overwhelming-success"
+  },
+  {
+   "id": "past-2025-01-28-final-fantasy",
+   "artist": "Final Fantasy",
+   "title": "Crystalline Resonance – Final Fantasy Piano Concert",
+   "kind": "symfoniczny",
+   "dateStart": "2025-01-28",
+   "dateEnd": "2025-01-31",
+   "stops": [
+    {
+     "date": "2025-01-28",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Cadogan Hall"
+    },
+    {
+     "date": "2025-01-29",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Musikaliska Kvarteret"
+    },
+    {
+     "date": "2025-01-31",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "La Seine Musicale"
+    }
+   ],
+   "url": "https://otakunews.com/uk/Article/12085/crystalline-resonance-final-fantasy-piano-concert-european-performance-2025-deta"
+  },
+  {
+   "id": "past-2025-01-18-nightmare",
+   "artist": "NIGHTMARE",
+   "title": "The WORLD TOUR 極東乱心天國 – Europe 2025",
+   "kind": "trasa",
+   "dateStart": "2025-01-18",
+   "dateEnd": "2025-02-02",
+   "stops": [
+    {
+     "date": "2025-01-18",
+     "city": "Helsinki",
+     "cc": "FI",
+     "venue": "Ääniwalli"
+    },
+    {
+     "date": "2025-01-19",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Academy Islington"
+    },
+    {
+     "date": "2025-01-21",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Alhambra"
+    },
+    {
+     "date": "2025-02-02",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Chango Club"
+    }
+   ],
+   "url": "https://www.bandwagon.asia/articles/japanese-v-kei-band-nightmare-announces-their-first-europe-tour-for-their-25th-anniversary"
+  },
+  {
+   "id": "past-2024-12-11-g-l-a-m-s-praga",
+   "artist": "G.L.A.M.S",
+   "title": "10th Anniversary European Tour",
+   "kind": "koncert",
+   "dateStart": "2024-12-11",
+   "stops": [
+    {
+     "date": "2024-12-11",
+     "city": "Praga",
+     "cc": "CZ",
+     "venue": "Chapeau Rouge"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/11/g-l-a-m-s-to-celebrate-tenth-anniversary-with-brand-new-album-and-european-tour/"
+  },
+  {
+   "id": "past-2024-12-10-g-l-a-m-s-berlin",
+   "artist": "G.L.A.M.S",
+   "title": "10th Anniversary European Tour",
+   "kind": "koncert",
+   "dateStart": "2024-12-10",
+   "stops": [
+    {
+     "date": "2024-12-10",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Wild at Heart"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/11/g-l-a-m-s-to-celebrate-tenth-anniversary-with-brand-new-album-and-european-tour/"
+  },
+  {
+   "id": "past-2024-12-09-g-l-a-m-s-wrocaw",
+   "artist": "G.L.A.M.S",
+   "title": "10th Anniversary European Tour",
+   "kind": "koncert",
+   "dateStart": "2024-12-09",
+   "stops": [
+    {
+     "date": "2024-12-09",
+     "city": "Wrocław",
+     "cc": "PL",
+     "venue": "Klub Liverpool"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/11/g-l-a-m-s-to-celebrate-tenth-anniversary-with-brand-new-album-and-european-tour/"
+  },
+  {
+   "id": "past-2024-12-08-g-l-a-m-s-warszawa",
+   "artist": "G.L.A.M.S",
+   "title": "10th Anniversary European Tour",
+   "kind": "koncert",
+   "dateStart": "2024-12-08",
+   "stops": [
+    {
+     "date": "2024-12-08",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "PraCoVnia Art Club"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/11/g-l-a-m-s-to-celebrate-tenth-anniversary-with-brand-new-album-and-european-tour/"
+  },
+  {
+   "id": "past-2024-12-02-genshin-concert-tour-berlin",
+   "artist": "Genshin Concert Tour",
+   "title": "Melodies of an Endless Journey",
+   "kind": "symfoniczny",
+   "dateStart": "2024-12-02",
+   "stops": [
+    {
+     "date": "2024-12-02",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Uber Arena"
+    }
+   ],
+   "url": "https://www.uber-arena.de/en/events/detail/genshin-impact/2024-12-02-2000/"
+  },
+  {
+   "id": "past-2024-11-02-hatsune-miku-berlin",
+   "artist": "Hatsune Miku",
+   "title": "MIKU EXPO 2024 EUROPE",
+   "kind": "koncert",
+   "dateStart": "2024-11-02",
+   "stops": [
+    {
+     "date": "2024-11-02",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Uber Eats Music Hall"
+    }
+   ],
+   "url": "https://jrocknews.com/2024/04/miku-expo-2024-europe-tour.html"
+  },
+  {
+   "id": "past-2024-10-28-one-piece",
+   "artist": "One Piece",
+   "title": "ONE PIECE Music Symphony – 25th Anniversary",
+   "kind": "symfoniczny",
+   "dateStart": "2024-10-28",
+   "dateEnd": "2024-12-01",
+   "stops": [
+    {
+     "date": "2024-10-28",
+     "city": "Lyon",
+     "cc": "FR",
+     "venue": "Amphithéâtre 3000"
+    },
+    {
+     "date": "2024-11-16",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Eventim Apollo"
+    },
+    {
+     "date": "2024-11-30",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Palais des Congrès"
+    },
+    {
+     "date": "2024-12-01",
+     "city": "Lille",
+     "cc": "FR",
+     "venue": "Le Nouveau Siècle"
+    }
+   ],
+   "url": "https://www.anitrendz.com/news/2024/03/20/one-piece-celebrates-25th-anniversary-with-worldwide-music-symphony-concert"
+  },
+  {
+   "id": "past-2024-10-26-hatsune-miku",
+   "artist": "Hatsune Miku",
+   "title": "MIKU EXPO 2024 Europe (10th Anniversary)",
+   "kind": "trasa",
+   "dateStart": "2024-10-26",
+   "dateEnd": "2024-10-30",
+   "stops": [
+    {
+     "date": "2024-10-26",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "OVO Arena Wembley"
+    },
+    {
+     "date": "2024-10-28",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "ING Arena"
+    },
+    {
+     "date": "2024-10-29",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Zénith Paris La Villette"
+    },
+    {
+     "date": "2024-10-30",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "AFAS Live"
+    }
+   ],
+   "url": "https://www.anitrendz.com/news/2024/03/25/miku-expo-2024-expands-to-europe-for-october-november-2024"
+  },
+  {
+   "id": "past-2024-10-25-naruto",
+   "artist": "Naruto",
+   "title": "Naruto Shippuden Symphonic Experience",
+   "kind": "symfoniczny",
+   "dateStart": "2024-10-25",
+   "dateEnd": "2024-10-27",
+   "stops": [
+    {
+     "date": "2024-10-25",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Dôme de Paris – Palais des Sports"
+    },
+    {
+     "date": "2024-10-26",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Dôme de Paris – Palais des Sports"
+    },
+    {
+     "date": "2024-10-27",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Dôme de Paris – Palais des Sports"
+    }
+   ],
+   "url": "https://www.sortiraparis.com/et/mida-pariisis-naha/festivalimuusikakontsert/articles/309168-naruto-shippudeni-sumfooniline-kogemus-kinokontsert-pariisi-spordipalee-kuppelas"
+  },
+  {
+   "id": "past-2024-09-13-jiluka-warszawa",
+   "artist": "JILUKA",
+   "title": "K4RMA: The Return",
+   "kind": "koncert",
+   "dateStart": "2024-09-13",
+   "stops": [
+    {
+     "date": "2024-09-13",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/07/round-two-jiluka-back-in-europe-for-k4rma-the-return-tour/"
+  },
+  {
+   "id": "past-2024-09-12-jiluka-berlin",
+   "artist": "JILUKA",
+   "title": "K4RMA: The Return",
+   "kind": "koncert",
+   "dateStart": "2024-09-12",
+   "stops": [
+    {
+     "date": "2024-09-12",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "SO36"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/07/round-two-jiluka-back-in-europe-for-k4rma-the-return-tour/"
+  },
+  {
+   "id": "past-2024-09-04-flow",
+   "artist": "FLOW",
+   "title": "FLOW World Tour 2024 – Europe",
+   "kind": "trasa",
+   "dateStart": "2024-09-04",
+   "dateEnd": "2024-09-16",
+   "stops": [
+    {
+     "date": "2024-09-04",
+     "city": "Utrecht",
+     "cc": "NL",
+     "venue": "TivoliVredenburg"
+    },
+    {
+     "date": "2024-09-10",
+     "city": "Zurych",
+     "cc": "CH",
+     "venue": "X-TRA"
+    },
+    {
+     "date": "2024-09-13",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Razzmatazz"
+    },
+    {
+     "date": "2024-09-14",
+     "city": "Paryż",
+     "cc": "FR"
+    },
+    {
+     "date": "2024-09-16",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Electric Ballroom"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/07/rock-out-with-flow-during-the-european-leg-of-their-world-tour"
+  },
+  {
+   "id": "past-2024-08-31-man-with-a-mission",
+   "artist": "MAN WITH A MISSION",
+   "title": "UK/EU Headline Tour 2024",
+   "kind": "trasa",
+   "dateStart": "2024-08-31",
+   "dateEnd": "2024-09-04",
+   "stops": [
+    {
+     "date": "2024-08-31",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Forum Kentish Town"
+    },
+    {
+     "date": "2024-09-01",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Melkweg"
+    },
+    {
+     "date": "2024-09-04",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Trianon"
+    }
+   ],
+   "url": "https://v13.net/2024/05/man-with-a-mission-announce-uk-eu-headline-summer-tour/"
+  },
+  {
+   "id": "past-2024-08-30-final-fantasy-vii-rebirth",
+   "artist": "Final Fantasy VII Rebirth",
+   "title": "Final Fantasy VII Rebirth Orchestra World Tour",
+   "kind": "symfoniczny",
+   "dateStart": "2024-08-30",
+   "dateEnd": "2025-03-30",
+   "stops": [
+    {
+     "date": "2024-08-30",
+     "city": "Rotterdam",
+     "cc": "NL",
+     "venue": "RTM Stage"
+    },
+    {
+     "date": "2024-09-15",
+     "city": "Rzym",
+     "cc": "IT",
+     "venue": "Auditorium Parco della Musica"
+    },
+    {
+     "date": "2024-09-28",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Royal Albert Hall"
+    },
+    {
+     "date": "2024-11-09",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Palais des Congrès"
+    },
+    {
+     "date": "2025-03-23",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "AFAS Live"
+    },
+    {
+     "date": "2025-03-30",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Auditori Fòrum"
+    }
+   ],
+   "url": "https://soundtrackfest.com/?p=43388"
+  },
+  {
+   "id": "past-2024-08-02-animagic-2024-asca-claris-halca-who-ya-e-mannheim",
+   "artist": "AnimagiC 2024 (ASCA, ClariS, halca, Who-ya Extended)",
+   "title": "AnimagiC – SACRA MUSIC",
+   "kind": "konwent",
+   "dateStart": "2024-08-02",
+   "dateEnd": "2024-08-04",
+   "stops": [
+    {
+     "date": "2024-08-02",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    },
+    {
+     "date": "2024-08-03",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    },
+    {
+     "date": "2024-08-04",
+     "city": "Mannheim",
+     "cc": "DE",
+     "venue": "Congress Center Rosengarten"
+    }
+   ],
+   "url": "https://www.cosmocover.com/newsroom/crunchyroll-recapitulate-full-list-of-exciting-guests-attending-animagic-2024/"
+  },
+  {
+   "id": "past-2024-07-19-hyper-japan",
+   "artist": "HYPER JAPAN",
+   "title": "HYPER JAPAN Festival 2024",
+   "kind": "konwent",
+   "dateStart": "2024-07-19",
+   "stops": [
+    {
+     "date": "2024-07-19",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Olympia London"
+    }
+   ],
+   "url": "https://www.uk.emb-japan.go.jp/JAPANUKEvent/event/2024/202407/19-HyperJapan2024.html"
+  },
+  {
+   "id": "past-2024-07-13-hololive-english-justice",
+   "artist": "hololive English -Justice-",
+   "title": "hololive English -Justice- live @ Japan Expo 2024",
+   "kind": "koncert",
+   "dateStart": "2024-07-13",
+   "stops": [
+    {
+     "date": "2024-07-13",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Paris-Nord Villepinte (YUZU STAGE)"
+    }
+   ],
+   "url": "https://hololivepro.com/news_en/20240625-01-96/"
+  },
+  {
+   "id": "past-2024-07-11-japan-expo-paris",
+   "artist": "Japan Expo Paris",
+   "title": "Japan Expo 2024 (23. edycja)",
+   "kind": "konwent",
+   "dateStart": "2024-07-11",
+   "stops": [
+    {
+     "date": "2024-07-11",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Paris-Nord Villepinte"
+    }
+   ],
+   "url": "https://www.sortiraparis.com/pl/co-zobaczyc-w-paryzu/koncert-muzyczny-festiwalowy/articles/316006-japan-expo-2024-program-muzyczny-i-koncerty-ktorych-nie-mozna-przegapic"
+  },
+  {
+   "id": "past-2024-06-21-jiluka-bratysawa",
+   "artist": "JILUKA",
+   "title": "K4RMA World Tour 2024",
+   "kind": "koncert",
+   "dateStart": "2024-06-21",
+   "stops": [
+    {
+     "date": "2024-06-21",
+     "city": "Bratysława",
+     "cc": "SK",
+     "venue": "Randal Club"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/04/jiluka-to-set-foot-on-european-soil-during-k4rma-world-tour/"
+  },
+  {
+   "id": "past-2024-06-20-jiluka-warszawa",
+   "artist": "JILUKA",
+   "title": "K4RMA World Tour 2024",
+   "kind": "koncert",
+   "dateStart": "2024-06-20",
+   "stops": [
+    {
+     "date": "2024-06-20",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Hybrydy"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/04/jiluka-to-set-foot-on-european-soil-during-k4rma-world-tour/"
+  },
+  {
+   "id": "past-2024-06-18-babymetal-warszawa",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2024-06-18",
+   "stops": [
+    {
+     "date": "2024-06-18",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Letnia Scena Progresji"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+babymetal"
+  },
+  {
+   "id": "past-2024-06-16-babymetal-nickelsdorf",
+   "artist": "BABYMETAL",
+   "title": "Nova Rock 2024",
+   "kind": "festiwal",
+   "dateStart": "2024-06-16",
+   "stops": [
+    {
+     "date": "2024-06-16",
+     "city": "Nickelsdorf",
+     "cc": "AT",
+     "venue": "Pannonia Fields II"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:at+babymetal"
+  },
+  {
+   "id": "past-2024-06-14-pyrkon-2024-poznan",
+   "artist": "Pyrkon 2024",
+   "title": "Festiwal Fantastyki (strefa mangi/anime)",
+   "kind": "konwent",
+   "dateStart": "2024-06-14",
+   "dateEnd": "2024-06-16",
+   "stops": [
+    {
+     "date": "2024-06-14",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    },
+    {
+     "date": "2024-06-15",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    },
+    {
+     "date": "2024-06-16",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Pyrkon"
+  },
+  {
+   "id": "past-2024-06-14-hanabie",
+   "artist": "HANABIE.",
+   "title": "European Tour 2024",
+   "kind": "trasa",
+   "dateStart": "2024-06-14",
+   "dateEnd": "2024-07-06",
+   "stops": [
+    {
+     "date": "2024-06-14",
+     "city": "Castle Donington",
+     "cc": "UK",
+     "venue": "Download Festival"
+    },
+    {
+     "date": "2024-06-15",
+     "city": "Interlaken",
+     "cc": "CH",
+     "venue": "Greenfield Festival"
+    },
+    {
+     "date": "2024-06-18",
+     "city": "Bolonia",
+     "cc": "IT",
+     "venue": "Bonsai Garden"
+    },
+    {
+     "date": "2024-06-19",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Alhambra"
+    },
+    {
+     "date": "2024-06-20",
+     "city": "Dessel",
+     "cc": "BE",
+     "venue": "Graspop Metal Meeting"
+    },
+    {
+     "date": "2024-06-25",
+     "city": "Lizbona",
+     "cc": "PT",
+     "venue": "LAV – Lisboa Ao Vivo"
+    },
+    {
+     "date": "2024-06-26",
+     "city": "Viveiro",
+     "cc": "ES",
+     "venue": "Resurrection Fest"
+    },
+    {
+     "date": "2024-06-28",
+     "city": "Ysselsteyn",
+     "cc": "NL",
+     "venue": "Jera On Air"
+    },
+    {
+     "date": "2024-06-29",
+     "city": "Seinäjoki",
+     "cc": "FI",
+     "venue": "Provinssi"
+    },
+    {
+     "date": "2024-07-01",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Kollektivet Livet"
+    },
+    {
+     "date": "2024-07-02",
+     "city": "Oslo",
+     "cc": "NO",
+     "venue": "Cosmopolite"
+    },
+    {
+     "date": "2024-07-03",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "Pumpehuset"
+    },
+    {
+     "date": "2024-07-06",
+     "city": "Colombier-Saugnieu",
+     "cc": "FR",
+     "venue": "Plane'R Fest"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/02/hanabie-s-comeback-to-europe-consists-of-20-performances-in-16-countries/"
+  },
+  {
+   "id": "past-2024-06-14-lovebites",
+   "artist": "LOVEBITES",
+   "title": "World Tour 2024 – Europe",
+   "kind": "trasa",
+   "dateStart": "2024-06-14",
+   "dateEnd": "2024-07-04",
+   "stops": [
+    {
+     "date": "2024-06-14",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "New Cross Inn"
+    },
+    {
+     "date": "2024-06-15",
+     "city": "Ittre",
+     "cc": "BE",
+     "venue": "Zik-Zak"
+    },
+    {
+     "date": "2024-06-19",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Legend Club"
+    },
+    {
+     "date": "2024-06-22",
+     "city": "Kartagena",
+     "cc": "ES",
+     "venue": "Rock Imperium Festival"
+    },
+    {
+     "date": "2024-06-25",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "La Maroquinerie"
+    },
+    {
+     "date": "2024-06-28",
+     "city": "Clisson",
+     "cc": "FR",
+     "venue": "Hellfest"
+    },
+    {
+     "date": "2024-06-29",
+     "city": "Viveiro",
+     "cc": "ES",
+     "venue": "Resurrection Fest"
+    },
+    {
+     "date": "2024-07-01",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The Garage"
+    },
+    {
+     "date": "2024-07-04",
+     "city": "Roskilde",
+     "cc": "DK",
+     "venue": "Roskilde Festival"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/06/the-european-leg-of-lovebites-first-world-tour-is-about-to-begin"
+  },
+  {
+   "id": "past-2024-06-12-hanabie-hradec-kralove",
+   "artist": "HANABIE.",
+   "title": "Rock for People 2024",
+   "kind": "festiwal",
+   "dateStart": "2024-06-12",
+   "stops": [
+    {
+     "date": "2024-06-12",
+     "city": "Hradec Králové",
+     "cc": "CZ",
+     "venue": "Park 360"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:cz+hanabie"
+  },
+  {
+   "id": "past-2024-06-12-kamijo-berlin",
+   "artist": "KAMIJO",
+   "title": "The Anthem European Tour",
+   "kind": "koncert",
+   "dateStart": "2024-06-12",
+   "stops": [
+    {
+     "date": "2024-06-12",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Hole 44"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/03/kamijo-returns-to-europe-after-6-years-for-the-anthem-tour/"
+  },
+  {
+   "id": "past-2024-06-12-babymetal",
+   "artist": "BABYMETAL",
+   "title": "European Summer Tour 2024",
+   "kind": "trasa",
+   "dateStart": "2024-06-12",
+   "dateEnd": "2024-06-29",
+   "stops": [
+    {
+     "date": "2024-06-12",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "AFAS Live"
+    },
+    {
+     "date": "2024-06-13",
+     "city": "Interlaken",
+     "cc": "CH",
+     "venue": "Greenfield Festival"
+    },
+    {
+     "date": "2024-06-15",
+     "city": "Castle Donington",
+     "cc": "UK",
+     "venue": "Download Festival"
+    },
+    {
+     "date": "2024-06-20",
+     "city": "Dessel",
+     "cc": "BE",
+     "venue": "Graspop Metal Meeting"
+    },
+    {
+     "date": "2024-06-21",
+     "city": "Landgraaf",
+     "cc": "NL",
+     "venue": "Pinkpop Festival"
+    },
+    {
+     "date": "2024-06-23",
+     "city": "Tuluza",
+     "cc": "FR",
+     "venue": "Zénith Toulouse Métropole"
+    },
+    {
+     "date": "2024-06-25",
+     "city": "Rzym",
+     "cc": "IT",
+     "venue": "Rock in Roma"
+    },
+    {
+     "date": "2024-06-27",
+     "city": "Clisson",
+     "cc": "FR",
+     "venue": "Hellfest"
+    },
+    {
+     "date": "2024-06-29",
+     "city": "Viveiro",
+     "cc": "ES",
+     "venue": "Resurrection Fest"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/06/babymetals-european-summer-tour-2024-kicks-off-in-just-a-few-days/"
+  },
+  {
+   "id": "past-2024-06-09-kamijo-budapeszt",
+   "artist": "KAMIJO",
+   "title": "The Anthem European Tour",
+   "kind": "koncert",
+   "dateStart": "2024-06-09",
+   "stops": [
+    {
+     "date": "2024-06-09",
+     "city": "Budapeszt",
+     "cc": "HU",
+     "venue": "Analog Music Hall"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/03/kamijo-returns-to-europe-after-6-years-for-the-anthem-tour/"
+  },
+  {
+   "id": "past-2024-06-08-atarashii-gakko-berlin",
+   "artist": "ATARASHII GAKKO!",
+   "kind": "koncert",
+   "dateStart": "2024-06-08",
+   "stops": [
+    {
+     "date": "2024-06-08",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Metropol"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+atarashii+gakko"
+  },
+  {
+   "id": "past-2024-06-08-kamijo",
+   "artist": "KAMIJO",
+   "title": "Europa Tour 2024 \"The Anthem\"",
+   "kind": "trasa",
+   "dateStart": "2024-06-08",
+   "dateEnd": "2024-06-16",
+   "stops": [
+    {
+     "date": "2024-06-08",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Badaboum"
+    },
+    {
+     "date": "2024-06-11",
+     "city": "Helsinki",
+     "cc": "FI",
+     "venue": "On the Rocks"
+    },
+    {
+     "date": "2024-06-15",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "P60"
+    },
+    {
+     "date": "2024-06-16",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The Garage"
+    }
+   ],
+   "url": "https://jrocknews.com/2024/02/kamijo-heads-for-europe-tour-2024-the-anthem.html"
+  },
+  {
+   "id": "past-2024-06-08-crystal-lake",
+   "artist": "Crystal Lake",
+   "title": "Evoflux European Tour 2024",
+   "kind": "trasa",
+   "dateStart": "2024-06-08",
+   "dateEnd": "2024-06-28",
+   "stops": [
+    {
+     "date": "2024-06-08",
+     "city": "Leeuwarden",
+     "cc": "NL",
+     "venue": "Into The Grave"
+    },
+    {
+     "date": "2024-06-16",
+     "city": "Castle Donington",
+     "cc": "UK",
+     "venue": "Download Festival"
+    },
+    {
+     "date": "2024-06-17",
+     "city": "Belfast",
+     "cc": "UK",
+     "venue": "Limelight 2"
+    },
+    {
+     "date": "2024-06-18",
+     "city": "Dublin",
+     "cc": "IE",
+     "venue": "Opium"
+    },
+    {
+     "date": "2024-06-19",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "O2 Academy Islington"
+    },
+    {
+     "date": "2024-06-22",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Petit Bain"
+    },
+    {
+     "date": "2024-06-23",
+     "city": "Dessel",
+     "cc": "BE",
+     "venue": "Graspop Metal Meeting"
+    },
+    {
+     "date": "2024-06-26",
+     "city": "Viveiro",
+     "cc": "ES",
+     "venue": "Resurrection Fest"
+    },
+    {
+     "date": "2024-06-27",
+     "city": "Clisson",
+     "cc": "FR",
+     "venue": "Hellfest"
+    },
+    {
+     "date": "2024-06-28",
+     "city": "Aarau",
+     "cc": "CH",
+     "venue": "KIFF"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/06/crystal-lake-in-europe-for-the-first-time-since-2019-for-extensive-summer-tour/"
+  },
+  {
+   "id": "past-2024-06-08-violent-magic-orchestra",
+   "artist": "Violent Magic Orchestra",
+   "title": "VMO \"DEATH RAVE\" European Tour 2024",
+   "kind": "rave",
+   "dateStart": "2024-06-08",
+   "dateEnd": "2024-07-05",
+   "stops": [
+    {
+     "date": "2024-06-08",
+     "city": "Strasburg",
+     "cc": "FR",
+     "venue": "Karmen Camina"
+    },
+    {
+     "date": "2024-06-14",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Sónar Festival"
+    },
+    {
+     "date": "2024-06-15",
+     "city": "Lyon",
+     "cc": "FR",
+     "venue": "Le Sucre"
+    },
+    {
+     "date": "2024-06-16",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Petit Bain"
+    },
+    {
+     "date": "2024-06-17",
+     "city": "Bristol",
+     "cc": "UK",
+     "venue": "Exchange"
+    },
+    {
+     "date": "2024-06-18",
+     "city": "Leeds",
+     "cc": "UK",
+     "venue": "Santiago"
+    },
+    {
+     "date": "2024-06-19",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "The White Hotel"
+    },
+    {
+     "date": "2024-06-20",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Oslo Hackney"
+    },
+    {
+     "date": "2024-06-21",
+     "city": "Rotterdam",
+     "cc": "NL",
+     "venue": "Vulvaverse"
+    },
+    {
+     "date": "2024-06-22",
+     "city": "Gandawa",
+     "cc": "BE",
+     "venue": "Trefpunt"
+    },
+    {
+     "date": "2024-06-30",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "NoCore Edgy Sound Fest"
+    },
+    {
+     "date": "2024-07-04",
+     "city": "Roskilde",
+     "cc": "DK",
+     "venue": "Roskilde Festival"
+    },
+    {
+     "date": "2024-07-05",
+     "city": "Norberg",
+     "cc": "SE",
+     "venue": "Festival Norberg"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/?p=86673"
+  },
+  {
+   "id": "past-2024-06-06-hanabie-gdansk",
+   "artist": "HANABIE.",
+   "title": "Mystic Festival 2024",
+   "kind": "festiwal",
+   "dateStart": "2024-06-06",
+   "stops": [
+    {
+     "date": "2024-06-06",
+     "city": "Gdańsk",
+     "cc": "PL",
+     "venue": "Stocznia Gdańska"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+hanabie"
+  },
+  {
+   "id": "past-2024-06-05-crystal-lake-gdansk",
+   "artist": "Crystal Lake",
+   "title": "Mystic Festival 2024",
+   "kind": "festiwal",
+   "dateStart": "2024-06-05",
+   "stops": [
+    {
+     "date": "2024-06-05",
+     "city": "Gdańsk",
+     "cc": "PL",
+     "venue": "Stocznia Gdańska"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+crystal+lake"
+  },
+  {
+   "id": "past-2024-06-01-atarashii-gakko",
+   "artist": "ATARASHII GAKKO!",
+   "title": "World Tour 2024 Part I – Europe",
+   "kind": "trasa",
+   "dateStart": "2024-06-01",
+   "dateEnd": "2024-06-12",
+   "stops": [
+    {
+     "date": "2024-06-01",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Primavera Sound"
+    },
+    {
+     "date": "2024-06-03",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "La Madeleine"
+    },
+    {
+     "date": "2024-06-05",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Bataclan"
+    },
+    {
+     "date": "2024-06-10",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "indigo at The O2"
+    },
+    {
+     "date": "2024-06-12",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Melkweg Max"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2024/03/atarashii-gakko-on-world-tour-for-the-first-time-and-will-not-skip-europe"
+  },
+  {
+   "id": "past-2024-05-24-animefest-2024-brno",
+   "artist": "Animefest 2024",
+   "title": "Animefest",
+   "kind": "konwent",
+   "dateStart": "2024-05-24",
+   "dateEnd": "2024-05-26",
+   "stops": [
+    {
+     "date": "2024-05-24",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    },
+    {
+     "date": "2024-05-25",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    },
+    {
+     "date": "2024-05-26",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Animefest"
+  },
+  {
+   "id": "past-2024-05-19-ichika-nito-warszawa",
+   "artist": "Ichika Nito",
+   "kind": "koncert",
+   "dateStart": "2024-05-19",
+   "stops": [
+    {
+     "date": "2024-05-19",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Hydrozagadka"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+ichika+nito"
+  },
+  {
+   "id": "past-2024-04-25-manga-symphonic-odyssey",
+   "artist": "Manga Symphonic Odyssey",
+   "title": "Manga Symphonic Odyssey 2024",
+   "kind": "symfoniczny",
+   "dateStart": "2024-04-25",
+   "dateEnd": "2024-04-26",
+   "stops": [
+    {
+     "date": "2024-04-25",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Grand Rex"
+    },
+    {
+     "date": "2024-04-26",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Grand Rex"
+    }
+   ],
+   "url": "https://sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/290730-manga-symphonic-odyssey-a-symphonic-adventure-in-the-world-of-anime-at-the-grand-rex-in-paris"
+  },
+  {
+   "id": "past-2024-04-20-yukka",
+   "artist": "Yukka",
+   "title": "STAGE 5 – Europe Spring Tour 2024",
+   "kind": "trasa",
+   "dateStart": "2024-04-20",
+   "dateEnd": "2024-05-05",
+   "stops": [
+    {
+     "date": "2024-04-20",
+     "city": "Arlon",
+     "cc": "BE",
+     "venue": "Japan Day"
+    },
+    {
+     "date": "2024-04-21",
+     "city": "Liège",
+     "cc": "BE",
+     "venue": "Garage"
+    },
+    {
+     "date": "2024-04-25",
+     "city": "Neapol",
+     "cc": "IT",
+     "venue": "Comicon Napoli"
+    },
+    {
+     "date": "2024-04-27",
+     "city": "Tulon",
+     "cc": "FR",
+     "venue": "Mang'Azur"
+    },
+    {
+     "date": "2024-05-05",
+     "city": "Lyon",
+     "cc": "FR",
+     "venue": "Japan Touch Haru"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/?p=86037"
+  },
+  {
+   "id": "past-2024-04-06-joe-hisaishi",
+   "artist": "Joe Hisaishi",
+   "title": "Joe Hisaishi Symphonic Concert – Paris 2024",
+   "kind": "symfoniczny",
+   "dateStart": "2024-04-06",
+   "dateEnd": "2024-04-07",
+   "stops": [
+    {
+     "date": "2024-04-06",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Paris La Défense Arena"
+    },
+    {
+     "date": "2024-04-07",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Paris La Défense Arena"
+    }
+   ],
+   "url": "https://soundtrackfest.com/en/news/joe-hisaishi-symphonic-concerts-paris-2024/"
+  },
+  {
+   "id": "past-2024-03-30-dir-en-grey-berlin",
+   "artist": "DIR EN GREY",
+   "kind": "koncert",
+   "dateStart": "2024-03-30",
+   "dateEnd": "2024-03-31",
+   "stops": [
+    {
+     "date": "2024-03-30",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Astra"
+    },
+    {
+     "date": "2024-03-31",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Astra"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+dir+en+grey"
+  },
+  {
+   "id": "past-2024-03-22-dir-en-grey",
+   "artist": "DIR EN GREY",
+   "title": "TOUR24 FROM DEPRESSION TO ________ (Europe)",
+   "kind": "trasa",
+   "dateStart": "2024-03-22",
+   "dateEnd": "2024-03-26",
+   "stops": [
+    {
+     "date": "2024-03-22",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Bataclan"
+    },
+    {
+     "date": "2024-03-23",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Bataclan"
+    },
+    {
+     "date": "2024-03-25",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Islington Assembly Hall"
+    },
+    {
+     "date": "2024-03-26",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Islington Assembly Hall"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/10/dir-en-grey-to-tour-europe-for-the-first-time-in-four-years"
+  },
+  {
+   "id": "past-2024-03-20-paledusk-warszawa",
+   "artist": "Paledusk",
+   "kind": "koncert",
+   "dateStart": "2024-03-20",
+   "stops": [
+    {
+     "date": "2024-03-20",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+paledusk"
+  },
+  {
+   "id": "past-2024-03-19-dir-en-grey-warszawa",
+   "artist": "DIR EN GREY",
+   "kind": "koncert",
+   "dateStart": "2024-03-19",
+   "dateEnd": "2024-03-20",
+   "stops": [
+    {
+     "date": "2024-03-19",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Progresja"
+    },
+    {
+     "date": "2024-03-20",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Progresja"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+dir+en+grey"
+  },
+  {
+   "id": "past-2024-03-09-ado",
+   "artist": "Ado",
+   "title": "Wish World Tour 2024",
+   "kind": "trasa",
+   "dateStart": "2024-03-09",
+   "dateEnd": "2024-03-13",
+   "stops": [
+    {
+     "date": "2024-03-09",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "ING Arena"
+    },
+    {
+     "date": "2024-03-11",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Zénith Paris La Villette"
+    },
+    {
+     "date": "2024-03-13",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Troxy"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/12/ado-announces-first-world-tour-four-european-shows-confirmed"
+  },
+  {
+   "id": "past-2024-03-06-coldrain",
+   "artist": "coldrain",
+   "title": "European Tour 2024",
+   "kind": "trasa",
+   "dateStart": "2024-03-06",
+   "stops": [
+    {
+     "date": "2024-03-06",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Backstage by the Mill"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/11/coldrain-to-return-to-europe-for-tour-in-2024"
+  },
+  {
+   "id": "past-2024-02-28-coldrain-krakow",
+   "artist": "coldrain",
+   "kind": "koncert",
+   "dateStart": "2024-02-28",
+   "stops": [
+    {
+     "date": "2024-02-28",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Hype Park"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+coldrain"
+  },
+  {
+   "id": "past-2024-02-27-coldrain-berlin",
+   "artist": "coldrain",
+   "kind": "koncert",
+   "dateStart": "2024-02-27",
+   "stops": [
+    {
+     "date": "2024-02-27",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "SO36"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+coldrain"
+  },
+  {
+   "id": "past-2024-02-14-nier",
+   "artist": "NieR",
+   "title": "NieR:Orchestra Concert 12024 [The end of data]",
+   "kind": "symfoniczny",
+   "dateStart": "2024-02-14",
+   "dateEnd": "2024-02-23",
+   "stops": [
+    {
+     "date": "2024-02-14",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Royal Festival Hall"
+    },
+    {
+     "date": "2024-02-17",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Auditori Fòrum"
+    },
+    {
+     "date": "2024-02-22",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Palais des Congrès"
+    },
+    {
+     "date": "2024-02-23",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Palais des Congrès"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Nier:_Orchestra_Concert_12024_%E2%80%93_The_end_of_data"
+  },
+  {
+   "id": "past-2024-02-10-nier-orchestra-concert-12024-the-end-of-berlin",
+   "artist": "NieR:Orchestra Concert 12024 [ the end of data ]",
+   "kind": "symfoniczny",
+   "dateStart": "2024-02-10",
+   "dateEnd": "2024-02-11",
+   "stops": [
+    {
+     "date": "2024-02-10",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Tempodrom"
+    },
+    {
+     "date": "2024-02-11",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Tempodrom"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Nier:_Orchestra_Concert_12024_%E2%80%93_The_end_of_data"
+  },
+  {
+   "id": "past-2024-01-30-38-samurai-orchestra-krakow",
+   "artist": "38 Samurai Orchestra",
+   "title": "Anime Sympho-Show",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-30",
+   "stops": [
+    {
+     "date": "2024-01-30",
+     "city": "Kraków",
+     "cc": "PL"
+    }
+   ],
+   "url": "https://www.ebilet.pl/muzyka/pozostale/anime-sympho-show"
+  },
+  {
+   "id": "past-2024-01-28-38-samurai-orchestra-warszawa",
+   "artist": "38 Samurai Orchestra",
+   "title": "Anime Sympho-Show",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-28",
+   "stops": [
+    {
+     "date": "2024-01-28",
+     "city": "Warszawa",
+     "cc": "PL"
+    }
+   ],
+   "url": "https://www.ebilet.pl/muzyka/pozostale/anime-sympho-show"
+  },
+  {
+   "id": "past-2024-01-25-38-samurai-orchestra-gdynia",
+   "artist": "38 Samurai Orchestra",
+   "title": "Anime Sympho-Show",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-25",
+   "stops": [
+    {
+     "date": "2024-01-25",
+     "city": "Gdynia",
+     "cc": "PL"
+    }
+   ],
+   "url": "https://www.ebilet.pl/muzyka/pozostale/anime-sympho-show"
+  },
+  {
+   "id": "past-2024-01-23-38-samurai-orchestra-lublin",
+   "artist": "38 Samurai Orchestra",
+   "title": "Anime Sympho-Show",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-23",
+   "stops": [
+    {
+     "date": "2024-01-23",
+     "city": "Lublin",
+     "cc": "PL"
+    }
+   ],
+   "url": "https://www.ebilet.pl/muzyka/pozostale/anime-sympho-show"
+  },
+  {
+   "id": "past-2024-01-21-38-samurai-orchestra-katowice",
+   "artist": "38 Samurai Orchestra",
+   "title": "Anime Sympho-Show",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-21",
+   "stops": [
+    {
+     "date": "2024-01-21",
+     "city": "Katowice",
+     "cc": "PL"
+    }
+   ],
+   "url": "https://www.ebilet.pl/muzyka/pozostale/anime-sympho-show"
+  },
+  {
+   "id": "past-2024-01-20-genshin-concert-2023-dusseldorf",
+   "artist": "Genshin Concert 2023",
+   "title": "Melodies of an Endless Journey",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-20",
+   "stops": [
+    {
+     "date": "2024-01-20",
+     "city": "Düsseldorf",
+     "cc": "DE"
+    }
+   ],
+   "url": "https://www.siliconera.com/genshin-impact-concert-2023-cities-and-dates-announced/"
+  },
+  {
+   "id": "past-2024-01-19-38-samurai-orchestra-wrocaw",
+   "artist": "38 Samurai Orchestra",
+   "title": "Anime Sympho-Show",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-19",
+   "stops": [
+    {
+     "date": "2024-01-19",
+     "city": "Wrocław",
+     "cc": "PL"
+    }
+   ],
+   "url": "https://www.ebilet.pl/muzyka/pozostale/anime-sympho-show"
+  },
+  {
+   "id": "past-2024-01-17-38-samurai-orchestra-poznan",
+   "artist": "38 Samurai Orchestra",
+   "title": "Anime Sympho-Show",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-17",
+   "stops": [
+    {
+     "date": "2024-01-17",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP – Sala Ziemi"
+    }
+   ],
+   "url": "https://pik.poznan.pl/anime-sympho-show-koncert-poznan"
+  },
+  {
+   "id": "past-2024-01-11-genshin-impact",
+   "artist": "Genshin Impact",
+   "title": "Genshin Concert 2023 – Melodies of an Endless Journey",
+   "kind": "symfoniczny",
+   "dateStart": "2024-01-11",
+   "stops": [
+    {
+     "date": "2024-01-11",
+     "city": "Londyn",
+     "cc": "UK"
+    }
+   ],
+   "url": "https://www.siliconera.com/genshin-impact-concert-2023-cities-and-dates-announced/"
+  },
+  {
+   "id": "past-2023-11-23-babymetal-wieden",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2023-11-23",
+   "stops": [
+    {
+     "date": "2023-11-23",
+     "city": "Wiedeń",
+     "cc": "AT",
+     "venue": "Gasometer (Planet.tt Bank Austria Halle)"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:at+babymetal"
+  },
+  {
+   "id": "past-2023-11-19-babymetal-berlin",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2023-11-19",
+   "stops": [
+    {
+     "date": "2023-11-19",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Verti Music Hall"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+babymetal"
+  },
+  {
+   "id": "past-2023-11-14-babymetal",
+   "artist": "BABYMETAL",
+   "title": "World Tour 2023 – European headline tour",
+   "kind": "trasa",
+   "dateStart": "2023-11-14",
+   "dateEnd": "2023-12-11",
+   "stops": [
+    {
+     "date": "2023-11-14",
+     "city": "Oslo",
+     "cc": "NO",
+     "venue": "Sentrum Scene"
+    },
+    {
+     "date": "2023-11-15",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Annexet"
+    },
+    {
+     "date": "2023-11-16",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "Amager Bio"
+    },
+    {
+     "date": "2023-11-25",
+     "city": "Strasburg",
+     "cc": "FR",
+     "venue": "La Laiterie"
+    },
+    {
+     "date": "2023-11-27",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Roundhouse"
+    },
+    {
+     "date": "2023-11-28",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Roundhouse"
+    },
+    {
+     "date": "2023-11-29",
+     "city": "Wolverhampton",
+     "cc": "UK",
+     "venue": "The Civic"
+    },
+    {
+     "date": "2023-12-03",
+     "city": "Tilburg",
+     "cc": "NL",
+     "venue": "013"
+    },
+    {
+     "date": "2023-12-04",
+     "city": "Bruksela",
+     "cc": "BE",
+     "venue": "Ancienne Belgique"
+    },
+    {
+     "date": "2023-12-06",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "L'Olympia"
+    },
+    {
+     "date": "2023-12-07",
+     "city": "Esch-sur-Alzette",
+     "cc": "LU",
+     "venue": "Rockhal"
+    },
+    {
+     "date": "2023-12-08",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Fabrique"
+    },
+    {
+     "date": "2023-12-10",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Razzmatazz"
+    },
+    {
+     "date": "2023-12-11",
+     "city": "Madryt",
+     "cc": "ES",
+     "venue": "Palacio Vistalegre"
+    }
+   ],
+   "url": "https://tuonelamagazine.com/babymetal-announce-european-headline-tour-in-november-december-2023/"
+  },
+  {
+   "id": "past-2023-11-10-sigh-poznan",
+   "artist": "Sigh",
+   "title": "30 Years of Eastern Darkness",
+   "kind": "koncert",
+   "dateStart": "2023-11-10",
+   "stops": [
+    {
+     "date": "2023-11-10",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "2Progi"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+sigh"
+  },
+  {
+   "id": "past-2023-11-02-ryujin-ex-gyze-krakow",
+   "artist": "RYUJIN (ex-Gyze)",
+   "title": "support PAIN",
+   "kind": "koncert",
+   "dateStart": "2023-11-02",
+   "stops": [
+    {
+     "date": "2023-11-02",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Hype Park"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+ryujin"
+  },
+  {
+   "id": "past-2023-10-13-yoshiki",
+   "artist": "YOSHIKI",
+   "title": "YOSHIKI Classical 10th Anniversary World Tour",
+   "kind": "symfoniczny",
+   "dateStart": "2023-10-13",
+   "stops": [
+    {
+     "date": "2023-10-13",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Royal Albert Hall"
+    }
+   ],
+   "url": "https://consequence.net/2023/05/yoshiki-classical-world-tour-dates-2023"
+  },
+  {
+   "id": "past-2023-09-21-miyavi-warszawa",
+   "artist": "MIYAVI",
+   "title": "20th & Beyond",
+   "kind": "koncert",
+   "dateStart": "2023-09-21",
+   "stops": [
+    {
+     "date": "2023-09-21",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+miyavi"
+  },
+  {
+   "id": "past-2023-09-21-joe-hisaishi",
+   "artist": "Joe Hisaishi",
+   "title": "Joe Hisaishi – London 2023",
+   "kind": "symfoniczny",
+   "dateStart": "2023-09-21",
+   "dateEnd": "2023-09-22",
+   "stops": [
+    {
+     "date": "2023-09-21",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "OVO Arena Wembley"
+    },
+    {
+     "date": "2023-09-22",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "OVO Arena Wembley"
+    }
+   ],
+   "url": "https://soundtrackfest.com/en/news/joe-hisaishi-london-2023/"
+  },
+  {
+   "id": "past-2023-09-16-sonic-the-hedgehog",
+   "artist": "Sonic the Hedgehog",
+   "title": "Sonic Symphony World Tour",
+   "kind": "symfoniczny",
+   "dateStart": "2023-09-16",
+   "dateEnd": "2024-09-28",
+   "stops": [
+    {
+     "date": "2023-09-16",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Barbican Hall"
+    },
+    {
+     "date": "2024-06-02",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Grand Rex"
+    },
+    {
+     "date": "2024-09-28",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Eventim Apollo"
+    }
+   ],
+   "url": "https://soundtrackfest.com/?p=39117"
+  },
+  {
+   "id": "past-2023-08-13-hanabie-praga",
+   "artist": "HANABIE.",
+   "title": "pierwsza trasa po Europie",
+   "kind": "koncert",
+   "dateStart": "2023-08-13",
+   "stops": [
+    {
+     "date": "2023-08-13",
+     "city": "Praga",
+     "cc": "CZ",
+     "venue": "Modrá Vopice"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:cz+hanabie"
+  },
+  {
+   "id": "past-2023-08-12-hanabie-berlin",
+   "artist": "HANABIE.",
+   "title": "pierwsza trasa po Europie",
+   "kind": "koncert",
+   "dateStart": "2023-08-12",
+   "stops": [
+    {
+     "date": "2023-08-12",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Hole 44"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+hanabie"
+  },
+  {
+   "id": "past-2023-08-11-hanabie-warszawa",
+   "artist": "HANABIE.",
+   "kind": "koncert",
+   "dateStart": "2023-08-11",
+   "stops": [
+    {
+     "date": "2023-08-11",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Hydrozagadka"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+hanabie"
+  },
+  {
+   "id": "past-2023-07-21-hyper-japan",
+   "artist": "HYPER JAPAN",
+   "title": "HYPER JAPAN Festival 2023",
+   "kind": "konwent",
+   "dateStart": "2023-07-21",
+   "stops": [
+    {
+     "date": "2023-07-21",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Olympia London"
+    }
+   ],
+   "url": "https://www.uk.emb-japan.go.jp/JAPANUKEvent/event/2023/202307/21-HyperJapan2023.html"
+  },
+  {
+   "id": "past-2023-07-13-japan-expo-paris",
+   "artist": "Japan Expo Paris",
+   "title": "Japan Expo 2023 (22. edycja)",
+   "kind": "konwent",
+   "dateStart": "2023-07-13",
+   "stops": [
+    {
+     "date": "2023-07-13",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Paris-Nord Villepinte"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/07/10-musical-acts-you-shouldnt-miss-out-on-at-japan-expo-paris-2023"
+  },
+  {
+   "id": "past-2023-07-01-one-ok-rock",
+   "artist": "ONE OK ROCK",
+   "title": "Luxury Disease Tour Europe 2023",
+   "kind": "trasa",
+   "dateStart": "2023-07-01",
+   "dateEnd": "2023-07-21",
+   "stops": [
+    {
+     "date": "2023-07-01",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Eventim Apollo"
+    },
+    {
+     "date": "2023-07-03",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Razzmatazz"
+    },
+    {
+     "date": "2023-07-07",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Élysée Montmartre"
+    },
+    {
+     "date": "2023-07-09",
+     "city": "Strasburg",
+     "cc": "FR",
+     "venue": "La Laiterie"
+    },
+    {
+     "date": "2023-07-11",
+     "city": "Zurych",
+     "cc": "CH",
+     "venue": "X-TRA"
+    },
+    {
+     "date": "2023-07-13",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "L'Olympia"
+    },
+    {
+     "date": "2023-07-20",
+     "city": "Florencja",
+     "cc": "IT",
+     "venue": "Firenze Rocks (Visarno Arena)"
+    },
+    {
+     "date": "2023-07-21",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Fabrique"
+    }
+   ],
+   "url": "https://www.livefans.jp/groups/210051"
+  },
+  {
+   "id": "past-2023-06-16-pyrkon-2023-poznan",
+   "artist": "Pyrkon 2023",
+   "title": "Festiwal Fantastyki (strefa mangi/anime)",
+   "kind": "konwent",
+   "dateStart": "2023-06-16",
+   "dateEnd": "2023-06-18",
+   "stops": [
+    {
+     "date": "2023-06-16",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    },
+    {
+     "date": "2023-06-17",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    },
+    {
+     "date": "2023-06-18",
+     "city": "Poznań",
+     "cc": "PL",
+     "venue": "MTP Poznań"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Pyrkon"
+  },
+  {
+   "id": "past-2023-06-13-man-with-a-mission",
+   "artist": "MAN WITH A MISSION",
+   "title": "UK & EU Tour 2023",
+   "kind": "trasa",
+   "dateStart": "2023-06-13",
+   "dateEnd": "2023-06-30",
+   "stops": [
+    {
+     "date": "2023-06-13",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Melkweg"
+    },
+    {
+     "date": "2023-06-14",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "La Cigale"
+    },
+    {
+     "date": "2023-06-30",
+     "city": "Viveiro",
+     "cc": "ES",
+     "venue": "Resurrection Fest"
+    }
+   ],
+   "url": "https://rockatnight.com/2023/06/catch-japanese-sensation-man-with-a-mission-on-tour-in-the-uk-and-eu"
+  },
+  {
+   "id": "past-2023-06-11-paledusk-wrocaw",
+   "artist": "Paledusk",
+   "kind": "koncert",
+   "dateStart": "2023-06-11",
+   "stops": [
+    {
+     "date": "2023-06-11",
+     "city": "Wrocław",
+     "cc": "PL",
+     "venue": "Klub Liverpool"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+paledusk"
+  },
+  {
+   "id": "past-2023-06-10-one-ok-rock-berlin",
+   "artist": "ONE OK ROCK",
+   "kind": "koncert",
+   "dateStart": "2023-06-10",
+   "stops": [
+    {
+     "date": "2023-06-10",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Columbiahalle"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+one+ok+rock"
+  },
+  {
+   "id": "past-2023-06-07-paledusk",
+   "artist": "Paledusk",
+   "title": "European Summer Tour 2023",
+   "kind": "trasa",
+   "dateStart": "2023-06-07",
+   "dateEnd": "2023-07-07",
+   "stops": [
+    {
+     "date": "2023-06-07",
+     "city": "Monthey",
+     "cc": "CH",
+     "venue": "Pont Rouge"
+    },
+    {
+     "date": "2023-06-08",
+     "city": "Mediolan",
+     "cc": "IT",
+     "venue": "Rock'n'Roll Club"
+    },
+    {
+     "date": "2023-06-13",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "Copenhell Warm Up"
+    },
+    {
+     "date": "2023-06-18",
+     "city": "Dessel",
+     "cc": "BE",
+     "venue": "Graspop Metal Meeting"
+    },
+    {
+     "date": "2023-06-23",
+     "city": "Ysselsteyn",
+     "cc": "NL",
+     "venue": "Jera On Air"
+    },
+    {
+     "date": "2023-06-25",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "La Maroquinerie"
+    },
+    {
+     "date": "2023-06-26",
+     "city": "Montpellier",
+     "cc": "FR",
+     "venue": "Secret Place"
+    },
+    {
+     "date": "2023-06-27",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Trabendo"
+    },
+    {
+     "date": "2023-06-30",
+     "city": "Viveiro",
+     "cc": "ES",
+     "venue": "Resurrection Fest"
+    },
+    {
+     "date": "2023-07-01",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "The Underworld"
+    },
+    {
+     "date": "2023-07-02",
+     "city": "Newark",
+     "cc": "UK",
+     "venue": "UK Tech-Fest"
+    },
+    {
+     "date": "2023-07-03",
+     "city": "Bristol",
+     "cc": "UK",
+     "venue": "Thekla"
+    },
+    {
+     "date": "2023-07-04",
+     "city": "Manchester",
+     "cc": "UK",
+     "venue": "The Star and Garter"
+    },
+    {
+     "date": "2023-07-05",
+     "city": "Glasgow",
+     "cc": "UK",
+     "venue": "The Garage Attic"
+    },
+    {
+     "date": "2023-07-06",
+     "city": "Leeds",
+     "cc": "UK",
+     "venue": "The Key Club"
+    },
+    {
+     "date": "2023-07-07",
+     "city": "Cheltenham",
+     "cc": "UK",
+     "venue": "2000trees Festival"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/06/paledusk-will-introduce-themselves-to-european-audiences-with-summer-tour"
+  },
+  {
+   "id": "past-2023-06-04-one-ok-rock-praga",
+   "artist": "ONE OK ROCK",
+   "kind": "koncert",
+   "dateStart": "2023-06-04",
+   "stops": [
+    {
+     "date": "2023-06-04",
+     "city": "Praga",
+     "cc": "CZ",
+     "venue": "Lucerna Music Bar"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:cz+one+ok+rock"
+  },
+  {
+   "id": "past-2023-06-03-one-ok-rock-wiener-neustadt",
+   "artist": "ONE OK ROCK",
+   "kind": "koncert",
+   "dateStart": "2023-06-03",
+   "stops": [
+    {
+     "date": "2023-06-03",
+     "city": "Wiener Neustadt",
+     "cc": "AT",
+     "venue": "ERGO Arena"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:at+one+ok+rock"
+  },
+  {
+   "id": "past-2023-05-25-boris-asunojokei-brno",
+   "artist": "Boris + Asunojokei",
+   "title": "Heavy Rock Breakfast Tour",
+   "kind": "koncert",
+   "dateStart": "2023-05-25",
+   "stops": [
+    {
+     "date": "2023-05-25",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Kabinet Múz"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/05/all-shows-revealed-for-asunojokeis-upcoming-first-european-tour/"
+  },
+  {
+   "id": "past-2023-05-24-boris-asunojokei-krakow",
+   "artist": "Boris + Asunojokei",
+   "title": "Heavy Rock Breakfast Tour",
+   "kind": "koncert",
+   "dateStart": "2023-05-24",
+   "stops": [
+    {
+     "date": "2023-05-24",
+     "city": "Kraków",
+     "cc": "PL",
+     "venue": "Kwadrat"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/05/all-shows-revealed-for-asunojokeis-upcoming-first-european-tour/"
+  },
+  {
+   "id": "past-2023-05-23-boris-asunojokei-warszawa",
+   "artist": "Boris + Asunojokei",
+   "title": "Heavy Rock Breakfast Tour",
+   "kind": "koncert",
+   "dateStart": "2023-05-23",
+   "stops": [
+    {
+     "date": "2023-05-23",
+     "city": "Warszawa",
+     "cc": "PL",
+     "venue": "Klub Proxima"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/05/all-shows-revealed-for-asunojokeis-upcoming-first-european-tour/"
+  },
+  {
+   "id": "past-2023-05-22-boris-asunojokei-wilno",
+   "artist": "Boris + Asunojokei",
+   "title": "Heavy Rock Breakfast Tour",
+   "kind": "koncert",
+   "dateStart": "2023-05-22",
+   "stops": [
+    {
+     "date": "2023-05-22",
+     "city": "Wilno",
+     "cc": "LT",
+     "venue": "SODAS 2123"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/05/all-shows-revealed-for-asunojokeis-upcoming-first-european-tour/"
+  },
+  {
+   "id": "past-2023-05-21-radwimps",
+   "artist": "RADWIMPS",
+   "title": "Europe Tour 2023",
+   "kind": "trasa",
+   "dateStart": "2023-05-21",
+   "dateEnd": "2023-05-28",
+   "stops": [
+    {
+     "date": "2023-05-21",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "Roundhouse"
+    },
+    {
+     "date": "2023-05-24",
+     "city": "Barcelona",
+     "cc": "ES",
+     "venue": "Paral·lel 62"
+    },
+    {
+     "date": "2023-05-28",
+     "city": "Paryż",
+     "cc": "FR"
+    }
+   ],
+   "url": "https://avo-magazine.com/en/2023/03/radwimps-on-european-tour-in-may"
+  },
+  {
+   "id": "past-2023-05-10-babymetal-ostrawa",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2023-05-10",
+   "stops": [
+    {
+     "date": "2023-05-10",
+     "city": "Ostrawa",
+     "cc": "CZ",
+     "venue": "Ostravar Aréna"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:cz+babymetal"
+  },
+  {
+   "id": "past-2023-05-09-babymetal-odz",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2023-05-09",
+   "stops": [
+    {
+     "date": "2023-05-09",
+     "city": "Łódź",
+     "cc": "PL",
+     "venue": "Atlas Arena"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:pl+babymetal"
+  },
+  {
+   "id": "past-2023-05-07-babymetal-wieden",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2023-05-07",
+   "stops": [
+    {
+     "date": "2023-05-07",
+     "city": "Wiedeń",
+     "cc": "AT",
+     "venue": "Wiener Stadthalle (Halle D)"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:at+babymetal"
+  },
+  {
+   "id": "past-2023-05-05-animefest-2023-gosc-mika-kobayashi-brno",
+   "artist": "Animefest 2023 (gość: Mika Kobayashi)",
+   "title": "Animefest",
+   "kind": "konwent",
+   "dateStart": "2023-05-05",
+   "dateEnd": "2023-05-07",
+   "stops": [
+    {
+     "date": "2023-05-05",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    },
+    {
+     "date": "2023-05-06",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    },
+    {
+     "date": "2023-05-07",
+     "city": "Brno",
+     "cc": "CZ",
+     "venue": "Výstaviště Brno"
+    }
+   ],
+   "url": "https://en.wikipedia.org/wiki/Animefest"
+  },
+  {
+   "id": "past-2023-05-05-babymetal-berlin",
+   "artist": "BABYMETAL",
+   "kind": "koncert",
+   "dateStart": "2023-05-05",
+   "stops": [
+    {
+     "date": "2023-05-05",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Mercedes-Benz Arena"
+    }
+   ],
+   "url": "https://www.setlist.fm/search?query=country:de+city:berlin+babymetal"
+  },
+  {
+   "id": "past-2023-04-16-manga-symphonic-odyssey",
+   "artist": "Manga Symphonic Odyssey",
+   "title": "Manga Symphonic Odyssey 2023",
+   "kind": "symfoniczny",
+   "dateStart": "2023-04-16",
+   "stops": [
+    {
+     "date": "2023-04-16",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Grand Rex"
+    }
+   ],
+   "url": "https://soundtrackfest.com/en/micro/concert-manga-symphonic-odyssey-in-paris/"
+  },
+  {
+   "id": "past-2023-04-14-babymetal",
+   "artist": "BABYMETAL",
+   "title": "The Tour To End All Tours (support Sabaton)",
+   "kind": "trasa",
+   "dateStart": "2023-04-14",
+   "dateEnd": "2023-05-20",
+   "stops": [
+    {
+     "date": "2023-04-14",
+     "city": "Leeds",
+     "cc": "UK",
+     "venue": "First Direct Arena"
+    },
+    {
+     "date": "2023-04-15",
+     "city": "Londyn",
+     "cc": "UK",
+     "venue": "OVO Arena Wembley"
+    },
+    {
+     "date": "2023-04-16",
+     "city": "Cardiff",
+     "cc": "UK",
+     "venue": "Motorpoint Arena"
+    },
+    {
+     "date": "2023-04-18",
+     "city": "Glasgow",
+     "cc": "UK",
+     "venue": "OVO Hydro"
+    },
+    {
+     "date": "2023-04-21",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Zénith Paris"
+    },
+    {
+     "date": "2023-04-25",
+     "city": "Esch-sur-Alzette",
+     "cc": "LU",
+     "venue": "Rockhal"
+    },
+    {
+     "date": "2023-04-28",
+     "city": "Sztokholm",
+     "cc": "SE",
+     "venue": "Avicii Arena"
+    },
+    {
+     "date": "2023-04-29",
+     "city": "Oslo",
+     "cc": "NO",
+     "venue": "Spektrum"
+    },
+    {
+     "date": "2023-04-30",
+     "city": "Kopenhaga",
+     "cc": "DK",
+     "venue": "Royal Arena"
+    },
+    {
+     "date": "2023-05-03",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "Ziggo Dome"
+    },
+    {
+     "date": "2023-05-13",
+     "city": "Antwerpia",
+     "cc": "BE",
+     "venue": "Sportpaleis"
+    },
+    {
+     "date": "2023-05-19",
+     "city": "Helsinki",
+     "cc": "FI",
+     "venue": "Helsinki Ice Hall"
+    },
+    {
+     "date": "2023-05-20",
+     "city": "Kuopio",
+     "cc": "FI",
+     "venue": "Kuopio Hall"
+    }
+   ],
+   "url": "https://www.kerrang.com/amp/babymetal-to-support-sabaton-on-2023-uk-and-european-tour"
+  },
+  {
+   "id": "past-2023-03-30-joe-hisaishi-wiener-symphoniker-wieden",
+   "artist": "Joe Hisaishi & Wiener Symphoniker",
+   "title": "CINEMA:SOUND – Joe Hisaishi",
+   "kind": "symfoniczny",
+   "dateStart": "2023-03-30",
+   "stops": [
+    {
+     "date": "2023-03-30",
+     "city": "Wiedeń",
+     "cc": "AT",
+     "venue": "Musikverein Wien"
+    }
+   ],
+   "url": "https://soundtrackfest.com/es/noticias/joe-hisaishi-viena-2023-cinemasound/"
+  },
+  {
+   "id": "past-2023-02-25-final-fantasy",
+   "artist": "Final Fantasy",
+   "title": "Distant Worlds: FINAL FANTASY 35th Anniversary",
+   "kind": "symfoniczny",
+   "dateStart": "2023-02-25",
+   "dateEnd": "2023-03-03",
+   "stops": [
+    {
+     "date": "2023-02-25",
+     "city": "Paryż",
+     "cc": "FR",
+     "venue": "Le Grand Rex"
+    },
+    {
+     "date": "2023-03-03",
+     "city": "Amsterdam",
+     "cc": "NL",
+     "venue": "AFAS Live"
+    }
+   ],
+   "url": "https://soundtrackfest.com/en/micro/concerts-final-fantasy-35th-anniversary-distant-worlds-in-paris-amsterdam/"
+  },
+  {
+   "id": "past-2023-02-17-game-music-fest-orkiestra-filharmonii-sl-katowice",
+   "artist": "Game Music Fest (Orkiestra Filharmonii Śląskiej)",
+   "title": "Game Music Concert 2023 (m.in. Zelda, Resident Evil)",
+   "kind": "symfoniczny",
+   "dateStart": "2023-02-17",
+   "stops": [
+    {
+     "date": "2023-02-17",
+     "city": "Katowice",
+     "cc": "PL",
+     "venue": "Spodek"
+    }
+   ],
+   "url": "https://filharmonia-slaska.eu/?p=12711"
   }
  ]
 }
