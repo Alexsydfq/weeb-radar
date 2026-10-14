@@ -1298,6 +1298,46 @@
    "url": "https://avo-magazine.com/en/2026/04/ayano-kaneko-goes-on-world-tour-with-her-band-kanekoayano-and-ventures-further-into-europe-for-the-first-time/"
   },
   {
+   "id": "past-2026-05-29-dokomi-j-rave-2026",
+   "artist": "DoKomi J-RAVE 2026",
+   "title": "15-lecie J-RAVE na DoKomi (Aiobahn +81, D-YAMA, kors k)",
+   "kind": "rave",
+   "dateStart": "2026-05-29",
+   "dateEnd": "2026-05-31",
+   "stops": [
+    {
+     "date": "2026-05-29",
+     "city": "Düsseldorf",
+     "cc": "DE",
+     "venue": "Messe Düsseldorf (J-RAVE)"
+    },
+    {
+     "date": "2026-05-30",
+     "city": "Düsseldorf",
+     "cc": "DE",
+     "venue": "Messe Düsseldorf (J-RAVE)"
+    },
+    {
+     "date": "2026-05-31",
+     "city": "Düsseldorf",
+     "cc": "DE",
+     "venue": "Messe Düsseldorf (J-RAVE)"
+    }
+   ],
+   "lineup": [
+    "Aiobahn +81",
+    "D-YAMA",
+    "kors k",
+    "Yakkaiser",
+    "Shiz",
+    "Kur@ra",
+    "Getty",
+    "DJ KnuX",
+    "DJ BrainShit"
+   ],
+   "url": "https://www.dokomi.de/en/guests/all"
+  },
+  {
    "id": "past-2026-05-25-hyde-wieden",
    "artist": "HYDE",
    "title": "HYDE Orchestra Tour 2026 JEKYLL in Wien",
@@ -5694,6 +5734,39 @@
     }
    ],
    "url": "https://www.livefans.jp/groups/210051"
+  },
+  {
+   "id": "past-2023-06-30-dokomi-j-rave-2023",
+   "artist": "DoKomi J-RAVE 2023",
+   "title": "J-RAVE na DoKomi (Aiobahn, D-YAMA; line-up niepełny)",
+   "kind": "rave",
+   "dateStart": "2023-06-30",
+   "dateEnd": "2023-07-02",
+   "stops": [
+    {
+     "date": "2023-06-30",
+     "city": "Düsseldorf",
+     "cc": "DE",
+     "venue": "Messe Düsseldorf (J-RAVE)"
+    },
+    {
+     "date": "2023-07-01",
+     "city": "Düsseldorf",
+     "cc": "DE",
+     "venue": "Messe Düsseldorf (J-RAVE)"
+    },
+    {
+     "date": "2023-07-02",
+     "city": "Düsseldorf",
+     "cc": "DE",
+     "venue": "Messe Düsseldorf (J-RAVE)"
+    }
+   ],
+   "lineup": [
+    "Aiobahn",
+    "D-YAMA"
+   ],
+   "url": "https://www.youtube.com/watch?v=A4BNf_h6piM"
   },
   {
    "id": "past-2023-06-16-pyrkon-2023-poznan",
