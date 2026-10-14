@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T04:42:16Z",
+ "updated": "2026-10-14T15:24:57Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -36,6 +36,18 @@
    "title": "Perfecth",
    "url": "https://musicbrainz.org/release-group/b835704b-05f4-4572-ae8f-d0bb9d8a8f95",
    "id": "queens-of-the-stone--db3fb986"
+  },
+  {
+   "about": "Koreański producent z kręgu Vocaloid/Project SEKAI i gier rytmicznych.",
+   "artist": "RiraN feat. Synthesizer V AI Megpoid",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Zapowiedziany singiel z wokalem Megpoid w wersji Synthesizer V; premiera zapowiedziana na 25 października.",
+   "title": "New Days",
+   "url": "https://vocadb.net/S/1044823",
+   "id": "riran-feat-synthesizer-v-ai-megpoid-new--ce5930"
   },
   {
    "about": "Japońska wokalistka znana z openingów anime, m.in. „Gurenge” (Demon Slayer) i „Unlasting” (Sword Art Online).",
@@ -86,6 +98,30 @@
    "id": "beatmario-insane"
   },
   {
+   "about": "Luo Tianyi to chiński vocaloid; tu we współpracy z twórcą 栖亦久.",
+   "artist": "栖亦久 & 洛天依",
+   "foundAt": "2026-10-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-18",
+   "songAbout": "Zapowiedziana premiera singla (18.10), jesienny, romantyczny klimat wg tytułu.",
+   "title": "秋糖恋爱手册",
+   "url": "https://music.apple.com/jp/album/%E7%A7%8B%E7%B3%96%E6%81%8B%E7%88%B1%E6%89%8B%E5%86%8C-single/6821288651?uo=4",
+   "id": "qiyijiu-luo-tianyi-qiutang-lian-ai-shouce"
+  },
+  {
+   "about": "irucaice to japoński twórca muzyki elektronicznej pracujący z głosami VOICEROID.",
+   "artist": "irucaice, 琴葉 茜 & 琴葉葵",
+   "foundAt": "2026-10-11",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Album z wokalami Kotonoha Akane i Aoi; premiera zapowiedziana.",
+   "title": "Twinkle Telepathy",
+   "url": "https://music.apple.com/jp/album/twinkle-telepathy/6818020564?uo=4",
+   "id": "irucaice-twinkle-telepathy-88b7de"
+  },
+  {
    "about": "ビートまりお (Beatmario) – japoński kompozytor z kręgu BEMANI/Touhou, znany z elektronicznych remiksów i kolaboracji z LUNA.",
    "artist": "ビートまりお & LUNA",
    "foundAt": "2026-10-10",
@@ -98,6 +134,246 @@
    "id": "luna-af062b74"
   },
   {
+   "about": "Luo Tianyi to chiński vocaloid (Vsinger) i jedna z najpopularniejszych wirtualnych piosenkarek w Chinach.",
+   "artist": "洛天依 (Luo Tianyi)",
+   "foundAt": "2026-10-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Nowy singiel z Luo Tianyi w głównej roli.",
+   "title": "活成这样多可笑",
+   "url": "https://music.apple.com/jp/album/%E6%B4%BB%E6%88%90%E8%BF%99%E6%A0%B7%E5%A4%9A%E5%8F%AF%E7%AC%91-single/6821250294?uo=4",
+   "id": "luo-tianyi-huocheng-zheyang-duo-keXiao"
+  },
+  {
+   "about": "Sakura Miko to VTuberka z hololive (0. generacja), znana z energicznego stylu i charakterystycznego 'nyeh'.",
+   "artist": "さくらみこ",
+   "foundAt": "2026-10-14",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Nowy album solowy Miko wydany w sklepach cyfrowych.",
+   "title": "Blooming Cinderella",
+   "url": "https://music.apple.com/jp/album/blooming-cinderella/6815981279?uo=4",
+   "id": "sakura-miko-blooming-cinderella"
+  },
+  {
+   "about": "ui to twórca/artysta ze sceny wokaloidowej i internetowej, powiązany m.in. z syntezatorami głosu.",
+   "artist": "ui",
+   "foundAt": "2026-10-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Nowy singiel wydany cyfrowo (premiera zapowiedziana na 14.10).",
+   "title": "Cycle",
+   "url": "https://music.apple.com/jp/album/cycle-single/6821510595?uo=4",
+   "id": "ui-cycle"
+  },
+  {
+   "about": "YOASOBI to duet Ayase (producent) i ikury (wokalistka), znany z Idol (opening Oshi no Ko) i Yoru ni Kakeru.",
+   "artist": "YOASOBI",
+   "foundAt": "2026-10-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Nowy singiel duetu wydany cyfrowo; styl energetycznego J-popu z elektronicznym brzmieniem.",
+   "title": "咲き誇れ",
+   "url": "https://music.apple.com/jp/album/%E5%92%B2%E3%81%8D%E8%AA%87%E3%82%8C-single/6817668875?uo=4",
+   "id": "yoasobi-sakihokore"
+  },
+  {
+   "about": "夢ノ結唱 ROSE to głos Synthesizer V/CeVIO z serii Yume no Yuusho.",
+   "artist": "夢ノ結唱 ROSE",
+   "foundAt": "2026-10-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Nowy singiel wokaloidowy ROSE w duecie z POPY.",
+   "title": "Glass Wing (feat. 夢ノ結唱 POPY)",
+   "url": "https://music.apple.com/jp/album/glass-wing-feat-yumenokessho-popy-single/6819126402?uo=4",
+   "id": "yumeno-yuusho-rose-glass-wing"
+  },
+  {
+   "about": "Producent z wokalem Kasane Teto, publikuje UTAU/Synthesizer V-owe single.",
+   "artist": "芦沢ポトフ & 重音テト",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-13",
+   "songAbout": "Nowy singiel z wokalem Kasane Teto.",
+   "title": "Shirahanoya",
+   "url": "https://music.apple.com/jp/album/shirahanoya-single/6812951839?uo=4",
+   "id": "ashizawa-potof-kasane-teto-shirahanoya"
+  },
+  {
+   "about": "PoppoOVO to twórca muzyki wokaloidowej współpracujący z kilkoma syntezatorami głosu.",
+   "artist": "PoppoOVO, 初音ミク, 重音テト & 音街ウナ",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-13",
+   "songAbout": "Singiel z wokalami Miku, Teto i Una — klimat vocaloidowego wspólnego kawałka.",
+   "title": "雨晴I Wish",
+   "url": "https://music.apple.com/jp/album/%E9%9B%A8%E6%99%B4i-wish-single/6821887290?uo=4",
+   "id": "poppoovo-ameharu-i-wish"
+  },
+  {
+   "about": "Abaraya to producent vocaloidowy.",
+   "artist": "あばらや feat. v flower",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Singiel z wokalem v flower; ten sam utwór ma też wersję z wieloma wokalistami.",
+   "title": "星、ときどき光",
+   "url": "https://vocadb.net/S/1045472",
+   "id": "abaraya-v-flower-hoshi-tokidoki-hikari"
+  },
+  {
+   "about": "Beatmario (ビートまりお) to japoński producent muzyki elektronicznej i vocaloidowej, związany ze sceną gier rytmicznych i J-core.",
+   "artist": "ビートまりお",
+   "foundAt": "2026-10-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Nowy singiel z 12 października, taneczna elektronika.",
+   "title": "Beavers",
+   "url": "https://music.apple.com/jp/album/beavers-single/6818033895?uo=4",
+   "id": "beatmario-beavers"
+  },
+  {
+   "about": "BlazingP to twórca coverów i utworów wokaloidowych na YouTube.",
+   "artist": "BlazingP feat. 電気彩",
+   "foundAt": "2026-10-13",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Cover/wersja z wokalem Denkisai (SynthV).",
+   "title": "ROT",
+   "url": "https://youtu.be/lEFyYrybcws",
+   "id": "blazingp-denkisai-rot"
+  },
+  {
+   "about": "OZIGIRI to japoński producent muzyki elektronicznej z kręgu sceny gier rytmicznych i hardcore.",
+   "artist": "Coakira, OZIGIRI",
+   "foundAt": "2026-10-12",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "EP w kolaboracji z Coakirą, ciężka elektronika; premiera 12 października.",
+   "title": "Riot In Hell",
+   "url": "https://music.apple.com/jp/album/riot-in-hell-ep/6816827241?uo=4",
+   "id": "coakira-ozigiri-riot-in-hell"
+  },
+  {
+   "about": "えびすぇんP to producent vocaloidowy tworzący piosenki z Hatsune Miku.",
+   "artist": "えびすぇんP & 初音ミク",
+   "foundAt": "2026-10-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Nowy singiel z Miku, wydany 12 października.",
+   "title": "空蝉の言霊",
+   "url": "https://music.apple.com/jp/album/%E7%A9%BA%E8%9D%89%E3%81%AE%E8%A8%80%E9%9C%8A-single/6807666873?uo=4",
+   "id": "ebisuen-p-hatsune-miku-utsusemi-no-kotodama"
+  },
+  {
+   "about": "Hakui Koyori to VTuberka z hololive (SecretSociety holoX), znana z energicznych coverów i piosenek.",
+   "artist": "博衣こより",
+   "foundAt": "2026-10-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Nowy singiel Koyori, wydany 12 października w sklepach cyfrowych.",
+   "title": "RISING SAN",
+   "url": "https://music.apple.com/jp/album/rising-san-single/6819963456?uo=4",
+   "id": "hakui-koyori-rising-san"
+  },
+  {
+   "about": "Luo Tianyi to chiński głos Vocaloid, najpopularniejszy wokaloid na chińskiej scenie.",
+   "artist": "洛天依",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Nowy singiel Luo Tianyi.",
+   "title": "卖核弹的小女孩",
+   "url": "https://music.apple.com/jp/album/%E5%8D%96%E6%A0%B8%E5%BC%B9%E7%9A%84%E5%B0%8F%E5%A5%B3%E5%AD%A9-single/6821838653?uo=4",
+   "id": "luo-tianyi-maihedan-de-xiao-nuhai"
+  },
+  {
+   "about": "Madoromi to producent vocaloidowy piszący dla Hatsune Miku.",
+   "artist": "マドロミ feat. 初音ミク",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Nowy kawałek Madoromi z Hatsune Miku.",
+   "title": "コーディネイト",
+   "url": "https://musicbrainz.org/release-group/64a7b85b-b6b0-4967-9ca2-26b1d1559cad",
+   "id": "madoromi-hatsune-miku-coordinate"
+  },
+  {
+   "about": "SAIJI i RyoLouder to twórcy muzyki elektronicznej współpracujący z wokalem Hatsune Miku.",
+   "artist": "SAIJI, RyoLouder & 初音ミク",
+   "foundAt": "2026-10-12",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Album z utworami z Miku w klimacie elektroniki i pop; premiera 12 października.",
+   "title": "もうひとつの空に触れて",
+   "url": "https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E7%A9%BA%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%A6/6790695570?uo=4",
+   "id": "saiji-ryolouder-hatsune-miku-mou-hitotsu-no-sora-ni-fureta"
+  },
+  {
+   "about": "SaphsSapphire to twórca wokaloidowy publikujący na YouTube.",
+   "artist": "SaphsSapphire feat. メカスズカ",
+   "foundAt": "2026-10-13",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Cover/wersja z wokalem Mecha Suzuka.",
+   "title": "the box",
+   "url": "https://youtu.be/LaEzPKiUcwE",
+   "id": "saphssapphire-mecha-suzuka-the-box"
+  },
+  {
+   "about": "夢ノ結唱 ROSE to głos Synthesizer V/CeVIO-owy z serii Yume no Yuusho.",
+   "artist": "夢ノ結唱 ROSE",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Nowy singiel wokaloidowy ROSE.",
+   "title": "Beyond the Way Home",
+   "url": "https://music.apple.com/jp/album/beyond-the-way-home-single/6821843146?uo=4",
+   "id": "yumeno-yuusho-rose-beyond-the-way-home"
+  },
+  {
+   "about": "夢ノ結唱 ROSE to głos Synthesizer V/CeVIO-owy z serii Yume no Yuusho.",
+   "artist": "夢ノ結唱 ROSE",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Drugi singiel ROSE wydany tego samego dnia, walcowy klimat.",
+   "title": "Masquerade Waltz",
+   "url": "https://music.apple.com/jp/album/masquerade-waltz-single/6821844983?uo=4",
+   "id": "yumeno-yuusho-rose-masquerade-waltz"
+  },
+  {
+   "about": "E.TOM i 白雾.YM to chińscy producenci współpracujący z Luo Tianyi.",
+   "artist": "E.TOM, 白雾.YM & 洛天依",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-11",
+   "songAbout": "Singiel z wokalem Luo Tianyi.",
+   "title": "GlowMe",
+   "url": "https://music.apple.com/jp/album/glowme-single/6821835891?uo=4",
+   "id": "e-tom-luo-tianyi-glowme"
+  },
+  {
    "about": "FLAVOR FOLEY to producent i DJ ze sceny vocaloidowej i J-core, autor piosenki przewodniej MIKU EXPO 2026 „CONNECT:COMMUNE”.",
    "artist": "FLAVOR FOLEY",
    "foundAt": "2026-10-09",
@@ -108,6 +384,42 @@
    "title": "MIRROR MODULATION",
    "url": "https://musicbrainz.org/release-group/13a5e545-1bcd-43aa-9c3c-12fd7f6a4edc",
    "id": "flavor-foley-mirror-modulation"
+  },
+  {
+   "about": "Himemori Luna to VTuberka z hololive 4. generacji, znana z wokalu i coverów.",
+   "artist": "姫森ルーナ",
+   "foundAt": "2026-10-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-11",
+   "songAbout": "Nowy singiel Luny, wydany 11 października.",
+   "title": "PriPriPrincess",
+   "url": "https://music.apple.com/jp/album/pripriprincess-single/6818739191?uo=4",
+   "id": "himemori-luna-pripriprincess"
+  },
+  {
+   "about": "Luo Tianyi to chiński wokal Vocaloid, najpopularniejsza voicebank w Chinach.",
+   "artist": "洛天依",
+   "foundAt": "2026-10-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-11",
+   "songAbout": "Nowy singiel w klimacie chińskiego popu; wydany 11 października.",
+   "title": "长安不见你",
+   "url": "https://music.apple.com/jp/album/%E9%95%BF%E5%AE%89%E4%B8%8D%E8%A7%81%E4%BD%A0-single/6820798291?uo=4",
+   "id": "luo-tianyi-chang-an-bu-jian-ni"
+  },
+  {
+   "about": "Producent tworzący utwory z wokalem Kasane Teto.",
+   "artist": "まさよし & 重音テト",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-11",
+   "songAbout": "Nowy singiel z syntezowanym wokalem Kasane Teto.",
+   "title": "Password",
+   "url": "https://music.apple.com/jp/album/password-single/6811786975?uo=4",
+   "id": "password-25dfb8"
   },
   {
    "about": "Jamie Paige – amerykańska producentka i wokalistka, znana z vocaloidowego/pop-punkowego Jamie Paige i serii piosenek z Hatsune Miku.",
@@ -170,6 +482,54 @@
    "id": "-d55f15d5"
   },
   {
+   "about": "BilliumMoto to japoński producent muzyki elektronicznej związany ze sceną gier rytmicznych i Vocaloid.",
+   "artist": "BilliumMoto",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Nowy singiel w klimacie elektronicznym.",
+   "title": "Pandora Prototype",
+   "url": "https://music.apple.com/jp/album/pandora-prototype-single/6818270442?uo=4",
+   "id": "billiummoto-pandora-prototype-7aca9c"
+  },
+  {
+   "about": "DoodleSelf.z to twórca wokaloidowy działający na NicoNico/YouTube.",
+   "artist": "DoodleSelf.z feat. 12AW, 何か強力な",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Nowy kawałek na syntezatorach głosu.",
+   "title": "二で割るに",
+   "url": "https://youtu.be/rB2EHktsn1I",
+   "id": "doodleself-z-12aw-nidewaruni"
+  },
+  {
+   "about": "Guitarheropianozero to twórca z kręgu Vocaloid/Kasane Teto.",
+   "artist": "Du Du Danyon feat. 重音テトSV2, klattsch",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Remiks utworu z wokalem Kasane Teto SV.",
+   "title": "耳のあるロボットの唄 (inlove remix)",
+   "url": "https://youtu.be/A7B-NLopRAk",
+   "id": "du-du-danyon-feat-sv2-klattsch-inlove-re-651fe7"
+  },
+  {
+   "about": "HoYoFair to coroczny event HoYoverse z muzyką z gier, m.in. Genshin Impact.",
+   "artist": "HoYoFair",
+   "foundAt": "2026-10-11",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Album ze ścieżkami z wydarzenia HoYoFair 2026.",
+   "title": "Genshin Impact HoYoFair 2026 \"Project: Nord Express\"",
+   "url": "https://music.apple.com/jp/album/genshin-impact-hoyofair-2026-project-nord-express/6821067918?uo=4",
+   "id": "hoyofair-genshin-impact-hoyofair-2026-pr-81c7a6"
+  },
+  {
    "about": "IDONO KAWAZU to producent tworzący utwory z Kasane Teto (SV), znany ze sceny nowej fali utaite/vocaloid.",
    "artist": "IDONO KAWAZU feat. 重音テトSV",
    "foundAt": "2026-10-09",
@@ -230,6 +590,30 @@
    "id": "idono-kawazu-mushuu"
   },
   {
+   "about": "LonePi to twórca coverów i remiksów związany ze sceną Vocaloid.",
+   "artist": "LonePi feat. various",
+   "foundAt": "2026-10-11",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Cover utworu „Hydrangea” (ハイドレンジア) opublikowany na YouTube.",
+   "title": "ハイドレンジア",
+   "url": "https://youtu.be/j06fgipGf0c",
+   "id": "lonepi-feat-various-080277"
+  },
+  {
+   "about": "Luo Tianyi to najpopularniejszy chiński wokal syntezowany (Vocaloid/Vsinger).",
+   "artist": "洛天依 (Luo Tianyi)",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Nowy singiel z wokalem Luo Tianyi.",
+   "title": "等雾散去",
+   "url": "https://music.apple.com/jp/album/%E7%AD%89%E9%9B%BE%E6%95%A3%E5%8E%BB-single/6819323381?uo=4",
+   "id": "luo-tianyi-80dc54"
+  },
+  {
    "about": "Takenoko Shounen to producent vocaloidowy tworzący popowe utwory z Hatsune Miku.",
    "artist": "タケノコ少年 feat. 初音ミク",
    "foundAt": "2026-10-09",
@@ -240,6 +624,18 @@
    "title": "ロマンチシズムコースター",
    "url": "https://vocadb.net/S/1041256",
    "id": "takenoko-shounen-romanticism-coaster"
+  },
+  {
+   "about": "Himemori Luna to VTuberka z hololive (3. generacja), znana ze śpiewu i energicznych coverów.",
+   "artist": "姫森ルーナ",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-10",
+   "songAbout": "Nowy utwór VTuberki, w stylu idolskim.",
+   "title": "プリプリプリンセス",
+   "url": "https://musicbrainz.org/release-group/f6c9aa79-0cf3-43aa-91f0-5f693b5892f5",
+   "id": "x-e6ca0a"
   },
   {
    "about": "吉田ヨシユキ – japoński producent tworzący z głosem Miku.",
@@ -278,6 +674,18 @@
    "id": "ano-kirai-nochi-suki"
   },
   {
+   "about": "eunandude11 to twórca coverów na syntezatorze głosu DiffSinger (Hareford).",
+   "artist": "eunandude11 feat. Hareford (DiffSinger)",
+   "foundAt": "2026-10-14",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Cover utworu Clover (kojarzonego z Jamie Paige) w wersji DiffSinger.",
+   "title": "Clover",
+   "url": "https://youtu.be/8jmJKiWyhIQ",
+   "id": "eunandude11-hareford-clover"
+  },
+  {
    "about": "Ez Mil – filipińsko-amerykański raper, znany ze współpracy z Eminemem.",
    "artist": "Ez Mil & Eminem",
    "foundAt": "2026-10-10",
@@ -314,6 +722,18 @@
    "id": "kaito-0a9183e7"
   },
   {
+   "about": "*Luna to japońska twórczyni muzyki elektronicznej, znana ze współpracy ze sceną gier rytmicznych.",
+   "artist": "Luna",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Nowy singiel elektroniczny.",
+   "title": "Avide",
+   "url": "https://music.apple.com/jp/album/avide-single/6816941286?uo=4",
+   "id": "luna-avide-da298d"
+  },
+  {
    "about": "Neoromancia – producent elektroniczny tworzący z głosem Hatsune Miku.",
    "artist": "Neoromancia & 初音ミク",
    "foundAt": "2026-10-10",
@@ -324,6 +744,18 @@
    "title": "MY NAME IS D RISER",
    "url": "https://music.apple.com/jp/album/my-name-is-d-riser-single/6772053298?uo=4",
    "id": "neoromancia-83483866"
+  },
+  {
+   "about": "Kanja-P to producent piszący utwory dla wokalu KAFU z kręgu KAMITSUBAKI.",
+   "artist": "患者P feat. 可不",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Nowy singiel z wokalem KAFU.",
+   "title": "甘え声",
+   "url": "https://musicbrainz.org/release-group/ac2f770a-548d-416e-a603-cbed239fd289",
+   "id": "p-feat-3b184c"
   },
   {
    "about": "r-906 to producent vocaloidowy, znany ze scen Project SEKAI i electro-popowych utworów.",
@@ -348,6 +780,30 @@
    "title": "STAT",
    "url": "https://music.apple.com/jp/album/stat-ep/6816014046?uo=4",
    "id": "snarewaves-stat"
+  },
+  {
+   "about": "Vane Lily to angielskojęzyczna producentka z kręgu Synthesizer V, współpracująca m.in. z Jamie Paige.",
+   "artist": "Vane Lily, ryutsu feat. SAROS, ROSE",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Singiel z wokalami SAROS i ROSE (Synthesizer V).",
+   "title": "Aurora",
+   "url": "https://youtu.be/4V24RaVEL5c",
+   "id": "vane-lily-ryutsu-feat-saros-rose-aurora-df16b7"
+  },
+  {
+   "about": "Aizuki Nakuru to VTuberka i wokalistka znana z energicznych piosenek w stylu denpa.",
+   "artist": "藍月なくる",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Nowy singiel w stylu denpa/electropop.",
+   "title": "デビットビット",
+   "url": "https://musicbrainz.org/release-group/3bc252a6-37be-45fb-997a-d6f9c324037c",
+   "id": "x-100439"
   },
   {
    "about": "Yuuyu to producent vocaloidowy tworzący mroczne, melodyjne rockowe utwory.",
@@ -398,6 +854,18 @@
    "id": "hobisu-feat-kasane-t-432de410"
   },
   {
+   "about": "Luo Tianyi to najpopularniejszy chiński wokal syntezowany (Vocaloid/Vsinger).",
+   "artist": "洛天依 (Luo Tianyi)",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-08",
+   "songAbout": "Nowy singiel z wokalem Luo Tianyi.",
+   "title": "反复确认",
+   "url": "https://music.apple.com/jp/album/%E5%8F%8D%E5%A4%8D%E7%A1%AE%E8%AE%A4-single/6820492653?uo=4",
+   "id": "luo-tianyi-50aca8"
+  },
+  {
    "about": "PinocchioP to znany producent vocaloidowy, autor m.in. „Ukiyo Jikan” i „Hello, Hello”, znany z luźnego, humorystycznego stylu.",
    "artist": "ピノキオピー feat. various",
    "foundAt": "2026-10-09",
@@ -410,6 +878,30 @@
    "id": "pinocchiop-ultimate-senpai"
   },
   {
+   "about": "Zundamon to maskotka popularna w internecie, używana w syntezie głosu VOICEVOX.",
+   "artist": "ほねまる & ずんだもん",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-08",
+   "songAbout": "Humorystyczna piosenka o automatach z chwytakiem.",
+   "title": "UFOキャッチャーあるあるの歌 (Ver.2)",
+   "url": "https://music.apple.com/jp/album/ufo%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E3%81%AE%E6%AD%8C-ver-2-single/6812215773?uo=4",
+   "id": "ufo-ver-2-4a5ad7"
+  },
+  {
+   "about": "Hatsune Miku to najsłynniejszy wokaloid świata; Crusher to producent tworzący dla niej utwory.",
+   "artist": "Crusher & Hatsune Miku",
+   "foundAt": "2026-10-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-07",
+   "songAbout": "Nowy singiel Miku wg MusicBrainz.",
+   "title": "Like a Shooting Star",
+   "url": "https://musicbrainz.org/release-group/a9081dc2-7d35-4778-95f8-09938540a0ac",
+   "id": "crusher-hatsune-miku-like-a-shooting-star"
+  },
+  {
    "about": "MARUMOCHI from HoneyWorks to wokalista związany ze sceną HoneyWorks i idolowymi piosenkami.",
    "artist": "MARUMOCHI from HoneyWorks",
    "foundAt": "2026-10-09",
@@ -420,6 +912,42 @@
    "title": "影響力∞アイドル (feat. ハコニワリリィ)",
    "url": "https://music.apple.com/jp/album/%E5%BD%B1%E9%9F%BF%E5%8A%9B-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-feat-%E3%83%8F%E3%82%B3%E3%83%8B%E3%83%AF%E3%83%AA%E3%83%AA%E3%82%A3-ep/6815915313?uo=4",
    "id": "marumochi-honeyworks-eikyouryoku-idol"
+  },
+  {
+   "about": "Yumenoyui POPY to wokal Synthesizer V; Haruyoyo to producent z kręgu Vocaloid.",
+   "artist": "はるよよ & 夢ノ結唱 POPY",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-07",
+   "songAbout": "Nowy singiel z wokalem POPY.",
+   "title": "The Sky, the Wind, the Map, and You in My Heart",
+   "url": "https://music.apple.com/jp/album/the-sky-the-wind-the-map-and-you-in-my-heart-single/6812969176?uo=4",
+   "id": "popy-the-sky-the-wind-the-map-and-you-in-648a39"
+  },
+  {
+   "about": "Ito Miku to seiyuu i wokalistka anisong.",
+   "artist": "伊藤美来",
+   "foundAt": "2026-10-11",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-07",
+   "songAbout": "Nowy album, wydany przy okazji 10-lecia kariery.",
+   "title": "39rpm",
+   "url": "https://musicbrainz.org/release-group/12cf9768-349c-4516-b075-1cd212783518",
+   "id": "x-1a68ca"
+  },
+  {
+   "about": "yama to japoński wokalista, znany z Haruka i utworów do anime; popularny w sieci dzięki maskowanemu wizerunkowi.",
+   "artist": "yama",
+   "foundAt": "2026-10-14",
+   "kind": "singiel",
+   "pick": true,
+   "released": "2026-10-07",
+   "songAbout": "Opening anime Maronie Oukoku no Nananin no Kishi (NHK E, od 3.10), singiel cyfrowy z 7.10, MV od 11.10.",
+   "title": "さよならは言わない",
+   "url": "https://www.thefirsttimes.jp/?p=888924",
+   "id": "yama-sayonara-wa-iwanai"
   },
   {
    "about": "Camellia (kamelia) to jeden z najbardziej znanych producentów J-core i hardcore, związany m.in. z Taiko no Tatsujin i Vocaloid.",
@@ -458,6 +986,18 @@
    "id": "kanaria-demon-lord"
   },
   {
+   "about": "Luo Tianyi to najpopularniejszy chiński wokal syntezowany (Vocaloid/Vsinger).",
+   "artist": "洛天依 (Luo Tianyi)",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-06",
+   "songAbout": "Nowy singiel z wokalem Luo Tianyi.",
+   "title": "灯光",
+   "url": "https://music.apple.com/jp/album/%E7%81%AF%E5%85%89-single/6817656267?uo=4",
+   "id": "luo-tianyi-dcd01a"
+  },
+  {
    "about": "Shirakami Fubuki to VTuberka z hololive (1. generacja), zwana „Ojou-sama” i znana z lisich motywów.",
    "artist": "白上フブキ",
    "foundAt": "2026-10-09",
@@ -494,6 +1034,18 @@
    "id": "beatmario-limo-nana"
   },
   {
+   "about": "KAITO to wokal Vocaloid od Crypton Future Media.",
+   "artist": "KAITO",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-05",
+   "songAbout": "Nowy singiel z wokalem KAITO.",
+   "title": "swim?",
+   "url": "https://music.apple.com/jp/album/swim-single/6815546832?uo=4",
+   "id": "kaito-swim-eff62c"
+  },
+  {
    "about": "Mili to japońsko-amerykański zespół znany z filmowego, fantasy popu, m.in. „world.execute(me);” i utworów do gier; grali m.in. na Pyrkonie.",
    "artist": "Mili",
    "foundAt": "2026-10-09",
@@ -528,6 +1080,42 @@
    "title": "Usagi Chainsaw",
    "url": "https://music.apple.com/jp/album/usagi-chainsaw-single/6818685213?uo=4",
    "id": "ozigiri-3d8170e1"
+  },
+  {
+   "about": "Yumenoyui POPY to wokal Synthesizer V.",
+   "artist": "夢ノ結唱 POPY",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-04",
+   "songAbout": "Nowy singiel z wokalem POPY.",
+   "title": "In Unison",
+   "url": "https://music.apple.com/jp/album/in-unison-single/6816055407?uo=4",
+   "id": "popy-in-unison-da0f4c"
+  },
+  {
+   "about": "Akatsuki Records to japońska wytwórnia związana z J-core i muzyką doujin.",
+   "artist": "暁Records",
+   "foundAt": "2026-10-11",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-04",
+   "songAbout": "EP z utworami z kręgu doujin/J-core.",
+   "title": "MAID I MADE",
+   "url": "https://musicbrainz.org/release-group/b2529371-99b6-4723-977b-90a39b309fbc",
+   "id": "records-maid-i-made-193645"
+  },
+  {
+   "about": "Yumenoyui ROSE to wokal Synthesizer V.",
+   "artist": "夢ノ結唱 ROSE",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-04",
+   "songAbout": "Nowy singiel z wokalem ROSE.",
+   "title": "Eternal Bloom",
+   "url": "https://music.apple.com/jp/album/eternal-bloom-single/6816046478?uo=4",
+   "id": "rose-eternal-bloom-0f82de"
   },
   {
    "about": "TAK to japoński producent znany z energetycznych utworów dla Project SEKAI i współpracy z hololive.",
@@ -662,6 +1250,18 @@
    "id": "zaq-attitude"
   },
   {
+   "about": "Kasane Teto to wirtualna piosenkarka (UTAU/Synthesizer V), bardzo popularna na scenie vocaloidowej.",
+   "artist": "CYPARISS, KoruSe & 重音テト",
+   "foundAt": "2026-10-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-02",
+   "songAbout": "Singiel z Teto w produkcji CYPARISS i KoruSe.",
+   "title": "FLY",
+   "url": "https://musicbrainz.org/release-group/99f584b6-7bc8-4805-9be7-5466add82daf",
+   "id": "cypariss-koruse-kasane-teto-fly"
+  },
+  {
    "about": "電音部 (Denonbu) to multimedialny projekt Bandai Namco łączący postacie z muzyką klubową, do którego utwory piszą producenci sceny elektronicznej. Ma’Scar’Piece to jeden z unitów projektu, znany m.in. z „OTAKEBI”.",
    "artist": "Ma’Scar’Piece × 電音部",
    "foundAt": "2026-10-04",
@@ -720,6 +1320,18 @@
    "title": "Jealous of My Best Friend",
    "url": "https://musicbrainz.org/release-group/a05ba3f8-92dd-42fa-a87e-b5371e247f48",
    "id": "hoshinoha-d84e04f5"
+  },
+  {
+   "about": "Hirata Shihoko to japońska wokalistka muzyki elektronicznej.",
+   "artist": "平田志穂子 & Kuniyuki Takahashi",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-02",
+   "songAbout": "Singiel w klimacie house/downtempo.",
+   "title": "Agano",
+   "url": "https://music.apple.com/jp/album/agano-single/6817770204?uo=4",
+   "id": "kuniyuki-takahashi-agano-318304"
   },
   {
    "about": "Marasy to pianista i kompozytor znany z coverów na pianinie i występów z Miku na koncertach symfonicznych.",
@@ -878,6 +1490,18 @@
    "id": "otonashi-af-flex-dance"
   },
   {
+   "about": "Pentakill to metalowy zespół z uniwersum League of Legends.",
+   "artist": "League of Legends Music & Pentakill",
+   "foundAt": "2026-10-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-01",
+   "songAbout": "Motyw przewodni Mistrzostw Świata LoL 2026.",
+   "title": "2026 World Championship Theme",
+   "url": "https://music.apple.com/jp/album/2026-world-championship-theme-single/6817972543?uo=4",
+   "id": "pentakill-2026-world-championship-theme"
+  },
+  {
    "about": "THØRNS to twórca z anglojęzycznej sceny vocal synth, publikujący single z gościnnym udziałem syntezatorów śpiewu i innych producentów.",
    "artist": "THØRNS",
    "foundAt": "2026-10-04",
@@ -974,6 +1598,18 @@
    "id": "houshou-marine-new-world-carnival"
   },
   {
+   "about": "Atena to twórca coverów i utworów z syntezowanym wokalem Narumi Hime i Mikoto.",
+   "artist": "kana. べ！ feat. 鳴花ヒメ, 鳴花ミコト",
+   "foundAt": "2026-10-11",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-09-30",
+   "songAbout": "Cover utworu opublikowany na YouTube.",
+   "title": "惑星ウェブスター",
+   "url": "https://youtu.be/6iwdJfffmmI",
+   "id": "kana-feat-10f433"
+  },
+  {
    "about": "kinoshita to producent vocaloidowy znany z szybkich, chwytliwych piosenek z Hatsune Miku i Otomachi Uną, m.in. „ポッピンキャンディ☆フィーバー!”.",
    "artist": "kinoshita",
    "foundAt": "2026-10-04",
@@ -1034,6 +1670,42 @@
    "id": "tatsuya-kitani-emerald"
   },
   {
+   "about": "Mābō Tōfu to producent z kręgu Vocaloid.",
+   "artist": "麻婆豆腐",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-30",
+   "songAbout": "Nowy singiel w stylu Vocaloid.",
+   "title": "雨き声残響",
+   "url": "https://music.apple.com/jp/album/%E9%9B%A8%E3%81%8D%E5%A3%B0%E6%AE%8B%E9%9F%BF-single/6812961733?uo=4",
+   "id": "x-6f039e"
+  },
+  {
+   "about": "Producent z kręgu Vocaloid pracujący z Kasane Teto.",
+   "artist": "ミ瑞 feat. 重音テトSV",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-29",
+   "songAbout": "Remiks utworu z wokalem Kasane Teto SV.",
+   "title": "愛してあげられなくてごめんね (ミ瑞破壊Remix)",
+   "url": "https://vocadb.net/S/1040519",
+   "id": "feat-sv-remix-001bf7"
+  },
+  {
+   "about": "Nakiso to producent Vocaloid znany z mrocznych, energicznych utworów.",
+   "artist": "なきそ feat. 歌愛ユキ V4",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-29",
+   "songAbout": "Remiks w stylu speed house / hardcore.",
+   "title": "みまま (Speed House & HDC flip)",
+   "url": "https://vocadb.net/S/1041264",
+   "id": "feat-v4-speed-house-hdc-flip-b49be7"
+  },
+  {
    "about": "HoneyWorks to japoński producent i kolektyw twórców znany z serii „Kokuhaku Jikkō Iinkai” i wielu piosenek wykorzystywanych w anime i filmach.",
    "artist": "MARUMOCHI from HoneyWorks",
    "foundAt": "2026-10-09",
@@ -1082,6 +1754,30 @@
    "id": "monochromenace-bonk"
   },
   {
+   "about": "Hatsuboshi Gakuen to fikcyjna szkoła z gry Gakuen iDOLM@STER.",
+   "artist": "初星学園, 倉本千奈, 紫雲清夏, 十王星南 & 秦谷美鈴",
+   "foundAt": "2026-10-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-29",
+   "songAbout": "Utwór postaci z gry Gakuen iDOLM@STER w nowej wersji.",
+   "title": "修楽旅行 (倉本千奈・紫雲清夏・十王星南・秦谷美鈴 ver.)",
+   "url": "https://musicbrainz.org/release-group/ea591250-b5f1-4530-8e2a-d6b740b885a9",
+   "id": "x-a2edb7"
+  },
+  {
+   "about": "*Luna to producentka i wokalistka elektroniczna, znana z kolaboracji z producentami z kręgu denpa/vocaloid.",
+   "artist": "幽音しの & *Luna",
+   "foundAt": "2026-10-13",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-09-29",
+   "songAbout": "Singiel *Luna razem z Yuune Shino.",
+   "title": "Linger",
+   "url": "https://musicbrainz.org/release-group/ac1b5717-68b4-40c2-b549-1795c3df37d2",
+   "id": "yuune-shino-luna-linger"
+  },
+  {
    "about": "夢限大みゅーたいぷ – japońska grupa idolowa z kręgu Dream Bubble/denpa-pop.",
    "artist": "夢限大みゅーたいぷ",
    "foundAt": "2026-10-10",
@@ -1118,6 +1814,30 @@
    "id": "anythingbecomemoe-displayholic"
   },
   {
+   "about": "tofubeats to japoński producent i DJ muzyki elektronicznej.",
+   "artist": "tofubeats",
+   "foundAt": "2026-10-11",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-09-28",
+   "songAbout": "Druga część ścieżki dźwiękowej anime „Seihantai na Kimi to Boku”.",
+   "title": "TVアニメ『正反対な君と僕』オリジナル･サウンドトラック Vol.02",
+   "url": "https://musicbrainz.org/release-group/b224457e-5f81-481e-87e8-596a0c852b27",
+   "id": "tofubeats-tv-vol-02-0c5aff"
+  },
+  {
+   "about": "Kanał tworzący humorystyczne przeróbki z głosem Hatsune Miku (English).",
+   "artist": "うちのボカロは様子がおかしい feat. 雨衣",
+   "foundAt": "2026-10-11",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-09-28",
+   "songAbout": "Cover z syntezowanym wokalem Miku.",
+   "title": "アクマバライ",
+   "url": "https://youtu.be/TzH5BsJj81Y",
+   "id": "x-0c8e1f"
+  },
+  {
    "about": "Camellia (かめりあ) to japoński producent muzyki elektronicznej, znany z bardzo szybkich i technicznych utworów obecnych w grach rytmicznych takich jak Beat Saber, osu! czy SOUND VOLTEX.",
    "artist": "Camellia",
    "foundAt": "2026-10-04",
@@ -1140,6 +1860,30 @@
    "title": "Libra Fräulein (feat. Dopam!ne)",
    "url": "https://music.apple.com/jp/album/libra-fr%C3%A4ulein-feat-dopam-ne-single/6812178491?uo=4",
    "id": "dyes-iwasaki-libra-fraulein"
+  },
+  {
+   "about": "Twórca anglojęzycznych coverów i utworów Vocaloid.",
+   "artist": "InsertCoolUserHere32 feat. Fukase (English)",
+   "foundAt": "2026-10-11",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-09-27",
+   "songAbout": "Cover/utwór angielskojęzyczny z wokalem Fukase.",
+   "title": "The Things I Deserve",
+   "url": "https://youtu.be/suwbo2WNk_g",
+   "id": "insertcooluserhere32-feat-fukase-english-194169"
+  },
+  {
+   "about": "Twórca z kręgu Vocaloid i Synthesizer V.",
+   "artist": "kewwi feat. Kevin",
+   "foundAt": "2026-10-11",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-09-27",
+   "songAbout": "Cover z syntezowanym wokalem.",
+   "title": "It Should've Been Me",
+   "url": "https://youtu.be/SsKDD5xTl0w",
+   "id": "kewwi-feat-kevin-it-should-ve-been-me-f52fd8"
   },
   {
    "about": "ビートまりお (Beatmario) – japoński kompozytor z kręgu BEMANI/Touhou, znany z elektronicznych remiksów i kolaboracji z LUNA.",

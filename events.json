@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T04:42:16Z",
+ "updated": "2026-10-14T15:24:57Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -2823,13 +2823,13 @@
   {
    "about": "Amerykański zespół post-hardcore'owy z San Diego, znany m.in. z „King for a Day” z Kellinem Quinnem.",
    "artist": "Pierce The Veil",
-   "changeNote": "Dodane festiwale Southside i Hurricane (18–20.06.2027, Niemcy)",
+   "changeNote": "Korekta: w Berlinie 8.06 supportem Blink-182 jest Billy Talent (bez Pierce The Veil); Pierce The Veil: Mediolan 13.06 i Paryż 15.06",
    "dateEnd": "2027-06-20",
-   "dateStart": "2027-06-08",
+   "dateStart": "2027-06-13",
    "facts": [
     {
-     "k": "Berlin",
-     "v": "8.06.2027, Waldbühne, start 19:00, bilety 102,60–122,75 € (Eventim)"
+     "k": "Paryż",
+     "v": "15.06.2027, Paris La Défense Arena (Nanterre), support Blink-182"
     },
     {
      "k": "Mediolan",
@@ -2838,6 +2838,10 @@
     {
      "k": "Rola",
      "v": "support; gwiazdą wieczoru jest Blink-182"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "presale 23.06.2026 10:00, sprzedaż ogólna 26.06.2026 10:00 (czas lokalny)"
     }
    ],
    "foundAt": "2026-10-04",
@@ -2854,14 +2858,8 @@
     "Pierce The Veil",
     "Billy Talent"
    ],
-   "note": "Występy w roli supportu Blink-182, razem z Billy Talent; najbliżej Polski Berlin 8.06.2027 (Waldbühne, start 19:00). Źródło pokazuje tylko te trzy daty: własnej trasy po Europie ani koncertów w Polsce, Czechach, Słowacji i Austrii nie ma. Możliwe, że europejska część trasy Blink-182 ma więcej przystanków, których źródło jeszcze nie wymienia.",
+   "note": "Występy w roli supportu Blink-182: Mediolan (I-Days, 13.06.2027) i Paryż (La Défense Arena, 15.06.2027), plus festiwale Southside i Hurricane 18.06. Wg NME na berlińskiej Waldbühne (8.06.2027) supportem jest Billy Talent, nie Pierce The Veil.",
    "stops": [
-    {
-     "cc": "DE",
-     "city": "Berlin",
-     "date": "2027-06-08",
-     "venue": "Waldbühne"
-    },
     {
      "cc": "IT",
      "city": "Mediolan",
@@ -2890,8 +2888,8 @@
    "tickets": "https://www.jambase.com/show/blink-182-waldbuhne-20270608",
    "tier": 3,
    "title": "Support na europejskich koncertach Blink-182 (z Billy Talent)",
-   "updatedAt": "2026-10-09",
-   "url": "https://www.jambase.com/band/pierce-the-veil",
+   "updatedAt": "2026-10-13",
+   "url": "https://www.nme.com/?p=3952430",
    "id": "2027-06-pierce-the-veil-blink-182-europe"
   },
   {
@@ -3219,6 +3217,46 @@
    "id": "2027-07-pohoda"
   },
   {
+   "about": "Amerykański DJ i producent EDM, założyciel wytwórni Dim Mak, znany z energetycznych setów festiwalowych i współprac, m.in. z BTS.",
+   "artist": "Steve Aoki",
+   "dateEnd": "2027-07-18",
+   "dateStart": "2027-07-16",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "16–18.07.2027, Airport Weeze (NRW)"
+    },
+    {
+     "k": "Bilety",
+     "v": "przez stronę festiwalu Parookaville; cen źródło nie podaje"
+    }
+   ],
+   "foundAt": "2026-10-13",
+   "hits": [
+    "Delirious (Boneless)",
+    "Waste It On Me",
+    "Pursuit of Happiness (remix)",
+    "Just Hold On"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Steve Aoki"
+   ],
+   "note": "Steve Aoki figuruje w line-upie Parookaville 2027 wg festivalhopper.de; dnia, sceny, godziny i cen nie podano.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Weeze",
+     "date": "2027-07-16",
+     "venue": "Airport Weeze (Parookaville, 16–18.07)"
+    }
+   ],
+   "tier": 3,
+   "title": "Parookaville 2027 – występ na festiwalu",
+   "url": "https://www.festivalhopper.de/bands/karten/steve-aoki.php",
+   "id": "2027-07-steve-aoki-parookaville"
+  },
+  {
    "about": "Festiwal kultury azjatyckiej w Polsce, z konkursami cosplay, panelami i koncertami.",
    "artist": "Hikari 2027",
    "dateEnd": "2027-08-29",
@@ -3515,6 +3553,40 @@
    "id": "2028-02-remcon"
   },
   {
+   "about": "Coroczna seria koncertów, w której orkiestra gra aranżacje utworów Hatsune Miku i innych vocaloidów, a Miku pojawia się jako wirtualna śpiewaczka. Tegoroczna odsłona nosi podtytuł „Melodies on the Keys”.",
+   "artist": "Hatsune Miku Symphony 2026-2027 „Melodies on the Keys”",
+   "dateEnd": "2027-01-10",
+   "dateStart": "2026-10-10",
+   "foundAt": "2026-10-11",
+   "hits": [
+    "Hatsune Miku – Senbonzakura",
+    "Hatsune Miku – World is Mine",
+    "Hatsune Miku – Tell Your World",
+    "Hatsune Miku – Rolling Girl"
+   ],
+   "kind": "trasa",
+   "note": "Kolejne daty trasy (m.in. luty 2027) źródła nie rozstrzygają; ceny i skład orkiestry niepodane. Stream nieznany.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Jokohama",
+     "date": "2026-10-10",
+     "venue": "Pacifico Yokohama National Convention Hall (wg ticketjam: Kokuritsu Dai-hall, 18:00)"
+    },
+    {
+     "cc": "JP",
+     "city": "Osaka",
+     "date": "2027-01-10",
+     "venue": "Osaka International Convention Center"
+    }
+   ],
+   "tier": 3,
+   "title": "Orkiestrowa trasa Miku Symphony: Yokohama i Osaka",
+   "url": "https://x.com/mikusymphony/status/2073754168125222956",
+   "id": "jp-2026-10-hatsune-miku-symphony-2026-2027"
+  },
+  {
    "about": "Jeden z największych festiwali muzycznych VTuberów, trzy sceny w Shibuya Stream Hall; wśród gości AZKi (hololive).",
    "artist": "Shinkai Fes 2026 'Super Deep Sea'",
    "dateEnd": "2026-10-18",
@@ -3613,6 +3685,60 @@
    "title": "Noc Vocaloid w MOGRA Akihabara",
    "url": "https://club-mogra.jp/2026/10/",
    "id": "jp-2026-10-vocaloid-maniax-vol58-mogra"
+  },
+  {
+   "about": "Kodo to słynna japońska grupa taiko, tu w specjalnym projekcie z Hatsune Miku. Koncert gra wyłącznie na instrumentach japońskich, a muzycznie to połączenie tradycji z kulturą Vocaloid.",
+   "artist": "Hatsune Miku × Kodo – Kyōen 2026",
+   "dateEnd": "2026-11-21",
+   "dateStart": "2026-11-20",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "S 9 900 ¥ · A 8 800 ¥ · B 7 700 ¥ (z gadżetem od 9 300 ¥)"
+    },
+    {
+     "k": "Godziny",
+     "v": "20.11: drzwi 18:00, start 19:00 · 21.11: drzwi 12:00, start 13:00"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "loteria Ticket Pia 5–16.08.2026"
+    }
+   ],
+   "foundAt": "2026-10-11",
+   "hits": [
+    "Hatsune Miku – Senbonzakura",
+    "Hatsune Miku – Tell Your World",
+    "Hatsune Miku – Ghost Rule",
+    "Kodo – Miyake"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Kodo",
+    "Shoko Kikutake (koto)",
+    "Reigen Fujii (shamisen)",
+    "Hatsune Miku"
+   ],
+   "note": "Wirtualni śpiewacy nie pojawiają się na scenie, śpiewają tylko w części utworów; muzykę gra zespół Kodo i soliści. Sprzedaż: loteria oficjalna Ticket Pia od 5 do 16.08; sprzedaż ogólna niepodana w źródle, stream online nieznany.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Shibuya)",
+     "date": "2026-11-20",
+     "venue": "NHK Hall"
+    },
+    {
+     "cc": "JP",
+     "city": "Tokio (Shibuya)",
+     "date": "2026-11-21",
+     "venue": "NHK Hall"
+    }
+   ],
+   "tier": 3,
+   "title": "Miku × Kodo: specjalny koncert na instrumentach japońskich (NHK Hall)",
+   "url": "https://www.inside-games.jp/release/prtimes/20260805/300361.html",
+   "id": "jp-2026-11-hatsune-miku-x-kodo-kyoen"
   },
   {
    "about": "VTuberka hololive i wokalistka, znana z Template, Stellar Stellar i Ghost.",
@@ -4031,6 +4157,47 @@
    "title": "Hatsune Miku Magical Mirai – Hiroshima, Osaka, Tokyo",
    "url": "https://magicalmirai.com/2026/",
    "id": "jp-2027-07-magical-mirai-2027"
+  },
+  {
+   "about": "Japońska piosenkarka i aktorka znana z mocnego, punkowo-popowego brzmienia i współpracy z anime-scenę; występuje solo i z zespołem.",
+   "artist": "ano",
+   "dateEnd": "2026-10-18",
+   "dateStart": "2026-10-17",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "start 18:00 (17 i 18.10)"
+    },
+    {
+     "k": "Bilety",
+     "v": "w sprzedaży u pośredników (viagogo, StubHub), ceny niepodane"
+    }
+   ],
+   "foundAt": "2026-10-11",
+   "hits": [
+    "Chu, Tayousei."
+   ],
+   "kind": "koncert",
+   "note": "Dwa wieczory w Seulu, start 18:00; bilety na stronach pośredników (ceny niepodane w źródle). Stream nieznany.",
+   "region": "KR",
+   "stops": [
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2026-10-17",
+     "venue": "Blue Square (WooriWON Banking Hall)"
+    },
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2026-10-18",
+     "venue": "Blue Square (WooriWON Banking Hall)"
+    }
+   ],
+   "tier": 1,
+   "title": "ano in Seoul (2 dni)",
+   "url": "https://www.eventworld.com/ano-seoul-tickets-17-10-2026/event/515852",
+   "id": "kr-2026-10-ano-seoul"
   }
  ]
 }

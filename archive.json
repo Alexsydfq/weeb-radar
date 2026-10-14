@@ -1,0 +1,119 @@
+{
+ "updated": "2026-10-14T15:24:57Z",
+ "events": [
+  {
+   "id": "2026-10-ryucon-silesia-gliwice",
+   "artist": "Ryucon Silesia 2026",
+   "title": "Targi kultury japońskiej w Gliwicach — koncert Miki Kobayashi",
+   "kind": "konwent",
+   "tier": 2,
+   "dateStart": "2026-10-10",
+   "dateEnd": "2026-10-11",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Gliwice",
+     "date": "2026-10-10",
+     "venue": "PreZero Arena Gliwice"
+    }
+   ],
+   "url": "https://silesia.ryucon.pl/"
+  },
+  {
+   "id": "2026-10-sakura-zensen-london",
+   "artist": "Seth, KOUKI i TSUKASA (Sakura Zensen)",
+   "title": "Live Show in London + fan meeting",
+   "kind": "koncert",
+   "tier": 1,
+   "dateStart": "2026-10-10",
+   "dateEnd": "2026-10-11",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-10",
+     "venue": "Rhum Tavern (fan meeting)"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-11",
+     "venue": "Colours Hoxton"
+    }
+   ],
+   "url": "https://jrocknews.com/2026/05/seth-kouki-and-tsukasa-of-sakura-zensen-debut-overseas-in-london-this-october.html"
+  },
+  {
+   "id": "2026-10-woodkid-people-festival-berlin",
+   "artist": "Woodkid",
+   "title": "PEOPLE Festival 2026 (Funkhaus Berlin)",
+   "kind": "festiwal",
+   "tier": 3,
+   "dateStart": "2026-10-10",
+   "dateEnd": "2026-10-11",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-10",
+     "venue": "Funkhaus Berlin"
+    }
+   ],
+   "url": "https://www.regioactive.de/news/2026/07/13/people-festival-feiert-2026-rueckkehr-ins-funkhaus-berlin-79SR9SKQdp"
+  },
+  {
+   "id": "2026-10-zeke-deux-europe",
+   "artist": "Zeke Deux",
+   "title": "Europe 2026",
+   "kind": "trasa",
+   "tier": 1,
+   "dateStart": "2026-10-04",
+   "dateEnd": "2026-10-08",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-04",
+     "venue": "Privatclub"
+    },
+    {
+     "cc": "CZ",
+     "city": "Praga",
+     "date": "2026-10-06",
+     "venue": "Futurum"
+    },
+    {
+     "cc": "AT",
+     "city": "Wiedeń",
+     "date": "2026-10-08",
+     "venue": "Szene"
+    }
+   ],
+   "url": "https://www.jame-world.com/en/concerts.html"
+  },
+  {
+   "id": "2026-10-kamijo-sanctuary-of-europe",
+   "artist": "KAMIJO",
+   "title": "Sanctuary of Europe",
+   "kind": "trasa",
+   "tier": 1,
+   "dateStart": "2026-09-23",
+   "dateEnd": "2026-10-03",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-10-02",
+     "venue": "Hybrydy"
+    },
+    {
+     "cc": "HU",
+     "city": "Budapeszt",
+     "date": "2026-10-03",
+     "venue": "Analog Music Hall"
+    }
+   ],
+   "url": "https://www.jame-world.com/en/event/pl"
+  }
+ ]
+}
