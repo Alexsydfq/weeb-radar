@@ -1258,7 +1258,7 @@
    "title": "Loneliness Will Shine – European Tour 2026 (25th anniversary)",
    "kind": "trasa",
    "dateStart": "2026-04-10",
-   "dateEnd": "2026-04-19",
+   "dateEnd": "2026-04-20",
    "stops": [
     {
      "date": "2026-04-10",
@@ -1301,6 +1301,12 @@
      "city": "Kopenhaga",
      "cc": "DK",
      "venue": "VEGA"
+    },
+    {
+     "date": "2026-04-20",
+     "city": "Berlin",
+     "cc": "DE",
+     "venue": "Huxley's Neue Welt"
     }
    ],
    "url": "https://avo-magazine.com/en/2026/01/toe-to-celebrate-25th-anniversary-with-spring-tour-in-europe/"
