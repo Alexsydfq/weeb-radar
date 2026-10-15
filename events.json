@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T04:41:59Z",
+ "updated": "2026-10-15T18:47:59Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -3512,6 +3512,41 @@
    "updatedAt": "2026-10-04",
    "url": "https://www.animemesse.de/news/199/Der-Jubilaums-Vorverkauf-ist-gestartet-10-Jahre-Anime-Messe-Babelsberg",
    "id": "2027-07-anime-messe-babelsberg"
+  },
+  {
+   "about": "Nowy w Polsce konwent popkulturowy brytyjskiej firmy Monopoly Events (Comic Con Liverpool, Manchester, Scotland): spotkania z aktorami, autografy, sesje zdjęciowe i cosplay. Gwiazd muzycznych jeszcze nie ogłoszono.",
+   "artist": "Comic Con Poland 2027",
+   "dateEnd": "2027-07-11",
+   "dateStart": "2027-07-10",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "10–11.07.2027, EXPO Kraków"
+    },
+    {
+     "k": "Bilety",
+     "v": "sprzedaż ma ruszyć pod koniec października 2026, ceny jeszcze nieznane"
+    },
+    {
+     "k": "Organizator",
+     "v": "Monopoly Events (UK)"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "kind": "konwent",
+   "note": "Pierwsza edycja. Termin i miejsce ogłoszone 13 i 15.10.2026; gości (aktorzy, cosplay, ewentualnie muzyka) jeszcze nie ma.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Kraków",
+     "date": "2027-07-10",
+     "venue": "EXPO Kraków, ul. Galicyjska 9"
+    }
+   ],
+   "tier": 2,
+   "title": "Nowy konwent popkulturowy od organizatorów Comic Con Liverpool, w EXPO Kraków",
+   "url": "https://blogokomiksach.pl/comic-con-poland-2027-expo-krakow/",
+   "id": "2027-07-comic-con-poland"
   },
   {
    "about": "Jeden z największych konwentów anime w Europie, w Düsseldorfie. Ma własny J-Rave z japońskimi DJ-ami (grali tu m.in. DJ SHARPNEL, kors k, Moe Shop i TAKU INOUE).",
