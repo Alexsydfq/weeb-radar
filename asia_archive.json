@@ -2,6 +2,35 @@
  "updated": "2026-10-15",
  "events": [
   {
+   "id": "asia-2026-10-12-kuzuha-bloody-alexandrite",
+   "artist": "Kuzuha One-Man Live 'Bloody Alexandrite'",
+   "nameOrig": "Kuzuha One-Man Live“Bloody Alexandrite”",
+   "title": "Solowy one-man live Kuzuhy",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-10-12",
+   "dateEnd": "2026-10-12",
+   "stops": [
+    {
+     "date": "2026-10-12",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kuzuha"
+   ],
+   "search": [
+    "葛葉 Bloody Alexandrite",
+    "葛叶 演唱会 Bloody Alexandrite",
+    "Kuzuha one-man live"
+   ],
+   "url": "https://www.eventernote.com/actors/%E8%91%9B%E8%91%89/49320/events"
+  },
+  {
    "id": "asia-2026-10-11-kenmochi-solo-live",
    "artist": "Kenmochi Toya Real Solo Live 'Kokuu Kyouen'",
    "nameOrig": "剣持刀也リアルソロライブ【虚空狂宴】",
@@ -29,6 +58,35 @@
     "剣持 リアルソロライブ"
    ],
    "url": "https://www.nijisanji.jp/"
+  },
+  {
+   "id": "asia-2026-10-10-mechatu-a-1st-over-drive",
+   "artist": "MECHATU-A 1st LIVE 'Over Drive!'",
+   "nameOrig": "MECHATU-A 1st LIVE“Over Drive!”",
+   "title": "Pierwszy live grupy MECHATU-A",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-10-10",
+   "dateEnd": "2026-10-10",
+   "stops": [
+    {
+     "date": "2026-10-10",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "MECHATU-A"
+   ],
+   "search": [
+    "MECHATU-A 1st LIVE Over Drive",
+    "MECHATU-A 演唱会",
+    "メカトゥーア 1st LIVE"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000001506.000030865.html"
   },
   {
    "id": "asia-2026-10-03-pjsk-6th-anniv",
@@ -168,6 +226,64 @@
    "url": "https://haveagood-holiday.com/en/articles/kamitsubaki-wars-2026-yokohama-gugenka-holomodel-reissue"
   },
   {
+   "id": "asia-2026-08-23-3skm-1st-one-off",
+   "artist": "3SKM 1st LIVE 'One-Off'",
+   "nameOrig": "3SKM 1st LIVE“One-Off”",
+   "title": "Pierwszy live tria 3SKM",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-08-23",
+   "dateEnd": "2026-08-23",
+   "stops": [
+    {
+     "date": "2026-08-23",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "横浜BUNTAI"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "3SKM"
+   ],
+   "search": [
+    "3SKM 1st LIVE One-Off",
+    "3SKM 演唱会",
+    "3SKM One-Off"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000001506.000030865.html"
+  },
+  {
+   "id": "asia-2026-08-22-sana-mogumogu-natsumatsuri-2026",
+   "artist": "Natori Sana's Mogumogu Reward Summer Festival 2026",
+   "nameOrig": "名取さなのもぐもぐごほうび夏祭り2026",
+   "title": "Połączony letni festiwal + 'mogumogu party' Natori Sany online",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-08-22",
+   "dateEnd": "2026-08-22",
+   "stops": [
+    {
+     "date": "2026-08-22",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "Z-aN (stream online)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "名取さなのもぐもぐごほうび夏祭り2026",
+    "名取纱那 夏日祭 2026",
+    "名取さな 夏祭り 2026",
+    "Natori Sana summer festival 2026"
+   ],
+   "url": "https://www.zan-live.com/ja/live/detail/10853"
+  },
+  {
    "id": "asia-2026-08-15-miku-mirai-music-party-2026",
    "artist": "Miku's Mirai Music Party 2026 Live in Nagaoka",
    "nameOrig": "Miku's Mirai Music Party 2026 Live in Nagaoka",
@@ -193,6 +309,41 @@
     "ミクミライ 長岡 2026"
    ],
    "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2026-08-15-tachibana-hinano-progress",
+   "artist": "Tachibana Hinano One-Man Live 'Progress'",
+   "nameOrig": "橘ひなの One-Man Live「Progress」",
+   "title": "Pierwszy solowy live Tachibany Hinano (VSPO!)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-08-15",
+   "dateEnd": "2026-08-16",
+   "stops": [
+    {
+     "date": "2026-08-15",
+     "city": "Tachikawa",
+     "cc": "JP",
+     "venue": "立川ステージガーデン"
+    },
+    {
+     "date": "2026-08-16",
+     "city": "Tachikawa",
+     "cc": "JP",
+     "venue": "立川ステージガーデン"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "VSPO!",
+    "Tachibana Hinano"
+   ],
+   "search": [
+    "橘ひなの ワンマンライブ Progress",
+    "橘雏奈 演唱会",
+    "Tachibana Hinano Progress"
+   ],
+   "url": "https://www.inside-games.jp/article/2026/05/15/181368.html"
   },
   {
    "id": "asia-2026-08-08-tetoec-2026",
@@ -230,6 +381,126 @@
     "重音Teto 演唱会 电通大"
    ],
    "url": "https://www.teto-news.jp/"
+  },
+  {
+   "id": "asia-2026-07-31-kanae-2nd-solitude",
+   "artist": "Kanae 2nd LIVE 'Kodoku -solitude-'",
+   "nameOrig": "叶 2nd LIVE 孤独 -solitude-",
+   "title": "Drugi solowy live Kanae",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-07-31",
+   "dateEnd": "2026-07-31",
+   "stops": [
+    {
+     "date": "2026-07-31",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京国際フォーラム ホールA"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kanae"
+   ],
+   "search": [
+    "叶 2nd LIVE 孤独 solitude",
+    "叶 演唱会 孤独",
+    "Kanae 2nd live solitude"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000001506.000030865.html"
+  },
+  {
+   "id": "asia-2026-07-30-lauren-iroas-1st-face",
+   "artist": "Lauren Iroas 1st LIVE 'FACE'",
+   "nameOrig": "ローレン・イロアス 1st LIVE“FACE”",
+   "title": "Pierwszy solowy live Laurena Iroasa",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-07-30",
+   "dateEnd": "2026-07-30",
+   "stops": [
+    {
+     "date": "2026-07-30",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京国際フォーラム ホールA"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Lauren Iroas"
+   ],
+   "search": [
+    "ローレン・イロアス 1st LIVE FACE",
+    "Lauren Iroas FACE",
+    "罗伦 演唱会 FACE"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000001506.000030865.html"
+  },
+  {
+   "id": "asia-2026-07-29-nene-1st-live",
+   "artist": "Momosuzu Nene 1st Live",
+   "nameOrig": "桃鈴ねね 1st Live「花咲く＊ねねねねねねねね超開花！」",
+   "title": "Pierwszy solowy live Momosuzu Nene (z Lamy, Botan, Polką)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-07-29",
+   "dateEnd": "2026-07-29",
+   "stops": [
+    {
+     "date": "2026-07-29",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京ガーデンシアター"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Momosuzu Nene",
+    "Yukihana Lamy",
+    "Shishiro Botan",
+    "Omaru Polka"
+   ],
+   "search": [
+    "桃鈴ねね 1st Live",
+    "ねねねねねねねね超開花",
+    "桃铃音音 1st live",
+    "Momosuzu Nene 1st live"
+   ],
+   "url": "https://hololive.hololivepro.com/events/nenenenenenenene/"
+  },
+  {
+   "id": "asia-2026-07-29-kaida-haru-1st-oneman",
+   "artist": "Kaida Haru 1st One-Man Live 'Ashiato'",
+   "nameOrig": "甲斐田晴 1st One-Man Live -足跡-",
+   "title": "Pierwszy solowy live Kaidy Haru",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-07-29",
+   "dateEnd": "2026-07-29",
+   "stops": [
+    {
+     "date": "2026-07-29",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京国際フォーラム ホールA"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kaida Haru"
+   ],
+   "search": [
+    "甲斐田晴 1st One-Man Live 足跡",
+    "甲斐田晴 演唱会",
+    "Kaida Haru 1st live"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000001506.000030865.html"
   },
   {
    "id": "asia-2026-07-24-magical-mirai-2026",
@@ -382,6 +653,34 @@
     "动画勋章 2026"
    ],
    "url": "https://anisama.tv/"
+  },
+  {
+   "id": "asia-2026-07-04-saigo-allnight-irori-3",
+   "artist": "Saigo All-Night Irori Vol.3",
+   "nameOrig": "西郷・オールナイト・いろり Vol.3",
+   "title": "Klubowa noc DJ-a Saigo Irori; krótki występ Natori Sany jako MC",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-07-04",
+   "dateEnd": "2026-07-04",
+   "stops": [
+    {
+     "date": "2026-07-04",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Spotify O-EAST"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "西郷・オールナイト・いろり Vol.3",
+    "西郷DJいろり 名取さな 2026",
+    "Saigo All Night Irori 3"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
   },
   {
    "id": "asia-2026-06-20-miku-symphony-2026",
@@ -569,6 +868,98 @@
    "url": "https://kamitsubaki.jp/"
   },
   {
+   "id": "asia-2026-05-23-neo-porte-fan-meeting-vol1",
+   "artist": "Neo-Porte FAN MEETING vol.1 'UN KNOCK'",
+   "nameOrig": "Neo-Porte FAN MEETING vol.1「UN KNOCK」",
+   "title": "Pierwszy fan meeting agencji Neo-Porte (2 dni, różne składy)",
+   "kind": "konwent",
+   "region": "JP",
+   "dateStart": "2026-05-23",
+   "dateEnd": "2026-05-24",
+   "stops": [
+    {
+     "date": "2026-05-23",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "ニッショーホール"
+    },
+    {
+     "date": "2026-05-24",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "ニッショーホール"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Neo-Porte"
+   ],
+   "search": [
+    "Neo-Porte FAN MEETING UN KNOCK",
+    "Neo-Porte ファンミーティング",
+    "ネオポルテ ファンミ 2026"
+   ],
+   "url": "https://animeanime.jp/release/prtimes/20260316/275670.html"
+  },
+  {
+   "id": "asia-2026-05-14-nijifes-2026",
+   "artist": "NIJISANJI Fes 2026 (8th Anniversary LIVE 'CONCERTO' + special stages)",
+   "nameOrig": "にじさんじフェス2026",
+   "title": "Festiwal NIJISANJI: VACHSS LIVE 'THE TAKEOVER' (14.05), 'Uncharted Spheres' (15.05), 8th Anniv LIVE 'CONCERTO' Day1/2 (16–17.05)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-05-14",
+   "dateEnd": "2026-05-17",
+   "stops": [
+    {
+     "date": "2026-05-14",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-05-15",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-05-16",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-05-17",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kuzuha",
+    "Kanae",
+    "Kagami Hayato",
+    "Fuwa Minato",
+    "Kenmochi Toya",
+    "Yumeoi Kakeru",
+    "Tsukino Mito",
+    "Lize Helesta",
+    "Inui Toko",
+    "Machita Chima"
+   ],
+   "search": [
+    "にじさんじフェス2026",
+    "VACHSS LIVE THE TAKEOVER",
+    "にじさんじ 8th Anniversary LIVE CONCERTO",
+    "彩虹社 8周年 演唱会",
+    "NIJIFES 2026"
+   ],
+   "url": "https://www.moguravr.com/?p=282423"
+  },
+  {
    "id": "asia-2026-05-04-tanoc-tour-2026",
    "artist": "TANO*C TOUR 2026 (Zepp tour)",
    "nameOrig": "TANO*C TOUR 2026",
@@ -648,6 +1039,40 @@
     "【中字】テトライブ2026"
    ],
    "url": "https://prtimes.jp/main/html/rd/p/000001420.000003065.html"
+  },
+  {
+   "id": "asia-2026-04-29-holox-first-mission",
+   "artist": "holoX Live 2026 'First MISSION'",
+   "nameOrig": "秘密結社holoX Live 2026「First MISSION」",
+   "title": "Pierwszy live grupy holoX",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-04-29",
+   "dateEnd": "2026-04-29",
+   "stops": [
+    {
+     "date": "2026-04-29",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "ぴあアリーナMM"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "holoX",
+    "Laplus Darknesss",
+    "Takane Lui",
+    "Hakui Koyori",
+    "Kazama Iroha"
+   ],
+   "search": [
+    "holoX First MISSION",
+    "秘密結社holoX Live 2026",
+    "秘密结社holoX 演唱会",
+    "holoX 1st live First MISSION"
+   ],
+   "url": "https://hololive.hololivepro.com/events/first-mission/"
   },
   {
    "id": "asia-2026-04-25-mwland-oopark-2026",
@@ -854,6 +1279,36 @@
     "Pokemon feat Hatsune Miku Voltage Live full"
    ],
    "url": "https://voltage.pokemon.co.jp/"
+  },
+  {
+   "id": "asia-2026-03-08-bakutan-kouyasai-2026",
+   "artist": "Bakutan Afterparty 2026",
+   "nameOrig": "爆誕後夜祭2026",
+   "title": "Klubowe after-party urodzin Natori Sany (DJ-e, narracja Sany; tajemniczy DJ 'Dr.U$4CH4N')",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-03-08",
+   "dateEnd": "2026-03-08",
+   "stops": [
+    {
+     "date": "2026-03-08",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "CLUB CITTA'"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "BAKUTAN"
+   ],
+   "search": [
+    "爆誕後夜祭2026",
+    "爆誕後夜祭 クラブチッタ 2026",
+    "名取纱那 生日 后夜祭 2026",
+    "さなのばくたん 後夜祭 2026"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
   },
   {
    "id": "asia-2026-03-07-bakutan-2026",
@@ -1276,6 +1731,65 @@
    "url": "https://hololivepro.com/"
   },
   {
+   "id": "asia-2026-01-17-kagami-hayato-alpha-one",
+   "artist": "Kagami Hayato 1st One Man Live 'ALPHA ONE'",
+   "nameOrig": "加賀美ハヤト 1st One Man Live“ALPHA ONE”",
+   "title": "Pierwszy solowy live Kagamiego Hayato",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-01-17",
+   "dateEnd": "2026-01-17",
+   "stops": [
+    {
+     "date": "2026-01-17",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "TOYOTA ARENA TOKYO"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kagami Hayato"
+   ],
+   "search": [
+    "加賀美ハヤト ALPHA ONE",
+    "加贺美隼人 演唱会",
+    "Kagami Hayato ALPHA ONE"
+   ],
+   "url": "https://www.appbank.net/2025/08/11/vtuber/2798397.php"
+  },
+  {
+   "id": "asia-2026-01-10-sora-dreams-in-motion",
+   "artist": "Tokino Sora New Year's Party 2026 'Dreams in Motion'",
+   "nameOrig": "ときのそら New Year's Party 2026「Dreams in Motion」",
+   "title": "Największy dotąd one-man live Tokino Sory (2 pokazy)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-01-10",
+   "dateEnd": "2026-01-10",
+   "stops": [
+    {
+     "date": "2026-01-10",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京国際フォーラム ホールA"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Tokino Sora"
+   ],
+   "search": [
+    "ときのそら Dreams in Motion",
+    "ときのそら New Year's Party 2026",
+    "时乃空 Dreams in Motion",
+    "Tokino Sora Dreams in Motion"
+   ],
+   "url": "https://hololive.hololivepro.com/events/dreams-in-motion/"
+  },
+  {
    "id": "asia-2025-12-27-kagamine-birthday-beijing",
    "artist": "Kagamine Rin & Len Birthday Concert (Beijing)",
    "nameOrig": "镜音生日会演唱会",
@@ -1302,6 +1816,35 @@
     "镜音双子 生日 2025"
    ],
    "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-12-24-sana-christmas-2025",
+   "artist": "Sana Channel Christmas 2025",
+   "nameOrig": "さなちゃんねるクリスマス2025",
+   "title": "Świąteczny live Natori Sany online (piosenki + gry)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-12-24",
+   "dateEnd": "2025-12-24",
+   "stops": [
+    {
+     "date": "2025-12-24",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "ZAIKO (stream online)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "さなちゃんねるクリスマス2025",
+    "名取纱那 圣诞 2025",
+    "名取さな クリスマス 2025",
+    "Natori Sana christmas 2025"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
   },
   {
    "id": "asia-2025-12-20-miku-with-you-2025",
@@ -1378,6 +1921,69 @@
    "url": "https://vocadb.net/Search?searchType=ReleaseEvent&filter=MIKUEC"
   },
   {
+   "id": "asia-2025-12-20-stellive-star-trail",
+   "artist": "2025 THE 1ST STELLIVE FESTIVAL [STAR TRAIL]",
+   "nameOrig": "2025 THE 1ST STELLIVE FESTIVAL [ STAR TRAIL ]",
+   "title": "Pierwszy koncert agencji Stellive (9 członkiń)",
+   "kind": "koncert",
+   "region": "KR",
+   "dateStart": "2025-12-20",
+   "dateEnd": "2025-12-20",
+   "stops": [
+    {
+     "date": "2025-12-20",
+     "city": "Goyang",
+     "cc": "KR",
+     "venue": "KINTEX 제2전시장 10홀"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Stellive"
+   ],
+   "search": [
+    "스텔라이브 STAR TRAIL",
+    "STELLIVE FESTIVAL STAR TRAIL",
+    "스텔라이브 콘서트 2025",
+    "Stellive concert 2025"
+   ],
+   "url": "https://namu.wiki/w/2025%20THE%201ST%20STELLIVE%20FESTIVAL%20%5B%20STAR%20TRAIL%20%5D"
+  },
+  {
+   "id": "asia-2025-12-16-regloss-1st-flashpoint",
+   "artist": "ReGLOSS 1st Live 'Flashpoint'",
+   "nameOrig": "ReGLOSS 1st Live「Flashpoint」",
+   "title": "Pierwszy live grupy ReGLOSS (hololive DEV_IS)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-12-16",
+   "dateEnd": "2025-12-16",
+   "stops": [
+    {
+     "date": "2025-12-16",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "有明アリーナ"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "ReGLOSS",
+    "Otonose Kanade",
+    "Ichijou Ririka",
+    "Juufuutei Raden",
+    "Todoroki Hajime"
+   ],
+   "search": [
+    "ReGLOSS 1st Live Flashpoint",
+    "ReGLOSS Flashpoint",
+    "ReGLOSS 演唱会",
+    "ReGLOSS 1st live"
+   ],
+   "url": "https://hololive.hololivepro.com/events/flashpoint/"
+  },
+  {
    "id": "asia-2025-12-12-pjsk-colorful-live-5th",
    "artist": "Project SEKAI COLORFUL LIVE 5th -Frontier-",
    "nameOrig": "プロジェクトセカイ COLORFUL LIVE 5th - Frontier -",
@@ -1441,6 +2047,64 @@
    "url": "https://pjsekai.sega.jp/"
   },
   {
+   "id": "asia-2025-12-03-youtube-fanfest-japan-2025",
+   "artist": "YouTube Fanfest Japan 2025",
+   "nameOrig": "YouTube Fanfest Japan 2025",
+   "title": "Gala YouTube Japan; Kuzuha śpiewa 'ギミモ' na Milestone Stage",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-12-03",
+   "dateEnd": "2025-12-03",
+   "stops": [
+    {
+     "date": "2025-12-03",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ イベントホール"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kuzuha"
+   ],
+   "search": [
+    "YouTube Fanfest Japan 2025",
+    "YouTube Fanfest 2025 葛葉",
+    "YTFF 2025 葛叶"
+   ],
+   "url": "https://kai-you.net/article/93516"
+  },
+  {
+   "id": "asia-2025-11-29-saigo-allnight-irori-2",
+   "artist": "Saigo All-Night Irori Vol.2",
+   "nameOrig": "西郷・オールナイト・いろり Vol.2",
+   "title": "Klubowa noc DJ-a Saigo Irori (remiksy Natori Sany); Sana jako MC części wieczoru",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-11-29",
+   "dateEnd": "2025-11-29",
+   "stops": [
+    {
+     "date": "2025-11-29",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Spotify O-EAST"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "西郷・オールナイト・いろり Vol.2",
+    "西郷DJいろり 名取さな",
+    "名取さな リミックス クラブ",
+    "Saigo All Night Irori"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
+  },
+  {
    "id": "asia-2025-11-23-mikucrossing-06",
    "artist": "MIKUCrossing♪ 06 (fan live)",
    "nameOrig": "MIKUCrossing♪ 06",
@@ -1467,6 +2131,170 @@
     "MIKUCrossing 初音未来 fan live"
    ],
    "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-11-22-vspo-fes-2025",
+   "artist": "VSPO! Fes 2025 (live 'DIAMOND in the ROUGH')",
+   "nameOrig": "ぶいすぽっ！フェス 2025",
+   "title": "Największy event VSPO!: turnieje 'FUNtastic Girls Party' + koncert 'DIAMOND in the ROUGH' (JP/EN/CN)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-11-22",
+   "dateEnd": "2025-11-24",
+   "stops": [
+    {
+     "date": "2025-11-22",
+     "city": "Funabashi",
+     "cc": "JP",
+     "venue": "LaLa arena TOKYO-BAY"
+    },
+    {
+     "date": "2025-11-23",
+     "city": "Funabashi",
+     "cc": "JP",
+     "venue": "LaLa arena TOKYO-BAY"
+    },
+    {
+     "date": "2025-11-24",
+     "city": "Funabashi",
+     "cc": "JP",
+     "venue": "LaLa arena TOKYO-BAY"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "VSPO!"
+   ],
+   "search": [
+    "ぶいすぽっ！フェス 2025",
+    "VSPO Fes 2025 DIAMOND in the ROUGH",
+    "ぶいすぽ DIAMOND in the ROUGH ライブ",
+    "VSPO 演唱会 2025"
+   ],
+   "url": "https://game.watch.impress.co.jp/docs/news/2028974.html"
+  },
+  {
+   "id": "asia-2025-11-22-himehina-lifetime-is-bubblin",
+   "artist": "HIMEHINA 'LIFETIME is BUBBLIN' (LIVE 2025 + World Tour 2026)",
+   "nameOrig": "HIMEHINA LIVE 2025 / WORLD Tour 2026『LIFETIME is BUBBLIN』",
+   "title": "Koncerty HIMEHINA w Pacifico + trasa po Japonii, Tajpej i Seulu, finał w Ariake",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2025-11-22",
+   "dateEnd": "2026-10-04",
+   "stops": [
+    {
+     "date": "2025-11-22",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2025-11-23",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2026-01-17",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "Zepp Fukuoka"
+    },
+    {
+     "date": "2026-02-11",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "Zepp Osaka Bayside"
+    },
+    {
+     "date": "2026-03-14",
+     "city": "Sendai",
+     "cc": "JP",
+     "venue": "仙台GIGS"
+    },
+    {
+     "date": "2026-04-11",
+     "city": "Nagoja",
+     "cc": "JP",
+     "venue": "Zepp Nagoya"
+    },
+    {
+     "date": "2026-05-02",
+     "city": "Sapporo",
+     "cc": "JP",
+     "venue": "Zepp Sapporo"
+    },
+    {
+     "date": "2026-06-06",
+     "city": "Tajpej",
+     "cc": "TW",
+     "venue": "Zepp New Taipei"
+    },
+    {
+     "date": "2026-06-28",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "YES24 LIVE HALL"
+    },
+    {
+     "date": "2026-10-03",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "SGC HALL ARIAKE"
+    },
+    {
+     "date": "2026-10-04",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "SGC HALL ARIAKE"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "HIMEHINA"
+   ],
+   "search": [
+    "HIMEHINA LIFETIME is BUBBLIN",
+    "ヒメヒナ LIFETIME is BUBBLIN",
+    "姬雏 世界巡演 2026",
+    "HIMEHINA world tour 2026 Taipei"
+   ],
+   "url": "https://koubo.jp/press-release/prtimes/c44525_r627"
+  },
+  {
+   "id": "asia-2025-11-22-fuuryuufes-2025",
+   "artist": "FUURYUUFES 5.0 2025",
+   "nameOrig": "FUURYUUFES 5.0 2025",
+   "title": "Hybrydowy festiwal wirtualnych artystów (Kizuna AI, KMNZ, Nana Shi Ink, Siro...)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-11-22",
+   "dateEnd": "2025-11-22",
+   "stops": [
+    {
+     "date": "2025-11-22",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "ぴあアリーナMM"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Kizuna AI",
+    "KMNZ",
+    "iLiFE!",
+    "Dennou Shoujo Siro",
+    "774 inc.",
+    "Shibuya Haru"
+   ],
+   "search": [
+    "FUURYUUFES 2025",
+    "FUURYUUFES 5.0 ぴあアリーナ",
+    "绊爱 FUURYUUFES 2025",
+    "FUURYUUFES 虚拟 演唱会 2025"
+   ],
+   "url": "https://kyodonewsprwire.jp/release/202512221524"
   },
   {
    "id": "asia-2025-11-19-azki-departure",
@@ -1567,6 +2395,45 @@
    "url": "https://vocadb.net/"
   },
   {
+   "id": "asia-2025-11-07-idios-1st-live",
+   "artist": "Idios 1st LIVE 'Seize the day'",
+   "nameOrig": "Idios 1st LIVE“Seize the day”",
+   "title": "Pierwszy live grupy Idios (2 dni, różne składy)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-11-07",
+   "dateEnd": "2025-11-08",
+   "stops": [
+    {
+     "date": "2025-11-07",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    },
+    {
+     "date": "2025-11-08",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Idios",
+    "Shishido Akari",
+    "Kuramochi Meruto",
+    "Koshimizu Toru",
+    "Igarashi Rika"
+   ],
+   "search": [
+    "Idios 1st LIVE Seize the day",
+    "Idios 1st live",
+    "にじさんじ Idios ライブ"
+   ],
+   "url": "https://note.com/cinamon_303/n/nd02c9dec5a64"
+  },
+  {
    "id": "asia-2025-11-05-miku-expo-2025-asia",
    "artist": "HATSUNE MIKU EXPO 2025 ASIA",
    "nameOrig": "HATSUNE MIKU EXPO 2025 ASIA",
@@ -1649,6 +2516,68 @@
    "url": "https://mikuexpo.com/"
   },
   {
+   "id": "asia-2025-11-03-singularity-live-vol4",
+   "artist": "Singularity Live Vol.4 (Harusaruhi × Isekaijoucho)",
+   "nameOrig": "春猿火×ヰ世界情緒 TWO-MAN LIVE「Singularity Live Vol.4」",
+   "title": "Koncert dwóch artystek KAMITSUBAKI (DAY-2 KAMITSUBAKI WARS 2025 Korakuen)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-11-03",
+   "dateEnd": "2025-11-03",
+   "stops": [
+    {
+     "date": "2025-11-03",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Kanadevia Hall (TOKYO DOME CITY HALL)"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "Harusaruhi",
+    "Isekaijoucho",
+    "V.W.P"
+   ],
+   "search": [
+    "Singularity Live Vol.4",
+    "春猿火 ヰ世界情緒 ツーマン",
+    "春猿火 异世界情绪 演唱会",
+    "神椿後楽園戦線2025 DAY2"
+   ],
+   "url": "https://diskgarage.com/digaonline/liverepo/224482"
+  },
+  {
+   "id": "asia-2025-10-29-towa-2nd-shinier",
+   "artist": "Tokoyami Towa 2nd Live 'SHINier'",
+   "nameOrig": "Tokoyami Towa 2nd Live「SHINier」",
+   "title": "Drugi solowy live Tokoyami Towy",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-10-29",
+   "dateEnd": "2025-10-29",
+   "stops": [
+    {
+     "date": "2025-10-29",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "有明アリーナ"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Tokoyami Towa"
+   ],
+   "search": [
+    "常闇トワ 2nd Live SHINier",
+    "常暗永远 SHINier",
+    "常闇トワ SHINier",
+    "Tokoyami Towa SHINier"
+   ],
+   "url": "https://hololive.hololivepro.com/events/shinier/"
+  },
+  {
    "id": "asia-2025-10-18-pjsk-5th-anniv",
    "artist": "Project SEKAI 5th Anniversary Thanksgiving Festival",
    "nameOrig": "プロジェクトセカイ 5th Anniversary 感謝祭",
@@ -1685,6 +2614,42 @@
     "Project SEKAI 5th Anniversary festival"
    ],
    "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2025-10-18-mbc-virtual-live-festival-2025",
+   "artist": "MBC Virtual Live Festival with Coupang Play",
+   "nameOrig": "MBC 버추얼 라이브 페스티벌 with 쿠팡플레이",
+   "title": "Plenerowy festiwal MBC: wirtualni artyści (Isegye Idol, PLAVE) obok K-popu",
+   "kind": "festiwal",
+   "region": "KR",
+   "dateStart": "2025-10-18",
+   "dateEnd": "2025-10-19",
+   "stops": [
+    {
+     "date": "2025-10-18",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "DMC 상암문화광장"
+    },
+    {
+     "date": "2025-10-19",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "DMC 상암문화광장"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Isegye Idol",
+    "PLAVE"
+   ],
+   "search": [
+    "MBC 버추얼 라이브 페스티벌",
+    "MBC Virtual Live Festival 2025",
+    "이세계아이돌 MBC 페스티벌",
+    "PLAVE MBC 버추얼 페스티벌"
+   ],
+   "url": "https://sports.khan.co.kr/article/202509030015003"
   },
   {
    "id": "asia-2025-10-12-lively-paradise-2025",
@@ -1782,6 +2747,42 @@
    "url": "https://vocadb.net/"
   },
   {
+   "id": "asia-2025-10-01-sora-8th-anniv-starry-bloomin",
+   "artist": "Tokino Sora 8th Anniversary Party 'Starry Bl∞min''",
+   "nameOrig": "ときのそら 8th Anniversary Party「Starry Bl∞min'」",
+   "title": "Dwudniowa jubileuszowa impreza taneczna Tokino Sory",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-10-01",
+   "dateEnd": "2025-10-02",
+   "stops": [
+    {
+     "date": "2025-10-01",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "CLUB CITTA'"
+    },
+    {
+     "date": "2025-10-02",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "CLUB CITTA'"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Tokino Sora"
+   ],
+   "search": [
+    "ときのそら Starry Bloomin",
+    "ときのそら 8th Anniversary Party",
+    "时乃空 8周年",
+    "Tokino Sora 8th anniversary party"
+   ],
+   "url": "https://realsound.jp/2025/10/post-2192336.html"
+  },
+  {
    "id": "asia-2025-09-21-kizuna-ai-homecoming",
    "artist": "Kizuna AI Comeback Concert 'Homecoming'",
    "nameOrig": "KizunaAI Comeback Concert \"Homecoming\"",
@@ -1808,6 +2809,37 @@
     "Kizuna AI Homecoming concert"
    ],
    "url": "https://kizunaai.com/"
+  },
+  {
+   "id": "asia-2025-09-14-seoul-popcon-2025-nijisanji",
+   "artist": "Seoul POPCON 2025 (NIJISANJI stage)",
+   "nameOrig": "Seoul POPCON 2025 にじさんじステージ",
+   "title": "Scena NIJISANJI na konwencie popkultury w Seulu (14.09)",
+   "kind": "konwent",
+   "region": "KR",
+   "dateStart": "2025-09-14",
+   "dateEnd": "2025-09-14",
+   "stops": [
+    {
+     "date": "2025-09-14",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "COEX"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Gentsuki Toujirou",
+    "Nagao Kei",
+    "Kaida Haru"
+   ],
+   "search": [
+    "Seoul POPCON 2025 NIJISANJI",
+    "서울팝콘 2025 니지산지",
+    "にじさんじ ソウル POPCON"
+   ],
+   "url": "https://note.com/cinamon_303/n/nd02c9dec5a64"
   },
   {
    "id": "asia-2025-09-13-magicalplay-l-ve-vol-7",
@@ -1986,6 +3018,98 @@
    "url": "https://anisama.tv/"
   },
   {
+   "id": "asia-2025-08-22-nanashi-fes-2025-jackpot",
+   "artist": "NANASHI FES 2025 JACKPOT",
+   "nameOrig": "NANASHI FES 2025 JACKPOT",
+   "title": "Pełny koncert agencji 774 inc. (22 członkinie)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-08-22",
+   "dateEnd": "2025-08-22",
+   "stops": [
+    {
+     "date": "2025-08-22",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "774 inc.",
+    "Inaba Haneru",
+    "Souya Ichika",
+    "Shimamura Charlotte",
+    "Saionji Mary"
+   ],
+   "search": [
+    "NANASHI FES 2025 JACKPOT",
+    "ななしいんく ライブ 2025",
+    "774inc 演唱会 2025"
+   ],
+   "url": "https://dengekionline.com/article/202508/50302"
+  },
+  {
+   "id": "asia-2025-08-13-kanata-lock-on",
+   "artist": "Amane Kanata 1st Solo Live 'LOCK ON'",
+   "nameOrig": "Amane Kanata 1st Solo Live「LOCK ON」",
+   "title": "Pierwszy solowy live Amane Kanaty (gość: AZKi)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-08-13",
+   "dateEnd": "2025-08-13",
+   "stops": [
+    {
+     "date": "2025-08-13",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "有明アリーナ"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Amane Kanata",
+    "AZKi"
+   ],
+   "search": [
+    "天音かなた 1st Solo Live LOCK ON",
+    "天音彼方 演唱会 LOCK ON",
+    "天音かなた ソロライブ",
+    "Amane Kanata LOCK ON"
+   ],
+   "url": "https://hololive.hololivepro.com/events/lock-on/"
+  },
+  {
+   "id": "asia-2025-08-11-sana-natsumatsuri-2025",
+   "artist": "Sana Channel Summer Festival 2025",
+   "nameOrig": "さなちゃんねる夏祭り2025",
+   "title": "Letni festiwal Natori Sany online (ogłoszenie szczegółów 2nd Live)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-08-11",
+   "dateEnd": "2025-08-11",
+   "stops": [
+    {
+     "date": "2025-08-11",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "stream online"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "さなちゃんねる夏祭り2025",
+    "名取纱那 夏日祭 2025",
+    "名取さな 夏祭り 2025",
+    "Natori Sana summer festival 2025"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
+  },
+  {
    "id": "asia-2025-08-01-magical-mirai-2025",
    "artist": "Hatsune Miku Magical Mirai 2025",
    "nameOrig": "初音ミク「マジカルミライ 2025」",
@@ -2101,6 +3225,40 @@
    "url": "https://hololivepro.com/"
   },
   {
+   "id": "asia-2025-07-20-rofmao-2nd-limitless",
+   "artist": "ROF-MAO 2nd LIVE 'Limitless'",
+   "nameOrig": "ROF-MAO 2nd LIVE - Limitless",
+   "title": "Drugi live ROF-MAO",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-07-20",
+   "dateEnd": "2025-07-20",
+   "stops": [
+    {
+     "date": "2025-07-20",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "ROF-MAO",
+    "Kagami Hayato",
+    "Kenmochi Toya",
+    "Fuwa Minato",
+    "Kaida Haru"
+   ],
+   "search": [
+    "ROF-MAO 2nd LIVE Limitless",
+    "ROF-MAO Limitless",
+    "ろふまお 2nd LIVE",
+    "ROF-MAO 演唱会 2025"
+   ],
+   "url": "https://www.appbank.net/2025/08/11/vtuber/2798397.php"
+  },
+  {
    "id": "asia-2025-07-05-hololive-gamers-fes-2",
    "artist": "hololive GAMERS fes. Cho-cho-cho-cho Gamers 2",
    "nameOrig": "hololive GAMERS fes. 超超超超ゲーマーズ2",
@@ -2134,6 +3292,35 @@
     "holo gamers fes 2025"
    ],
    "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-06-22-sana-mogumogu-party-3",
+   "artist": "Natori Sana's Mogumogu Reward Party 3",
+   "nameOrig": "名取さなのもぐもぐごほうびパーティ3",
+   "title": "Online live Natori Sany w scenerii kempingu (duety z Irorim, zapowiedź nauki gitary)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-06-22",
+   "dateEnd": "2025-06-22",
+   "stops": [
+    {
+     "date": "2025-06-22",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "Z-aN (stream online)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "名取さなのもぐもぐごほうびパーティ3",
+    "名取纱那 もぐもぐごほうびパーティ3",
+    "名取さな もぐもぐパーティ 3",
+    "Natori Sana mogumogu party 3"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
   },
   {
    "id": "asia-2025-06-15-sekai-symphony-2025",
@@ -2209,6 +3396,138 @@
     "神椿 2025 中字"
    ],
    "url": "https://kamitsubaki.jp/"
+  },
+  {
+   "id": "asia-2025-06-04-nijidatoka-1st-oneman",
+   "artist": "2ji Datoka 1st One-Man Live",
+   "nameOrig": "2時だとか 1st ワンマンライブ",
+   "title": "Pierwszy one-man live grupy 2ji Datoka",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-06-04",
+   "dateEnd": "2025-06-04",
+   "stops": [
+    {
+     "date": "2025-06-04",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Watarai Hibari",
+    "Fuwa Minato",
+    "Ibrahim",
+    "Lauren Iroas"
+   ],
+   "search": [
+    "2時だとか 1st ワンマンライブ",
+    "2時だとか 豊洲PIT",
+    "2时什么的 live",
+    "nijidatoka 1st live"
+   ],
+   "url": "https://saiganak.com/ja/event/nijisanji-nijidatoka-live-announcement/"
+  },
+  {
+   "id": "asia-2025-05-28-okayu-2nd-live",
+   "artist": "Nekomata Okayu 2nd Live 'Personya Respect'",
+   "nameOrig": "猫又おかゆ 2nd Live.「ぺるそにゃ～りすぺくと」",
+   "title": "Drugi solowy live Nekomaty Okayu",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-05-28",
+   "dateEnd": "2025-05-28",
+   "stops": [
+    {
+     "date": "2025-05-28",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "ぴあアリーナMM"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Nekomata Okayu"
+   ],
+   "search": [
+    "猫又おかゆ 2nd Live",
+    "ぺるそにゃ～りすぺくと",
+    "猫又小粥 2nd live",
+    "Nekomata Okayu 2nd live"
+   ],
+   "url": "https://hololive.hololivepro.com/events/personyarespect/"
+  },
+  {
+   "id": "asia-2025-05-19-chronoir-budokan",
+   "artist": "ChroNoiR at Nippon Budokan",
+   "nameOrig": "くろのわーるが武道館でなんかやる",
+   "title": "Event ChroNoiR w Budokanie",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-05-19",
+   "dateEnd": "2025-05-19",
+   "stops": [
+    {
+     "date": "2025-05-19",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "日本武道館"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "ChroNoiR",
+    "Kuzuha",
+    "Kanae"
+   ],
+   "search": [
+    "くろのわーるが武道館でなんかやる",
+    "ChroNoiR 武道館",
+    "ChroNoiR 武道馆 2025",
+    "ChroNoiR Budokan"
+   ],
+   "url": "https://www.eventernote.com/actors/%E8%91%9B%E8%91%89/49320/events"
+  },
+  {
+   "id": "asia-2025-05-16-isegye-festival-2025",
+   "artist": "ISEGYE FESTIVAL SEOUL 2025",
+   "nameOrig": "이세계 페스티벌 2025",
+   "title": "Festiwal Isegye Idol w Gocheok Sky Dome (HIMEHINA, Luo Tianyi, K-pop)",
+   "kind": "festiwal",
+   "region": "KR",
+   "dateStart": "2025-05-16",
+   "dateEnd": "2025-05-17",
+   "stops": [
+    {
+     "date": "2025-05-16",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "고척 스카이돔"
+    },
+    {
+     "date": "2025-05-17",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "고척 스카이돔"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Isegye Idol",
+    "HIMEHINA",
+    "Luo Tianyi"
+   ],
+   "search": [
+    "이세계 페스티벌 2025",
+    "ISEGYE FESTIVAL 2025 고척돔",
+    "异世界偶像 音乐节 2025",
+    "Isegye Festival 2025"
+   ],
+   "url": "https://namu.wiki/w/%EC%9D%B4%EC%84%B8%EA%B3%84%20%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C%202025"
   },
   {
    "id": "asia-2025-05-10-nijisanji-world-tour-2025",
@@ -2454,6 +3773,35 @@
    "url": "https://vocadb.net/"
   },
   {
+   "id": "asia-2025-04-18-tsukino-mito-paper-rabbit",
+   "artist": "Tsukino Mito 2nd One-Man Live 'Paper Rabbit'",
+   "nameOrig": "月ノ美兎 2ndワンマンライブ『Paper Rabbit』",
+   "title": "Drugi one-man live Tsukino Mito",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-04-18",
+   "dateEnd": "2025-04-18",
+   "stops": [
+    {
+     "date": "2025-04-18",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "J:COMホール八王子"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Tsukino Mito"
+   ],
+   "search": [
+    "月ノ美兎 Paper Rabbit",
+    "月之美兔 2nd live",
+    "Tsukino Mito Paper Rabbit"
+   ],
+   "url": "https://note.com/cinamon_303/n/nd02c9dec5a64"
+  },
+  {
    "id": "asia-2025-04-12-takada-sakura-miku-live",
    "artist": "Takada Night Sakura Miku Live",
    "nameOrig": "高田夜サクラミクライブ！",
@@ -2579,6 +3927,68 @@
    "url": "https://hololivepro.com/"
   },
   {
+   "id": "asia-2025-03-08-bakutan-kouyasai-2025",
+   "artist": "Bakutan Afterparty 2025",
+   "nameOrig": "爆誕後夜祭2025",
+   "title": "Klubowe after-party urodzin Natori Sany (DJ-e, komentarz głosowy Sany; niezapowiedziana wizyta Kenmochiego)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-03-08",
+   "dateEnd": "2025-03-08",
+   "stops": [
+    {
+     "date": "2025-03-08",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "CLUB CITTA'"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "BAKUTAN",
+    "Kenmochi Toya"
+   ],
+   "search": [
+    "爆誕後夜祭2025",
+    "爆誕後夜祭 クラブチッタ",
+    "名取纱那 生日 后夜祭 2025",
+    "さなのばくたん 後夜祭 2025"
+   ],
+   "url": "https://www.eventernote.com/actors/%E5%90%8D%E5%8F%96%E3%81%95%E3%81%AA/42798/events"
+  },
+  {
+   "id": "asia-2025-03-08-nornis-concerto-di-luce",
+   "artist": "Nornis Orchestra Live 'Concerto di luce'",
+   "nameOrig": "Nornis オーケストラライブ「Concerto di luce」",
+   "title": "Orkiestrowy koncert Nornis (2 pokazy)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-03-08",
+   "dateEnd": "2025-03-08",
+   "stops": [
+    {
+     "date": "2025-03-08",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "大宮ソニックシティ 大ホール"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Nornis",
+    "Inui Toko",
+    "Machita Chima"
+   ],
+   "search": [
+    "Nornis Concerto di luce",
+    "Nornis オーケストラライブ",
+    "Nornis 交响 演唱会"
+   ],
+   "url": "https://note.com/cinamon_303/n/nd02c9dec5a64"
+  },
+  {
    "id": "asia-2025-03-07-bakutan-2025",
    "artist": "Natori Sana BAKUTAN 2025",
    "nameOrig": "さなのばくたん。 -をやろうと思ったら異世界に転生していた件について- Powered by mouse",
@@ -2634,6 +4044,63 @@
     "MEIKO live 2025"
    ],
    "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-02-20-nijifes-2025",
+   "artist": "NIJISANJI 7th Anniversary Festival (NIJIFES 2025)",
+   "nameOrig": "にじさんじ 7th Anniversary Festival（にじさんじフェス2025）",
+   "title": "Festiwal NIJISANJI z live'ami: Salome 1st (21.02), VOLTACTION 1st 'Dynamic VOLT' (23.02), 7th Anniv LIVE 'OVERTURE' (24.02)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-02-20",
+   "dateEnd": "2025-02-24",
+   "stops": [
+    {
+     "date": "2025-02-20",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ イベントホール"
+    },
+    {
+     "date": "2025-02-21",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ イベントホール"
+    },
+    {
+     "date": "2025-02-23",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ イベントホール"
+    },
+    {
+     "date": "2025-02-24",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ イベントホール"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "NIJISANJI EN",
+    "Hyakumantenbara Salome",
+    "VOLTACTION",
+    "Fura Kanato",
+    "Watarai Hibari",
+    "Shikinagi Akira",
+    "Seraph Dazzlegarden",
+    "Vox Akuma",
+    "Elira Pendora"
+   ],
+   "search": [
+    "にじさんじフェス2025",
+    "壱百満天原サロメ 1st LIVE マイフェアレディ",
+    "VOLTACTION 1st LIVE Dynamic VOLT",
+    "にじさんじ 7th Anniversary LIVE OVERTURE",
+    "彩虹社 7周年 演唱会"
+   ],
+   "url": "https://www.moguravr.com/?p=265183"
   },
   {
    "id": "asia-2025-02-13-fubuki-1st-solo",
@@ -2819,6 +4286,44 @@
    "url": "https://hololivepro.com/"
   },
   {
+   "id": "asia-2024-12-31-nijisanji-countdown-2024",
+   "artist": "NIJISANJI COUNTDOWN LIVE 2024→2025",
+   "nameOrig": "NIJISANJI COUNTDOWN LIVE 2024→2025",
+   "title": "Pierwszy sylwestrowy koncert NIJISANJI",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-12-31",
+   "dateEnd": "2024-12-31",
+   "stops": [
+    {
+     "date": "2024-12-31",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "グランキューブ大阪 メインホール"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "ROF-MAO",
+    "VOLTACTION",
+    "ChroNoiR",
+    "Nornis",
+    "Tsukino Mito",
+    "Higuchi Kaede",
+    "Hoshikawa Sara",
+    "Yumeoi Kakeru",
+    "Hyakumantenbara Salome"
+   ],
+   "search": [
+    "NIJISANJI COUNTDOWN LIVE 2024→2025",
+    "にじさんじ カウントダウンライブ",
+    "彩虹社 跨年 演唱会 2024",
+    "NIJISANJI countdown live"
+   ],
+   "url": "https://www.nijisanji.jp/events/countdown2024/"
+  },
+  {
    "id": "asia-2024-12-21-mikuec-2024",
    "artist": "MIKUEC 2024 (UEC Hatsune Miku Live)",
    "nameOrig": "電気通信大学 初音ミクライブ \"MIKUEC\" 2024",
@@ -2918,6 +4423,69 @@
    "url": "https://pjsekai.sega.jp/"
   },
   {
+   "id": "asia-2024-12-11-youtube-fanfest-japan-2024",
+   "artist": "YouTube Fanfest Japan 2024",
+   "nameOrig": "YouTube Fanfest Japan 2024",
+   "title": "Gala YouTube Japan z występami Suisei i ChroNoiR",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-12-11",
+   "dateEnd": "2024-12-11",
+   "stops": [
+    {
+     "date": "2024-12-11",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張イベントホール"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "NIJISANJI",
+    "VTuber",
+    "Hoshimachi Suisei",
+    "ChroNoiR",
+    "Kuzuha",
+    "Kanae"
+   ],
+   "search": [
+    "YouTube Fanfest Japan 2024",
+    "YouTube Fanfest 2024 星街すいせい",
+    "YTFF 2024 ChroNoiR",
+    "YouTube Fanfest Japan 2024 星街彗星"
+   ],
+   "url": "https://kai-you.net/article/90629"
+  },
+  {
+   "id": "asia-2024-12-08-fuwa-minato-1st-live",
+   "artist": "Fuwa Minato 1st LIVE 'Cheers with you'",
+   "nameOrig": "不破湊 1st LIVE“Cheers with you”",
+   "title": "Pierwszy solowy live Fuwy Minato",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-12-08",
+   "dateEnd": "2024-12-08",
+   "stops": [
+    {
+     "date": "2024-12-08",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "武蔵野の森総合スポーツプラザ"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Fuwa Minato"
+   ],
+   "search": [
+    "不破湊 1st LIVE Cheers with you",
+    "不破湊 演唱会",
+    "Fuwa Minato 1st live"
+   ],
+   "url": "https://kai-you.net/article/92196"
+  },
+  {
    "id": "asia-2024-12-07-marine-1st-live",
    "artist": "Houshou Marine 1st Live 'Ahoy!! Kimitachi Minna Pirates'",
    "nameOrig": "宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」",
@@ -2954,6 +4522,74 @@
    "url": "https://hololivepro.com/"
   },
   {
+   "id": "asia-2024-12-07-sana-animal-summit-nasu",
+   "artist": "Natori Sana 'Animal Summit' at Nasu Animal Kingdom",
+   "nameOrig": "名取と行く！那須どうぶつ王国 プレミアムイベント「アニマルサミット」",
+   "title": "Event Natori Sany w zoo Nasu (4 pokazy w 2 dni, prowadzenie na scenie)",
+   "kind": "konwent",
+   "region": "JP",
+   "dateStart": "2024-12-07",
+   "dateEnd": "2024-12-08",
+   "stops": [
+    {
+     "date": "2024-12-07",
+     "city": "Nasu",
+     "cc": "JP",
+     "venue": "那須どうぶつ王国 バーベキューガーデン"
+    },
+    {
+     "date": "2024-12-08",
+     "city": "Nasu",
+     "cc": "JP",
+     "venue": "那須どうぶつ王国 バーベキューガーデン"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "名取さな アニマルサミット",
+    "名取と行く 那須どうぶつ王国",
+    "名取纱那 那须动物王国",
+    "Natori Sana Nasu Animal Kingdom event"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
+  },
+  {
+   "id": "asia-2024-12-06-sanbaka-5th-anniv-live",
+   "artist": "Sanbaka 5th Anniversary LIVE '3! San! SUN!'",
+   "nameOrig": "さんばか 5th Anniversary LIVE 〜3!参!SUN!〜",
+   "title": "Jubileuszowy live tria Sanbaka (przełożony z czerwca)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-12-06",
+   "dateEnd": "2024-12-06",
+   "stops": [
+    {
+     "date": "2024-12-06",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "武蔵野の森総合スポーツプラザ メインアリーナ"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Sanbaka",
+    "Inui Toko",
+    "Ange Katrina",
+    "Lize Helesta"
+   ],
+   "search": [
+    "さんばか 5th Anniversary LIVE",
+    "三笨蛋 5周年 live",
+    "Sanbaka 5th anniversary live",
+    "さんばか 3!参!SUN!"
+   ],
+   "url": "https://dengekionline.com/article/202406/7792"
+  },
+  {
    "id": "asia-2024-12-01-afa-sg-2024",
    "artist": "Anime Festival Asia Singapore 2024 – I Love Anisong",
    "nameOrig": "AFA Singapore 2024 I Love Anisong",
@@ -2981,6 +4617,42 @@
     "AFA SG 2024 concert"
    ],
    "url": "https://animefestival.asia/"
+  },
+  {
+   "id": "asia-2024-11-29-higuchi-kaede-breaking-tour",
+   "artist": "Higuchi Kaede 2024-2025 LIVE Tour 'BREAKING'",
+   "nameOrig": "Higuchi Kaede 2024-2025 LIVE Tour “BREAKING”",
+   "title": "Trasa Higuchi Kaede (Tajpej + Tokio)",
+   "kind": "trasa",
+   "region": "TW",
+   "dateStart": "2024-11-29",
+   "dateEnd": "2025-04-19",
+   "stops": [
+    {
+     "date": "2024-11-29",
+     "city": "Tajpej",
+     "cc": "TW",
+     "venue": "Zepp New Taipei"
+    },
+    {
+     "date": "2025-04-19",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "J:COMホール八王子"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Higuchi Kaede"
+   ],
+   "search": [
+    "樋口楓 BREAKING tour",
+    "樋口枫 台北 演唱会",
+    "Higuchi Kaede BREAKING 台北",
+    "樋口楓 LIVE Tour BREAKING"
+   ],
+   "url": "https://gamebiz.jp/news/393804"
   },
   {
    "id": "asia-2024-11-26-niru-kajitsu-mwland-2024",
@@ -3319,6 +4991,49 @@
    "url": "https://realsound.jp/2024/05/post-1678411.html"
   },
   {
+   "id": "asia-2024-09-14-nornis-1st-tour",
+   "artist": "Nornis 1st Live Tour 2024",
+   "nameOrig": "Nornis 1st LIVE TOUR",
+   "title": "Pierwsza trasa duetu Nornis (Inui Toko, Machita Chima)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-09-14",
+   "dateEnd": "2024-09-28",
+   "stops": [
+    {
+     "date": "2024-09-14",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "KT Zepp Yokohama"
+    },
+    {
+     "date": "2024-09-21",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "Zepp Namba (OSAKA)"
+    },
+    {
+     "date": "2024-09-28",
+     "city": "Sendai",
+     "cc": "JP",
+     "venue": "SENDAI GIGS"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Nornis",
+    "Inui Toko",
+    "Machita Chima"
+   ],
+   "search": [
+    "Nornis 1st live tour",
+    "Nornis ライブツアー 2024",
+    "Nornis 戌亥とこ 町田ちま live"
+   ],
+   "url": "https://dengekionline.com/article/202407/11732"
+  },
+  {
    "id": "asia-2024-08-30-anisama-2024",
    "artist": "Animelo Summer Live 2024 -Stargazer-",
    "nameOrig": "Animelo Summer Live 2024 -Stargazer-",
@@ -3359,6 +5074,35 @@
     "动画勋章 2024"
    ],
    "url": "https://anisama.tv/"
+  },
+  {
+   "id": "asia-2024-08-18-sana-natsumatsuri-2024",
+   "artist": "Sana Channel Summer Festival 2024",
+   "nameOrig": "さなちゃんねる夏祭り2024 Powered by ZONe ENERGY",
+   "title": "Letni festiwal Natori Sany online (przeniesiony z 16.08 przez tajfun)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-08-18",
+   "dateEnd": "2024-08-18",
+   "stops": [
+    {
+     "date": "2024-08-18",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "Z-aN (stream online)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "さなちゃんねる夏祭り2024",
+    "名取纱那 夏日祭 2024",
+    "名取さな 夏祭り 2024",
+    "Natori Sana summer festival 2024"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
   },
   {
    "id": "asia-2024-08-17-magical-mirai-2024",
@@ -3436,6 +5180,39 @@
    "url": "https://magicalmirai.com/2024/"
   },
   {
+   "id": "asia-2024-08-17-hololive-5th-gen-fan-fest-2024",
+   "artist": "hololive 5th Gen 4th Anniversary Fan Thanksgiving Festival",
+   "nameOrig": "hololive5期生 4周年記念 ファン大感謝祭 ～みんなねぽらぼに愛に恋～",
+   "title": "Fan meeting 5. generacji hololive (talk, gry, mini live)",
+   "kind": "konwent",
+   "region": "JP",
+   "dateStart": "2024-08-17",
+   "dateEnd": "2024-08-17",
+   "stops": [
+    {
+     "date": "2024-08-17",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "ベルサール渋谷ガーデン"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Momosuzu Nene",
+    "Omaru Polka",
+    "Yukihana Lamy",
+    "Shishiro Botan"
+   ],
+   "search": [
+    "ねぽらぼ 4周年 ファン大感謝祭",
+    "hololive 5期生 ファンミーティング 2024",
+    "hololive五期生 4周年 粉丝见面会",
+    "nepolabo fan meeting 2024"
+   ],
+   "url": "https://hololive.hololivepro.com/events/nepolabo-fan-meeting24/"
+  },
+  {
    "id": "asia-2024-08-10-lively-paradise-2024",
    "artist": "GUMI / Gakupo / Una Birthday Live Lively Paradise 2024",
    "nameOrig": "GUMI がくぽ ウナ 誕生祭ライブ Lively Paradise 2024",
@@ -3496,6 +5273,89 @@
    "url": "https://kamitsubaki.jp/"
   },
   {
+   "id": "asia-2024-08-07-isekaijoucho-anima-3",
+   "artist": "Isekaijoucho 3rd ONE-MAN LIVE 'Anima III'",
+   "nameOrig": "ヰ世界情緒 3rd ONE-MAN LIVE「Anima III」",
+   "title": "Pierwszy one-man Isekaijoucho z publicznością (KAMITSUBAKI WARS 2024 Yokohama, DAY-1)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-08-07",
+   "dateEnd": "2024-08-07",
+   "stops": [
+    {
+     "date": "2024-08-07",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "Isekaijoucho"
+   ],
+   "search": [
+    "ヰ世界情緒 Anima III",
+    "异世界情绪 Anima III",
+    "Isekaijoucho Anima III",
+    "ヰ世界情緒 ワンマン パシフィコ"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000000098.000106737.html"
+  },
+  {
+   "id": "asia-2024-08-02-himehina-namida-no-kaori",
+   "artist": "HIMEHINA LIVE 2024 + National Tour (West) 'Namida no Kaori ga Suru'",
+   "nameOrig": "HIMEHINA LIVE 2024『涙の薫りがする』/ 全国ツアー2024(西)",
+   "title": "Koncerty HIMEHINA w Toyosu PIT + trasa Fukuoka–Osaka–Nagoja",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-08-02",
+   "dateEnd": "2025-02-15",
+   "stops": [
+    {
+     "date": "2024-08-02",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    },
+    {
+     "date": "2024-08-03",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    },
+    {
+     "date": "2024-12-14",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "Fukuoka DRUM LOGOS"
+    },
+    {
+     "date": "2025-01-13",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "なんばHatch"
+    },
+    {
+     "date": "2025-02-15",
+     "city": "Nagoja",
+     "cc": "JP",
+     "venue": "名古屋DIAMOND HALL"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "HIMEHINA"
+   ],
+   "search": [
+    "HIMEHINA 涙の薫りがする",
+    "ヒメヒナ 涙の薫りがする 豊洲PIT",
+    "姬雏 演唱会 2024",
+    "HIMEHINA tour 2024"
+   ],
+   "url": "https://saiganak.com/ja/event/himehina-live-2024-namidanokaori/amp/"
+  },
+  {
    "id": "asia-2024-07-28-pinocchiop-monstro",
    "artist": "PinocchioP 2024 TOUR 'Monstro'",
    "nameOrig": "ピノキオピー2024 TOUR「モンストロ」",
@@ -3547,6 +5407,36 @@
     "PinocchioP Monstro tour 2024"
    ],
    "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-07-16-peanutkun-bbbb-final",
+   "artist": "Peanut-kun BloodBagBrainBomb Tour Final in Zepp Namba",
+   "nameOrig": "BloodBagBrainBomb Tour Final in Zepp Namba",
+   "title": "Finał trasy Peanut-kuna; Natori Sana jako gość (nagranie wideo, 'ペパーミントラブ')",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-07-16",
+   "dateEnd": "2024-07-16",
+   "stops": [
+    {
+     "date": "2024-07-16",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "Zepp Namba (OSAKA)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Peanut-kun",
+    "Natori Sana"
+   ],
+   "search": [
+    "ピーナッツくん BloodBagBrainBomb Zepp Namba",
+    "ピーナッツくん ツアーファイナル 2024",
+    "花生君 演唱会 2024",
+    "Peanut-kun BloodBagBrainBomb tour final"
+   ],
+   "url": "https://kai-you.net/article/90059"
   },
   {
    "id": "asia-2024-07-14-kikuoland-go-round-asia",
@@ -3659,6 +5549,77 @@
     "MIKU WITH YOU 2024 China"
    ],
    "url": "https://www.bilibili.com/"
+  },
+  {
+   "id": "asia-2024-07-12-lilpacon-2024",
+   "artist": "LILPACON: Going Out - SOOPER CONCERT",
+   "nameOrig": "LILPACON : Going Out - SOOPER CONCERT",
+   "title": "Pierwszy solowy offline koncert Lilpy (Isegye Idol)",
+   "kind": "koncert",
+   "region": "KR",
+   "dateStart": "2024-07-12",
+   "dateEnd": "2024-07-13",
+   "stops": [
+    {
+     "date": "2024-07-12",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "경희대학교 평화의 전당"
+    },
+    {
+     "date": "2024-07-13",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "경희대학교 평화의 전당"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Isegye Idol",
+    "Lilpa"
+   ],
+   "search": [
+    "릴파콘 LILPACON",
+    "LILPACON SOOPER CONCERT",
+    "莉尔帕 演唱会 LILPACON",
+    "Lilpa concert 2024"
+   ],
+   "url": "https://zh.moegirl.org.cn/LILPACON_:_Going_Out_-_SOOPER_CONCERT"
+  },
+  {
+   "id": "asia-2024-06-22-fuuryuufes-2024",
+   "artist": "FUURYUUFES 5.0 2024",
+   "nameOrig": "FUURYUUFES 5.0 2024",
+   "title": "Hybrydowy festiwal wirtualnych artystów (V Goto Maki, HIMEHINA, Siro i inni)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-06-22",
+   "dateEnd": "2024-06-22",
+   "stops": [
+    {
+     "date": "2024-06-22",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "HIMEHINA",
+    "Dennou Shoujo Siro",
+    "Inaba Haneru",
+    "Shibuya Haru",
+    "Kagura Suzu",
+    ".LIVE",
+    "774 inc."
+   ],
+   "search": [
+    "FUURYUUFES 2024",
+    "FUURYUUFES 5.0 Kアリーナ",
+    "ぶいごま 後藤真希 FUURYUUFES",
+    "FUURYUUFES 虚拟 演唱会 2024"
+   ],
+   "url": "https://saiganak.com/ja/event/fuuryuufes-2024-artists/"
   },
   {
    "id": "asia-2024-06-08-sekai-symphony-2024",
@@ -4004,6 +5965,102 @@
    "url": "https://vocadb.net/"
   },
   {
+   "id": "asia-2024-04-21-rofmao-1st-live",
+   "artist": "ROF-MAO 1st LIVE 'New street, New world'",
+   "nameOrig": "ROF-MAO 1st LIVE - New street, New world",
+   "title": "Pierwszy one-man live ROF-MAO",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-04-21",
+   "dateEnd": "2024-04-21",
+   "stops": [
+    {
+     "date": "2024-04-21",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "大阪城ホール"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "ROF-MAO",
+    "Kagami Hayato",
+    "Kenmochi Toya",
+    "Fuwa Minato",
+    "Kaida Haru"
+   ],
+   "search": [
+    "ROF-MAO 1st LIVE New street New world",
+    "ROF-MAO 1st live",
+    "ろふまお 1st LIVE",
+    "ROF-MAO 演唱会 2024"
+   ],
+   "url": "https://www.nijisanji.jp/events/rof-mao_1stlive/"
+  },
+  {
+   "id": "asia-2024-04-20-chronoir-wonder-wander-world",
+   "artist": "ChroNoiR One-Man Live 'Wonder Wander World'",
+   "nameOrig": "ChroNoiR One-Man Live『Wonder Wander World』",
+   "title": "Pierwszy one-man live duetu ChroNoiR (Kuzuha + Kanae)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-04-20",
+   "dateEnd": "2024-04-20",
+   "stops": [
+    {
+     "date": "2024-04-20",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "大阪城ホール"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "ChroNoiR",
+    "Kuzuha",
+    "Kanae"
+   ],
+   "search": [
+    "ChroNoiR Wonder Wander World",
+    "ChroNoiR 大阪城ホール",
+    "ChroNoiR 演唱会 2024",
+    "くろのわーる ワンマンライブ"
+   ],
+   "url": "https://www.nijisanji.jp/events/chronoir_onemanlive2024/"
+  },
+  {
+   "id": "asia-2024-04-06-sora-6th-anniv-keep-shinin",
+   "artist": "Tokino Sora 6th Anniversary Party 'Keep Shinin''",
+   "nameOrig": "ときのそら 6th Anniversary Party「Keep Shinin'」",
+   "title": "Jubileuszowy one-man live Tokino Sory (6. rocznica)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-04-06",
+   "dateEnd": "2024-04-06",
+   "stops": [
+    {
+     "date": "2024-04-06",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "YAMANO HALL"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Tokino Sora"
+   ],
+   "search": [
+    "ときのそら Keep Shinin'",
+    "ときのそら 6th Anniversary Party",
+    "时乃空 6周年 live",
+    "Tokino Sora Keep Shinin"
+   ],
+   "url": "https://realsound.jp/2025/03/post-1947717.html"
+  },
+  {
    "id": "asia-2024-03-31-miku-fes-24",
    "artist": "MIKU FES'24 (Spring) ~Happy 16th Birthday~",
    "nameOrig": "MIKU FES'24（春）～Happy 16th Birthday～",
@@ -4033,6 +6090,46 @@
     "Miku Fes 2024 Budokan"
    ],
    "url": "https://mikufes.com/"
+  },
+  {
+   "id": "asia-2024-03-30-meta-knot-2024",
+   "artist": "META=KNOT 2024 in AKASAKA BLITZ",
+   "nameOrig": "META=KNOT 2024 in AKASAKA BLITZ",
+   "title": "Festiwal muzyczny TBS w VRChat (wirtualny Akasaka BLITZ); Natori Sana zamyka 4. tydzień",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-03-30",
+   "dateEnd": "2024-04-20",
+   "stops": [
+    {
+     "date": "2024-03-30",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "VRChat (wirtualny AKASAKA BLITZ)"
+    },
+    {
+     "date": "2024-04-20",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "VRChat (wirtualny AKASAKA BLITZ)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "KAMITSUBAKI",
+    "Harusaruhi",
+    "KOKO",
+    "Nagase Yuka",
+    "somunia"
+   ],
+   "search": [
+    "META=KNOT 2024",
+    "META=KNOT 名取さな",
+    "名取纱那 META=KNOT",
+    "META=KNOT AKASAKA BLITZ VRChat"
+   ],
+   "url": "https://www.moguravr.com/?p=245507"
   },
   {
    "id": "asia-2024-03-16-hololive-5th-fes",
@@ -4100,6 +6197,37 @@
     "MAGICALPLAY LIVE 初音未来 首尔"
    ],
    "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-03-09-v-no-utage-bakutan-2024",
+   "artist": "V no Utage 2024 feat. Sana no Bakutan",
+   "nameOrig": "Vの宴2024 feat.さなのばくたん。",
+   "title": "Klubowe after-party po urodzinach Natori Sany (Sana współorganizatorką, udział głosowy)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-03-09",
+   "dateEnd": "2024-03-09",
+   "stops": [
+    {
+     "date": "2024-03-09",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "CLUB CITTA' / 月あかり夢てらす"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "BAKUTAN",
+    "DJ WILDPARTY"
+   ],
+   "search": [
+    "Vの宴 feat.さなのばくたん。",
+    "Vの宴 2024 クラブチッタ",
+    "名取纱那 Vの宴",
+    "さなのばくたん 後夜祭 2024"
+   ],
+   "url": "https://www.moguravr.com/?p=243820"
   },
   {
    "id": "asia-2024-03-07-bakutan-2024",
@@ -4229,6 +6357,69 @@
    "url": "https://vocadb.net/"
   },
   {
+   "id": "asia-2024-01-31-watame-2nd-live",
+   "artist": "Tsunomaki Watame 2nd Live 'Watamee Night Fever!! in TOKYO GARDEN THEATER'",
+   "nameOrig": "角巻わため 2nd Live「わためぇ Night Fever!! in TOKYO GARDEN THEATER」",
+   "title": "Drugi solowy live Tsunomaki Watame (gość: Mori Calliope)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-01-31",
+   "dateEnd": "2024-01-31",
+   "stops": [
+    {
+     "date": "2024-01-31",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京ガーデンシアター"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Tsunomaki Watame",
+    "Mori Calliope"
+   ],
+   "search": [
+    "角巻わため 2nd Live",
+    "わためぇ Night Fever TOKYO GARDEN THEATER",
+    "角卷绵芽 2nd live",
+    "Watame 2nd live Night Fever"
+   ],
+   "url": "https://hololive.hololivepro.com/events/watame-2nd-live/"
+  },
+  {
+   "id": "asia-2024-01-27-soraz-first-gravity",
+   "artist": "SorAZ Major Debut Live 'First Gravity'",
+   "nameOrig": "SorAZ Major Debut Live「First Gravity」",
+   "title": "Koncert debiutu major duetu SorAZ (Tokino Sora + AZKi)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-01-27",
+   "dateEnd": "2024-01-27",
+   "stops": [
+    {
+     "date": "2024-01-27",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "CLUB CITTA'"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Tokino Sora",
+    "AZKi",
+    "SorAZ"
+   ],
+   "search": [
+    "SorAZ First Gravity",
+    "SorAZ 1st live",
+    "时乃空 AZKi SorAZ live",
+    "SorAZ メジャーデビューライブ"
+   ],
+   "url": "https://hololive.hololivepro.com/events/sorazlive/"
+  },
+  {
    "id": "asia-2024-01-26-pjsk-colorful-live-3rd",
    "artist": "Project SEKAI COLORFUL LIVE 3rd -Evolve-",
    "nameOrig": "プロジェクトセカイ COLORFUL LIVE 3rd - Evolve -",
@@ -4352,6 +6543,76 @@
    "url": "https://vocadb.net/Search?searchType=ReleaseEvent&filter=MIKU%20BREAK"
   },
   {
+   "id": "asia-2023-12-24-hololive-xmas-ar-live-2023",
+   "artist": "hololive Xmas AR LIVE 'Sweet Happy Holiday'",
+   "nameOrig": "hololive Xmas AR LIVE『Sweet Happy Holiday』",
+   "title": "Świąteczny koncert AR hololive online",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-12-24",
+   "dateEnd": "2023-12-24",
+   "stops": [
+    {
+     "date": "2023-12-24",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "stream online (ZAIKO / SPWN)"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Nakiri Ayame",
+    "Nekomata Okayu",
+    "Inugami Korone",
+    "Shirogane Noel",
+    "Yukihana Lamy",
+    "Hakui Koyori",
+    "Sakamata Chloe"
+   ],
+   "search": [
+    "hololive Sweet Happy Holiday",
+    "hololive Xmas AR LIVE 2023",
+    "hololive 圣诞 AR live 2023",
+    "Sweet Happy Holiday hololive"
+   ],
+   "url": "https://hololive.hololivepro.com/events/sweet-happy-holiday/"
+  },
+  {
+   "id": "asia-2023-12-24-dotlive-2nd-fes-starry-holiday",
+   "artist": ".LIVE 2nd Fes 'Starry Holiday'",
+   "nameOrig": "どっとライブ2nd Fes「Starry Holiday」",
+   "title": "Festiwal agencji .LIVE (Siro, Kagura Suzu i inni)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-12-24",
+   "dateEnd": "2023-12-24",
+   "stops": [
+    {
+     "date": "2023-12-24",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "一橋講堂 (日本教育会館)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    ".LIVE",
+    "Dennou Shoujo Siro",
+    "Kagura Suzu",
+    "Yamato Iori",
+    "Carlo Pino",
+    "Mokota Mememe"
+   ],
+   "search": [
+    "どっとライブ Starry Holiday",
+    "どっとライブ 2nd Fes",
+    "电脑少女Siro Starry Holiday",
+    "dotLIVE Starry Holiday 2023"
+   ],
+   "url": "https://www.moguravr.com/?p=239964"
+  },
+  {
    "id": "asia-2023-12-23-bang-acg-2023",
    "artist": "BANG! ACG Music Festival 2023 (Taipei)",
    "nameOrig": "BANG！ACG 音樂祭 2023",
@@ -4452,6 +6713,41 @@
    "url": "https://vocadb.net/Search?searchType=ReleaseEvent&filter=MIKUEC"
   },
   {
+   "id": "asia-2023-12-13-youtube-fanfest-japan-2023",
+   "artist": "YouTube Fanfest Japan 2023",
+   "nameOrig": "YouTube Fanfest Japan 2023",
+   "title": "Gala YouTube Japan z występami ChroNoiR, Suisei i ROF-MAO",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2023-12-13",
+   "dateEnd": "2023-12-13",
+   "stops": [
+    {
+     "date": "2023-12-13",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張イベントホール"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "NIJISANJI",
+    "VTuber",
+    "Hoshimachi Suisei",
+    "ChroNoiR",
+    "Kuzuha",
+    "Kanae",
+    "ROF-MAO"
+   ],
+   "search": [
+    "YouTube Fanfest Japan 2023",
+    "YouTube Fanfest 2023 星街すいせい",
+    "YTFF 2023 ChroNoiR ROF-MAO",
+    "YouTube Fanfest Japan 2023 星街彗星"
+   ],
+   "url": "https://www.moguravr.com/?p=239964"
+  },
+  {
    "id": "asia-2023-12-06-pekora-1st-live",
    "artist": "Usada Pekora 1st Live 'Usagi the MEGAMI!!'",
    "nameOrig": "1st兎田ぺこらいぶ「うさぎ the MEGAMI!!」",
@@ -4480,6 +6776,47 @@
     "Usada Pekora 1st live MEGAMI"
    ],
    "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2023-12-02-riot-games-one-2023",
+   "artist": "Riot Games ONE 2023",
+   "nameOrig": "Riot Games ONE 2023",
+   "title": "Festiwal Riot Games z otwarciem hololive (Shion, Laplus, Bae, Kobo) i Kuzuhą",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2023-12-02",
+   "dateEnd": "2023-12-03",
+   "stops": [
+    {
+     "date": "2023-12-02",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    },
+    {
+     "date": "2023-12-03",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "NIJISANJI",
+    "VTuber",
+    "Murasaki Shion",
+    "Laplus Darknesss",
+    "Hakos Baelz",
+    "Kobo Kanaeru",
+    "Kuzuha"
+   ],
+   "search": [
+    "Riot Games ONE 2023",
+    "Riot Games ONE hololive opening",
+    "Riot Games ONE 2023 紫咲诗音 拉普拉斯",
+    "Riot Games ONE 2023 K-Arena"
+   ],
+   "url": "https://www.moguravr.com/?p=239964"
   },
   {
    "id": "asia-2023-11-25-afa-sg-2023",
@@ -4546,6 +6883,35 @@
    "url": "https://vocadb.net/"
   },
   {
+   "id": "asia-2023-10-22-sana-mogumogu-party-2",
+   "artist": "Natori Sana's Mogumogu Reward Party 2",
+   "nameOrig": "名取さなのもぐもぐごほうびパーティ2",
+   "title": "Online live Natori Sany z jedzeniem; debiut 3D Saigo DJ Irori i duety",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-10-22",
+   "dateEnd": "2023-10-22",
+   "stops": [
+    {
+     "date": "2023-10-22",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "Z-aN (stream online)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "名取さなのもぐもぐごほうびパーティ2",
+    "名取纱那 もぐもぐごほうびパーティ",
+    "名取さな もぐもぐパーティ 2",
+    "Natori Sana mogumogu party 2"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
+  },
+  {
    "id": "asia-2023-10-13-towa-1st-solo",
    "artist": "Tokoyami Towa 1st Solo Live 'Break your ×××'",
    "nameOrig": "常闇トワ 1st Solo Live \"Break your ×××\"",
@@ -4603,6 +6969,35 @@
     "Niru Kajitsu FRUITOPIA live"
    ],
    "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-09-23-isegye-festival-2023",
+   "artist": "Isegye Festival 2023",
+   "nameOrig": "이세계 페스티벌",
+   "title": "Pierwszy offline festiwal grupy Isegye Idol (VTuberki z Korei) z gośćmi K-pop",
+   "kind": "festiwal",
+   "region": "KR",
+   "dateStart": "2023-09-23",
+   "dateEnd": "2023-09-23",
+   "stops": [
+    {
+     "date": "2023-09-23",
+     "city": "Inczon",
+     "cc": "KR",
+     "venue": "달빛축제공원 (Songdo)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Isegye Idol"
+   ],
+   "search": [
+    "이세계 페스티벌 2023",
+    "이세계아이돌 페스티벌",
+    "异世界偶像 音乐节 2023",
+    "Isegye Festival 2023"
+   ],
+   "url": "https://namu.wiki/w/%EC%9D%B4%EC%84%B8%EA%B3%84%20%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C(2023)"
   },
   {
    "id": "asia-2023-09-16-pjsk-3rd-anniv",
@@ -4822,6 +7217,66 @@
    "url": "https://magicalmirai.com/2023/"
   },
   {
+   "id": "asia-2023-08-06-night-hike-2023-womb",
+   "artist": "NIGHT HIKE (2023, Shibuya WOMB)",
+   "nameOrig": "NIGHT HIKE supported by ZONe ENERGY",
+   "title": "Klubowy festiwal sieciowej muzyki (TRIBALCON); Natori Sana jako sekretny gość w secie Iyowy",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2023-08-06",
+   "dateEnd": "2023-08-06",
+   "stops": [
+    {
+     "date": "2023-08-06",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "WOMB (Shibuya)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "Iyowa",
+    "HachiojiP",
+    "DJ WILDPARTY"
+   ],
+   "search": [
+    "NIGHT HIKE 2023 WOMB",
+    "NIGHT HIKE 名取さな いよわ",
+    "名取纱那 NIGHT HIKE",
+    "NIGHT HIKE 2023 いよわ DJ"
+   ],
+   "url": "https://zaikei.co.jp/releases/2092073/"
+  },
+  {
+   "id": "asia-2023-08-05-himehina-chouchin-ankou",
+   "artist": "HIMEHINA LIVE 2023 'Chouchin Ankou, Natsu wo Yuku'",
+   "nameOrig": "HIMEHINA LIVE 2023「提灯暗航、夏をゆく」",
+   "title": "Letni koncert duetu HIMEHINA",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-08-05",
+   "dateEnd": "2023-08-05",
+   "stops": [
+    {
+     "date": "2023-08-05",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "大宮ソニックシティ 大ホール"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "HIMEHINA"
+   ],
+   "search": [
+    "HIMEHINA 提灯暗航 夏をゆく",
+    "ヒメヒナ ライブ 2023",
+    "姬雏 演唱会 2023"
+   ],
+   "url": "https://kai-you.net/article/96745"
+  },
+  {
    "id": "asia-2023-07-29-pinocchiop-mimic",
    "artist": "PinocchioP one-man 'MIMIC'",
    "nameOrig": "ピノキオピー ワンマンライブ「MIMIC（ミミック）」",
@@ -4849,6 +7304,35 @@
     "PinocchioP MIMIC Zepp Yokohama"
    ],
    "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-07-29-sana-natsumatsuri-2023",
+   "artist": "Sana Channel Summer Festival 2023",
+   "nameOrig": "さなちゃんねる夏祭り2023",
+   "title": "Letni festiwal Natori Sany online (live śpiewany + gry, premiera 'おしりぷり音頭')",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-07-29",
+   "dateEnd": "2023-07-29",
+   "stops": [
+    {
+     "date": "2023-07-29",
+     "city": "Online",
+     "cc": "JP",
+     "venue": "Z-aN (stream online)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "さなちゃんねる夏祭り2023",
+    "名取纱那 夏日祭 2023",
+    "名取さな 夏祭り 2023",
+    "Natori Sana summer festival 2023"
+   ],
+   "url": "https://wikiwiki.jp/sana_natori/%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%B8%E3%81%AE%E5%87%BA%E6%BC%94"
   },
   {
    "id": "asia-2023-07-22-bml-2023",
@@ -4917,6 +7401,68 @@
    "url": "https://vocadb.net/"
   },
   {
+   "id": "asia-2023-07-07-hololive-5th-gen-twinkle",
+   "artist": "hololive 5th Generation Live 'Twinkle 4 You'",
+   "nameOrig": "hololive 5th Generation Live「Twinkle 4 You」",
+   "title": "Pierwszy wspólny live 3D 5. generacji hololive",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-07-07",
+   "dateEnd": "2023-07-07",
+   "stops": [
+    {
+     "date": "2023-07-07",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "TOKYO DOME CITY HALL"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Yukihana Lamy",
+    "Momosuzu Nene",
+    "Shishiro Botan",
+    "Omaru Polka"
+   ],
+   "search": [
+    "hololive 5期生 Twinkle 4 You",
+    "Twinkle 4 You hololive",
+    "hololive五期生 演唱会 Twinkle 4 You",
+    "Twinkle 4 You 5th gen live"
+   ],
+   "url": "https://hololive.hololivepro.com/events/twinkle-4-you/"
+  },
+  {
+   "id": "asia-2023-06-11-kenmochi-kokuu-taisen",
+   "artist": "Kenmochi Toya Real Solo Event 'Kokuu Taisen'",
+   "nameOrig": "剣持刀也リアルソロイベント【虚空大戦】",
+   "title": "Pierwszy solowy event sceniczny Kenmochiego Toyi",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-06-11",
+   "dateEnd": "2023-06-11",
+   "stops": [
+    {
+     "date": "2023-06-11",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "KT Zepp Yokohama"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kenmochi Toya"
+   ],
+   "search": [
+    "剣持刀也 虚空大戦",
+    "剑持刀也 虚空大战",
+    "Kenmochi Toya solo event 2023"
+   ],
+   "url": "https://www.eventernote.com/actors/%E5%8F%B6(%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98)/51089/events"
+  },
+  {
    "id": "asia-2023-06-10-sekai-symphony-2023",
    "artist": "SEKAI SYMPHONY 2023",
    "nameOrig": "セカイシンフォニー 2023",
@@ -4948,6 +7494,65 @@
     "Sekai Symphony 2023 live"
    ],
    "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2023-06-10-hoshikawa-sara-1st-live",
+   "artist": "Hoshikawa Sara 1st LIVE 'Hoshikuzu Shining Day'",
+   "nameOrig": "星川サラ 1st LIVE「星くず Shining Day -きみがみつけた一番星-」",
+   "title": "Pierwszy solowy live Hoshikawy Sary",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-06-10",
+   "dateEnd": "2023-06-10",
+   "stops": [
+    {
+     "date": "2023-06-10",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "KT Zepp Yokohama"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Hoshikawa Sara"
+   ],
+   "search": [
+    "星川サラ 1st LIVE 星くず Shining Day",
+    "星川莎拉 1st live",
+    "Hoshikawa Sara 1st live"
+   ],
+   "url": "https://www.eventernote.com/actors/%E5%8F%B6(%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98)/51089/events"
+  },
+  {
+   "id": "asia-2023-06-08-ryushen-1st-live",
+   "artist": "Ryushen 1st LIVE 'Ryushen'",
+   "nameOrig": "緑仙 1st LIVE『Ryushen』",
+   "title": "Pierwszy solowy live Ryushena z zespołem",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-06-08",
+   "dateEnd": "2023-06-08",
+   "stops": [
+    {
+     "date": "2023-06-08",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "KT Zepp Yokohama"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Ryushen"
+   ],
+   "search": [
+    "緑仙 1st LIVE",
+    "绿仙 1st live",
+    "Ryushen 1st live",
+    "緑仙 Ryushen ライブ"
+   ],
+   "url": "https://kai-you.net/article/86517"
   },
   {
    "id": "asia-2023-06-03-miku-kodo-2023",
@@ -5155,6 +7760,36 @@
     "hololive SUPER EXPO 2023"
    ],
    "url": "https://hololivesuperexpo2023.hololivepro.com/"
+  },
+  {
+   "id": "asia-2023-03-16-kanae-1st-concert",
+   "artist": "Kanae 1st Concert 'Gozen 0-ji no Mukougawa'",
+   "nameOrig": "叶 1st Concert「午前0時の向こう側」",
+   "title": "Pierwszy solowy koncert Kanae (NIJISANJI)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-03-16",
+   "dateEnd": "2023-03-16",
+   "stops": [
+    {
+     "date": "2023-03-16",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "グランキューブ大阪"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kanae"
+   ],
+   "search": [
+    "叶 1st Concert 午前0時の向こう側",
+    "叶 演唱会 午前0时的另一边",
+    "Kanae 1st concert",
+    "彩虹社 叶 1st live"
+   ],
+   "url": "https://www.eventernote.com/actors/%E5%8F%B6(%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98)/51089/events"
   },
   {
    "id": "asia-2023-03-07-bakutan-2023",
