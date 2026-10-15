@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:24:57Z",
+ "updated": "2026-10-15T04:41:59Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -238,6 +238,65 @@
    "title": "Jesienne imprezy anime w Hiszpanii",
    "url": "https://site.fourvenues.com/es/atomic-pixel-party-espana",
    "id": "2026-10-atomic-pixel-party-anime-rave-es"
+  },
+  {
+   "about": "Symphony from Paradis to oficjalny koncert orkiestrowy z muzyką z anime Atak Tytanów. Ponad 100 wykonawców: Royal Philharmonic Concert Orchestra i chór London Voices, muzyka Hiroyukiego Sawano i KOHTY Yamamoto.",
+   "artist": "Attack on Titan: Symphony from Paradis",
+   "dateEnd": "2027-05-27",
+   "dateStart": "2026-10-17",
+   "facts": [
+    {
+     "k": "Londyn",
+     "v": "17.10.2026, dwa występy: 14:30 i 19:30, ok. 2 h 15 min z przerwą"
+    },
+    {
+     "k": "Bilety (Londyn)",
+     "v": "miejsca siedzące wyprzedane; loże od ok. 95 GBP"
+    },
+    {
+     "k": "Wykonawcy",
+     "v": "Royal Philharmonic Concert Orchestra, London Voices, dyr. Alexandra Cravero"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Attack on Titan – YOU SEE BIG GIRL / >T",
+    "Attack on Titan – Vogel im Käfig",
+    "Attack on Titan – Call your name",
+    "Attack on Titan – The Rumbling"
+   ],
+   "kind": "symfoniczny",
+   "note": "Europejska trasa oficjalnego koncertu orkiestrowego; organizatorzy zapowiadają też występy we Włoszech w późniejszym terminie. Londyn: bilety na miejsca siedzące wyprzedane, zostały tylko loże.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-17",
+     "venue": "Royal Albert Hall"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-01-15",
+     "venue": "Palais des Congrès (15–17.01)"
+    },
+    {
+     "cc": "FR",
+     "city": "Lyon",
+     "date": "2027-01-20",
+     "venue": "Amphithéâtre 3000 (20–21.01)"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-05-26",
+     "venue": "Tempodrom (26–27.05)"
+    }
+   ],
+   "tier": 2,
+   "title": "Oficjalny koncert orkiestrowy muzyki Hiroyukiego Sawano i KOHTY Yamamoto",
+   "url": "https://www.japannakama.co.uk/events/attack-on-titan-symphony-from-paradis-royal-albert-hall/",
+   "id": "2026-10-attack-on-titan-symphony-from-paradis"
   },
   {
    "about": "Japońska grupa kawaii metalowa założona w 2021 r. wokół Ladybearda, australijskiego wrestlera i wokalisty znanego wcześniej z LADYBABY i Deadlift Lolita. Słodki idol-pop zderzony z growlem i ciężkimi riffami; grupa nagrała też „Ramen-Man” z Samurai Pizza Cats.",
@@ -1110,6 +1169,67 @@
    "id": "2026-10-spyair-europe"
   },
   {
+   "about": "Vocafest UK & Ireland to fanowska organizacja, która robi koncerty Vocaloid w formie MMD (koncert wirtualnych piosenkarzy na ekranie). Spookyfest to ich halloweenowa impreza w Londynie.",
+   "artist": "Vocafest UK – Spookyfest 2",
+   "dateEnd": "2026-10-31",
+   "dateStart": "2026-10-31",
+   "duration": "dzień 13:00–17:00 (od 14 lat), wieczór 17:30–23:00 (od 18 lat)",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "popołudnie 18 £ · pełny dzień 39 £ · wieczór 25 £ (z VAT)"
+    },
+    {
+     "k": "Godziny",
+     "v": "dzień: wejście 12:30, 13:00–17:00 (14+); wieczór: wejście 17:00, 17:30–23:00 (18+, alkohol)"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Hatsune Miku – World is Mine",
+    "Hatsune Miku – Senbonzakura",
+    "IA – ARONA",
+    "Kagamine Rin & Len – Servant of Evil"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Vocafest Concert",
+    "Nebula & Nova",
+    "IA RE:PULSE World DJ Tour – London",
+    "SARE",
+    "Askey",
+    "Thea-P",
+    "lolilili",
+    "Shirox"
+   ],
+   "note": "Fanowski festiwal vocaloidowy: koncerty MMD (wirtualni wykonawcy na ekranie) w wersji dziennej i wieczornej, potem DJ-e i set IA RE:PULSE World DJ Tour.",
+   "setTimes": {
+    "Askey": "20:10",
+    "IA RE:PULSE World DJ Tour (dzień)": "16:00",
+    "IA RE:PULSE World DJ Tour (wieczór)": "20:50",
+    "Nebula & Nova": "14:45",
+    "SARE": "19:30",
+    "Shirox": "22:50",
+    "Thea-P": "21:30",
+    "Vocafest Concert (dzień)": "13:00",
+    "Vocafest Concert (wieczór)": "17:30",
+    "lolilili": "22:10"
+   },
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-31",
+     "venue": "Union Theatre (Southwark)"
+    }
+   ],
+   "tickets": "https://tickets.vocafest.co.uk/vocafest/spookyfest2/",
+   "tier": 3,
+   "title": "Koncert Vocafest + IA RE:PULSE World DJ Tour w Londynie",
+   "url": "https://tickets.vocafest.co.uk/vocafest/spookyfest2/",
+   "id": "2026-10-vocafest-spookyfest-2-london"
+  },
+  {
    "about": "Woodkid (Yoann Lemoine) to francuski wokalista, kompozytor i reżyser teledysków, znany z epickiego, orkiestrowego popu i muzyki z zwiastunów gier i filmów.",
    "artist": "Woodkid",
    "dateEnd": "2026-10-11",
@@ -1345,6 +1465,40 @@
    "title": "Europe 2026",
    "url": "https://www.jame-world.com/en/concerts.html",
    "id": "2026-10-zeke-deux-europe"
+  },
+  {
+   "about": "Koncert z muzyką z anime Demon Slayer (Kimetsu no Yaiba) w wykonaniu orkiestry, z projekcją obrazu. Muzykę z serii tworzą Yuki Kajiura i Go Shiina, a openingi wykonuje LiSA.",
+   "artist": "Demon Slayer: Kimetsu no Yaiba in Concert",
+   "dateEnd": "2026-11-29",
+   "dateStart": "2026-11-06",
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Demon Slayer – Gurenge",
+    "Demon Slayer – Kamado Tanjiro no Uta",
+    "Demon Slayer – Zankyosanka",
+    "Demon Slayer – Akeboshi"
+   ],
+   "kind": "symfoniczny",
+   "note": "Cennik nie jest opublikowany na stronach źródłowych; bilety przez organizatorów lokalnych (Greenhouse Talent w NL).",
+   "stops": [
+    {
+     "cc": "NL",
+     "city": "Rotterdam",
+     "date": "2026-11-06",
+     "venue": "De Doelen"
+    },
+    {
+     "cc": "BE",
+     "city": "Bruksela",
+     "date": "2026-11-29",
+     "venue": "ING Arena"
+    }
+   ],
+   "tickets": "https://stagemagic.be/en/calendar/demon-slayer-in-concert/148",
+   "tier": 2,
+   "title": "Orkiestrowy koncert z muzyką z anime: Rotterdam i Bruksela",
+   "url": "https://www.dutchcomiccon.com/?p=256934",
+   "id": "2026-11-demon-slayer-in-concert-benelux"
   },
   {
    "about": "FLAVOR FOLEY to anglojęzyczny krąg producentów muzyki na syntezatory śpiewu, który tworzą Jamie Paige, Vane Lily i ricedeity. Znani z viralowych „BUTCHER VANITY” i „Spoken For” oraz z solowych hitów Jamie Paige („Machine Love”, „BIRDBRAIN”); napisali też „CONNECT:COMMUNE”, piosenkę przewodnią MIKU EXPO 2026 EUROPE.",
@@ -1638,6 +1792,58 @@
    "id": "2026-11-jimmy-gnecco-france-spain"
   },
   {
+   "about": "Joe Hisaishi to kompozytor muzyki do prawie wszystkich filmów Hayao Miyazakiego i studia Ghibli (Spirited Away, Totoro, Princess Mononoke). Gra jako solista i dyryguje Royal Philharmonic Orchestra.",
+   "artist": "Joe Hisaishi – World Dream Tour",
+   "dateEnd": "2026-12-02",
+   "dateStart": "2026-11-30",
+   "facts": [
+    {
+     "k": "Program",
+     "v": "Suita symfoniczna „Chłopiec i czapla” na fortepian i orkiestrę; Koncert na orkiestrę (europejska premiera)"
+    },
+    {
+     "k": "Berlin 30.11",
+     "v": "20:00, Eventim; Philharmonie, Großer Saal"
+    },
+    {
+     "k": "Hamburg 2.12",
+     "v": "start 20:00, ok. 22:00 z przerwą; bilety 39,40–214,90 €, wg strony wyprzedane (możliwe zwroty w kasie)"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Spirited Away – One Summer's Day",
+    "My Neighbor Totoro – Stroll",
+    "Princess Mononoke – Theme",
+    "Howl's Moving Castle – Merry-Go-Round of Life"
+   ],
+   "kind": "symfoniczny",
+   "lineup": [
+    "Joe Hisaishi (fortepian, dyrygent)",
+    "Royal Philharmonic Orchestra"
+   ],
+   "note": "Jesienna trasa po Europie; potwierdzone daty to Berlin i Hamburg, inne miasta nie zostały znalezione. Program to utwory koncertowe, nie suita z filmów Ghibli.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-11-30",
+     "venue": "Philharmonie Berlin"
+    },
+    {
+     "cc": "DE",
+     "city": "Hamburg",
+     "date": "2026-12-02",
+     "venue": "Elbphilharmonie"
+    }
+   ],
+   "tickets": "https://www.elbphilharmonie.de/en/whats-on/joe-hisaishis-world-dream-tour/27698",
+   "tier": 2,
+   "title": "Joe Hisaishi z Royal Philharmonic Orchestra: Berlin i Hamburg",
+   "url": "https://www.visitberlin.de/en/event/joe-hisaishis-world-dream-tour",
+   "id": "2026-11-joe-hisaishi-world-dream-tour"
+  },
+  {
    "about": "Lotus Juice to japoński raper znany z wokali w ścieżkach dźwiękowych serii Persona (Persona 3, Persona 3 Reload) i anime. Shao Dow to niezależny brytyjski raper łączący angielski z japońskim.",
    "artist": "Lotus Juice + Shao Dow",
    "dateEnd": "2026-11-09",
@@ -1909,6 +2115,54 @@
    "title": "TOUR 2026 DREAMING",
    "url": "https://www.jame-world.com/en/concerts.html?page=8",
    "id": "2026-11-tomohisa-yamashita-paris"
+  },
+  {
+   "about": "Japan Sound Quest to jednodniowy festiwal muzyki z gier, na którym występują twórcy ścieżek do Final Fantasy, Super Mario RPG i innych klasyków. Główną gwiazdą jest Nobuo Uematsu, kompozytor serii Final Fantasy, grający ze swoim zespołem Tiki Show.",
+   "artist": "Japan Sound Quest 2026",
+   "dateEnd": "2026-12-18",
+   "dateStart": "2026-12-18",
+   "facts": [
+    {
+     "k": "Start",
+     "v": "18 grudnia 2026, 18:00"
+    },
+    {
+     "k": "Miejsce",
+     "v": "Roig Arena, Walencja"
+    },
+    {
+     "k": "Bilety",
+     "v": "przez stronę Roig Arena; cen strona nie podaje"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Final Fantasy – One-Winged Angel",
+    "Final Fantasy – Aerith's Theme",
+    "Final Fantasy – Terra's Theme",
+    "Final Fantasy VII – Opening - Bombing Mission"
+   ],
+   "kind": "symfoniczny",
+   "lineup": [
+    "Nobuo Uematsu (Tiki Show)",
+    "Chihiro Fujioka (Tiki Show)",
+    "Kumi Tanioka",
+    "Noriyuki Iwadare"
+   ],
+   "note": "Festiwal muzyki z gier w Roig Arena. Strona nie podaje składu orkiestry ani cen biletów.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Walencja",
+     "date": "2026-12-18",
+     "venue": "Roig Arena"
+    }
+   ],
+   "tickets": "https://www.roigarena.com/en/event/japan-sound-quest-20261218/",
+   "tier": 2,
+   "title": "Festiwal muzyki z gier: Nobuo Uematsu i Tiki Show",
+   "url": "https://www.roigarena.com/en/event/japan-sound-quest-20261218/",
+   "id": "2026-12-japan-sound-quest-valencia"
   },
   {
    "about": "Zimowa edycja krakowskiego konwentu Magnificon, z cosplayem, panelami i strefą anime.",
@@ -2331,6 +2585,44 @@
    "id": "2027-01-sim-hooman-after-all-europe"
   },
   {
+   "about": "Koncert symfoniczny z muzyką z popularnych anime w wykonaniu Münchner Symphoniker. Program obejmuje m.in. Demon Slayer, Naruto, One Piece, Attack on Titan, Ghibli, Dragon Ball, JoJo i Neon Genesis Evangelion.",
+   "artist": "The Sound of Epic Anime",
+   "dateEnd": "2027-01-23",
+   "dateStart": "2027-01-23",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "sob. 23.01.2027, 19:30–22:00"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Neon Genesis Evangelion – A Cruel Angel's Thesis",
+    "Demon Slayer – Gurenge",
+    "Attack on Titan – Guren no Yumiya",
+    "Naruto – Sadness and Sorrow"
+   ],
+   "kind": "symfoniczny",
+   "lineup": [
+    "Münchner Symphoniker",
+    "John Jesensky (dyrygent)",
+    "Nino Kerl (prowadzący)"
+   ],
+   "note": "Koncert prowadzi Nino Kerl (ninotakutv), dyryguje John Jesensky. Bilety przez muenchenticket.de; cen strona nie podaje.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Monachium",
+     "date": "2027-01-23",
+     "venue": "Isarphilharmonie (Gasteig HP8)"
+    }
+   ],
+   "tier": 1,
+   "title": "Münchner Symphoniker gra muzykę z anime (Demon Slayer, Naruto, Evangelion i inne)",
+   "url": "https://www.in-muenchen.de/events/the-sound-of-epic-anime-gasteig-hp8-isarphilharmonie.html",
+   "id": "2027-01-sound-of-epic-anime-munchen"
+  },
+  {
    "about": "Symfoniczny przegląd muzyki z anime (Ghibli, Naruto, Dragon Ball, One Piece, Evangelion, Fullmetal Alchemist, Demon Slayer) produkcji Overlook Events, z udziałem twórców oryginalnych ścieżek. Wokalnie największe nazwiska to KOKIA (Origin, The Ancient Magus' Bride) i Hiroki Takahashi, wykonawca pierwszego openingu Dragon Balla.",
    "artist": "Anime Symphony 2027",
    "dateEnd": "2027-02-05",
@@ -2498,6 +2790,45 @@
    "title": "Powrót Måneskin na festiwalu w Sanremo 2027 (jednorazowy występ)",
    "url": "https://www.wantedinrome.com/news/maneskin-to-reunite-at-italys-sanremo-music-festival-2027.html",
    "id": "2027-02-maneskin-sanremo-reunion"
+  },
+  {
+   "about": "Trasa koncertowa z muzyką z gier Square Enix (Final Fantasy, Kingdom Hearts, Chrono Trigger i inne) w wykonaniu orkiestry.",
+   "artist": "The Music of Square Enix – Magic, Memories & Melodies",
+   "dateEnd": "2027-02-07",
+   "dateStart": "2027-02-06",
+   "facts": [
+    {
+     "k": "Sprzedaż biletów",
+     "v": "Paryż i Lyon od 4 grudnia, 10:00"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Final Fantasy VII – One-Winged Angel",
+    "Final Fantasy – Prelude",
+    "Kingdom Hearts – Dearly Beloved",
+    "Chrono Trigger – Frog's Theme"
+   ],
+   "kind": "symfoniczny",
+   "note": "Daty z ogłoszenia trasy (w 2026 był też Londyn, Wembley); mogą ulec zmianie.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-02-06",
+     "venue": "Zénith Paris La Villette"
+    },
+    {
+     "cc": "FR",
+     "city": "Lyon",
+     "date": "2027-02-07",
+     "venue": "Halle Tony Garnier"
+    }
+   ],
+   "tier": 2,
+   "title": "Orkiestrowa trasa Square Enix: Paryż i Lyon",
+   "url": "https://finalweapon.net/2025/12/02/the-music-of-square-enix-magic-memories-and-melodies-tour-dates/",
+   "id": "2027-02-music-of-square-enix-paris-lyon"
   },
   {
    "about": "Legenda mrocznego, industrialnego visual kei z Tokio, znana z albumów „Coll:set”, „MIRROR” i „REDEEMER” oraz z europejskich tras w latach 2000. Zespół rozwiązał się w 2011 r., wrócił w 2025 r., a w maju 2026 wydał „RAPTURE”, pierwszy singiel od 16 lat.",
@@ -2756,6 +3087,36 @@
    "id": "2027-04-hagane-europe"
   },
   {
+   "about": "Orkiestrowa trasa z okazji 40-lecia serii The Legend of Zelda, z muzyką z gier Nintendo w wykonaniu lokalnych orkiestr.",
+   "artist": "The Legend of Zelda 40th Anniversary Concert",
+   "dateEnd": "2027-04-03",
+   "dateStart": "2027-04-03",
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Zelda – Main Theme",
+    "Zelda – Gerudo Valley",
+    "Zelda – Song of Storms",
+    "Zelda – Great Fairy Fountain"
+   ],
+   "kind": "symfoniczny",
+   "lineup": [
+    "London Symphony Orchestra"
+   ],
+   "note": "Później dojdą Sztokholm, Edynburg i Glasgow (bez dat). Bilety: wg organizatora sprzedaż od września 2026, terminy ustala każdy obiekt.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-04-03",
+     "venue": "Royal Albert Hall"
+    }
+   ],
+   "tier": 2,
+   "title": "Trasa z okazji 40-lecia Zeldy: Londyn z London Symphony Orchestra",
+   "url": "https://consolepulse.com/nintendo/zelda/news/zelda-40th-anniversary-concert-tour-2027-announced",
+   "id": "2027-04-zelda-40th-anniversary-concert-london"
+  },
+  {
    "about": "Najstarszy czeski konwent anime i mangi, w Brnie.",
    "artist": "Animefest 2027",
    "dateEnd": "2027-05-23",
@@ -2819,6 +3180,50 @@
    "title": "Koncerty w Niemczech: Heilbronn i Stuttgart",
    "url": "https://www.songkick.com/concerts/43435382-jeff-lynnes-elo-at-konzert-and-kongresszentrum-harmonie",
    "id": "2027-05-jeff-lynnes-elo-germany"
+  },
+  {
+   "about": "Koncert z serii NieR:Orchestra: pełna orkiestra i chór, wokalistki J'Nique Nicole i Emi Evans, wizualizacje na wielkim ekranie i narracja opowiadająca historię prequelu NieR:Automata (Pearl Harbor Descent Operation).",
+   "artist": "NieR:Orchestra Concert 12026 [YoRHa]",
+   "dateEnd": "2027-06-12",
+   "dateStart": "2027-06-11",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "Ticketmaster UK; dodatki: Lounge Pass 30 GBP, VIP 111,75 GBP (tylko 12.06)"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "NieR – Weight of the World",
+    "NieR – Song of the Ancients",
+    "NieR:Automata – City Ruins (Rays of Light)",
+    "NieR:Automata – Amusement Park"
+   ],
+   "kind": "symfoniczny",
+   "lineup": [
+    "Eric Roth (dyrygent)",
+    "J'Nique Nicole",
+    "Emi Evans"
+   ],
+   "note": "Ten sam cykl co NieR:Orchestra, który wystąpił już w Europie. Godzina w źródłach niespójna (18:30 lub 19:31).",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-06-11",
+     "venue": "Eventim Apollo"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-06-12",
+     "venue": "Eventim Apollo"
+    }
+   ],
+   "tier": 3,
+   "title": "Dwa wieczory w Londynie: prequel NieR:Automata z orkiestrą i chórem",
+   "url": "https://www.ents24.com/london-events/eventim-apollo/nierorchestra-concert-12026-yorha/7536294",
+   "id": "2027-06-nier-orchestra-concert-12026-yorha-london"
   },
   {
    "about": "Amerykański zespół post-hardcore'owy z San Diego, znany m.in. z „King for a Day” z Kellinem Quinnem.",
@@ -3370,6 +3775,43 @@
    "id": "2027-09-connichi"
   },
   {
+   "about": "Trasa z okazji 40-lecia Final Fantasy. W programie muzyka m.in. Nobuo Uematsu, Masashi Hamauzu, Naoshi Mizuta, Hitoshi Sakimoto, Yoko Shimomura i Masayoshiego Sokena.",
+   "artist": "Final Fantasy 40th Anniversary Orchestra World Tour",
+   "dateEnd": "2027-09-25",
+   "dateStart": "2027-09-25",
+   "facts": [
+    {
+     "k": "Sprzedaż biletów (Londyn)",
+     "v": "od 6 października 2026"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Final Fantasy VII – One-Winged Angel",
+    "Final Fantasy VIII – Eyes on Me",
+    "Final Fantasy X – Suteki da ne",
+    "Final Fantasy – Main Theme"
+   ],
+   "kind": "symfoniczny",
+   "note": "Londyn ma potwierdzoną datę (25.09.2027, sprzedaż biletów od 6.10.2026). Paryż jest zapowiedziany bez daty i miejsca; kolejne miasta mają być ogłoszone.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-09-25",
+     "venue": "Royal Albert Hall"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż"
+    }
+   ],
+   "tier": 2,
+   "title": "Światowa trasa orkiestrowa Square Enix: Londyn i Paryż",
+   "url": "https://essential-japan.com/news/square-enix-announces-huge-final-fantasy-40th-anniversary-orchestra-world-tour-for-2027/",
+   "id": "2027-09-final-fantasy-40th-anniversary-orchestra-london"
+  },
+  {
    "about": "Japońskie trio z Kobe z basistką i wokalistką Natsuko Miyamoto: post-hardcore'owa intensywność, shoegaze'owe ściany gitar i indie-rockowe melodie. Trasa promuje szósty album „Iwaou” (sierpień 2026) i jest największą w historii zespołu.",
    "artist": "MASS OF THE FERMENTING DREGS",
    "dateEnd": "2027-10-20",
@@ -3555,7 +3997,8 @@
   {
    "about": "Coroczna seria koncertów, w której orkiestra gra aranżacje utworów Hatsune Miku i innych vocaloidów, a Miku pojawia się jako wirtualna śpiewaczka. Tegoroczna odsłona nosi podtytuł „Melodies on the Keys”.",
    "artist": "Hatsune Miku Symphony 2026-2027 „Melodies on the Keys”",
-   "dateEnd": "2027-01-10",
+   "changeNote": "Doszedł koncert w Jokohamie 13.03.2027",
+   "dateEnd": "2027-03-13",
    "dateStart": "2026-10-10",
    "foundAt": "2026-10-11",
    "hits": [
@@ -3579,10 +4022,17 @@
      "city": "Osaka",
      "date": "2027-01-10",
      "venue": "Osaka International Convention Center"
+    },
+    {
+     "cc": "JP",
+     "city": "Jokohama",
+     "date": "2027-03-13",
+     "venue": "Yokohama Kokusai Heiwa Kaigijo (Pacifico Yokohama)"
     }
    ],
    "tier": 3,
-   "title": "Orkiestrowa trasa Miku Symphony: Yokohama i Osaka",
+   "title": "Orkiestrowa trasa Miku Symphony: Yokohama, Osaka i Yokohama 2027",
+   "updatedAt": "2026-10-15",
    "url": "https://x.com/mikusymphony/status/2073754168125222956",
    "id": "jp-2026-10-hatsune-miku-symphony-2026-2027"
   },
@@ -3685,6 +4135,69 @@
    "title": "Noc Vocaloid w MOGRA Akihabara",
    "url": "https://club-mogra.jp/2026/10/",
    "id": "jp-2026-10-vocaloid-maniax-vol58-mogra"
+  },
+  {
+   "about": "YOASOBI to duet producenta Ayase i wokalistki ikura, który zaczynał od muzyki opartej na powieściach. Znany z openingów i hitów anime, a „Idol” (Oshi no Ko) zrobił z nich globalną gwiazdę.",
+   "artist": "YOASOBI – 超惑星 (SUPER PLANET)",
+   "dateEnd": "2026-12-06",
+   "dateStart": "2026-10-24",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "sobota 18:00, niedziela 17:00 (wejście 15:30 / 14:30)"
+    },
+    {
+     "k": "Terminy",
+     "v": "Osaka 24–25.10, Nagoya 7–8.11, Sapporo 14–15.11, Fukuoka 28–29.11, Tokio 5–6.12"
+    }
+   ],
+   "foundAt": "2026-10-15",
+   "hits": [
+    "Idol",
+    "Yoru ni Kakeru",
+    "Gunjou",
+    "Monster",
+    "Tabun"
+   ],
+   "kind": "trasa",
+   "note": "Japońska część trasy po kopułach, dwa dni w każdym mieście; trasa obejmuje też m.in. Singapur (20.02.2027, National Stadium). Sprzedaż biletów przez fanklub (loteria); stream nieznany.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Osaka",
+     "date": "2026-10-24",
+     "venue": "Kyocera Dome Osaka (24–25.10)"
+    },
+    {
+     "cc": "JP",
+     "city": "Nagoya",
+     "date": "2026-11-07",
+     "venue": "Vantelin Dome Nagoya (7–8.11)"
+    },
+    {
+     "cc": "JP",
+     "city": "Sapporo",
+     "date": "2026-11-14",
+     "venue": "Daiwa House Premist Dome (14–15.11)"
+    },
+    {
+     "cc": "JP",
+     "city": "Fukuoka",
+     "date": "2026-11-28",
+     "venue": "Mizuho PayPay Dome (28–29.11)"
+    },
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2026-12-05",
+     "venue": "Tokyo Dome (5–6.12)"
+    }
+   ],
+   "tier": 3,
+   "title": "ASIA 10-CITY DOME & STADIUM TOUR 2026–2027: 10 dat w kopułach Japonii",
+   "url": "https://www.haveagood-holiday.com/en/articles/yoasobi-singapore-national-stadium-2027",
+   "id": "jp-2026-10-yoasobi-super-planet-dome-tour"
   },
   {
    "about": "Kodo to słynna japońska grupa taiko, tu w specjalnym projekcie z Hatsune Miku. Koncert gra wyłącznie na instrumentach japońskich, a muzycznie to połączenie tradycji z kulturą Vocaloid.",
@@ -4157,6 +4670,34 @@
    "title": "Hatsune Miku Magical Mirai – Hiroshima, Osaka, Tokyo",
    "url": "https://magicalmirai.com/2026/",
    "id": "jp-2027-07-magical-mirai-2027"
+  },
+  {
+   "about": "Animelo Summer Live to największy coroczny festiwal piosenek z anime w Japonii, z kilkudziesięcioma wykonawcami na dwóch scenach i w trzy dni.",
+   "artist": "Animelo Summer Live 2027 (Anisama)",
+   "dateEnd": "2027-08-29",
+   "dateStart": "2027-08-27",
+   "foundAt": "2026-10-15",
+   "hits": [
+    "fripSide – only my railgun",
+    "LiSA – Gurenge",
+    "Aimer – Zankyosanka",
+    "Kenshi Yonezu – Kick Back"
+   ],
+   "kind": "festiwal",
+   "note": "Line-up i bilety jeszcze nie ogłoszone. Arena po remoncie, który ma trwać do marca 2027.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Saitama",
+     "date": "2027-08-27",
+     "venue": "Saitama Super Arena (GMO Arena Saitama), 27–29.08"
+    }
+   ],
+   "tier": 2,
+   "title": "Największy festiwal anisong wraca do Saitama Super Arena na 3 dni",
+   "url": "https://scrmbl.com/post/anisama-2027-saitama-super-arena-return",
+   "id": "jp-2027-08-anisama-2027-saitama"
   },
   {
    "about": "Japońska piosenkarka i aktorka znana z mocnego, punkowo-popowego brzmienia i współpracy z anime-scenę; występuje solo i z zespołem.",

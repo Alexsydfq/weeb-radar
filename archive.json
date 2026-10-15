@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T16:52:43Z",
+ "updated": "2026-10-15T04:41:59Z",
  "events": [
   {
    "id": "past-2026-10-13-nier-orchestra-concert-12026-yorha-krakow",
@@ -429,6 +429,80 @@
     }
    ],
    "url": "https://avo-magazine.com/en/2026/04/kamijo-announces-european-tour-sanctuary-of-europe/"
+  },
+  {
+   "id": "2026-09-yasuharu-takanashi-battle-for-glory",
+   "artist": "Yasuharu Takanashi",
+   "title": "Far East Groove — The Battle for Glory",
+   "kind": "trasa",
+   "tier": 2,
+   "dateStart": "2026-09-30",
+   "dateEnd": "2026-10-14",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-02",
+     "venue": "Dingwalls"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-10-04",
+     "venue": "Hybrydy"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-05",
+     "venue": "SO36"
+    },
+    {
+     "cc": "DE",
+     "city": "Monachium",
+     "date": "2026-10-06",
+     "venue": "Ampere"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2026-10-08",
+     "venue": "LegendClub"
+    },
+    {
+     "cc": "CH",
+     "city": "Yverdon-les-Bains",
+     "date": "2026-10-09",
+     "venue": "L'Amalgame"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-10-11",
+     "venue": "Pan Piper"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2026-10-13",
+     "venue": "WOLF"
+    },
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-10-14",
+     "venue": "Revilive"
+    }
+   ],
+   "lineup": [
+    "Yasuharu Takanashi",
+    "Juno",
+    "Nozomu Wakai (Sigh)",
+    "Jesper Anastasiadis (Turisas)",
+    "Tuomas Rounakari (ex-Korpiklaani)",
+    "Tino Jäntti (Wolfheart)"
+   ],
+   "url": "https://www.jame-world.com/en/event/pl"
   },
   {
    "id": "past-2026-09-26-japan-weekend-madrid",

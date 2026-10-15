@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:24:57Z",
+ "updated": "2026-10-15T04:41:59Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -36,6 +36,18 @@
    "title": "Perfecth",
    "url": "https://musicbrainz.org/release-group/b835704b-05f4-4572-ae8f-d0bb9d8a8f95",
    "id": "queens-of-the-stone--db3fb986"
+  },
+  {
+   "about": "Rumaki – producent elektroniczny z kręgu sceny dance/trance.",
+   "artist": "Rumaki",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-29",
+   "songAbout": "Zapowiedziana premiera singla z wokalem Aliny Enn; melodyjny, taneczny klimat.",
+   "title": "Sun On The Sea (feat. Alina Enn)",
+   "url": "https://music.apple.com/jp/album/sun-on-the-sea-feat-alina-enn-single/6814819013?uo=4",
+   "id": "rumaki-sun-on-the-sea"
   },
   {
    "about": "Koreański producent z kręgu Vocaloid/Project SEKAI i gier rytmicznych.",
@@ -108,6 +120,174 @@
    "title": "秋糖恋爱手册",
    "url": "https://music.apple.com/jp/album/%E7%A7%8B%E7%B3%96%E6%81%8B%E7%88%B1%E6%89%8B%E5%86%8C-single/6821288651?uo=4",
    "id": "qiyijiu-luo-tianyi-qiutang-lian-ai-shouce"
+  },
+  {
+   "about": "キノシタ (Kinoshita) – producent Vocaloid związany z głosem Otomachi Una.",
+   "artist": "キノシタ feat. 音街ウナ Sugar",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Zapowiedziana premiera (16.10); disco-popowy kawałek z Otomachi Una Sugar.",
+   "title": "ウナナイト☆ディスコ",
+   "url": "https://vocadb.net/S/1046606",
+   "id": "kinoshita-unanight-disco"
+  },
+  {
+   "about": "suzie – producent Vocaloid piszący na głosie Otomachi Una.",
+   "artist": "suzie feat. 音街ウナ Sugar",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Zapowiedziana premiera (16.10); taneczny utwór z wokalem Otomachi Una Sugar.",
+   "title": "START DANCING TO THE BEAT, TWIN",
+   "url": "https://vocadb.net/S/1046607",
+   "id": "suzie-start-dancing-to-the-beat-twin"
+  },
+  {
+   "about": "AnythingBecomeMoe – artysta z kręgu J-core/denpa i moe-elektroniki.",
+   "artist": "AnythingBecomeMoe",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Singiel w szybkim, słodkim stylu denpa/J-core.",
+   "title": "EternaL CrescenT",
+   "url": "https://music.apple.com/jp/album/eternal-crescent-single/6820058360?uo=4",
+   "id": "anythingbecomemoe-eternal-crescent"
+  },
+  {
+   "about": "AnythingBecomeMoe – artysta z kręgu J-core/denpa i moe-elektroniki.",
+   "artist": "AnythingBecomeMoe",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Singiel w stylu denpa/J-core.",
+   "title": "I'm Shooting Star",
+   "url": "https://music.apple.com/jp/album/im-shooting-star-single/6820058457?uo=4",
+   "id": "anythingbecomemoe-im-shooting-star"
+  },
+  {
+   "about": "AnythingBecomeMoe – artysta z kręgu J-core/denpa i moe-elektroniki.",
+   "artist": "AnythingBecomeMoe",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Singiel z koreańskim tytułem w stylu denpa/J-core.",
+   "title": "짜증나는 모기",
+   "url": "https://music.apple.com/jp/album/%EC%A7%9C%EC%A6%9D%EB%82%98%EB%8A%94-%EB%AA%A8%EA%B8%B0-single/6820058933?uo=4",
+   "id": "anythingbecomemoe-jjajeungnaneun-mogi"
+  },
+  {
+   "about": "AnythingBecomeMoe – artysta z kręgu J-core/denpa i moe-elektroniki.",
+   "artist": "AnythingBecomeMoe",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Imprezowy singiel w stylu denpa/J-core.",
+   "title": "PART-Y TIME",
+   "url": "https://music.apple.com/jp/album/part-y-time-single/6820058929?uo=4",
+   "id": "anythingbecomemoe-part-y-time"
+  },
+  {
+   "about": "AnythingBecomeMoe – artysta z kręgu J-core/denpa i moe-elektroniki.",
+   "artist": "AnythingBecomeMoe",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Singiel w stylu denpa/J-core.",
+   "title": "PingPong TIKITAKA",
+   "url": "https://music.apple.com/jp/album/pingpong-tikitaka-single/6820058911?uo=4",
+   "id": "anythingbecomemoe-pingpong-tikitaka"
+  },
+  {
+   "about": "Luo Tianyi – chiński głos Vocaloid/Vsinger, jedna z największych gwiazd chińskiej sceny wokaloidów.",
+   "artist": "洛天依",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Nowy singiel z Luo Tianyi w chińskim, balladowym stylu.",
+   "title": "月儿谣",
+   "url": "https://music.apple.com/jp/album/%E6%9C%88%E5%84%BF%E8%B0%A3-single/6822163129?uo=4",
+   "id": "luo-tianyi-yue-er-yao"
+  },
+  {
+   "about": "nagusaki – producent Vocaloid piszący dla Hatsune Miku.",
+   "artist": "nagusaki & 初音ミク",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Singiel z Hatsune Miku o mrocznym, rockowym nastroju.",
+   "title": "壊痕少女",
+   "url": "https://music.apple.com/jp/album/%E5%A3%8A%E7%97%95%E5%B0%91%E5%A5%B3-single/6814770309?uo=4",
+   "id": "nagusaki-hatsune-miku-kaikon-shoujo"
+  },
+  {
+   "about": "田川若夏 – twórca piszący na głosie Kasane Teto.",
+   "artist": "田川若夏 & 重音テト",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Singiel z Kasane Teto, energiczny pop z syntezatorowym wokalem.",
+   "title": "Doubt!",
+   "url": "https://music.apple.com/jp/album/doubt-single/6815075214?uo=4",
+   "id": "tagawa-wakana-kasane-teto-doubt"
+  },
+  {
+   "about": "雪月 ラピス – producent Vocaloid piszący dla Hatsune Miku.",
+   "artist": "雪月 ラピス & 初音ミク",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Singiel z Miku o japońskim, księżycowym klimacie.",
+   "title": "月夜の踊り",
+   "url": "https://music.apple.com/jp/album/%E6%9C%88%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A-single/6815515372?uo=4",
+   "id": "yukizuki-lapis-hatsune-miku-tsukiyo-no-odori"
+  },
+  {
+   "about": "夢ノ結唱 ROSE – głos Synthesizer V z serii Yumenokessho (Rose, Popy).",
+   "artist": "夢ノ結唱 ROSE",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Kolejny singiel z serii Yumenokessho ROSE, spokojny i emocjonalny.",
+   "title": "The View We Shared",
+   "url": "https://music.apple.com/jp/album/the-view-we-shared-single/6822184392?uo=4",
+   "id": "yumeno-yuusho-rose-the-view-we-shared"
+  },
+  {
+   "about": "悪P38 – producent Vocaloid piszący dla Hatsune Miku.",
+   "artist": "悪P38 & 初音ミク",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Singiel z Miku, utrzymany w klimacie vocaloidowego rocka.",
+   "title": "ASUKAYAMA",
+   "url": "https://music.apple.com/jp/album/asukayama-single/6812619327?uo=4",
+   "id": "akup38-hatsune-miku-asukayama"
+  },
+  {
+   "about": "あたたかい水族館 – producent Vocaloid, pracujący z Miku i Otomachi Una.",
+   "artist": "あたたかい水族館, 初音ミク & 音街ウナ",
+   "foundAt": "2026-10-15",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Album z głosami Hatsune Miku i Otomachi Una.",
+   "title": "Ubiquitous",
+   "url": "https://music.apple.com/jp/album/ubiquitous/6818020659?uo=4",
+   "id": "atatakai-suizokukan-ubiquitous"
   },
   {
    "about": "irucaice to japoński twórca muzyki elektronicznej pracujący z głosami VOICEROID.",
@@ -1296,6 +1476,18 @@
    "title": "千のゲリラ",
    "url": "https://musicbrainz.org/release-group/31bffd19-a224-46b9-b773-1cac323030e1",
    "id": "feat-30f5463b"
+  },
+  {
+   "about": "はしメロ (Hashimero) – japoński artysta/wokalista znany z kręgu internetowej sceny muzycznej.",
+   "artist": "はしメロ",
+   "foundAt": "2026-10-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-02",
+   "songAbout": "Singiel z melodyjnym, popowym brzmieniem.",
+   "title": "エメラルド",
+   "url": "https://music.apple.com/jp/album/%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89-single/6812189940?uo=4",
+   "id": "hashimero-emerald"
   },
   {
    "about": "一二三 (Hifumi) to producent vocaloidowy kojarzony z brzmieniem w japońskim, „yokaiowym” klimacie; najbardziej znany z hitu „猛独が襲う” oraz albumu „百鬼夜行”.",
