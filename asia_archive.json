@@ -1,0 +1,5442 @@
+{
+ "updated": "2026-10-15",
+ "events": [
+  {
+   "id": "asia-2026-10-11-kenmochi-solo-live",
+   "artist": "Kenmochi Toya Real Solo Live 'Kokuu Kyouen'",
+   "nameOrig": "剣持刀也リアルソロライブ【虚空狂宴】",
+   "title": "Solowy live Kenmochi Toyi (NIJISANJI)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-10-11",
+   "dateEnd": "2026-10-11",
+   "stops": [
+    {
+     "date": "2026-10-11",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber",
+    "Kenmochi Toya"
+   ],
+   "search": [
+    "剑持刀也 solo live",
+    "剣持刀也 虚空狂宴",
+    "剣持 リアルソロライブ"
+   ],
+   "url": "https://www.nijisanji.jp/"
+  },
+  {
+   "id": "asia-2026-10-03-pjsk-6th-anniv",
+   "artist": "Project SEKAI 6th Anniversary Thanksgiving Festival",
+   "nameOrig": "プロジェクトセカイ 6th Anniversary 感謝祭",
+   "title": "Event rocznicowy z seiyuu i live Virtual Singers",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-10-03",
+   "dateEnd": "2026-10-04",
+   "stops": [
+    {
+     "date": "2026-10-03",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京体育館 メインアリーナ"
+    },
+    {
+     "date": "2026-10-04",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京体育館 メインアリーナ"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 6周年 感谢祭",
+    "プロセカ 6th Anniversary 感謝祭",
+    "pjsk 6th anniversary 感谢祭 live",
+    "Project SEKAI 6th Anniversary festival"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2026-09-19-united-koncept-2026",
+   "artist": "UNITED KONCEPT (UK hardcore / happy hardcore)",
+   "nameOrig": "UNITED KONCEPT",
+   "title": "Nowy event TANO*C z UK hardcore / happy hardcore",
+   "kind": "rave",
+   "region": "JP",
+   "dateStart": "2026-09-19",
+   "dateEnd": "2026-09-19",
+   "stops": [
+    {
+     "date": "2026-09-19",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "SHIBUYA WOMB"
+    }
+   ],
+   "tags": [
+    "J-core",
+    "TANO*C",
+    "happy hardcore"
+   ],
+   "search": [
+    "UNITED KONCEPT TANO*C",
+    "UNITED KONCEPT WOMB 2026"
+   ],
+   "url": "https://dic.pixiv.net/a/HARDCORE_TANO%2AC"
+  },
+  {
+   "id": "asia-2026-09-08-suisei-once-upon-a-stellar",
+   "artist": "HOSHIMACHI SUISEI ARENA TOUR 2026 'Once Upon a Stellar' (Yokohama)",
+   "nameOrig": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar",
+   "title": "Trasa arenowa Suisei – dotychczasowy etap Jokohama (Kobe/Nagoja/Fukuoka po 14.10.2026)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2026-09-08",
+   "dateEnd": "2026-09-09",
+   "stops": [
+    {
+     "date": "2026-09-08",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    },
+    {
+     "date": "2026-09-09",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Hoshimachi Suisei"
+   ],
+   "search": [
+    "星街彗星 Once Upon a Stellar",
+    "星街すいせい アリーナツアー 2026",
+    "彗酱 巡演 2026 横滨"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2026-09-05-kamitsubaki-wars-2026-pacifico",
+   "artist": "KAMITSUBAKI WARS 2026 Yokohama Front (FES '26 + KAF 5th one-man)",
+   "nameOrig": "KAMITSUBAKI WARS 2026 神椿横浜戦線 at パシフィコ横浜",
+   "title": "Day1: KAMITSUBAKI FES '26 FIELD OF RESONANCE; Day2: KAF 5th ONE-MAN「宿声 / 深愛（巡）」",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-09-05",
+   "dateEnd": "2026-09-06",
+   "stops": [
+    {
+     "date": "2026-09-05",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2026-09-06",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF"
+   ],
+   "search": [
+    "KAMITSUBAKI FES 26 FIELD OF RESONANCE",
+    "花谱 5th one man 宿声",
+    "神椿横浜戦線 2026",
+    "花譜 5th ONE-MAN LIVE 中字"
+   ],
+   "url": "https://haveagood-holiday.com/en/articles/kamitsubaki-wars-2026-yokohama-gugenka-holomodel-reissue"
+  },
+  {
+   "id": "asia-2026-08-15-miku-mirai-music-party-2026",
+   "artist": "Miku's Mirai Music Party 2026 Live in Nagaoka",
+   "nameOrig": "Miku's Mirai Music Party 2026 Live in Nagaoka",
+   "title": "Live Miku w Nagaoce (Niigata)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-08-15",
+   "dateEnd": "2026-08-15",
+   "stops": [
+    {
+     "date": "2026-08-15",
+     "city": "Nagaoka",
+     "cc": "JP",
+     "venue": "アオーレ長岡 市民交流ホールA"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid"
+   ],
+   "search": [
+    "Miku's Mirai Music Party 2026",
+    "ミクミライ 長岡 2026"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2026-08-08-tetoec-2026",
+   "artist": "TETOEC (UEC fan-made Kasane Teto live)",
+   "nameOrig": "TETOEC（電通大ファンメイドライブ）",
+   "title": "Studencki live Kasane Teto (twórcy MIKUEC)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-08-08",
+   "dateEnd": "2026-08-09",
+   "stops": [
+    {
+     "date": "2026-08-08",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    },
+    {
+     "date": "2026-08-09",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    }
+   ],
+   "tags": [
+    "Teto",
+    "UTAU",
+    "SynthV",
+    "fan-live"
+   ],
+   "search": [
+    "TETOEC",
+    "重音テト 电通大 live",
+    "TETOEC 2026 重音テト",
+    "重音Teto 演唱会 电通大"
+   ],
+   "url": "https://www.teto-news.jp/"
+  },
+  {
+   "id": "asia-2026-07-24-magical-mirai-2026",
+   "artist": "Hatsune Miku Magical Mirai 2026",
+   "nameOrig": "初音ミク「マジカルミライ 2026」",
+   "title": "Magical Mirai 2026 – coroczna trasa live + expo (Miku, Rin, Len, Luka, MEIKO, KAITO); Tokio = Makuhari Messe",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2026-07-24",
+   "dateEnd": "2026-08-30",
+   "stops": [
+    {
+     "date": "2026-07-24",
+     "city": "Hamamatsu",
+     "cc": "JP",
+     "venue": "アクトシティ浜松 大ホール"
+    },
+    {
+     "date": "2026-07-25",
+     "city": "Hamamatsu",
+     "cc": "JP",
+     "venue": "アクトシティ浜松 大ホール"
+    },
+    {
+     "date": "2026-07-26",
+     "city": "Hamamatsu",
+     "cc": "JP",
+     "venue": "アクトシティ浜松 大ホール"
+    },
+    {
+     "date": "2026-08-14",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2026-08-15",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2026-08-16",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2026-08-28",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-08-29",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-08-30",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "魔法未来2026",
+    "初音未来 魔法未来 2026 演唱会",
+    "【中字】魔法未来2026 全场",
+    "マジカルミライ 2026 ライブ",
+    "Magical Mirai 2026 full concert",
+    "MM26 东京场 live"
+   ],
+   "url": "https://magicalmirai.com/2026/"
+  },
+  {
+   "id": "asia-2026-07-10-pinocchiop-underworld-2026",
+   "artist": "PinocchioP 2026 TOUR 'Underworld' (Tokyo)",
+   "nameOrig": "ピノキオピー2026 TOUR「アンダーワールド」",
+   "title": "Trasa 2026 – znany przystanek tokijski (pozostałe daty niepotwierdzone)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2026-07-10",
+   "dateEnd": "2026-07-10",
+   "stops": [
+    {
+     "date": "2026-07-10",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Haneda (TOKYO)"
+    }
+   ],
+   "tags": [
+    "PinocchioP",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "ピノキオピー アンダーワールド ツアー",
+    "匹诺曹P 2026 巡演",
+    "PinocchioP Underworld tour 2026"
+   ],
+   "url": "https://www.eventernote.com/actors/%E3%83%94%E3%83%8E%E3%82%AD%E3%82%AA%E3%83%94%E3%83%BC/17861/events"
+  },
+  {
+   "id": "asia-2026-07-10-anisama-2026",
+   "artist": "Animelo Summer Live 2026 -Messenger-",
+   "nameOrig": "Animelo Summer Live 2026 -Messenger-",
+   "title": "Największy festiwal anisong (Anisama)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-07-10",
+   "dateEnd": "2026-07-12",
+   "stops": [
+    {
+     "date": "2026-07-10",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-07-11",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-07-12",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "anisong",
+    "Anisama"
+   ],
+   "search": [
+    "Anisama 2026",
+    "Animelo Summer Live 2026 Messenger 中字",
+    "アニサマ2026",
+    "anisama 2026 全场",
+    "动画勋章 2026"
+   ],
+   "url": "https://anisama.tv/"
+  },
+  {
+   "id": "asia-2026-06-20-miku-symphony-2026",
+   "artist": "Hatsune Miku Symphony 2026",
+   "nameOrig": "初音ミクシンフォニー2026 / 2026-2027 〜Melodies on the Keys〜",
+   "title": "Orkiestra symfoniczna gra utwory Vocaloid (Tokyo Philharmonic itp.) + wizualizacje Miku",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2026-06-20",
+   "dateEnd": "2026-10-10",
+   "stops": [
+    {
+     "date": "2026-06-20",
+     "city": "Sapporo",
+     "cc": "JP",
+     "venue": "札幌コンサートホールKitara"
+    },
+    {
+     "date": "2026-07-05",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "サントリーホール"
+    },
+    {
+     "date": "2026-10-10",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Luka",
+    "Kagamine",
+    "orkiestra"
+   ],
+   "search": [
+    "初音未来交响乐 2026",
+    "初音ミクシンフォニー2026",
+    "Miku Symphony 2026 交响音乐会",
+    "【中字】初音ミクシンフォニー 2026",
+    "Hatsune Miku Symphony 2026 orchestra"
+   ],
+   "url": "https://miku-symphony.com/"
+  },
+  {
+   "id": "asia-2026-06-07-sekai-symphony-2026",
+   "artist": "SEKAI SYMPHONY 2026",
+   "nameOrig": "セカイシンフォニー 2026",
+   "title": "Orkiestrowe koncerty muzyki Project SEKAI",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2026-06-07",
+   "dateEnd": "2026-08-11",
+   "stops": [
+    {
+     "date": "2026-06-07",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "グランキューブ大阪"
+    },
+    {
+     "date": "2026-06-13",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2026-08-11",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京国際フォーラム ホールC"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka",
+    "orkiestra"
+   ],
+   "search": [
+    "世界计划交响乐 2026",
+    "セカイシンフォニー 2026",
+    "pjsk 交响乐 2026",
+    "Sekai Symphony 2026 live"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2026-05-30-pjsk-creators-festa-2026",
+   "artist": "Project SEKAI Creators Festa 2026",
+   "nameOrig": "プロジェクトセカイ クリエイターズフェスタ2026",
+   "title": "Festiwal twórców (Vocaloid P) Project SEKAI z talk/live stage",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-05-30",
+   "dateEnd": "2026-05-31",
+   "stops": [
+    {
+     "date": "2026-05-30",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-05-31",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 创作者节 2026",
+    "プロセカ クリエイターズフェスタ2026",
+    "pjsk creators festa 2026"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2026-05-30-shigure-ui-wishing-umbrella",
+   "artist": "Shigure Ui Birthday Live 'Wishing Umbrella'",
+   "nameOrig": "SHIGURE UI Birthday Live \"Wishing Umbrella\"",
+   "title": "Urodzinowy live Shigure Ui (ilustratorka/VTuberka)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-05-30",
+   "dateEnd": "2026-05-30",
+   "stops": [
+    {
+     "date": "2026-05-30",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Shigure Ui",
+    "hololive"
+   ],
+   "search": [
+    "时雨羽衣 生日 live",
+    "しぐれうい Wishing Umbrella",
+    "Shigure Ui birthday live 2026"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2026-05-30-kaf-shukusei-hk",
+   "artist": "KAF 'Shukusei' in Hong Kong",
+   "nameOrig": "花譜｜宿声 in Hong Kong",
+   "title": "Live KAF w Hongkongu",
+   "kind": "koncert",
+   "region": "HK",
+   "dateStart": "2026-05-30",
+   "dateEnd": "2026-05-30",
+   "stops": [
+    {
+     "date": "2026-05-30",
+     "city": "Hongkong",
+     "cc": "HK",
+     "venue": "AsiaWorld-Expo Hall 10"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF"
+   ],
+   "search": [
+    "花谱 宿声 香港",
+    "花譜 宿声 in Hong Kong",
+    "KAF Hong Kong live 2026"
+   ],
+   "url": "https://kamitsubaki.jp/"
+  },
+  {
+   "id": "asia-2026-05-04-tanoc-tour-2026",
+   "artist": "TANO*C TOUR 2026 (Zepp tour)",
+   "nameOrig": "TANO*C TOUR 2026",
+   "title": "Trasa Zepp TANO*C; goście: Camellia (Osaka), Yuta Imai (Fukuoka), Team Grimoire (Tokio)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2026-05-04",
+   "dateEnd": "2026-05-17",
+   "stops": [
+    {
+     "date": "2026-05-04",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "Zepp Osaka Bayside"
+    },
+    {
+     "date": "2026-05-10",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "Zepp Fukuoka"
+    },
+    {
+     "date": "2026-05-17",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp DiverCity (TOKYO)"
+    }
+   ],
+   "tags": [
+    "J-core",
+    "TANO*C",
+    "t+pazolite",
+    "Camellia",
+    "REDALiCE",
+    "USAO",
+    "DJ Noriken",
+    "P*Light",
+    "Team Grimoire"
+   ],
+   "search": [
+    "TANO*C TOUR 2026",
+    "TANO*C TOUR 2026 TOKYO Zepp DiverCity",
+    "Camellia TANO*C TOUR 2026 Osaka",
+    "TANO*C 2026 巡演",
+    "t+pazolite TANO*C TOUR 2026"
+   ],
+   "url": "https://tano-c.net/zepp-project/"
+  },
+  {
+   "id": "asia-2026-05-02-teto-live-2026",
+   "artist": "Kasane Teto x Asa 'TETO LIVE TOKYO 2026'",
+   "nameOrig": "重音テト×亜沙 テトライブ2026 (TETO LIVE TOKYO 2026)",
+   "title": "Live Teto z Asa Band (emisja TBS Channel 1 28.06.2026)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-05-02",
+   "dateEnd": "2026-05-02",
+   "stops": [
+    {
+     "date": "2026-05-02",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Shinjuku (TOKYO)"
+    }
+   ],
+   "tags": [
+    "Teto",
+    "UTAU",
+    "SynthV",
+    "Asa"
+   ],
+   "search": [
+    "テトライブ2026",
+    "重音テト 生日 live 2026",
+    "TETO LIVE TOKYO 2026",
+    "重音Teto 演唱会 2026 Zepp",
+    "【中字】テトライブ2026"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000001420.000003065.html"
+  },
+  {
+   "id": "asia-2026-04-25-mwland-oopark-2026",
+   "artist": "MWLÁND / OOPÁRK -Pavilion-",
+   "nameOrig": "MWLÁND / OOPÁRK -Pavilion-",
+   "title": "Event Niru Kajitsu w Shibuyi",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-04-25",
+   "dateEnd": "2026-04-25",
+   "stops": [
+    {
+     "date": "2026-04-25",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Spotify O-EAST"
+    }
+   ],
+   "tags": [
+    "Niru Kajitsu",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "MWLAND OOPARK Pavilion",
+    "煮ル果実 OOPÁRK 2026"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2026-04-25-chokaigi-2026",
+   "artist": "Niconico Chokaigi 2026 (Cho Vocanico / Cho Ongakusai / Cho Kabuki)",
+   "nameOrig": "ニコニコ超会議2026（超ボカニコ / 超音楽祭 / 超歌舞伎）",
+   "title": "Wielki festiwal Niconico: DJ sety Vocaloid P (超ボカニコ), 超音楽祭, 超歌舞伎 z Miku",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-04-25",
+   "dateEnd": "2026-04-26",
+   "stops": [
+    {
+     "date": "2026-04-25",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-04-26",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Vocaloid",
+    "Miku",
+    "niconico",
+    "VTuber"
+   ],
+   "search": [
+    "超会议2026 超BOCANICO",
+    "超ボカニコ2026",
+    "ニコニコ超会議2026 超音楽祭",
+    "超歌舞伎 2026 初音ミク",
+    "Chokaigi 2026 Vocaloid DJ"
+   ],
+   "url": "https://chokaigi.jp/"
+  },
+  {
+   "id": "asia-2026-04-12-pjsk-unit-fanmeeting-2026",
+   "artist": "Project SEKAI Unit Fan Meetings 2026",
+   "nameOrig": "プロセカユニットファンミーティング 2026",
+   "title": "Spotkania unitów z seiyuu (MMJ Miyagi, VBS Hyōgo, Leo/need Tokio, WxS Aichi, 25-ji Ōita)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2026-04-12",
+   "dateEnd": "2026-09-05",
+   "stops": [
+    {
+     "date": "2026-04-12",
+     "city": "Natori",
+     "cc": "JP",
+     "venue": "タイハクホール名取"
+    },
+    {
+     "date": "2026-05-16",
+     "city": "Kobe",
+     "cc": "JP",
+     "venue": "神戸国際会館こくさいホール"
+    },
+    {
+     "date": "2026-08-08",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "LINE CUBE SHIBUYA"
+    },
+    {
+     "date": "2026-08-16",
+     "city": "Konan",
+     "cc": "JP",
+     "venue": "Home&nicoホール(江南市民文化会館)"
+    },
+    {
+     "date": "2026-09-05",
+     "city": "Oita",
+     "cc": "JP",
+     "venue": "iichiko総合文化センター グランシアタ"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "プロセカ ユニットファンミーティング 2026",
+    "世界计划 团体见面会 2026",
+    "pjsk unit fan meeting Leo/need 2026"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2026-03-28-atelier-de-kasane-hologram",
+   "artist": "Atelier de Kasane Mini Hologram Live",
+   "nameOrig": "아뜰리에 드 카사네 미니 홀로그램 라이브",
+   "title": "Mini live hologramowy Kasane Teto w Korei",
+   "kind": "koncert",
+   "region": "KR",
+   "dateStart": "2026-03-28",
+   "dateEnd": "2026-04-05",
+   "stops": [
+    {
+     "date": "2026-03-28",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "아뜰리에 드 카사네"
+    },
+    {
+     "date": "2026-04-05",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "아뜰리에 드 카사네"
+    }
+   ],
+   "tags": [
+    "Teto",
+    "SynthV",
+    "UTAU"
+   ],
+   "search": [
+    "카사네 테토 홀로그램 라이브",
+    "重音Teto 韩国 全息 live",
+    "Kasane Teto hologram live Korea"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2026-03-20-pokemon-miku-voltage-live",
+   "artist": "Pokemon feat. Hatsune Miku VOLTAGE Live!",
+   "nameOrig": "ポケモン feat. 初音ミク VOLTAGE Live！",
+   "title": "Live projektu Project VOLTAGE (Pokémon x Miku; utwory m.in. DECO*27, PinocchioP, Kanaria, Iyowa, Hiiragi Magnetite)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-03-20",
+   "dateEnd": "2026-03-22",
+   "stops": [
+    {
+     "date": "2026-03-20",
+     "city": "Funabashi",
+     "cc": "JP",
+     "venue": "LaLa arena TOKYO-BAY"
+    },
+    {
+     "date": "2026-03-21",
+     "city": "Funabashi",
+     "cc": "JP",
+     "venue": "LaLa arena TOKYO-BAY"
+    },
+    {
+     "date": "2026-03-22",
+     "city": "Funabashi",
+     "cc": "JP",
+     "venue": "LaLa arena TOKYO-BAY"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Teto",
+    "Pokémon",
+    "Project VOLTAGE",
+    "DECO*27",
+    "PinocchioP",
+    "Kanaria",
+    "Iyowa",
+    "Hiiragi Magnetite"
+   ],
+   "search": [
+    "宝可梦 初音未来 VOLTAGE live",
+    "ポケモン feat. 初音ミク VOLTAGE Live",
+    "宝可梦×初音未来 演唱会 2026",
+    "【中字】ポケミク VOLTAGE Live",
+    "Pokemon feat Hatsune Miku Voltage Live full"
+   ],
+   "url": "https://voltage.pokemon.co.jp/"
+  },
+  {
+   "id": "asia-2026-03-07-bakutan-2026",
+   "artist": "Natori Sana BAKUTAN 2026",
+   "nameOrig": "さなのばくたん。 -ザ・セカンド・アイ- Powered by mouse",
+   "title": "Urodzinowy event Natori Sany w kinie Cinecitta (wszystkie sale)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-03-07",
+   "dateEnd": "2026-03-07",
+   "stops": [
+    {
+     "date": "2026-03-07",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "川崎チネチッタ (CINECITTA')"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "BAKUTAN"
+   ],
+   "search": [
+    "名取纱那 生日 live 2026",
+    "さなのばくたん。2026",
+    "名取さな ばくたん 2026",
+    "Natori Sana bakutan 2026"
+   ],
+   "url": "https://bakutan.natorisana.com/"
+  },
+  {
+   "id": "asia-2026-03-06-hololive-7th-fes",
+   "artist": "hololive 7th fes. Ridin' on Dreams (+ hololive SUPER EXPO 2026)",
+   "nameOrig": "hololive 7th fes. Ridin' on Dreams",
+   "title": "Główny festiwal 3D hololive (wszystkie generacje) + expo w Makuhari",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-03-06",
+   "dateEnd": "2026-03-08",
+   "stops": [
+    {
+     "date": "2026-03-06",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-03-07",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-03-08",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber"
+   ],
+   "search": [
+    "hololive 7th fes 中字",
+    "ホロライブ 7th fes Ridin' on Dreams",
+    "hololive 7th fes Ridin' on Dreams 全场",
+    "holo 7th fes DAY1",
+    "【中字】hololive 7th fes",
+    "hololive SUPER EXPO 2026"
+   ],
+   "url": "https://hololivepro.com/news_en/20251208-03-1"
+  },
+  {
+   "id": "asia-2026-02-28-kamitsubaki-wars-2026-pia",
+   "artist": "KAMITSUBAKI WARS 2026 Yokohama Decisive Battle",
+   "nameOrig": "KAMITSUBAKI WARS 2026 神椿横浜決戦 in ぴあアリーナMM",
+   "title": "Dwudniowe koncerty KAMITSUBAKI w Pia Arena MM",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-02-28",
+   "dateEnd": "2026-03-01",
+   "stops": [
+    {
+     "date": "2026-02-28",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "ぴあアリーナMM"
+    },
+    {
+     "date": "2026-03-01",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "ぴあアリーナMM"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF"
+   ],
+   "search": [
+    "KAMITSUBAKI WARS 2026 横浜決戦",
+    "神椿横浜决战 2026",
+    "花谱 2026 ぴあアリーナ"
+   ],
+   "url": "https://kamitsubaki.jp/"
+  },
+  {
+   "id": "asia-2026-02-21-suisei-supernova-reboot",
+   "artist": "Hoshimachi Suisei Live 'SuperNova: REBOOT'",
+   "nameOrig": "Hoshimachi Suisei Live \"SuperNova: REBOOT\"",
+   "title": "Live Suisei w K-Arenie",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-02-21",
+   "dateEnd": "2026-02-21",
+   "stops": [
+    {
+     "date": "2026-02-21",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Hoshimachi Suisei"
+   ],
+   "search": [
+    "星街彗星 SuperNova REBOOT",
+    "星街すいせい SuperNova REBOOT",
+    "彗酱 K-Arena 2026 中字"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2026-02-15-teto-sonic-2026",
+   "artist": "TETO SONIC 2026",
+   "nameOrig": "TETO SONIC 2026",
+   "title": "Pierwszy DJ event Teto: Satsuki, Kasane producers, Jamie Paige (1. występ w JP), Yoshida Yasei, picco itd.",
+   "kind": "rave",
+   "region": "JP",
+   "dateStart": "2026-02-15",
+   "dateEnd": "2026-02-15",
+   "stops": [
+    {
+     "date": "2026-02-15",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "渋谷WOMB"
+    }
+   ],
+   "tags": [
+    "Teto",
+    "SynthV",
+    "UTAU",
+    "Satsuki",
+    "Jamie Paige",
+    "Yoshida Yasei"
+   ],
+   "search": [
+    "TETO SONIC 2026",
+    "重音テト DJ TETO SONIC",
+    "重音Teto DJ活动 TETO SONIC",
+    "Jamie Paige TETO SONIC DJ set",
+    "サツキ TETO SONIC",
+    "TETO SONIC SUMMER",
+    "テトソニック",
+    "重音テト DJ"
+   ],
+   "url": "https://teto-news.jp/events/archives/teto-sonic-2025"
+  },
+  {
+   "id": "asia-2026-02-14-decomiku-live-hello",
+   "artist": "DECO*27 presents Decomiku LIVE starring Hatsune Miku 'Hello'",
+   "nameOrig": "デコミク LIVE starring 初音ミク『Hello』Produced by DECO*27 / OTOIRO",
+   "title": "Pierwszy wielki solowy live DECO*27 z Miku w Yoyogi (gościnnie kemu i in.)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-02-14",
+   "dateEnd": "2026-02-14",
+   "stops": [
+    {
+     "date": "2026-02-14",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "国立代々木競技場第一体育館"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "DECO*27",
+    "kemu"
+   ],
+   "search": [
+    "DECO*27 演唱会 Hello 初音未来",
+    "デコミク LIVE Hello",
+    "DECO*27 初音未来 代代木 live 2026",
+    "【中字】デコミク LIVE Hello",
+    "DECO*27 Decomiku Live Hello full"
+   ],
+   "url": "https://deco27.com/"
+  },
+  {
+   "id": "asia-2026-02-11-house-park-2026",
+   "artist": "NILFRUITS 'HOUSE PARK 2026'",
+   "nameOrig": "HOUSE PARK 2026",
+   "title": "Live / DJ Niru Kajitsu",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-02-11",
+   "dateEnd": "2026-02-11",
+   "stops": [
+    {
+     "date": "2026-02-11",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "浅草花劇場"
+    }
+   ],
+   "tags": [
+    "Niru Kajitsu",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "HOUSE PARK 2026 煮ル果実",
+    "煮果实 live 2026"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2026-02-08-megaton-kick-26",
+   "artist": "HARDCORE TANO*C 'MEGATON KICK '26'",
+   "nameOrig": "MEGATON KICK '26",
+   "title": "Hardcore'owy event TANO*C (DJ Myosuke, USAO, t+pazolite, RoughSketch, Kobaryo...)",
+   "kind": "rave",
+   "region": "JP",
+   "dateStart": "2026-02-08",
+   "dateEnd": "2026-02-08",
+   "stops": [
+    {
+     "date": "2026-02-08",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "KT Zepp Yokohama"
+    }
+   ],
+   "tags": [
+    "J-core",
+    "TANO*C",
+    "t+pazolite",
+    "USAO",
+    "DJ Myosuke",
+    "RoughSketch",
+    "Kobaryo"
+   ],
+   "search": [
+    "MEGATON KICK 26",
+    "TANO*C MEGATON KICK 2026",
+    "t+pazolite MEGATON KICK DJ set",
+    "USAO MEGATON KICK 26"
+   ],
+   "url": "https://tano-c.net/zepp-project/"
+  },
+  {
+   "id": "asia-2026-02-07-snow-miku-2026",
+   "artist": "SNOW MIKU 2026 Live",
+   "nameOrig": "SNOW MIKU 2026（SNOW MIKU LIVE!）",
+   "title": "Zimowe mini-lives Snow Miku na Hokkaido (Otaru, Wing Bay)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-02-07",
+   "dateEnd": "2026-02-08",
+   "stops": [
+    {
+     "date": "2026-02-07",
+     "city": "Otaru",
+     "cc": "JP",
+     "venue": "ウイングベイ小樽"
+    },
+    {
+     "date": "2026-02-08",
+     "city": "Otaru",
+     "cc": "JP",
+     "venue": "ウイングベイ小樽"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Snow Miku"
+   ],
+   "search": [
+    "雪初音 2026 live",
+    "SNOW MIKU 2026 演唱会",
+    "SNOW MIKU LIVE! 2026",
+    "雪ミク 2026 ライブ",
+    "Snow Miku 2026 live Otaru"
+   ],
+   "url": "https://snowmiku.com/2026/"
+  },
+  {
+   "id": "asia-2026-01-24-pentatonic-2026",
+   "artist": "PENTATONIC (Vocaloid-origin artists fest)",
+   "nameOrig": "PENTATONIC",
+   "title": "Festiwal artystów ze sceny Vocaloid/Niconico: Ayase, YOASOBI, syudou, Surii, Tsumiki, balloon, natori, Chevon, DREAMERS",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2026-01-24",
+   "dateEnd": "2026-01-25",
+   "stops": [
+    {
+     "date": "2026-01-24",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "横浜BUNTAI"
+    },
+    {
+     "date": "2026-01-25",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "横浜BUNTAI"
+    }
+   ],
+   "tags": [
+    "Vocaloid",
+    "Ayase",
+    "syudou",
+    "Surii",
+    "Tsumiki",
+    "balloon",
+    "YOASOBI"
+   ],
+   "search": [
+    "PENTATONIC 2026 横浜BUNTAI",
+    "PENTATONIC syudou Ayase live",
+    "PENTATONIC すりぃ ツミキ バルーン",
+    "PENTATONIC 演唱会 2026"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2026-01-17-miku-lawson-50th",
+   "artist": "Hatsune Miku LAWSON 50th Anniversary Special LIVE",
+   "nameOrig": "初音ミク LAWSON 50th Anniversary Special LIVE",
+   "title": "Specjalny live Miku z okazji 50-lecia Lawsona",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-01-17",
+   "dateEnd": "2026-01-18",
+   "stops": [
+    {
+     "date": "2026-01-17",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "横浜アリーナ"
+    },
+    {
+     "date": "2026-01-18",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "横浜アリーナ"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "初音未来 罗森 50周年 演唱会",
+    "初音ミク LAWSON 50th Anniversary Special LIVE",
+    "Miku Lawson 50th live 横浜アリーナ"
+   ],
+   "url": "https://www.lawson.co.jp/"
+  },
+  {
+   "id": "asia-2026-01-17-hololive-3rd-gen-live",
+   "artist": "hololive 3rd Generation Live '#Kyururun Daisakusen'",
+   "nameOrig": "hololive 3rd Generation Live #きゅるるん大作戦 ～最強アイドル、推すしかないでしょ～",
+   "title": "Live 3. generacji (Pekora, Marine, Noel, Flare)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2026-01-17",
+   "dateEnd": "2026-01-18",
+   "stops": [
+    {
+     "date": "2026-01-17",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    },
+    {
+     "date": "2026-01-18",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Usada Pekora",
+    "Houshou Marine",
+    "Shirogane Noel",
+    "Shiranui Flare"
+   ],
+   "search": [
+    "hololive 三期生 live 中字",
+    "ホロライブ3期生ライブ きゅるるん大作戦",
+    "3期生 live K-Arena 2026",
+    "hololive fantasy live 2026"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-12-27-kagamine-birthday-beijing",
+   "artist": "Kagamine Rin & Len Birthday Concert (Beijing)",
+   "nameOrig": "镜音生日会演唱会",
+   "title": "Urodzinowy koncert Kagamine Rin/Len w Pekinie (fan/oficjalny live)",
+   "kind": "koncert",
+   "region": "CN",
+   "dateStart": "2025-12-27",
+   "dateEnd": "2025-12-27",
+   "stops": [
+    {
+     "date": "2025-12-27",
+     "city": "Pekin",
+     "cc": "CN",
+     "venue": "Mask Stage Livehouse"
+    }
+   ],
+   "tags": [
+    "Kagamine",
+    "Vocaloid"
+   ],
+   "search": [
+    "镜音生日会 2025 演唱会",
+    "镜音铃 镜音连 生日会 live 北京",
+    "镜音双子 生日 2025"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-12-20-miku-with-you-2025",
+   "artist": "MIKU WITH YOU 2025",
+   "nameOrig": "初音未来·未来有你2025演唱会",
+   "title": "Koncert Miku w Szanghaju",
+   "kind": "koncert",
+   "region": "CN",
+   "dateStart": "2025-12-20",
+   "dateEnd": "2025-12-21",
+   "stops": [
+    {
+     "date": "2025-12-20",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "上海静安体育中心"
+    },
+    {
+     "date": "2025-12-21",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "上海静安体育中心"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "MIKU WITH YOU",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "未来有你2025",
+    "初音未来 未来有你 2025 演唱会",
+    "未来有你2025 上海 全场",
+    "MIKU WITH YOU 2025 Shanghai"
+   ],
+   "url": "https://www.bilibili.com/"
+  },
+  {
+   "id": "asia-2025-12-20-mikuec-2025",
+   "artist": "MIKUEC 2025 (UEC Hatsune Miku Live)",
+   "nameOrig": "電気通信大学 初音ミクライブ \"MIKUEC\" 2025",
+   "title": "Studencki live Miku na Uniwersytecie Elektrokomunikacji (Chōfu, Tokio) – fan-made, bardzo popularny na nico/bili",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-12-20",
+   "dateEnd": "2025-12-21",
+   "stops": [
+    {
+     "date": "2025-12-20",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    },
+    {
+     "date": "2025-12-21",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MIKUEC2025",
+    "电通大 初音未来 live 2025",
+    "MIKUEC 2025 電通大 ミクライブ",
+    "UEC Miku live 2025"
+   ],
+   "url": "https://vocadb.net/Search?searchType=ReleaseEvent&filter=MIKUEC"
+  },
+  {
+   "id": "asia-2025-12-12-pjsk-colorful-live-5th",
+   "artist": "Project SEKAI COLORFUL LIVE 5th -Frontier-",
+   "nameOrig": "プロジェクトセカイ COLORFUL LIVE 5th - Frontier -",
+   "title": "Duży live Project SEKAI",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2025-12-12",
+   "dateEnd": "2026-01-25",
+   "stops": [
+    {
+     "date": "2025-12-12",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2025-12-13",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2025-12-14",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2026-01-23",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-01-24",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2026-01-25",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 5th live Frontier",
+    "プロセカ COLORFUL LIVE 5th Frontier",
+    "pjsk 5th live",
+    "【中字】世界计划 5th live Frontier",
+    "Project SEKAI 5th live Frontier"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2025-11-23-mikucrossing-06",
+   "artist": "MIKUCrossing♪ 06 (fan live)",
+   "nameOrig": "MIKUCrossing♪ 06",
+   "title": "Fanowski live MMD/Vocaloid",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-11-23",
+   "dateEnd": "2025-11-23",
+   "stops": [
+    {
+     "date": "2025-11-23",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京ビッグサイト"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MIKUCrossing♪ 06",
+    "MIKUCrossing 初音未来 fan live"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-11-19-azki-departure",
+   "artist": "AZKi SOLO LiVE 2025 'Departure'",
+   "nameOrig": "AZKi SOLO LiVE 2025 \"Departure\"",
+   "title": "Solowy live AZKi",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-11-19",
+   "dateEnd": "2025-11-19",
+   "stops": [
+    {
+     "date": "2025-11-19",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "ぴあアリーナMM"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "AZKi"
+   ],
+   "search": [
+    "AZKi solo live Departure 中字",
+    "AZKi SOLO LiVE 2025 Departure",
+    "AZKi 演唱会 2025"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-11-13-natori-sana-2nd-live",
+   "artist": "Natori Sana 2nd Live 'Dokuzensha'",
+   "nameOrig": "名取さな 2nd Live「独ゼン者」",
+   "title": "Drugi muzyczny live Natori Sany",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-11-13",
+   "dateEnd": "2025-11-13",
+   "stops": [
+    {
+     "date": "2025-11-13",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Haneda (TOKYO)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "名取纱那 2nd live",
+    "名取さな 2nd Live 独ゼン者",
+    "Natori Sana 2nd live"
+   ],
+   "url": "https://bakutan.natorisana.com/e/natorisana-2ndlive"
+  },
+  {
+   "id": "asia-2025-11-07-niru-kajitsu-mwland-china",
+   "artist": "Niru Kajitsu 'MWLÁND' China 2025",
+   "nameOrig": "煮ル果実「MWLÁND」in 北京/广州/上海",
+   "title": "Chiński etap MWLÁND",
+   "kind": "trasa",
+   "region": "CN",
+   "dateStart": "2025-11-07",
+   "dateEnd": "2025-11-09",
+   "stops": [
+    {
+     "date": "2025-11-07",
+     "city": "Pekin",
+     "cc": "CN",
+     "venue": "YUE SPACE"
+    },
+    {
+     "date": "2025-11-08",
+     "city": "Kanton",
+     "cc": "CN",
+     "venue": "OMNISPACE"
+    },
+    {
+     "date": "2025-11-09",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "Beach No.11 Park"
+    }
+   ],
+   "tags": [
+    "Niru Kajitsu",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "煮ル果実 MWLAND 上海",
+    "煮果实 中国巡演 2025",
+    "Niru Kajitsu MWLAND China"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-11-05-miku-expo-2025-asia",
+   "artist": "HATSUNE MIKU EXPO 2025 ASIA",
+   "nameOrig": "HATSUNE MIKU EXPO 2025 ASIA",
+   "title": "Pierwsza azjatycka trasa MIKU EXPO: Bangkok, Hongkong, Dżakarta, Manila, Singapur, Kuala Lumpur, Tajpej, Seul",
+   "kind": "trasa",
+   "region": "SG",
+   "dateStart": "2025-11-05",
+   "dateEnd": "2025-11-30",
+   "stops": [
+    {
+     "date": "2025-11-05",
+     "city": "Bangkok",
+     "cc": "TH",
+     "venue": "UOB LIVE"
+    },
+    {
+     "date": "2025-11-08",
+     "city": "Hongkong",
+     "cc": "HK",
+     "venue": "AsiaWorld-Arena"
+    },
+    {
+     "date": "2025-11-12",
+     "city": "Dżakarta",
+     "cc": "ID",
+     "venue": "Tennis Indoor Senayan"
+    },
+    {
+     "date": "2025-11-16",
+     "city": "Manila",
+     "cc": "PH",
+     "venue": "SM Mall of Asia Arena"
+    },
+    {
+     "date": "2025-11-19",
+     "city": "Singapur",
+     "cc": "SG",
+     "venue": "The Star Theatre"
+    },
+    {
+     "date": "2025-11-22",
+     "city": "Kuala Lumpur",
+     "cc": "MY",
+     "venue": "Idea Live KL"
+    },
+    {
+     "date": "2025-11-26",
+     "city": "Tajpej",
+     "cc": "TW",
+     "venue": "Taipei Arena (台北小巨蛋)"
+    },
+    {
+     "date": "2025-11-29",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "Korea University Hwajeong Gymnasium"
+    },
+    {
+     "date": "2025-11-30",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "Korea University Hwajeong Gymnasium"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka",
+    "MIKU EXPO"
+   ],
+   "search": [
+    "MIKU EXPO 2025 亚洲巡演",
+    "初音未来 MIKU EXPO 2025 ASIA 台北",
+    "MIKU EXPO 2025 新加坡",
+    "初音未来 演唱会 2025 首尔 MIKU EXPO",
+    "HATSUNE MIKU EXPO 2025 ASIA full concert",
+    "ミクエキスポ 2025 アジア"
+   ],
+   "url": "https://mikuexpo.com/"
+  },
+  {
+   "id": "asia-2025-10-18-pjsk-5th-anniv",
+   "artist": "Project SEKAI 5th Anniversary Thanksgiving Festival",
+   "nameOrig": "プロジェクトセカイ 5th Anniversary 感謝祭",
+   "title": "Event rocznicowy z seiyuu i live Virtual Singers",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-10-18",
+   "dateEnd": "2025-10-19",
+   "stops": [
+    {
+     "date": "2025-10-18",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京ガーデンシアター"
+    },
+    {
+     "date": "2025-10-19",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京ガーデンシアター"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 5周年 感谢祭",
+    "プロセカ 5th Anniversary 感謝祭",
+    "pjsk 5th anniversary 感谢祭 live",
+    "Project SEKAI 5th Anniversary festival"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2025-10-12-lively-paradise-2025",
+   "artist": "GUMI / Gakupo / Una Birthday Live Lively Paradise 2025",
+   "nameOrig": "GUMI がくぽ ウナ 誕生祭ライブ Lively Paradise 2025",
+   "title": "Urodzinowy live GUMI, Kamui Gakupo i Otomachi Uny (Internet Co.)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-10-12",
+   "dateEnd": "2025-10-12",
+   "stops": [
+    {
+     "date": "2025-10-12",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "harevutai"
+    }
+   ],
+   "tags": [
+    "GUMI",
+    "Vocaloid",
+    "Gakupo",
+    "Una"
+   ],
+   "search": [
+    "Lively Paradise 2025",
+    "GUMI 生日 live 2025",
+    "GUMI がくぽ ウナ 誕生祭ライブ",
+    "GUMI 神威乐步 音街鳗 演唱会"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-10-11-pinocchiop-creatures",
+   "artist": "PinocchioP one-man 'CREATURES'",
+   "nameOrig": "ピノキオピー ワンマンライブ「CREATURES」",
+   "title": "Solowy live PinocchioP",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-10-11",
+   "dateEnd": "2025-10-11",
+   "stops": [
+    {
+     "date": "2025-10-11",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "KT Zepp Yokohama"
+    }
+   ],
+   "tags": [
+    "PinocchioP",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "ピノキオピー CREATURES ライブ",
+    "匹诺曹P CREATURES live",
+    "PinocchioP CREATURES Zepp"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-10-03-kairiki-bear-2nd",
+   "artist": "Kairiki Bear 2nd one-man live 'Yamikawa Tokyo Paranoid'",
+   "nameOrig": "かいりきベア 2ndワンマンライブ『ヤミカワトーキョーパラノイド』",
+   "title": "Drugi solowy live Kairiki Bear",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-10-03",
+   "dateEnd": "2025-10-04",
+   "stops": [
+    {
+     "date": "2025-10-03",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    },
+    {
+     "date": "2025-10-04",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    }
+   ],
+   "tags": [
+    "Kairiki Bear",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "かいりきベア ヤミカワトーキョーパラノイド",
+    "怪力熊 2nd live 2025",
+    "Kairiki Bear 2nd one man live"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-09-21-kizuna-ai-homecoming",
+   "artist": "Kizuna AI Comeback Concert 'Homecoming'",
+   "nameOrig": "KizunaAI Comeback Concert \"Homecoming\"",
+   "title": "Powrót Kizuny AI na scenę",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-09-21",
+   "dateEnd": "2025-09-21",
+   "stops": [
+    {
+     "date": "2025-09-21",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Shinjuku (TOKYO)"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Kizuna AI"
+   ],
+   "search": [
+    "绊爱 回归 演唱会 Homecoming",
+    "キズナアイ Homecoming",
+    "Kizuna AI Homecoming concert"
+   ],
+   "url": "https://kizunaai.com/"
+  },
+  {
+   "id": "asia-2025-09-13-magicalplay-l-ve-vol-7",
+   "artist": "MAGICALPLAY L!VE vol.7 (Seoul Vocaloid fan live)",
+   "nameOrig": "MAGICALPLAY L!VE vol.7",
+   "title": "Koreański fanowski live Vocaloid",
+   "kind": "koncert",
+   "region": "KR",
+   "dateStart": "2025-09-13",
+   "dateEnd": "2025-09-14",
+   "stops": [
+    {
+     "date": "2025-09-13",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "창신아트홀"
+    },
+    {
+     "date": "2025-09-14",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "창신아트홀"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MAGICALPLAY L!VE vol.7",
+    "매지컬플레이 라이브 미쿠",
+    "MAGICALPLAY LIVE 初音未来 首尔"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-09-12-nayutan-seijin-10th",
+   "artist": "Nayutan Seijin 10th Anniversary China Tour",
+   "nameOrig": "星祝典 THE 10TH ANNIVERSARY",
+   "title": "Trasa ナユタン星人 (Nayutan Seijin) po Chinach z okazji 10-lecia",
+   "kind": "trasa",
+   "region": "CN",
+   "dateStart": "2025-09-12",
+   "dateEnd": "2025-09-14",
+   "stops": [
+    {
+     "date": "2025-09-12",
+     "city": "Pekin",
+     "cc": "CN",
+     "venue": "YUE Space"
+    },
+    {
+     "date": "2025-09-13",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "VAS ear"
+    },
+    {
+     "date": "2025-09-14",
+     "city": "Kanton",
+     "cc": "CN",
+     "venue": "疆进酒•OMNI SPACE 1号馆"
+    }
+   ],
+   "tags": [
+    "Vocaloid",
+    "Nayutan Seijin",
+    "Miku"
+   ],
+   "search": [
+    "ナユタン星人 星祝典 10周年",
+    "nayutan星人 中国巡演 2025",
+    "那由他星人 演唱会 上海",
+    "星祝典 THE 10TH ANNIVERSARY"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-09-10-mio-1st-live",
+   "artist": "Ookami Mio 1st Live 'Our Sparkle'",
+   "nameOrig": "大神ミオ 1st Live.「Our Sparkle」",
+   "title": "Pierwszy solowy live Mio",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-09-10",
+   "dateEnd": "2025-09-10",
+   "stops": [
+    {
+     "date": "2025-09-10",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "ぴあアリーナMM"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Ookami Mio"
+   ],
+   "search": [
+    "大神澪 1st live 中字",
+    "大神ミオ 1st Live Our Sparkle",
+    "Ookami Mio Our Sparkle"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-09-06-hololive-8th-fireworks",
+   "artist": "hololive production 8th Anniversary Fireworks ~Shiny Sparklers Symphony~",
+   "nameOrig": "~ hololive production 8th Anniversary Fireworks ~Shiny Sparklers Symphony",
+   "title": "Pokaz fajerwerków do muzyki hololive",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-09-06",
+   "dateEnd": "2025-09-06",
+   "stops": [
+    {
+     "date": "2025-09-06",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張海浜公園"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber"
+   ],
+   "search": [
+    "hololive 8周年 烟花",
+    "ホロライブ 8th Anniversary Fireworks",
+    "hololive fireworks 2025"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-08-29-anisama-2025",
+   "artist": "Animelo Summer Live 2025 -Thanxx!-",
+   "nameOrig": "Animelo Summer Live 2025 -Thanxx!-",
+   "title": "Największy festiwal anisong (Anisama)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-08-29",
+   "dateEnd": "2025-08-31",
+   "stops": [
+    {
+     "date": "2025-08-29",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    },
+    {
+     "date": "2025-08-30",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    },
+    {
+     "date": "2025-08-31",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    }
+   ],
+   "tags": [
+    "anisong",
+    "Anisama"
+   ],
+   "search": [
+    "Anisama 2025",
+    "Animelo Summer Live 2025 Thanxx! 中字",
+    "アニサマ2025",
+    "anisama 2025 全场",
+    "动画勋章 2025"
+   ],
+   "url": "https://anisama.tv/"
+  },
+  {
+   "id": "asia-2025-08-01-magical-mirai-2025",
+   "artist": "Hatsune Miku Magical Mirai 2025",
+   "nameOrig": "初音ミク「マジカルミライ 2025」",
+   "title": "Magical Mirai 2025 – coroczna trasa live + expo (Miku, Rin, Len, Luka, MEIKO, KAITO); Tokio = Makuhari Messe",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2025-08-01",
+   "dateEnd": "2025-08-31",
+   "stops": [
+    {
+     "date": "2025-08-01",
+     "city": "Sendai",
+     "cc": "JP",
+     "venue": "仙台サンプラザホール"
+    },
+    {
+     "date": "2025-08-02",
+     "city": "Sendai",
+     "cc": "JP",
+     "venue": "仙台サンプラザホール"
+    },
+    {
+     "date": "2025-08-03",
+     "city": "Sendai",
+     "cc": "JP",
+     "venue": "仙台サンプラザホール"
+    },
+    {
+     "date": "2025-08-09",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2025-08-10",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2025-08-11",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2025-08-29",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2025-08-30",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2025-08-31",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "魔法未来2025",
+    "初音未来 魔法未来 2025 演唱会",
+    "【中字】魔法未来2025 全场",
+    "マジカルミライ 2025 ライブ",
+    "Magical Mirai 2025 full concert",
+    "MM25 东京场 live"
+   ],
+   "url": "https://magicalmirai.com/2025/"
+  },
+  {
+   "id": "asia-2025-07-27-hololive-synchronize-tour",
+   "artist": "hololive STAGE World Tour '25 -Synchronize!-",
+   "nameOrig": "hololive STAGE World Tour '25 -Synchronize!-",
+   "title": "Zagraniczna trasa hololive (znane etapy azjatyckie: Hongkong, Tajpej)",
+   "kind": "trasa",
+   "region": "TW",
+   "dateStart": "2025-07-27",
+   "dateEnd": "2026-02-27",
+   "stops": [
+    {
+     "date": "2025-07-27",
+     "city": "Hongkong",
+     "cc": "HK",
+     "venue": "Hopewell Hotel Grand Ballroom"
+    },
+    {
+     "date": "2026-02-27",
+     "city": "Tajpej",
+     "cc": "TW",
+     "venue": "臺北流行音樂中心 戶外表演空間"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber"
+   ],
+   "search": [
+    "hololive Synchronize 世界巡演",
+    "hololive STAGE World Tour 25 台北",
+    "hololive 香港 live 2025"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-07-05-hololive-gamers-fes-2",
+   "artist": "hololive GAMERS fes. Cho-cho-cho-cho Gamers 2",
+   "nameOrig": "hololive GAMERS fes. 超超超超ゲーマーズ2",
+   "title": "Live/fes hololive GAMERS (2. edycja)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-07-05",
+   "dateEnd": "2025-07-06",
+   "stops": [
+    {
+     "date": "2025-07-05",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "GMOアリーナさいたま (Saitama Super Arena)"
+    },
+    {
+     "date": "2025-07-06",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "GMOアリーナさいたま (Saitama Super Arena)"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "hololive GAMERS"
+   ],
+   "search": [
+    "hololive GAMERS fes 2 中字",
+    "超超超超ゲーマーズ2",
+    "holo gamers fes 2025"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-06-15-sekai-symphony-2025",
+   "artist": "SEKAI SYMPHONY 2025",
+   "nameOrig": "セカイシンフォニー 2025",
+   "title": "Orkiestrowe koncerty muzyki Project SEKAI",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2025-06-15",
+   "dateEnd": "2025-11-30",
+   "stops": [
+    {
+     "date": "2025-06-15",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2025-11-30",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "グランキューブ大阪"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka",
+    "orkiestra"
+   ],
+   "search": [
+    "世界计划交响乐 2025",
+    "セカイシンフォニー 2025",
+    "pjsk 交响乐 2025",
+    "Sekai Symphony 2025 live"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2025-06-13-kamitsubaki-wars-2025",
+   "artist": "KAMITSUBAKI WARS 2025 Korakuen Front",
+   "nameOrig": "KAMITSUBAKI WARS 2025 神椿後楽園戦線",
+   "title": "Seria koncertów KAMITSUBAKI w TDC Hall (KAMITSUBAKI XPERIENCE, FES '25 OUR ONE-DAY WAR)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-06-13",
+   "dateEnd": "2025-11-02",
+   "stops": [
+    {
+     "date": "2025-06-13",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "TOKYO DOME CITY HALL"
+    },
+    {
+     "date": "2025-11-02",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "TOKYO DOME CITY HALL"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF"
+   ],
+   "search": [
+    "KAMITSUBAKI WARS 2025",
+    "神椿後楽園戦線 2025",
+    "KAMITSUBAKI FES 25 OUR ONE-DAY WAR",
+    "神椿 2025 中字"
+   ],
+   "url": "https://kamitsubaki.jp/"
+  },
+  {
+   "id": "asia-2025-05-10-nijisanji-world-tour-2025",
+   "artist": "NIJISANJI WORLD TOUR 2025 'Singin' in the Rainbow!'",
+   "nameOrig": "にじさんじ WORLD TOUR 2025 Singin’ in the Rainbow！",
+   "title": "Trasa 7-lecia NIJISANJI po Japonii",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2025-05-10",
+   "dateEnd": "2026-01-18",
+   "stops": [
+    {
+     "date": "2025-05-10",
+     "city": "Sendai",
+     "cc": "JP",
+     "venue": "仙台サンプラザホール"
+    },
+    {
+     "date": "2025-06-22",
+     "city": "Nagoja",
+     "cc": "JP",
+     "venue": "愛知県芸術劇場"
+    },
+    {
+     "date": "2025-07-21",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    },
+    {
+     "date": "2025-08-30",
+     "city": "Kobe",
+     "cc": "JP",
+     "venue": "神戸国際会館こくさいホール"
+    },
+    {
+     "date": "2025-09-13",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "福岡サンパレス"
+    },
+    {
+     "date": "2025-10-18",
+     "city": "Hiroszima",
+     "cc": "JP",
+     "venue": "広島文化学園HBGホール"
+    },
+    {
+     "date": "2026-01-18",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "TOYOTA ARENA TOKYO"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber"
+   ],
+   "search": [
+    "彩虹社 世界巡演 2025",
+    "にじさんじ Singin' in the Rainbow",
+    "にじさんじ WORLD TOUR 2025 中字",
+    "NIJISANJI world tour 2025"
+   ],
+   "url": "https://kai-you.net/article/91763"
+  },
+  {
+   "id": "asia-2025-04-26-chokaigi-2025",
+   "artist": "Niconico Chokaigi 2025 (Cho Vocanico / Cho Ongakusai / Cho Kabuki)",
+   "nameOrig": "ニコニコ超会議2025（超ボカニコ / 超音楽祭 / 超歌舞伎）",
+   "title": "Wielki festiwal Niconico: DJ sety Vocaloid P (超ボカニコ), 超音楽祭, 超歌舞伎 z Miku",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-04-26",
+   "dateEnd": "2025-04-27",
+   "stops": [
+    {
+     "date": "2025-04-26",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2025-04-27",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Vocaloid",
+    "Miku",
+    "niconico",
+    "VTuber"
+   ],
+   "search": [
+    "超会议2025 超BOCANICO",
+    "超ボカニコ2025",
+    "ニコニコ超会議2025 超音楽祭",
+    "超歌舞伎 2025 初音ミク",
+    "Chokaigi 2025 Vocaloid DJ"
+   ],
+   "url": "https://chokaigi.jp/"
+  },
+  {
+   "id": "asia-2025-04-19-miku-japan-tour-2025-blooming",
+   "artist": "Hatsune Miku JAPAN TOUR 2025 ~BLOOMING~",
+   "nameOrig": "初音ミク JAPAN LIVE TOUR 2025 ～BLOOMING～",
+   "title": "Trasa Zepp po Japonii (Osaka, Nagoja, Fukuoka, Tokio, Kagawa, Sapporo, Okinawa)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2025-04-19",
+   "dateEnd": "2025-05-31",
+   "stops": [
+    {
+     "date": "2025-04-19",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "Zepp Namba (OSAKA)"
+    },
+    {
+     "date": "2025-04-26",
+     "city": "Nagoja",
+     "cc": "JP",
+     "venue": "Zepp Nagoya"
+    },
+    {
+     "date": "2025-04-29",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "Zepp Fukuoka"
+    },
+    {
+     "date": "2025-05-02",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Haneda (TOKYO)"
+    },
+    {
+     "date": "2025-05-03",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Haneda (TOKYO)"
+    },
+    {
+     "date": "2025-05-06",
+     "city": "Takamatsu",
+     "cc": "JP",
+     "venue": "レクザムホール 大ホール"
+    },
+    {
+     "date": "2025-05-17",
+     "city": "Sapporo",
+     "cc": "JP",
+     "venue": "Zepp Sapporo"
+    },
+    {
+     "date": "2025-05-31",
+     "city": "Naha",
+     "cc": "JP",
+     "venue": "那覇文化芸術劇場なはーと 大劇場"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "初音未来 日本巡演 2025 BLOOMING",
+    "初音ミク JAPAN TOUR 2025 BLOOMING",
+    "初音未来 BLOOMING 演唱会 2025",
+    "Hatsune Miku Japan Tour 2025 Blooming"
+   ],
+   "url": "https://mikujapantour.com/"
+  },
+  {
+   "id": "asia-2025-04-19-pinocchiop-comet-asia",
+   "artist": "PinocchioP ASIA TOUR 'COMET'",
+   "nameOrig": "ピノキオピー ASIA TOUR “COMET”",
+   "title": "Azjatycka trasa PinocchioP: Szanghaj, Kanton, Osaka, Tokio, Seul, Tajpej, Hongkong",
+   "kind": "trasa",
+   "region": "CN",
+   "dateStart": "2025-04-19",
+   "dateEnd": "2025-05-20",
+   "stops": [
+    {
+     "date": "2025-04-19",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "上海 夢想劇場 (Bandai Namco Shanghai)"
+    },
+    {
+     "date": "2025-04-20",
+     "city": "Kanton",
+     "cc": "CN",
+     "venue": "MAO Livehouse Guangzhou"
+    },
+    {
+     "date": "2025-05-03",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "Zepp Namba (OSAKA)"
+    },
+    {
+     "date": "2025-05-08",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Haneda (TOKYO)"
+    },
+    {
+     "date": "2025-05-10",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "GABIN ART HALL"
+    },
+    {
+     "date": "2025-05-17",
+     "city": "Tajpej",
+     "cc": "TW",
+     "venue": "Zepp New Taipei"
+    },
+    {
+     "date": "2025-05-20",
+     "city": "Hongkong",
+     "cc": "HK",
+     "venue": "Kitty Woo Stadium"
+    }
+   ],
+   "tags": [
+    "PinocchioP",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "匹诺曹P 亚洲巡演 COMET",
+    "ピノキオピー ASIA TOUR COMET",
+    "匹诺曹P 上海 live 2025",
+    "PinocchioP COMET tour Taipei",
+    "匹诺曹P 演唱会 2025"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-04-12-takada-sakura-miku-live",
+   "artist": "Takada Night Sakura Miku Live",
+   "nameOrig": "高田夜サクラミクライブ！",
+   "title": "Live Sakura Miku w czasie hanami (Jōetsu, Niigata)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-04-12",
+   "dateEnd": "2025-04-12",
+   "stops": [
+    {
+     "date": "2025-04-12",
+     "city": "Joetsu",
+     "cc": "JP",
+     "venue": "高田城址公園"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Sakura Miku"
+   ],
+   "search": [
+    "高田城 樱初音 live 2025",
+    "高田夜サクラミクライブ",
+    "桜ミク 高田 2025"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-03-23-teto-live-2025",
+   "artist": "Kasane Teto x Asa 'Teto Live 2025'",
+   "nameOrig": "重音テト×亜沙 テトライブ2025",
+   "title": "Live Teto z zespołem Asy (twórca Teto-poprzedniczki)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-03-23",
+   "dateEnd": "2025-03-23",
+   "stops": [
+    {
+     "date": "2025-03-23",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "渋谷duo MUSIC EXCHANGE"
+    }
+   ],
+   "tags": [
+    "Teto",
+    "UTAU",
+    "SynthV",
+    "Asa"
+   ],
+   "search": [
+    "テトライブ2025",
+    "重音テト 生日 live 2025",
+    "重音Teto live 2025 亚沙",
+    "【中字】テトライブ2025",
+    "Kasane Teto live 2025"
+   ],
+   "url": "https://teto-news.jp/events/"
+  },
+  {
+   "id": "asia-2025-03-15-luka-16th-rondo-roseo",
+   "artist": "Megurine Luka 16th Anniversary ~Rondò Roseo~",
+   "nameOrig": "巡音ルカ 生誕16周年記念祭 ~Rondò Roseo~",
+   "title": "Urodziny Luki – live",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-03-15",
+   "dateEnd": "2025-03-15",
+   "stops": [
+    {
+     "date": "2025-03-15",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "浅草橋ヒューリックホール"
+    }
+   ],
+   "tags": [
+    "Luka",
+    "Vocaloid"
+   ],
+   "search": [
+    "巡音流歌 16周年 live",
+    "巡音ルカ 生誕16周年 Rondò Roseo"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-03-08-hololive-6th-fes",
+   "artist": "hololive 6th fes. Color Rise Harmony (+ hololive SUPER EXPO 2025)",
+   "nameOrig": "hololive 6th fes. Color Rise Harmony",
+   "title": "Główny festiwal 3D hololive (wszystkie generacje) + expo w Makuhari",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2025-03-08",
+   "dateEnd": "2025-03-09",
+   "stops": [
+    {
+     "date": "2025-03-08",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2025-03-09",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber"
+   ],
+   "search": [
+    "hololive 6th fes 中字",
+    "ホロライブ 6th fes Color Rise Harmony",
+    "hololive 6th fes Color Rise Harmony 全场",
+    "holo 6th fes DAY1",
+    "【中字】hololive 6th fes",
+    "hololive SUPER EXPO 2025"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-03-07-bakutan-2025",
+   "artist": "Natori Sana BAKUTAN 2025",
+   "nameOrig": "さなのばくたん。 -をやろうと思ったら異世界に転生していた件について- Powered by mouse",
+   "title": "Urodzinowy event Natori Sany w kinie Cinecitta (wszystkie sale)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-03-07",
+   "dateEnd": "2025-03-07",
+   "stops": [
+    {
+     "date": "2025-03-07",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "川崎チネチッタ (CINECITTA')"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "BAKUTAN"
+   ],
+   "search": [
+    "名取纱那 生日 live 2025",
+    "さなのばくたん。2025",
+    "名取さな ばくたん 2025",
+    "Natori Sana bakutan 2025"
+   ],
+   "url": "https://bakutan.natorisana.com/"
+  },
+  {
+   "id": "asia-2025-03-01-meikopia-2025",
+   "artist": "MEIKOPIA ~Wonderful Voyage~ Re:Score",
+   "nameOrig": "MEIKOPIA～Wonderful Voyage～Re:Score",
+   "title": "Live MEIKO",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-03-01",
+   "dateEnd": "2025-03-01",
+   "stops": [
+    {
+     "date": "2025-03-01",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "北とぴあ ドームホール"
+    }
+   ],
+   "tags": [
+    "MEIKO",
+    "Vocaloid"
+   ],
+   "search": [
+    "MEIKOPIA Re:Score",
+    "MEIKO live 2025"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-02-13-fubuki-1st-solo",
+   "artist": "Shirakami Fubuki 1st Solo Live FBKINGDOM 'ANTHEM'",
+   "nameOrig": "白上フブキ1stソロライブ FBKINGDOM \"ANTHEM\"",
+   "title": "Pierwszy solowy live Fubuki",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-02-13",
+   "dateEnd": "2025-02-13",
+   "stops": [
+    {
+     "date": "2025-02-13",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "ぴあアリーナMM"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Shirakami Fubuki"
+   ],
+   "search": [
+    "白上吹雪 1st solo live ANTHEM 中字",
+    "白上フブキ FBKINGDOM ANTHEM",
+    "FBK 1st live",
+    "Shirakami Fubuki ANTHEM full"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2025-02-11-miku-symphony-2025",
+   "artist": "Hatsune Miku Symphony 2025",
+   "nameOrig": "初音ミクシンフォニー2025 〜10th Anniversary〜",
+   "title": "Orkiestra symfoniczna gra utwory Vocaloid (Tokyo Philharmonic itp.) + wizualizacje Miku",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2025-02-11",
+   "dateEnd": "2025-12-27",
+   "stops": [
+    {
+     "date": "2025-02-11",
+     "city": "Sapporo",
+     "cc": "JP",
+     "venue": "札幌コンサートホールKitara"
+    },
+    {
+     "date": "2025-04-12",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "ザ・シンフォニーホール"
+    },
+    {
+     "date": "2025-07-06",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "サントリーホール"
+    },
+    {
+     "date": "2025-10-04",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2025-12-27",
+     "city": "Kobe",
+     "cc": "JP",
+     "venue": "神戸国際会館こくさいホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Luka",
+    "Kagamine",
+    "orkiestra"
+   ],
+   "search": [
+    "初音未来交响乐 2025",
+    "初音ミクシンフォニー2025",
+    "Miku Symphony 2025 交响音乐会",
+    "【中字】初音ミクシンフォニー 2025",
+    "Hatsune Miku Symphony 2025 orchestra"
+   ],
+   "url": "https://miku-symphony.com/"
+  },
+  {
+   "id": "asia-2025-02-11-house-park-2025",
+   "artist": "NILFRUITS 'HOUSE PARK 2025'",
+   "nameOrig": "HOUSE PARK 2025",
+   "title": "Live Niru Kajitsu z gośćmi: Iyowa, Kuriyama Yuri",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-02-11",
+   "dateEnd": "2025-02-11",
+   "stops": [
+    {
+     "date": "2025-02-11",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "浅草花劇場"
+    }
+   ],
+   "tags": [
+    "Niru Kajitsu",
+    "Vocaloid",
+    "Miku",
+    "Iyowa"
+   ],
+   "search": [
+    "HOUSE PARK 2025 煮ル果実",
+    "煮ル果実 いよわ HOUSE PARK",
+    "煮果实 いよわ live"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2025-02-08-snow-miku-2025",
+   "artist": "SNOW MIKU 2025 Live",
+   "nameOrig": "SNOW MIKU 2025（SNOW MIKU LIVE!）",
+   "title": "Zimowe mini-lives Snow Miku na Hokkaido (Otaru, Wing Bay)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-02-08",
+   "dateEnd": "2025-02-09",
+   "stops": [
+    {
+     "date": "2025-02-08",
+     "city": "Otaru",
+     "cc": "JP",
+     "venue": "ウイングベイ小樽"
+    },
+    {
+     "date": "2025-02-09",
+     "city": "Otaru",
+     "cc": "JP",
+     "venue": "ウイングベイ小樽"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Snow Miku"
+   ],
+   "search": [
+    "雪初音 2025 live",
+    "SNOW MIKU 2025 演唱会",
+    "SNOW MIKU LIVE! 2025",
+    "雪ミク 2025 ライブ",
+    "Snow Miku 2025 live Otaru"
+   ],
+   "url": "https://snowmiku.com/2025/"
+  },
+  {
+   "id": "asia-2025-02-01-suisei-supernova",
+   "artist": "Hoshimachi Suisei Nippon Budokan Live 'SuperNova'",
+   "nameOrig": "Hoshimachi Suisei 日本武道館 Live \"SuperNova\"",
+   "title": "Live Suisei w Budokanie",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2025-02-01",
+   "dateEnd": "2025-02-01",
+   "stops": [
+    {
+     "date": "2025-02-01",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "日本武道館"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Hoshimachi Suisei"
+   ],
+   "search": [
+    "星街彗星 SuperNova 武道馆",
+    "星街すいせい SuperNova 武道館",
+    "彗酱 SuperNova 中字"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2024-12-21-mikuec-2024",
+   "artist": "MIKUEC 2024 (UEC Hatsune Miku Live)",
+   "nameOrig": "電気通信大学 初音ミクライブ \"MIKUEC\" 2024",
+   "title": "Studencki live Miku na Uniwersytecie Elektrokomunikacji (Chōfu, Tokio) – fan-made, bardzo popularny na nico/bili",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-12-21",
+   "dateEnd": "2024-12-22",
+   "stops": [
+    {
+     "date": "2024-12-21",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    },
+    {
+     "date": "2024-12-22",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MIKUEC2024",
+    "电通大 初音未来 live 2024",
+    "MIKUEC 2024 電通大 ミクライブ",
+    "UEC Miku live 2024"
+   ],
+   "url": "https://vocadb.net/Search?searchType=ReleaseEvent&filter=MIKUEC"
+  },
+  {
+   "id": "asia-2024-12-13-pjsk-colorful-live-4th",
+   "artist": "Project SEKAI COLORFUL LIVE 4th -Unison-",
+   "nameOrig": "プロジェクトセカイ COLORFUL LIVE 4th - Unison -",
+   "title": "Duży live Project SEKAI",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-12-13",
+   "dateEnd": "2025-01-26",
+   "stops": [
+    {
+     "date": "2024-12-13",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2024-12-14",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2024-12-15",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2025-01-24",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2025-01-25",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2025-01-26",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 4th live Unison",
+    "プロセカ COLORFUL LIVE 4th Unison",
+    "pjsk 4th live",
+    "【中字】世界计划 4th live Unison",
+    "Project SEKAI 4th live Unison"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2024-12-07-marine-1st-live",
+   "artist": "Houshou Marine 1st Live 'Ahoy!! Kimitachi Minna Pirates'",
+   "nameOrig": "宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」",
+   "title": "Pierwszy solowy live Marine",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-12-07",
+   "dateEnd": "2024-12-08",
+   "stops": [
+    {
+     "date": "2024-12-07",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    },
+    {
+     "date": "2024-12-08",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "Kアリーナ横浜"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Houshou Marine"
+   ],
+   "search": [
+    "宝钟玛琳 1st live 中字",
+    "宝鐘マリン 1st ライブ Ahoy キミたちみんなパイレーツ",
+    "船长 1st live K-Arena",
+    "Houshou Marine 1st live full"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2024-12-01-afa-sg-2024",
+   "artist": "Anime Festival Asia Singapore 2024 – I Love Anisong",
+   "nameOrig": "AFA Singapore 2024 I Love Anisong",
+   "title": "Koncerty anisong + KAMITSUBAKI STUDIO na AFA",
+   "kind": "festiwal",
+   "region": "SG",
+   "dateStart": "2024-12-01",
+   "dateEnd": "2024-12-01",
+   "stops": [
+    {
+     "date": "2024-12-01",
+     "city": "Singapur",
+     "cc": "SG",
+     "venue": "Suntec Singapore Convention and Exhibition Centre"
+    }
+   ],
+   "tags": [
+    "anisong",
+    "KAMITSUBAKI",
+    "VTuber"
+   ],
+   "search": [
+    "AFA Singapore 2024 I Love Anisong",
+    "AFA 2024 新加坡 演唱会 花谱",
+    "AFA SG 2024 concert"
+   ],
+   "url": "https://animefestival.asia/"
+  },
+  {
+   "id": "asia-2024-11-26-niru-kajitsu-mwland-2024",
+   "artist": "Niru Kajitsu 'MWLÁND' tour 2024",
+   "nameOrig": "煮ル果実「MWLÁND」TOUR",
+   "title": "Trasa Niru Kajitsu + finał w Zepp Shinjuku (gość: Harumaki Gohan)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-11-26",
+   "dateEnd": "2024-12-27",
+   "stops": [
+    {
+     "date": "2024-11-26",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "UMEDA CLUB QUATTRO"
+    },
+    {
+     "date": "2024-11-28",
+     "city": "Sendai",
+     "cc": "JP",
+     "venue": "仙台 darwin"
+    },
+    {
+     "date": "2024-12-13",
+     "city": "Nagoja",
+     "cc": "JP",
+     "venue": "名古屋 CLUB QUATTRO"
+    },
+    {
+     "date": "2024-12-21",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "INSA Fukuoka"
+    },
+    {
+     "date": "2024-12-27",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Shinjuku (TOKYO)"
+    }
+   ],
+   "tags": [
+    "Niru Kajitsu",
+    "Vocaloid",
+    "Miku",
+    "Harumaki Gohan"
+   ],
+   "search": [
+    "煮ル果実 MWLAND ツアー",
+    "煮果实 MWLAND live",
+    "Niru Kajitsu MWLAND tour 2024"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-11-22-niru-kajitsu-fruitarium",
+   "artist": "Niru Kajitsu 'FRUITARIUM' China tour",
+   "nameOrig": "煮ル果実「FRUITARIUM」中国巡演",
+   "title": "Trasa Niru Kajitsu po Chinach",
+   "kind": "trasa",
+   "region": "CN",
+   "dateStart": "2024-11-22",
+   "dateEnd": "2024-11-24",
+   "stops": [
+    {
+     "date": "2024-11-22",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "ModernSkyLAB上海"
+    },
+    {
+     "date": "2024-11-22",
+     "city": "Shenzhen",
+     "cc": "CN",
+     "venue": "MAOLivehouse深圳"
+    },
+    {
+     "date": "2024-11-23",
+     "city": "Kanton",
+     "cc": "CN",
+     "venue": "疆进酒-OMNI SPACE"
+    },
+    {
+     "date": "2024-11-24",
+     "city": "Czengdu",
+     "cc": "CN",
+     "venue": "MAO Livehouse"
+    }
+   ],
+   "tags": [
+    "Niru Kajitsu",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "煮ル果実 FRUITARIUM 上海",
+    "煮果实 中国巡演 2024",
+    "Niru Kajitsu FRUITARIUM"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-11-14-suisei-spectra-of-nova",
+   "artist": "Hoshimachi Suisei Live Tour 2024 'Spectra of Nova'",
+   "nameOrig": "Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"",
+   "title": "Trasa halowa Suisei",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-11-14",
+   "dateEnd": "2024-12-28",
+   "stops": [
+    {
+     "date": "2024-11-14",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "GMOアリーナさいたま"
+    },
+    {
+     "date": "2024-12-10",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "おおきにアリーナ舞洲"
+    },
+    {
+     "date": "2024-12-28",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "福岡サンパレス ホテル&ホール"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Hoshimachi Suisei"
+   ],
+   "search": [
+    "星街彗星 Spectra of Nova",
+    "星街すいせい Spectra of Nova ツアー",
+    "彗酱 巡演 2024",
+    "Hoshimachi Suisei Spectra of Nova"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2024-11-02-kaf-kaika-re",
+   "artist": "KAF 4th ONE-MAN LIVE 'Kaika (Re)' & V.W.P 2nd 'Genshou II (Re)'",
+   "nameOrig": "花譜 4th ONE-MAN LIVE「怪歌（再）」/ V.W.P 2nd ONE-MAN LIVE「現象II（再）」",
+   "title": "Podwójny weekend KAMITSUBAKI w Makuhari",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-11-02",
+   "dateEnd": "2024-11-03",
+   "stops": [
+    {
+     "date": "2024-11-02",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ イベントホール"
+    },
+    {
+     "date": "2024-11-03",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ イベントホール"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF",
+    "V.W.P"
+   ],
+   "search": [
+    "花谱 怪歌 再 中字",
+    "花譜 怪歌（再）",
+    "V.W.P 現象II 再",
+    "KAF Kaika Re live"
+   ],
+   "url": "https://kamitsubaki.jp/"
+  },
+  {
+   "id": "asia-2024-10-26-miko-1st-live",
+   "artist": "Sakura Miko 1st Live 'flower fantasista!'",
+   "nameOrig": "さくらみこ 1st Live \"flower fantasista!\"",
+   "title": "Pierwszy solowy live Miko",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-10-26",
+   "dateEnd": "2024-10-26",
+   "stops": [
+    {
+     "date": "2024-10-26",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "有明アリーナ"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Sakura Miko"
+   ],
+   "search": [
+    "樱巫女 1st live 中字",
+    "さくらみこ 1st Live flower fantasista",
+    "miko 1st live 有明",
+    "Sakura Miko 1st live full"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2024-10-05-luo-tianyi-2024",
+   "artist": "Luo Tianyi 'Singing Universe: Infinite Resonance'",
+   "nameOrig": "歌行宇宙·无限共鸣",
+   "title": "Koncert Luo Tianyi (洛天依) z Aza i Gong Linna",
+   "kind": "koncert",
+   "region": "CN",
+   "dateStart": "2024-10-05",
+   "dateEnd": "2024-10-05",
+   "stops": [
+    {
+     "date": "2024-10-05",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "上海静安体育中心"
+    }
+   ],
+   "tags": [
+    "Vocaloid",
+    "Luo Tianyi",
+    "Vsinger"
+   ],
+   "search": [
+    "洛天依 歌行宇宙 无限共鸣",
+    "洛天依 演唱会 2024 上海",
+    "歌行宇宙·无限共鸣 全场",
+    "Luo Tianyi concert 2024"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-09-27-pjsk-4th-anniv",
+   "artist": "Project SEKAI 4th Anniversary Thanksgiving Festival",
+   "nameOrig": "プロジェクトセカイ 4th Anniversary 感謝祭",
+   "title": "Event rocznicowy z seiyuu i live Virtual Singers",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-09-27",
+   "dateEnd": "2024-09-28",
+   "stops": [
+    {
+     "date": "2024-09-27",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "横浜BUNTAI"
+    },
+    {
+     "date": "2024-09-28",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "横浜BUNTAI"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 4周年 感谢祭",
+    "プロセカ 4th Anniversary 感謝祭",
+    "pjsk 4th anniversary 感谢祭 live",
+    "Project SEKAI 4th Anniversary festival"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2024-09-19-natori-sana-1st-live",
+   "artist": "Natori Sana 1st Live 'Sanatoric Wave'",
+   "nameOrig": "名取さな 1st Live「サナトリック・ウェーブ」",
+   "title": "Pierwszy muzyczny live Natori Sany",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-09-19",
+   "dateEnd": "2024-09-19",
+   "stops": [
+    {
+     "date": "2024-09-19",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "EXシアター六本木"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana"
+   ],
+   "search": [
+    "名取纱那 1st live",
+    "名取さな 1st Live サナトリック・ウェーブ",
+    "Natori Sana 1st live"
+   ],
+   "url": "https://bakutan.natorisana.com/"
+  },
+  {
+   "id": "asia-2024-09-14-kamitsubaki-wars-2024",
+   "artist": "KAMITSUBAKI WARS 2024 Korakuen Front",
+   "nameOrig": "KAMITSUBAKI WARS 2024 神椿後楽園戦線 IN TOKYO DOME CITY HALL",
+   "title": "Seria koncertów KAMITSUBAKI w TDC Hall (m.in. KAF x RIM 'Singularity Live Vol.3')",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-09-14",
+   "dateEnd": "2024-09-14",
+   "stops": [
+    {
+     "date": "2024-09-14",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "TOKYO DOME CITY HALL"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF",
+    "RIM"
+   ],
+   "search": [
+    "KAMITSUBAKI WARS 2024",
+    "神椿後楽園戦線 2024",
+    "花谱 理芽 Singularity Live Vol.3"
+   ],
+   "url": "https://realsound.jp/2024/05/post-1678411.html"
+  },
+  {
+   "id": "asia-2024-08-30-anisama-2024",
+   "artist": "Animelo Summer Live 2024 -Stargazer-",
+   "nameOrig": "Animelo Summer Live 2024 -Stargazer-",
+   "title": "Największy festiwal anisong (Anisama)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-08-30",
+   "dateEnd": "2024-09-01",
+   "stops": [
+    {
+     "date": "2024-08-30",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    },
+    {
+     "date": "2024-08-31",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    },
+    {
+     "date": "2024-09-01",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    }
+   ],
+   "tags": [
+    "anisong",
+    "Anisama"
+   ],
+   "search": [
+    "Anisama 2024",
+    "Animelo Summer Live 2024 Stargazer 中字",
+    "アニサマ2024",
+    "anisama 2024 全场",
+    "动画勋章 2024"
+   ],
+   "url": "https://anisama.tv/"
+  },
+  {
+   "id": "asia-2024-08-17-magical-mirai-2024",
+   "artist": "Hatsune Miku Magical Mirai 2024",
+   "nameOrig": "初音ミク「マジカルミライ 2024」",
+   "title": "Magical Mirai 2024 – coroczna trasa live + expo (Miku, Rin, Len, Luka, MEIKO, KAITO); Tokio = Makuhari Messe",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-08-17",
+   "dateEnd": "2024-10-14",
+   "stops": [
+    {
+     "date": "2024-08-17",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "福岡サンパレス ホテル&ホール (live) / 福岡国際会議場"
+    },
+    {
+     "date": "2024-08-18",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "福岡サンパレス ホテル&ホール (live) / 福岡国際会議場"
+    },
+    {
+     "date": "2024-08-30",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2024-08-31",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2024-09-01",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2024-10-12",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2024-10-13",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2024-10-14",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "魔法未来2024",
+    "初音未来 魔法未来 2024 演唱会",
+    "【中字】魔法未来2024 全场",
+    "マジカルミライ 2024 ライブ",
+    "Magical Mirai 2024 full concert",
+    "MM24 东京场 live"
+   ],
+   "url": "https://magicalmirai.com/2024/"
+  },
+  {
+   "id": "asia-2024-08-10-lively-paradise-2024",
+   "artist": "GUMI / Gakupo / Una Birthday Live Lively Paradise 2024",
+   "nameOrig": "GUMI がくぽ ウナ 誕生祭ライブ Lively Paradise 2024",
+   "title": "Urodzinowy live GUMI, Kamui Gakupo i Otomachi Uny (Internet Co.)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-08-10",
+   "dateEnd": "2024-08-10",
+   "stops": [
+    {
+     "date": "2024-08-10",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "harevutai"
+    }
+   ],
+   "tags": [
+    "GUMI",
+    "Vocaloid",
+    "Gakupo",
+    "Una"
+   ],
+   "search": [
+    "Lively Paradise 2024",
+    "GUMI 生日 live 2024",
+    "GUMI がくぽ ウナ 誕生祭ライブ",
+    "GUMI 神威乐步 音街鳗 演唱会"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-08-08-kamitsubaki-fes-24",
+   "artist": "KAMITSUBAKI FES '24 THE DAY THE EARTH STOOD STILL",
+   "nameOrig": "KAMITSUBAKI FES '24 THE DAY THE EARTH STOOD STILL",
+   "title": "Festiwal KAMITSUBAKI",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-08-08",
+   "dateEnd": "2024-08-08",
+   "stops": [
+    {
+     "date": "2024-08-08",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF"
+   ],
+   "search": [
+    "神椿 FES 24",
+    "KAMITSUBAKI FES 24 中字",
+    "神椿 FES'24 THE DAY THE EARTH STOOD STILL"
+   ],
+   "url": "https://kamitsubaki.jp/"
+  },
+  {
+   "id": "asia-2024-07-28-pinocchiop-monstro",
+   "artist": "PinocchioP 2024 TOUR 'Monstro'",
+   "nameOrig": "ピノキオピー2024 TOUR「モンストロ」",
+   "title": "Trasa PinocchioP po Zeppach",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-07-28",
+   "dateEnd": "2024-08-23",
+   "stops": [
+    {
+     "date": "2024-07-28",
+     "city": "Sapporo",
+     "cc": "JP",
+     "venue": "Zepp Sapporo"
+    },
+    {
+     "date": "2024-08-03",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "Zepp Namba"
+    },
+    {
+     "date": "2024-08-04",
+     "city": "Nagoja",
+     "cc": "JP",
+     "venue": "Zepp Nagoya"
+    },
+    {
+     "date": "2024-08-16",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "Zepp Fukuoka"
+    },
+    {
+     "date": "2024-08-23",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    }
+   ],
+   "tags": [
+    "PinocchioP",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "ピノキオピー モンストロ ツアー",
+    "匹诺曹P 2024 巡演 モンストロ",
+    "PinocchioP Monstro tour 2024"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-07-14-kikuoland-go-round-asia",
+   "artist": "Kikuoland-Go-Round (Asia)",
+   "nameOrig": "Kikuoland-Go-Round (Asia)",
+   "title": "Azjatycka trasa Kikuo: Tokio, Kanton, Szanghaj, Pekin",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-07-14",
+   "dateEnd": "2024-08-04",
+   "stops": [
+    {
+     "date": "2024-07-14",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Spotify O-EAST"
+    },
+    {
+     "date": "2024-08-01",
+     "city": "Kanton",
+     "cc": "CN",
+     "venue": "声音共和 Livehouse"
+    },
+    {
+     "date": "2024-08-02",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "万代南梦宫上海文化中心"
+    },
+    {
+     "date": "2024-08-04",
+     "city": "Pekin",
+     "cc": "CN",
+     "venue": "北京 East LIVE"
+    }
+   ],
+   "tags": [
+    "Kikuo",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "Kikuoland-Go-Round 上海",
+    "kikuo 演唱会 2024 中国",
+    "kikuo live 北京 2024",
+    "Kikuoland Go Round Asia"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-07-13-miku-with-you-2024",
+   "artist": "MIKU WITH YOU 2024 (China tour)",
+   "nameOrig": "初音未来·未来有你2024 (上海站/北京站/广州站)",
+   "title": "Chińska trasa Miku (Szanghaj, Pekin, Kanton)",
+   "kind": "trasa",
+   "region": "CN",
+   "dateStart": "2024-07-13",
+   "dateEnd": "2024-07-28",
+   "stops": [
+    {
+     "date": "2024-07-13",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "交通银行前滩31演艺中心"
+    },
+    {
+     "date": "2024-07-14",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "交通银行前滩31演艺中心"
+    },
+    {
+     "date": "2024-07-20",
+     "city": "Pekin",
+     "cc": "CN",
+     "venue": "华熙LIVE·五棵松 M空间"
+    },
+    {
+     "date": "2024-07-21",
+     "city": "Pekin",
+     "cc": "CN",
+     "venue": "华熙LIVE·五棵松 M空间"
+    },
+    {
+     "date": "2024-07-27",
+     "city": "Kanton",
+     "cc": "CN",
+     "venue": "广东艺术剧院"
+    },
+    {
+     "date": "2024-07-28",
+     "city": "Kanton",
+     "cc": "CN",
+     "venue": "广东艺术剧院"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "MIKU WITH YOU",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "未来有你2024",
+    "初音未来 未来有你 2024 演唱会",
+    "未来有你 2024 上海站",
+    "未来有你 2024 北京站",
+    "未来有你 2024 广州站 全场",
+    "MIKU WITH YOU 2024 China"
+   ],
+   "url": "https://www.bilibili.com/"
+  },
+  {
+   "id": "asia-2024-06-08-sekai-symphony-2024",
+   "artist": "SEKAI SYMPHONY 2024",
+   "nameOrig": "セカイシンフォニー 2024",
+   "title": "Orkiestrowe koncerty muzyki Project SEKAI",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-06-08",
+   "dateEnd": "2024-07-20",
+   "stops": [
+    {
+     "date": "2024-06-08",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2024-07-20",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "グランキューブ大阪"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka",
+    "orkiestra"
+   ],
+   "search": [
+    "世界计划交响乐 2024",
+    "セカイシンフォニー 2024",
+    "pjsk 交响乐 2024",
+    "Sekai Symphony 2024 live"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2024-06-01-kafuec-2024",
+   "artist": "KAFUEC 2024 (UEC fan-made KAFU live)",
+   "nameOrig": "KAFUEC 2024",
+   "title": "Studencki live z syntezatorem KAFU (KAMITSUBAKI / CeVIO)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-06-01",
+   "dateEnd": "2024-06-02",
+   "stops": [
+    {
+     "date": "2024-06-01",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    },
+    {
+     "date": "2024-06-02",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "KAFU",
+    "fan-live"
+   ],
+   "search": [
+    "KAFUEC 2024",
+    "可不 电通大 live",
+    "KAFUEC 電通大 可不ライブ"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-05-26-luka-fantasia-2024",
+   "artist": "Luka Fantasia -LUKAFantasia-",
+   "nameOrig": "ルカファンタジア -LUKAFantasia-",
+   "title": "Live Megurine Luki",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-05-26",
+   "dateEnd": "2024-05-26",
+   "stops": [
+    {
+     "date": "2024-05-26",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "埼玉県県民活動総合センター 小ホール"
+    }
+   ],
+   "tags": [
+    "Luka",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "巡音ルカ ルカファンタジア",
+    "巡音流歌 live 2024"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-05-25-hololive-gamers-fes",
+   "artist": "hololive GAMERS fes. Cho-cho-cho-cho Gamers",
+   "nameOrig": "hololive GAMERS fes. 超超超超ゲーマーズ",
+   "title": "Live/fes hololive GAMERS",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-05-25",
+   "dateEnd": "2024-05-25",
+   "stops": [
+    {
+     "date": "2024-05-25",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "国立代々木競技場第一体育館"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "hololive GAMERS",
+    "Shirakami Fubuki"
+   ],
+   "search": [
+    "hololive GAMERS fes 中字",
+    "ホロライブ ゲーマーズ fes 超超超超ゲーマーズ",
+    "holo gamers fes 2024"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2024-04-29-kairiki-bear-1st",
+   "artist": "Kairiki Bear 1st one-man live 'Yamiaka Steroid'",
+   "nameOrig": "かいりきベア 1stワンマンライブ【病み垢ステロイド】",
+   "title": "Pierwszy solowy live Kairiki Bear",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-04-29",
+   "dateEnd": "2024-04-29",
+   "stops": [
+    {
+     "date": "2024-04-29",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Spotify O-EAST"
+    }
+   ],
+   "tags": [
+    "Kairiki Bear",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "かいりきベア 1stワンマン 病み垢ステロイド",
+    "怪力熊 live 2024",
+    "Kairiki Bear 1st live"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-04-27-miku-symphony-2024",
+   "artist": "Hatsune Miku Symphony 2024",
+   "nameOrig": "初音ミクシンフォニー2024 〜Luka 15th Anniversary〜",
+   "title": "Orkiestra symfoniczna gra utwory Vocaloid (Tokyo Philharmonic itp.) + wizualizacje Miku",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-04-27",
+   "dateEnd": "2024-12-29",
+   "stops": [
+    {
+     "date": "2024-04-27",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "サントリーホール"
+    },
+    {
+     "date": "2024-10-05",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2024-12-29",
+     "city": "Kobe",
+     "cc": "JP",
+     "venue": "神戸国際会館こくさいホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Luka",
+    "Kagamine",
+    "orkiestra"
+   ],
+   "search": [
+    "初音未来交响乐 2024",
+    "初音ミクシンフォニー2024",
+    "Miku Symphony 2024 交响音乐会",
+    "【中字】初音ミクシンフォニー 2024",
+    "Hatsune Miku Symphony 2024 orchestra"
+   ],
+   "url": "https://miku-symphony.com/"
+  },
+  {
+   "id": "asia-2024-04-27-mikucrossing-05",
+   "artist": "MIKUCrossing♪ 05 (fan live)",
+   "nameOrig": "MIKUCrossing♪ 05",
+   "title": "Fanowski live MMD/Vocaloid",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-04-27",
+   "dateEnd": "2024-04-28",
+   "stops": [
+    {
+     "date": "2024-04-27",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール (w ramach Chokaigi)"
+    },
+    {
+     "date": "2024-04-28",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール (w ramach Chokaigi)"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MIKUCrossing♪ 05",
+    "MIKUCrossing 初音未来 fan live"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-04-27-ado-shinzou-2024",
+   "artist": "Ado SPECIAL LIVE 2024 'Shinzou'",
+   "nameOrig": "Ado SPECIAL LIVE 2024「心臓」",
+   "title": "Ado na Stadionie Narodowym (gościnnie Miku: 'Kasaneteku' itp.)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-04-27",
+   "dateEnd": "2024-04-28",
+   "stops": [
+    {
+     "date": "2024-04-27",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "国立競技場 (MUFGスタジアム)"
+    },
+    {
+     "date": "2024-04-28",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "国立競技場 (MUFGスタジアム)"
+    }
+   ],
+   "tags": [
+    "Ado",
+    "Miku",
+    "utaite"
+   ],
+   "search": [
+    "Ado 心脏 国立竞技场",
+    "Ado SPECIAL LIVE 2024 心臓",
+    "Ado 初音未来 国立 live",
+    "【中字】Ado 心臓 国立競技場"
+   ],
+   "url": "https://www.ado-dokidokihimitsukichi-daigakuimo.com/"
+  },
+  {
+   "id": "asia-2024-04-27-chokaigi-2024",
+   "artist": "Niconico Chokaigi 2024 (Cho Vocanico / Cho Ongakusai / Cho Kabuki)",
+   "nameOrig": "ニコニコ超会議2024（超ボカニコ / 超音楽祭 / 超歌舞伎）",
+   "title": "Wielki festiwal Niconico: DJ sety Vocaloid P (超ボカニコ), 超音楽祭, 超歌舞伎 z Miku",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-04-27",
+   "dateEnd": "2024-04-28",
+   "stops": [
+    {
+     "date": "2024-04-27",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2024-04-28",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Vocaloid",
+    "Miku",
+    "niconico",
+    "VTuber"
+   ],
+   "search": [
+    "超会议2024 超BOCANICO",
+    "超ボカニコ2024",
+    "ニコニコ超会議2024 超音楽祭",
+    "超歌舞伎 2024 初音ミク",
+    "Chokaigi 2024 Vocaloid DJ"
+   ],
+   "url": "https://chokaigi.jp/"
+  },
+  {
+   "id": "asia-2024-04-26-miku-fireworks-2024",
+   "artist": "Hatsune Miku Happy 16th Birthday 'Music & Fire Works' -Time Capsule-",
+   "nameOrig": "\"初音ミク Happy 16th Birthday\"『Music & Fire Works』- Time Capsule -",
+   "title": "Pokaz fajerwerków do muzyki Miku w porcie Jokohama",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-04-26",
+   "dateEnd": "2024-04-26",
+   "stops": [
+    {
+     "date": "2024-04-26",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "山下ふ頭"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fajerwerki"
+   ],
+   "search": [
+    "初音未来 16周年 烟花 横滨",
+    "初音ミク Music & Fire Works Time Capsule",
+    "Miku fireworks Yokohama 2024"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-03-31-miku-fes-24",
+   "artist": "MIKU FES'24 (Spring) ~Happy 16th Birthday~",
+   "nameOrig": "MIKU FES'24（春）～Happy 16th Birthday～",
+   "title": "Urodzinowy koncert Miku w Budokanie",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-03-31",
+   "dateEnd": "2024-03-31",
+   "stops": [
+    {
+     "date": "2024-03-31",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "日本武道館"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "MIKU FES 24 武道馆",
+    "初音未来 16周年 武道馆 演唱会",
+    "MIKU FES'24 春 Happy 16th Birthday",
+    "Miku Fes 2024 Budokan"
+   ],
+   "url": "https://mikufes.com/"
+  },
+  {
+   "id": "asia-2024-03-16-hololive-5th-fes",
+   "artist": "hololive 5th fes. Capture the Moment (+ hololive SUPER EXPO 2024)",
+   "nameOrig": "hololive 5th fes. Capture the Moment",
+   "title": "Główny festiwal 3D hololive (wszystkie generacje) + expo w Makuhari",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2024-03-16",
+   "dateEnd": "2024-03-17",
+   "stops": [
+    {
+     "date": "2024-03-16",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2024-03-17",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "HoneyWorks"
+   ],
+   "search": [
+    "hololive 5th fes 中字",
+    "ホロライブ 5th fes Capture the Moment",
+    "hololive 5th fes Capture the Moment 全场",
+    "holo 5th fes DAY1",
+    "【中字】hololive 5th fes",
+    "hololive SUPER EXPO 2024"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2024-03-09-magicalplay-l-ve-39",
+   "artist": "MAGICALPLAY L!VE : 39 (Seoul Vocaloid fan live)",
+   "nameOrig": "MAGICALPLAY L!VE : 39",
+   "title": "Koreański fanowski live Vocaloid",
+   "kind": "koncert",
+   "region": "KR",
+   "dateStart": "2024-03-09",
+   "dateEnd": "2024-03-09",
+   "stops": [
+    {
+     "date": "2024-03-09",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "시립보라매청소년센터 다이나믹홀"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MAGICALPLAY L!VE : 39",
+    "매지컬플레이 라이브 미쿠",
+    "MAGICALPLAY LIVE 初音未来 首尔"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-03-07-bakutan-2024",
+   "artist": "Natori Sana BAKUTAN 2024",
+   "nameOrig": "さなのばくたん。 -王国からの招待状- Powered by mouse",
+   "title": "Urodzinowy event Natori Sany w kinie Cinecitta (wszystkie sale)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-03-07",
+   "dateEnd": "2024-03-07",
+   "stops": [
+    {
+     "date": "2024-03-07",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "川崎チネチッタ (CINECITTA')"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "BAKUTAN"
+   ],
+   "search": [
+    "名取纱那 生日 live 2024",
+    "さなのばくたん。2024",
+    "名取さな ばくたん 2024",
+    "Natori Sana bakutan 2024"
+   ],
+   "url": "https://bakutan.natorisana.com/"
+  },
+  {
+   "id": "asia-2024-02-20-mgo-1st-live",
+   "artist": "Midnight Grand Orchestra 1st LIVE 'Midnight Mission'",
+   "nameOrig": "Midnight Grand Orchestra 1st LIVE「Midnight Mission」",
+   "title": "Live duetu Suisei x TAKU INOUE",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-02-20",
+   "dateEnd": "2024-02-20",
+   "stops": [
+    {
+     "date": "2024-02-20",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Hoshimachi Suisei",
+    "TAKU INOUE"
+   ],
+   "search": [
+    "Midnight Grand Orchestra 1st live",
+    "星街彗星 TAKU INOUE live",
+    "ミッドナイトグランドオーケストラ Midnight Mission"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2024-02-10-snow-miku-2024",
+   "artist": "SNOW MIKU 2024 Live",
+   "nameOrig": "SNOW MIKU 2024（SNOW MIKU LIVE!）",
+   "title": "Zimowe mini-lives Snow Miku na Hokkaido (Otaru, Wing Bay)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-02-10",
+   "dateEnd": "2024-02-11",
+   "stops": [
+    {
+     "date": "2024-02-10",
+     "city": "Otaru",
+     "cc": "JP",
+     "venue": "ウイングベイ小樽"
+    },
+    {
+     "date": "2024-02-11",
+     "city": "Otaru",
+     "cc": "JP",
+     "venue": "ウイングベイ小樽"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Snow Miku"
+   ],
+   "search": [
+    "雪初音 2024 live",
+    "SNOW MIKU 2024 演唱会",
+    "SNOW MIKU LIVE! 2024",
+    "雪ミク 2024 ライブ",
+    "Snow Miku 2024 live Otaru"
+   ],
+   "url": "https://snowmiku.com/2024/"
+  },
+  {
+   "id": "asia-2024-02-04-tetofes-15th",
+   "artist": "Kasane Teto 15th Anniversary TETOFES",
+   "nameOrig": "重音テト15周年記念 TETOFES",
+   "title": "Jubileuszowy live 15-lecia Teto",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-02-04",
+   "dateEnd": "2024-02-04",
+   "stops": [
+    {
+     "date": "2024-02-04",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "調布市文化会館たづくり くすのきホール"
+    }
+   ],
+   "tags": [
+    "Teto",
+    "UTAU",
+    "SynthV"
+   ],
+   "search": [
+    "重音テト 15周年 TETOFES",
+    "重音Teto 15周年 live",
+    "TETOFES 2024",
+    "Kasane Teto 15th anniversary live"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2024-01-26-pjsk-colorful-live-3rd",
+   "artist": "Project SEKAI COLORFUL LIVE 3rd -Evolve-",
+   "nameOrig": "プロジェクトセカイ COLORFUL LIVE 3rd - Evolve -",
+   "title": "Duży live Project SEKAI",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2024-01-26",
+   "dateEnd": "2024-02-18",
+   "stops": [
+    {
+     "date": "2024-01-26",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2024-01-27",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2024-01-28",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2024-02-17",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2024-02-18",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 3rd live Evolve",
+    "プロセカ COLORFUL LIVE 3rd Evolve",
+    "pjsk 3rd live",
+    "【中字】世界计划 3rd live Evolve",
+    "Project SEKAI 3rd live Evolve"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2024-01-13-kamitsubaki-yoyogi-2024",
+   "artist": "KAMITSUBAKI Yoyogi Decisive Battle 2024",
+   "nameOrig": "神椿代々木決戦二〇二四",
+   "title": "Day1: V.W.P 2nd ONE-MAN「現象II-魔女拡成-」, Day2: KAF 4th ONE-MAN「怪歌」",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2024-01-13",
+   "dateEnd": "2024-01-14",
+   "stops": [
+    {
+     "date": "2024-01-13",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "国立代々木競技場第一体育館"
+    },
+    {
+     "date": "2024-01-14",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "国立代々木競技場第一体育館"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF",
+    "V.W.P"
+   ],
+   "search": [
+    "神椿代代木决战 2024",
+    "花谱 怪歌 中字",
+    "V.W.P 現象II 魔女拡成",
+    "神椿代々木決戦二〇二四",
+    "KAF 4th one man live Kaika"
+   ],
+   "url": "https://kamitsubaki.jp/"
+  },
+  {
+   "id": "asia-2023-12-24-miku-break-xmas",
+   "artist": "MIKU BREAK Xmas Party",
+   "nameOrig": "MIKU BREAK Xmas Party",
+   "title": "Świąteczna impreza/live Miku",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-12-24",
+   "dateEnd": "2023-12-24",
+   "stops": [
+    {
+     "date": "2023-12-24",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp Shinjuku (TOKYO)"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid"
+   ],
+   "search": [
+    "MIKU BREAK Xmas Party",
+    "初音未来 圣诞 live 2023 MIKU BREAK",
+    "MIKU BREAK 2023 ライブ"
+   ],
+   "url": "https://vocadb.net/Search?searchType=ReleaseEvent&filter=MIKU%20BREAK"
+  },
+  {
+   "id": "asia-2023-12-23-bang-acg-2023",
+   "artist": "BANG! ACG Music Festival 2023 (Taipei)",
+   "nameOrig": "BANG！ACG 音樂祭 2023",
+   "title": "Tajwański festiwal ACG z udziałem Miku",
+   "kind": "festiwal",
+   "region": "TW",
+   "dateStart": "2023-12-23",
+   "dateEnd": "2023-12-23",
+   "stops": [
+    {
+     "date": "2023-12-23",
+     "city": "Tajpej",
+     "cc": "TW",
+     "venue": "台北市花博公園 爭艷館"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "anisong"
+   ],
+   "search": [
+    "BANG ACG 音乐祭 2023 初音未来",
+    "BANG！ACG 音樂祭 2023 台北",
+    "初音未來 台北 2023 音樂祭"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-12-23-nijisanji-symphonia",
+   "artist": "NIJISANJI 5th Anniversary LIVE 'SYMPHONIA' (NIJISANJI Fes 2023)",
+   "nameOrig": "にじさんじ 5th Anniversary LIVE「SYMPHONIA」",
+   "title": "Live rocznicowy NIJISANJI w ramach にじさんじフェス2023",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2023-12-23",
+   "dateEnd": "2023-12-24",
+   "stops": [
+    {
+     "date": "2023-12-23",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京ビッグサイト"
+    },
+    {
+     "date": "2023-12-24",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京ビッグサイト"
+    }
+   ],
+   "tags": [
+    "NIJISANJI",
+    "VTuber"
+   ],
+   "search": [
+    "彩虹社 5周年 SYMPHONIA",
+    "にじさんじ SYMPHONIA 中字",
+    "にじさんじ 5th Anniversary LIVE SYMPHONIA",
+    "NIJISANJI SYMPHONIA full"
+   ],
+   "url": "https://kai-you.net/article/88502"
+  },
+  {
+   "id": "asia-2023-12-16-mikuec-2023",
+   "artist": "MIKUEC 2023 (UEC Hatsune Miku Live)",
+   "nameOrig": "電気通信大学 初音ミクライブ \"MIKUEC\" 2023",
+   "title": "Studencki live Miku na Uniwersytecie Elektrokomunikacji (Chōfu, Tokio) – fan-made, bardzo popularny na nico/bili",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-12-16",
+   "dateEnd": "2023-12-17",
+   "stops": [
+    {
+     "date": "2023-12-16",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    },
+    {
+     "date": "2023-12-17",
+     "city": "Chofu (Tokio)",
+     "cc": "JP",
+     "venue": "電気通信大学 アフラックホールUEC"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MIKUEC2023",
+    "电通大 初音未来 live 2023",
+    "MIKUEC 2023 電通大 ミクライブ",
+    "UEC Miku live 2023"
+   ],
+   "url": "https://vocadb.net/Search?searchType=ReleaseEvent&filter=MIKUEC"
+  },
+  {
+   "id": "asia-2023-12-06-pekora-1st-live",
+   "artist": "Usada Pekora 1st Live 'Usagi the MEGAMI!!'",
+   "nameOrig": "1st兎田ぺこらいぶ「うさぎ the MEGAMI!!」",
+   "title": "Pierwszy solowy live Pekory",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-12-06",
+   "dateEnd": "2023-12-06",
+   "stops": [
+    {
+     "date": "2023-12-06",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "有明アリーナ"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Usada Pekora"
+   ],
+   "search": [
+    "兔田佩克拉 1st live 中字",
+    "兎田ぺこら 1st うさぎ the MEGAMI",
+    "peko 1st live 有明",
+    "Usada Pekora 1st live MEGAMI"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2023-11-25-afa-sg-2023",
+   "artist": "Anime Festival Asia Singapore 2023 – I Love Anisong",
+   "nameOrig": "AFA Singapore 2023 I Love Anisong",
+   "title": "Koncerty anisong + hololive meet na AFA",
+   "kind": "festiwal",
+   "region": "SG",
+   "dateStart": "2023-11-25",
+   "dateEnd": "2023-11-25",
+   "stops": [
+    {
+     "date": "2023-11-25",
+     "city": "Singapur",
+     "cc": "SG",
+     "venue": "Suntec Singapore Convention and Exhibition Centre"
+    }
+   ],
+   "tags": [
+    "anisong",
+    "hololive",
+    "VTuber"
+   ],
+   "search": [
+    "AFA Singapore 2023 I Love Anisong",
+    "AFA 2023 新加坡 演唱会",
+    "AFA SG 2023 concert"
+   ],
+   "url": "https://animefestival.asia/"
+  },
+  {
+   "id": "asia-2023-10-28-magicalplay-l-ve-1",
+   "artist": "MAGICALPLAY L!VE 1 (Seoul Vocaloid fan live)",
+   "nameOrig": "MAGICALPLAY L!VE 1",
+   "title": "Koreański fanowski live Vocaloid",
+   "kind": "koncert",
+   "region": "KR",
+   "dateStart": "2023-10-28",
+   "dateEnd": "2023-10-29",
+   "stops": [
+    {
+     "date": "2023-10-28",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "안암 크리에이터스홀"
+    },
+    {
+     "date": "2023-10-29",
+     "city": "Seul",
+     "cc": "KR",
+     "venue": "안암 크리에이터스홀"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MAGICALPLAY L!VE 1",
+    "매지컬플레이 라이브 미쿠",
+    "MAGICALPLAY LIVE 初音未来 首尔"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-10-13-towa-1st-solo",
+   "artist": "Tokoyami Towa 1st Solo Live 'Break your ×××'",
+   "nameOrig": "常闇トワ 1st Solo Live \"Break your ×××\"",
+   "title": "Pierwszy solowy live Towy",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-10-13",
+   "dateEnd": "2023-10-13",
+   "stops": [
+    {
+     "date": "2023-10-13",
+     "city": "Tachikawa (Tokio)",
+     "cc": "JP",
+     "venue": "立川ステージガーデン"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Tokoyami Towa"
+   ],
+   "search": [
+    "常暗永远 1st live 中字",
+    "常闇トワ 1st Solo Live Break your",
+    "towa 1st solo live",
+    "Tokoyami Towa Break your xxx"
+   ],
+   "url": "https://www.famitsu.com/news/202310/17320594.html"
+  },
+  {
+   "id": "asia-2023-09-23-niru-kajitsu-fruitopia",
+   "artist": "Niru Kajitsu 'FRUITOPIÁ'",
+   "nameOrig": "煮ル果実「FRUITOPIÁ」",
+   "title": "Solowy live Niru Kajitsu",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-09-23",
+   "dateEnd": "2023-09-23",
+   "stops": [
+    {
+     "date": "2023-09-23",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "KT Zepp Yokohama"
+    }
+   ],
+   "tags": [
+    "Niru Kajitsu",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "煮ル果実 FRUITOPIA",
+    "煮果实 live 2023",
+    "Niru Kajitsu FRUITOPIA live"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-09-16-pjsk-3rd-anniv",
+   "artist": "Project SEKAI 3rd Anniversary Thanksgiving Festival",
+   "nameOrig": "プロジェクトセカイ 3rd Anniversary 感謝祭",
+   "title": "Event rocznicowy z seiyuu i live Virtual Singers",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-09-16",
+   "dateEnd": "2023-09-17",
+   "stops": [
+    {
+     "date": "2023-09-16",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "TOKYO DOME CITY HALL"
+    },
+    {
+     "date": "2023-09-17",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "TOKYO DOME CITY HALL"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 3周年 感谢祭",
+    "プロセカ 3rd Anniversary 感謝祭",
+    "pjsk 3rd anniversary 感谢祭 live",
+    "Project SEKAI 3rd Anniversary festival"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2023-09-13-blue-journey-1st",
+   "artist": "Blue Journey 1st Live 'Yoake no Uta'",
+   "nameOrig": "Blue Journey 1st Live「夜明けのうた」",
+   "title": "Live unitu hololive Blue Journey (m.in. Usada Pekora)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-09-13",
+   "dateEnd": "2023-09-13",
+   "stops": [
+    {
+     "date": "2023-09-13",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "東京ガーデンシアター"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Usada Pekora"
+   ],
+   "search": [
+    "Blue Journey 1st live 夜明けのうた",
+    "hololive Blue Journey 演唱会",
+    "Blue Journey 夜明けのうた 中字"
+   ],
+   "url": "https://hololivepro.com/"
+  },
+  {
+   "id": "asia-2023-08-29-miku-symphony-2023",
+   "artist": "Hatsune Miku Symphony 2023",
+   "nameOrig": "初音ミクシンフォニー2023",
+   "title": "Orkiestra symfoniczna gra utwory Vocaloid (Tokyo Philharmonic itp.) + wizualizacje Miku",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2023-08-29",
+   "dateEnd": "2023-12-23",
+   "stops": [
+    {
+     "date": "2023-08-29",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "サントリーホール"
+    },
+    {
+     "date": "2023-10-14",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    },
+    {
+     "date": "2023-12-23",
+     "city": "Kobe",
+     "cc": "JP",
+     "venue": "神戸国際会館こくさいホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Luka",
+    "Kagamine",
+    "orkiestra"
+   ],
+   "search": [
+    "初音未来交响乐 2023",
+    "初音ミクシンフォニー2023",
+    "Miku Symphony 2023 交响音乐会",
+    "【中字】初音ミクシンフォニー 2023",
+    "Hatsune Miku Symphony 2023 orchestra"
+   ],
+   "url": "https://miku-symphony.com/"
+  },
+  {
+   "id": "asia-2023-08-25-anisama-2023",
+   "artist": "Animelo Summer Live 2023 -AXEL-",
+   "nameOrig": "Animelo Summer Live 2023 -AXEL-",
+   "title": "Największy festiwal anisong (Anisama)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2023-08-25",
+   "dateEnd": "2023-08-27",
+   "stops": [
+    {
+     "date": "2023-08-25",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    },
+    {
+     "date": "2023-08-26",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    },
+    {
+     "date": "2023-08-27",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "さいたまスーパーアリーナ"
+    }
+   ],
+   "tags": [
+    "anisong",
+    "Anisama"
+   ],
+   "search": [
+    "Anisama 2023",
+    "Animelo Summer Live 2023 AXEL 中字",
+    "アニサマ2023",
+    "anisama 2023 全场",
+    "动画勋章 2023"
+   ],
+   "url": "https://anisama.tv/"
+  },
+  {
+   "id": "asia-2023-08-11-magical-mirai-2023",
+   "artist": "Hatsune Miku Magical Mirai 2023",
+   "nameOrig": "初音ミク「マジカルミライ 2023」",
+   "title": "Magical Mirai 2023 – coroczna trasa live + expo (Miku, Rin, Len, Luka, MEIKO, KAITO); Tokio = Makuhari Messe",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2023-08-11",
+   "dateEnd": "2023-09-03",
+   "stops": [
+    {
+     "date": "2023-08-11",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2023-08-12",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2023-08-13",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2023-09-01",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2023-09-02",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2023-09-03",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "魔法未来2023",
+    "初音未来 魔法未来 2023 演唱会",
+    "【中字】魔法未来2023 全场",
+    "マジカルミライ 2023 ライブ",
+    "Magical Mirai 2023 full concert",
+    "MM23 东京场 live"
+   ],
+   "url": "https://magicalmirai.com/2023/"
+  },
+  {
+   "id": "asia-2023-07-29-pinocchiop-mimic",
+   "artist": "PinocchioP one-man 'MIMIC'",
+   "nameOrig": "ピノキオピー ワンマンライブ「MIMIC（ミミック）」",
+   "title": "Solowy live PinocchioP",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-07-29",
+   "dateEnd": "2023-07-29",
+   "stops": [
+    {
+     "date": "2023-07-29",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "KT Zepp Yokohama"
+    }
+   ],
+   "tags": [
+    "PinocchioP",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "ピノキオピー MIMIC ライブ",
+    "匹诺曹P MIMIC live",
+    "PinocchioP MIMIC Zepp Yokohama"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-07-22-bml-2023",
+   "artist": "Bilibili Macro Link 2023 (BML2023)",
+   "nameOrig": "Bilibili Macro Link 2023",
+   "title": "Wielki koncert Bilibili (anisong/VTuber/Vocaloid); Miku na scenie 22.07",
+   "kind": "festiwal",
+   "region": "CN",
+   "dateStart": "2023-07-22",
+   "dateEnd": "2023-07-22",
+   "stops": [
+    {
+     "date": "2023-07-22",
+     "city": "Szanghaj",
+     "cc": "CN",
+     "venue": "梅赛德斯-奔驰文化中心"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "anisong",
+    "VTuber",
+    "bilibili"
+   ],
+   "search": [
+    "BML2023",
+    "BML 2023 初音未来",
+    "Bilibili Macro Link 2023 全场",
+    "BML2023 VR 初音未来 舞台"
+   ],
+   "url": "https://www.bilibili.com/"
+  },
+  {
+   "id": "asia-2023-07-15-mikucrossing-04",
+   "artist": "MIKUCrossing♪ 04 (fan live)",
+   "nameOrig": "MIKUCrossing♪ 04",
+   "title": "Fanowski live MMD/Vocaloid",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-07-15",
+   "dateEnd": "2023-07-16",
+   "stops": [
+    {
+     "date": "2023-07-15",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "埼玉県県民活動総合センター 小ホール"
+    },
+    {
+     "date": "2023-07-16",
+     "city": "Saitama",
+     "cc": "JP",
+     "venue": "埼玉県県民活動総合センター 小ホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "fan-live"
+   ],
+   "search": [
+    "MIKUCrossing♪ 04",
+    "MIKUCrossing 初音未来 fan live"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-06-10-sekai-symphony-2023",
+   "artist": "SEKAI SYMPHONY 2023",
+   "nameOrig": "セカイシンフォニー 2023",
+   "title": "Orkiestrowe koncerty muzyki Project SEKAI",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2023-06-10",
+   "dateEnd": "2023-06-10",
+   "stops": [
+    {
+     "date": "2023-06-10",
+     "city": "Jokohama",
+     "cc": "JP",
+     "venue": "パシフィコ横浜 国立大ホール"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka",
+    "orkiestra"
+   ],
+   "search": [
+    "世界计划交响乐 2023",
+    "セカイシンフォニー 2023",
+    "pjsk 交响乐 2023",
+    "Sekai Symphony 2023 live"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  },
+  {
+   "id": "asia-2023-06-03-miku-kodo-2023",
+   "artist": "Hatsune Miku x Kodo Special Live 2023 ~Musubi~",
+   "nameOrig": "初音ミク×鼓童スペシャルライブ２０２３ ～結～",
+   "title": "Miku z grupą bębnów taiko Kodo",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-06-03",
+   "dateEnd": "2023-06-04",
+   "stops": [
+    {
+     "date": "2023-06-03",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "NHKホール"
+    },
+    {
+     "date": "2023-06-04",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "NHKホール"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kodo",
+    "taiko"
+   ],
+   "search": [
+    "初音未来 鼓童 2023 结",
+    "初音ミク×鼓童 2023 結",
+    "Miku x Kodo 2023 live",
+    "初音未来×鼓童 太鼓 演唱会"
+   ],
+   "url": "https://www.kodo.or.jp/"
+  },
+  {
+   "id": "asia-2023-05-21-phi-ring-02",
+   "artist": "VOCALOID Φ-RING Ver.02",
+   "nameOrig": "VOCALOID Φ-RING Ver.02",
+   "title": "Fanowski live Vocaloid w Nagaoce",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-05-21",
+   "dateEnd": "2023-05-21",
+   "stops": [
+    {
+     "date": "2023-05-21",
+     "city": "Nagaoka",
+     "cc": "JP",
+     "venue": "シティホールプラザ アオーレ長岡"
+    }
+   ],
+   "tags": [
+    "Vocaloid",
+    "Miku",
+    "fan-live"
+   ],
+   "search": [
+    "VOCALOID Φ-RING Ver.02",
+    "ボカロ ファイリング 長岡"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-04-29-chokaigi-2023",
+   "artist": "Niconico Chokaigi 2023 (Cho Vocanico / Cho Ongakusai / Cho Kabuki)",
+   "nameOrig": "ニコニコ超会議2023（超ボカニコ / 超音楽祭 / 超歌舞伎）",
+   "title": "Wielki festiwal Niconico: DJ sety Vocaloid P (超ボカニコ), 超音楽祭, 超歌舞伎 z Miku",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2023-04-29",
+   "dateEnd": "2023-04-30",
+   "stops": [
+    {
+     "date": "2023-04-29",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2023-04-30",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "Vocaloid",
+    "Miku",
+    "niconico",
+    "VTuber"
+   ],
+   "search": [
+    "超会议2023 超BOCANICO",
+    "超ボカニコ2023",
+    "ニコニコ超会議2023 超音楽祭",
+    "超歌舞伎 2023 初音ミク",
+    "Chokaigi 2023 Vocaloid DJ"
+   ],
+   "url": "https://chokaigi.jp/"
+  },
+  {
+   "id": "asia-2023-03-30-kamitsubaki-fes-23",
+   "artist": "KAMITSUBAKI FES '23",
+   "nameOrig": "KAMITSUBAKI FES '23",
+   "title": "Festiwal labelu KAMITSUBAKI (KAF, RIM, Harusaruhi, Isekaijoucho, KOKO, V.W.P)",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2023-03-30",
+   "dateEnd": "2023-03-31",
+   "stops": [
+    {
+     "date": "2023-03-30",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    },
+    {
+     "date": "2023-03-31",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "豊洲PIT"
+    }
+   ],
+   "tags": [
+    "KAMITSUBAKI",
+    "VTuber",
+    "KAF",
+    "V.W.P"
+   ],
+   "search": [
+    "神椿 FES 23",
+    "KAMITSUBAKI FES 23 花谱",
+    "神椿 FES'23 中字"
+   ],
+   "url": "https://kamitsubaki.jp/"
+  },
+  {
+   "id": "asia-2023-03-21-kikuoland-2023",
+   "artist": "kikuoland (Tokyo)",
+   "nameOrig": "kikuoland",
+   "title": "Solowy live Kikuo",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-03-21",
+   "dateEnd": "2023-03-21",
+   "stops": [
+    {
+     "date": "2023-03-21",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "EX THEATER ROPPONGI"
+    }
+   ],
+   "tags": [
+    "Kikuo",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "kikuoland 2023",
+    "kikuo live 2023 东京",
+    "きくお kikuoland ライブ"
+   ],
+   "url": "https://vocadb.net/"
+  },
+  {
+   "id": "asia-2023-03-18-hololive-4th-fes",
+   "artist": "hololive 4th fes. Our Bright Parade (+ hololive SUPER EXPO 2023)",
+   "nameOrig": "hololive 4th fes. Our Bright Parade",
+   "title": "Główny festiwal 3D hololive (wszystkie generacje) + expo w Makuhari",
+   "kind": "festiwal",
+   "region": "JP",
+   "dateStart": "2023-03-18",
+   "dateEnd": "2023-03-19",
+   "stops": [
+    {
+     "date": "2023-03-18",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2023-03-19",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "DECO*27",
+    "holo*27"
+   ],
+   "search": [
+    "hololive 4th fes 中字",
+    "ホロライブ 4th fes Our Bright Parade",
+    "hololive 4th fes Our Bright Parade 全场",
+    "holo 4th fes DAY1",
+    "【中字】hololive 4th fes",
+    "hololive SUPER EXPO 2023"
+   ],
+   "url": "https://hololivesuperexpo2023.hololivepro.com/"
+  },
+  {
+   "id": "asia-2023-03-07-bakutan-2023",
+   "artist": "Natori Sana BAKUTAN 2023",
+   "nameOrig": "さなのばくたん。 -ハロー･マイ･バースデイ- Powered by mouse",
+   "title": "Urodzinowy event Natori Sany w kinie Cinecitta (wszystkie sale)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-03-07",
+   "dateEnd": "2023-03-07",
+   "stops": [
+    {
+     "date": "2023-03-07",
+     "city": "Kawasaki",
+     "cc": "JP",
+     "venue": "川崎チネチッタ (CINECITTA')"
+    }
+   ],
+   "tags": [
+    "VTuber",
+    "Natori Sana",
+    "BAKUTAN"
+   ],
+   "search": [
+    "名取纱那 生日 live 2023",
+    "さなのばくたん。2023",
+    "名取さな ばくたん 2023",
+    "Natori Sana bakutan 2023"
+   ],
+   "url": "https://bakutan.natorisana.com/"
+  },
+  {
+   "id": "asia-2023-02-23-miku-japan-tour-2023-thunderbolt",
+   "artist": "Hatsune Miku JAPAN TOUR 2023 ~THUNDERBOLT~",
+   "nameOrig": "初音ミク JAPAN TOUR 2023 ～THUNDERBOLT～",
+   "title": "Trasa Zepp po Japonii (Miku + crypton six)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2023-02-23",
+   "dateEnd": "2023-03-25",
+   "stops": [
+    {
+     "date": "2023-02-23",
+     "city": "Nagoja",
+     "cc": "JP",
+     "venue": "Zepp Nagoya"
+    },
+    {
+     "date": "2023-03-04",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "Zepp Namba (OSAKA)"
+    },
+    {
+     "date": "2023-03-11",
+     "city": "Fukuoka",
+     "cc": "JP",
+     "venue": "Zepp Fukuoka"
+    },
+    {
+     "date": "2023-03-18",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp DiverCity (TOKYO)"
+    },
+    {
+     "date": "2023-03-19",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "Zepp DiverCity (TOKYO)"
+    },
+    {
+     "date": "2023-03-25",
+     "city": "Sapporo",
+     "cc": "JP",
+     "venue": "Zepp Sapporo"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "初音未来 日本巡演 2023 THUNDERBOLT",
+    "初音ミク JAPAN TOUR 2023 THUNDERBOLT",
+    "初音未来 THUNDERBOLT 演唱会",
+    "Hatsune Miku Japan Tour 2023 Thunderbolt full"
+   ],
+   "url": "https://mikujapantour.com/"
+  },
+  {
+   "id": "asia-2023-02-04-magical-mirai-10th-sapporo",
+   "artist": "Hatsune Miku Magical Mirai 10th Anniversary in Sapporo",
+   "nameOrig": "初音ミク「マジカルミライ」10th Anniversary in SAPPORO",
+   "title": "Magical Mirai 10th – dodatkowy etap w Sapporo (Miku, Rin, Len, Luka, MEIKO, KAITO)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-02-04",
+   "dateEnd": "2023-02-05",
+   "stops": [
+    {
+     "date": "2023-02-04",
+     "city": "Sapporo",
+     "cc": "JP",
+     "venue": "札幌文化芸術劇場 hitaru"
+    },
+    {
+     "date": "2023-02-05",
+     "city": "Sapporo",
+     "cc": "JP",
+     "venue": "札幌文化芸術劇場 hitaru"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "魔法未来10周年 札幌",
+    "初音未来 魔法未来 10th 札幌 演唱会",
+    "【中字】魔法未来2022 10周年 札幌公演",
+    "マジカルミライ 10th Anniversary 札幌",
+    "Magical Mirai 10th Anniversary Sapporo full concert"
+   ],
+   "url": "https://magicalmirai.com/2022/"
+  },
+  {
+   "id": "asia-2023-02-04-snow-miku-2023",
+   "artist": "SNOW MIKU 2023 Live",
+   "nameOrig": "SNOW MIKU 2023（SNOW MIKU LIVE!）",
+   "title": "Zimowe mini-lives Snow Miku na Hokkaido (Otaru, Wing Bay)",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-02-04",
+   "dateEnd": "2023-02-05",
+   "stops": [
+    {
+     "date": "2023-02-04",
+     "city": "Otaru",
+     "cc": "JP",
+     "venue": "ウイングベイ小樽"
+    },
+    {
+     "date": "2023-02-05",
+     "city": "Otaru",
+     "cc": "JP",
+     "venue": "ウイングベイ小樽"
+    }
+   ],
+   "tags": [
+    "Miku",
+    "Vocaloid",
+    "Snow Miku"
+   ],
+   "search": [
+    "雪初音 2023 live",
+    "SNOW MIKU 2023 演唱会",
+    "SNOW MIKU LIVE! 2023",
+    "雪ミク 2023 ライブ",
+    "Snow Miku 2023 live Otaru"
+   ],
+   "url": "https://snowmiku.com/2023/"
+  },
+  {
+   "id": "asia-2023-01-28-pinocchiop-parallel-egg",
+   "artist": "PinocchioP one-man 'Parallel Egg+ in LIQUIDROOM'",
+   "nameOrig": "ピノキオピー ワンマンライブ「パラレルエッグ＋ in LIQUIDROOM」",
+   "title": "Solowy live PinocchioP",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-01-28",
+   "dateEnd": "2023-01-28",
+   "stops": [
+    {
+     "date": "2023-01-28",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "恵比寿LIQUIDROOM"
+    }
+   ],
+   "tags": [
+    "PinocchioP",
+    "Vocaloid",
+    "Miku"
+   ],
+   "search": [
+    "ピノキオピー パラレルエッグ",
+    "匹诺曹P live 2023",
+    "PinocchioP Parallel Egg live"
+   ],
+   "url": "https://www.eventernote.com/actors/%E3%83%94%E3%83%8E%E3%82%AD%E3%82%AA%E3%83%94%E3%83%BC/17861/events"
+  },
+  {
+   "id": "asia-2023-01-28-suisei-shout-in-crisis",
+   "artist": "Hoshimachi Suisei 2nd Solo Live 'Shout in Crisis'",
+   "nameOrig": "星街すいせい 2nd Solo Live \"Shout in Crisis\"",
+   "title": "Solowy live Suisei w Budokanie",
+   "kind": "koncert",
+   "region": "JP",
+   "dateStart": "2023-01-28",
+   "dateEnd": "2023-01-28",
+   "stops": [
+    {
+     "date": "2023-01-28",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "日本武道館"
+    }
+   ],
+   "tags": [
+    "hololive",
+    "VTuber",
+    "Hoshimachi Suisei"
+   ],
+   "search": [
+    "星街彗星 Shout in Crisis 中字",
+    "星街すいせい 武道館 Shout in Crisis",
+    "彗酱 武道馆 live",
+    "Hoshimachi Suisei Shout in Crisis full"
+   ],
+   "url": "https://hololive.hololivepro.com/"
+  },
+  {
+   "id": "asia-2023-01-07-pjsk-colorful-live-2nd",
+   "artist": "Project SEKAI COLORFUL LIVE 2nd -Will-",
+   "nameOrig": "プロジェクトセカイ COLORFUL LIVE 2nd - Will -",
+   "title": "Duży live Project SEKAI (5 unitów + Virtual Singers)",
+   "kind": "trasa",
+   "region": "JP",
+   "dateStart": "2023-01-07",
+   "dateEnd": "2023-02-26",
+   "stops": [
+    {
+     "date": "2023-01-07",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2023-01-08",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2023-01-09",
+     "city": "Chiba",
+     "cc": "JP",
+     "venue": "幕張メッセ 国際展示場ホール"
+    },
+    {
+     "date": "2023-02-25",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    },
+    {
+     "date": "2023-02-26",
+     "city": "Osaka",
+     "cc": "JP",
+     "venue": "インテックス大阪"
+    }
+   ],
+   "tags": [
+    "Project SEKAI",
+    "Miku",
+    "Vocaloid",
+    "Kagamine",
+    "Luka"
+   ],
+   "search": [
+    "世界计划 2nd live Will",
+    "プロセカ COLORFUL LIVE 2nd Will",
+    "pjsk 2nd live",
+    "【中字】世界计划 彩色舞台 2nd live",
+    "Project SEKAI 2nd live Will"
+   ],
+   "url": "https://pjsekai.sega.jp/"
+  }
+ ]
+}
