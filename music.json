@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:47:59Z",
+ "updated": "2026-10-16T04:42:03Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -48,6 +48,18 @@
    "title": "Sun On The Sea (feat. Alina Enn)",
    "url": "https://music.apple.com/jp/album/sun-on-the-sea-feat-alina-enn-single/6814819013?uo=4",
    "id": "rumaki-sun-on-the-sea"
+  },
+  {
+   "about": "Producent vocaloidowy/Synthesizer V tworzący elektroniczne single z głosem Una.",
+   "artist": "Capchii feat. AI 音街ウナ Sugar",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Zapowiedziana premiera (25.10): melodyjny, elektroniczny singiel z wokalem AI Otomachi Una.",
+   "title": "Swell",
+   "url": "https://vocadb.net/S/1046905",
+   "id": "capchii-swell"
   },
   {
    "about": "Koreański producent z kręgu Vocaloid/Project SEKAI i gier rytmicznych.",
@@ -122,6 +134,138 @@
    "id": "qiyijiu-luo-tianyi-qiutang-lian-ai-shouce"
   },
   {
+   "about": "023P – producent vocaloidowy współpracujący z Kasane Teto.",
+   "artist": "023P & 重音テト",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowa wersja „Capture My Picture” z wokalem Teto.",
+   "title": "Capture My Picture (Reloaded)",
+   "url": "https://music.apple.com/jp/album/capture-my-picture-reloaded-single/6820921646?uo=4",
+   "id": "023p-kasane-teto-capture-my-picture-reloaded"
+  },
+  {
+   "about": "Ado – japońska wokalistka znana z „Usseewa” i „Show” (One Piece Film: Red).",
+   "artist": "Ado",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel Ado, mroczny i dynamiczny rockowy klimat.",
+   "title": "Raven Sky",
+   "url": "https://music.apple.com/jp/album/raven-sky-single/6819493309?uo=4",
+   "id": "ado-raven-sky"
+  },
+  {
+   "about": "Aku P – producent vocaloidowy śpiewający także po hiszpańsku.",
+   "artist": "Aku P feat. 鏡音リン",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Hiszpańskojęzyczny utwór z głosem Kagamine Rin.",
+   "title": "alguna vez",
+   "url": "https://vocadb.net/S/1047008",
+   "id": "aku-p-alguna-vez"
+  },
+  {
+   "about": "Aku P – producent vocaloidowy tworzący po angielsku/hiszpańsku z głosami GUMI i Rin.",
+   "artist": "Aku P",
+   "foundAt": "2026-10-16",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Album Aku P zebrany w sezon; razem wyszło kilka singli (it's happening again, alguna vez i inne).",
+   "title": "Brain Implosion Side Effects: Season 1",
+   "url": "https://music.apple.com/jp/album/brain-implosion-side-effects-season-1/6822422816?uo=4",
+   "id": "aku-p-brain-implosion-side-effects-season-1"
+  },
+  {
+   "about": "Aku P – producent vocaloidowy z angielskim GUMI.",
+   "artist": "Aku P feat. V3 GUMI (English)",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Singiel z albumu Brain Implosion Side Effects, wokal GUMI English.",
+   "title": "it's happening again",
+   "url": "https://vocadb.net/S/1047010",
+   "id": "aku-p-it-s-happening-again"
+  },
+  {
+   "about": "Aku P – producent vocaloidowy.",
+   "artist": "Aku P feat. 鏡音リン",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Hiszpańskojęzyczny singiel z Kagamine Rin.",
+   "title": "no te puedo olvidar",
+   "url": "https://vocadb.net/S/1047009",
+   "id": "aku-p-no-te-puedo-olvidar"
+  },
+  {
+   "about": "Aku P – producent vocaloidowy.",
+   "artist": "Aku P",
+   "foundAt": "2026-10-16",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Hiszpańskojęzyczny utwór/cover z tego samego wydania.",
+   "title": "se repite",
+   "url": "https://vocadb.net/S/1047012",
+   "id": "aku-p-se-repite"
+  },
+  {
+   "about": "Aku P – producent vocaloidowy.",
+   "artist": "Aku P",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel z albumu Brain Implosion Side Effects.",
+   "title": "something new",
+   "url": "https://vocadb.net/S/1047011",
+   "id": "aku-p-something-new"
+  },
+  {
+   "about": "Arianne – artystka z listy obserwowanych.",
+   "artist": "Arianne",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel po portugalsku.",
+   "title": "Olhos no Espelho",
+   "url": "https://music.apple.com/jp/album/olhos-no-espelho-single/6819897464?uo=4",
+   "id": "arianne-olhos-no-espelho"
+  },
+  {
+   "about": "Zundamon – maskotka głosowa VOICEVOX, bardzo popularna w memach i piosenkach fanowskich.",
+   "artist": "ほねまる & ずんだもん",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Singiel z głosem Zundamon, lekki, imprezowy klimat.",
+   "title": "BAR BONE",
+   "url": "https://music.apple.com/jp/album/bar-bone-single/6823052307?uo=4",
+   "id": "honemaru-zundamon-bar-bone"
+  },
+  {
+   "about": "Kasane Teto – popularny głos UTAU/Synthesizer V, tu w duecie z producentem 干ししいたけ.",
+   "artist": "干ししいたけ & 重音テト",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Singiel w wersji Single Edit z wokalem Teto, zadziorny klimat vocaloidowy.",
+   "title": "Silent Howling (Single Edit)",
+   "url": "https://music.apple.com/jp/album/silent-howling-single-edit-single/6815957439?uo=4",
+   "id": "hoshishiitake-kasane-teto-silent-howling"
+  },
+  {
    "about": "キノシタ (Kinoshita) – producent Vocaloid związany z głosem Otomachi Una.",
    "artist": "キノシタ feat. 音街ウナ Sugar",
    "foundAt": "2026-10-15",
@@ -134,6 +278,114 @@
    "id": "kinoshita-unanight-disco"
   },
   {
+   "about": "Kobaryo – japoński producent rytmicznych/hardcore’owych utworów do gier muzycznych.",
+   "artist": "Kobaryo",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Szybki, agresywny kawałek elektroniczny.",
+   "title": "Screaming Steel Sheet",
+   "url": "https://music.apple.com/jp/album/screaming-steel-sheet-single/6821007299?uo=4",
+   "id": "kobaryo-screaming-steel-sheet"
+  },
+  {
+   "about": "Kotoha – wokalistka z listy obserwowanych artystów.",
+   "artist": "Kotoha",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel Kotoha.",
+   "title": "Restart Road",
+   "url": "https://music.apple.com/jp/album/restart-road-single/6823071540?uo=4",
+   "id": "kotoha-restart-road"
+  },
+  {
+   "about": "Laplus Darknesss – VTuberka hololive (secret society holoX), liderka grupy, wydaje własne piosenki.",
+   "artist": "ラプラス・ダークネス",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel Laplus, wydany równolegle po japońsku jako リーサルドーズ・パラノイド; energiczny, mroczny rock-pop.",
+   "title": "Lethal Dose Paranoid",
+   "url": "https://music.apple.com/jp/album/lethal-dose-paranoid-single/6822522457?uo=4",
+   "id": "laplus-darknesss-lethal-dose-paranoid"
+  },
+  {
+   "about": "Luo Tianyi – chiński głos Vocaloid, maskotka chińskiej sceny V-singer.",
+   "artist": "洛天依",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel Luo Tianyi z chińskiej sceny vocaloidowej.",
+   "title": "我是你老婆",
+   "url": "https://music.apple.com/jp/album/%E6%88%91%E6%98%AF%E4%BD%A0%E8%80%81%E5%A9%86-single/6823142215?uo=4",
+   "id": "luo-tianyi-wo-shi-ni-laopo"
+  },
+  {
+   "about": "Monochrome Media – producent elektroniczny.",
+   "artist": "Monochrome Media feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Elektroniczny utwór z wokalem Una.",
+   "title": "VFX",
+   "url": "https://vocadb.net/S/1046619",
+   "id": "monochrome-media-vfx"
+  },
+  {
+   "about": "MonochroMenace – producent elektroniczny.",
+   "artist": "MonochroMenace, electrovoid feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Taneczny kawałek z wokalem AI Una.",
+   "title": "The Grand Price",
+   "url": "https://vocadb.net/S/1046617",
+   "id": "monochromenace-electrovoid-the-grand-price"
+  },
+  {
+   "about": "MonochroMenace – producent elektroniczny pracujący z głosem Una.",
+   "artist": "Vane Lily, MonochroMenace feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Elektroniczny singiel z wokalem AI Una.",
+   "title": "Follow You",
+   "url": "https://vocadb.net/S/1046625",
+   "id": "monochromenace-vane-lily-follow-you"
+  },
+  {
+   "about": "ODDEEO – producent z kręgu Synthesizer V.",
+   "artist": "ODDEEO feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Singiel z głosem Una.",
+   "title": "Youth",
+   "url": "https://vocadb.net/S/1046616",
+   "id": "oddeeo-youth"
+  },
+  {
+   "about": "RADWIMPS – japoński zespół rockowy, autorzy muzyki do Kimi no Na wa. i Tenki no Ko.",
+   "artist": "RADWIMPS",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel RADWIMPS w angielskiej wersji tytułu, emocjonalny rock.",
+   "title": "You, Like a Star",
+   "url": "https://music.apple.com/jp/album/you-like-a-star-single/6819570455?uo=4",
+   "id": "radwimps-you-like-a-star"
+  },
+  {
    "about": "suzie – producent Vocaloid piszący na głosie Otomachi Una.",
    "artist": "suzie feat. 音街ウナ Sugar",
    "foundAt": "2026-10-15",
@@ -144,6 +396,18 @@
    "title": "START DANCING TO THE BEAT, TWIN",
    "url": "https://vocadb.net/S/1046607",
    "id": "suzie-start-dancing-to-the-beat-twin"
+  },
+  {
+   "about": "Unlike Pluto – amerykański producent electro/future bass.",
+   "artist": "Unlike Pluto",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel o melancholijnym, elektronicznym klimacie.",
+   "title": "Never Shine Again",
+   "url": "https://music.apple.com/jp/album/never-shine-again-single/6819561521?uo=4",
+   "id": "unlike-pluto-never-shine-again"
   },
   {
    "about": "AnythingBecomeMoe – artysta z kręgu J-core/denpa i moe-elektroniki.",
@@ -206,6 +470,18 @@
    "id": "anythingbecomemoe-pingpong-tikitaka"
   },
   {
+   "about": "Luo Tianyi – chińska wirtualna wokalistka.",
+   "artist": "洛天依, 乐正绫, 爆音常安, 莱依拉 & Mourminer",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Wspólny singiel kilku głosów chińskiego Vocaloida.",
+   "title": "有你在身边",
+   "url": "https://music.apple.com/jp/album/%E6%9C%89%E4%BD%A0%E5%9C%A8%E8%BA%AB%E8%BE%B9-single/6822600461?uo=4",
+   "id": "luo-tianyi-you-ni-zai-shenbian"
+  },
+  {
    "about": "Luo Tianyi – chiński głos Vocaloid/Vsinger, jedna z największych gwiazd chińskiej sceny wokaloidów.",
    "artist": "洛天依",
    "foundAt": "2026-10-15",
@@ -228,6 +504,18 @@
    "title": "壊痕少女",
    "url": "https://music.apple.com/jp/album/%E5%A3%8A%E7%97%95%E5%B0%91%E5%A5%B3-single/6814770309?uo=4",
    "id": "nagusaki-hatsune-miku-kaikon-shoujo"
+  },
+  {
+   "about": "RiraN – koreański producent sceny gier rytmicznych i vocaloidowej.",
+   "artist": "RiraN feat. 初音ミク",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Melodyjny singiel z głosem Hatsune Miku.",
+   "title": "Lost Without You",
+   "url": "https://youtu.be/pjB-qgQMQj0",
+   "id": "riran-hatsune-miku-lost-without-you"
   },
   {
    "about": "田川若夏 – twórca piszący na głosie Kasane Teto.",
@@ -290,6 +578,18 @@
    "id": "atatakai-suizokukan-ubiquitous"
   },
   {
+   "about": "Denonbu – projekt muzyczny o klubowej elektronice z postaciami anime-girls.",
+   "artist": "電音部, 池袋電音部, MY NEW GEAR & 中村さんそ",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Klubowy singiel Ikebukuro Denonbu.",
+   "title": "Fanfare",
+   "url": "https://music.apple.com/jp/album/fanfare-single/6820919815?uo=4",
+   "id": "denonbu-fanfare"
+  },
+  {
    "about": "irucaice to japoński twórca muzyki elektronicznej pracujący z głosami VOICEROID.",
    "artist": "irucaice, 琴葉 茜 & 琴葉葵",
    "foundAt": "2026-10-11",
@@ -336,6 +636,18 @@
    "title": "Blooming Cinderella",
    "url": "https://music.apple.com/jp/album/blooming-cinderella/6815981279?uo=4",
    "id": "sakura-miko-blooming-cinderella"
+  },
+  {
+   "about": "Getty – producent z kręgu gier muzycznych/hardcore.",
+   "artist": "Srav3R & Getty",
+   "foundAt": "2026-10-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Szybki elektroniczny utwór w klimacie gier rytmicznych.",
+   "title": "Azure Striker ∞",
+   "url": "https://music.apple.com/jp/album/azure-striker-single/6821007159?uo=4",
+   "id": "srav3r-getty-azure-striker"
   },
   {
    "about": "ui to twórca/artysta ze sceny wokaloidowej i internetowej, powiązany m.in. z syntezatorami głosu.",
@@ -878,6 +1190,18 @@
    "id": "ez-mil-eminem-b8ab5c73"
   },
   {
+   "about": "hololive – agencja VTuberów; tu składanka utworów jej artystek (Suisei, Koyori, La+, Fubuki, Miko, Luna, Matsuri, Pekora, Ina'nis).",
+   "artist": "hololive",
+   "foundAt": "2026-10-16",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-09",
+   "songAbout": "Kompilacja z historii wytwórni hololive RECORDS.",
+   "title": "hololive RECORDS HISTORY COLLECTION",
+   "url": "https://musicbrainz.org/release-group/1aa7e39f-d7f1-4a77-bd43-e447d8c0a7a9",
+   "id": "hololive-records-history-collection"
+  },
+  {
    "about": "Iyowa to znany producent vocaloidowy ze sceny nowej fali.",
    "artist": "いよわ feat. 足立レイ AI, 足立レイ",
    "foundAt": "2026-10-09",
@@ -1080,6 +1404,18 @@
    "title": "Like a Shooting Star",
    "url": "https://musicbrainz.org/release-group/a9081dc2-7d35-4778-95f8-09938540a0ac",
    "id": "crusher-hatsune-miku-like-a-shooting-star"
+  },
+  {
+   "about": "Ito Miku – japońska seiyuu i wokalistka anison.",
+   "artist": "伊藤美来",
+   "foundAt": "2026-10-16",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-07",
+   "songAbout": "Jubileuszowy album best na 10-lecie kariery.",
+   "title": "10th Anniversary Best Album「swirl」",
+   "url": "https://musicbrainz.org/release-group/f11cf331-9612-4b9a-804f-91786eb4c0b3",
+   "id": "ito-miku-swirl"
   },
   {
    "about": "MARUMOCHI from HoneyWorks to wokalista związany ze sceną HoneyWorks i idolowymi piosenkami.",
