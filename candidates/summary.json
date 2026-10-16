@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-15T00:21:28Z",
+ "generated": "2026-10-16T00:06:23Z",
  "artists": 472,
- "seconds": 1460,
+ "seconds": 1463,
  "music": {
-  "found": 139,
-  "new": 43
+  "found": 153,
+  "new": 53
  },
  "concerts": {
   "found": 61,
@@ -18,7 +18,10 @@
   "itunes_calls": 472,
   "songkick_calls": 146,
   "vocadb_calls": 242,
-  "mb_calls": 472
+  "mb_calls": 471,
+  "errors": 1
  },
- "errors": []
+ "errors": [
+  "mb NAKANO-DENNOU: HTTPError HTTP Error 503: Service Temporarily Unavailable"
+ ]
 }

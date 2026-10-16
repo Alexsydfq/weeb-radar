@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-15T00:21:28Z",
- "about": "Premiery 2026-09-30..2026-11-13 artystów z watch.json, których nie ma w music.json",
- "count": 43,
+ "generated": "2026-10-16T00:06:23Z",
+ "about": "Premiery 2026-10-01..2026-11-14 artystów z watch.json, których nie ma w music.json",
+ "count": 53,
  "items": [
   {
-   "watch": "rumaki",
-   "artist": "Rumaki",
-   "title": "Sun On The Sea (feat. Alina Enn) - Single",
-   "released": "2026-10-29",
+   "watch": "Capchii",
+   "artist": "Capchii feat. AI 音街ウナ Sugar",
+   "title": "Swell",
+   "released": "2026-10-25",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/sun-on-the-sea-feat-alina-enn-single/6814819013?uo=4",
-   "source": "itunes"
+   "url": "https://vocadb.net/S/1046905",
+   "source": "vocadb"
   },
   {
    "watch": "picco",
@@ -22,8 +22,125 @@
    "source": "vocadb"
   },
   {
+   "watch": "Ado",
+   "artist": "Ado",
+   "title": "Raven Sky - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/raven-sky-single/6819493309?uo=4",
+   "source": "itunes+musicbrainz"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "干ししいたけ & 重音テト",
+   "title": "Silent Howling (Single Edit) - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/silent-howling-single-edit-single/6815957439?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "023P & 重音テト",
+   "title": "Capture My Picture (Reloaded) - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/capture-my-picture-reloaded-single/6820921646?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "ラプラス・ダークネス",
+   "artist": "ラプラス・ダークネス",
+   "title": "Lethal Dose Paranoid - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/lethal-dose-paranoid-single/6822522457?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "洛天依",
+   "artist": "洛天依",
+   "title": "我是你老婆 - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E6%88%91%E6%98%AF%E4%BD%A0%E8%80%81%E5%A9%86-single/6823142215?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Aku P",
+   "artist": "Aku P",
+   "title": "Brain Implosion Side Effects: Season 1",
+   "released": "2026-10-16",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/brain-implosion-side-effects-season-1/6822422816?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "ずんだもん",
+   "artist": "ほねまる & ずんだもん",
+   "title": "BAR BONE - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/bar-bone-single/6823052307?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Kobaryo",
+   "artist": "Kobaryo",
+   "title": "Screaming Steel Sheet - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/screaming-steel-sheet-single/6821007299?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "RADWIMPS",
+   "artist": "RADWIMPS",
+   "title": "You, Like a Star - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/you-like-a-star-single/6819570455?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Kotoha",
+   "artist": "Kotoha",
+   "title": "Restart Road - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/restart-road-single/6823071540?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Unlike Pluto",
+   "artist": "Unlike Pluto",
+   "title": "Never Shine Again - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/never-shine-again-single/6819561521?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Arianne",
+   "artist": "Arianne",
+   "title": "Olhos no Espelho - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/olhos-no-espelho-single/6819897464?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "ラプラス・ダークネス",
+   "artist": "ラプラス・ダークネス",
+   "title": "リーサルドーズ・パラノイド",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/3e6ee366-4fed-410d-98aa-b49afba16d41",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "suzie",
-   "artist": "suzie feat. 音街ウナ Sugar",
+   "artist": "suzie feat. Synthesizer V AI 音街ウナ",
    "title": "START DANCING TO THE BEAT, TWIN",
    "released": "2026-10-16",
    "kind": "singiel",
@@ -31,8 +148,89 @@
    "source": "vocadb"
   },
   {
+   "watch": "MonochroMenace",
+   "artist": "Vane Lily, MonochroMenace feat. Synthesizer V AI 音街ウナ",
+   "title": "Follow You",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1046625",
+   "source": "vocadb"
+  },
+  {
+   "watch": "MonochroMenace",
+   "artist": "MonochroMenace, electrovoid feat. Synthesizer V AI 音街ウナ",
+   "title": "The Grand Price",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1046617",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Aku P",
+   "artist": "Aku P",
+   "title": "se repite",
+   "released": "2026-10-16",
+   "kind": "cover",
+   "url": "https://vocadb.net/S/1047012",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Aku P",
+   "artist": "Aku P",
+   "title": "something new",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1047011",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Aku P",
+   "artist": "Aku P feat. V3 GUMI (English)",
+   "title": "it's happening again",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1047010",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Aku P",
+   "artist": "Aku P feat. 鏡音リン",
+   "title": "no te puedo olvidar",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1047009",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Aku P",
+   "artist": "Aku P feat. 鏡音リン",
+   "title": "alguna vez",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1047008",
+   "source": "vocadb"
+  },
+  {
+   "watch": "ODDEEO",
+   "artist": "ODDEEO feat. Synthesizer V AI 音街ウナ",
+   "title": "Youth",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1046616",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Monochrome Media",
+   "artist": "Monochrome Media feat. Synthesizer V AI 音街ウナ",
+   "title": "VFX",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1046619",
+   "source": "vocadb"
+  },
+  {
    "watch": "kinoshita",
-   "artist": "キノシタ feat. 音街ウナ Sugar",
+   "artist": "キノシタ feat. Synthesizer V 2 AI 音街ウナ",
    "title": "ウナナイト☆ディスコ",
    "released": "2026-10-16",
    "kind": "singiel",
@@ -40,111 +238,30 @@
    "source": "vocadb"
   },
   {
-   "watch": "重音テト",
-   "artist": "田川若夏 & 重音テト",
-   "title": "Doubt! - Single",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/doubt-single/6815075214?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "nagusaki & 初音ミク",
-   "title": "壊痕少女 - Single",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E5%A3%8A%E7%97%95%E5%B0%91%E5%A5%B3-single/6814770309?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "雪月 ラピス & 初音ミク",
-   "title": "月夜の踊り - Single",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E6%9C%88%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A-single/6815515372?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "洛天依",
-   "artist": "洛天依",
-   "title": "月儿谣 - Single",
+   "artist": "洛天依, 乐正绫, 爆音常安, 莱依拉 & Mourminer",
+   "title": "有你在身边 - Single",
    "released": "2026-10-15",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E6%9C%88%E5%84%BF%E8%B0%A3-single/6822163129?uo=4",
+   "url": "https://music.apple.com/jp/album/%E6%9C%89%E4%BD%A0%E5%9C%A8%E8%BA%AB%E8%BE%B9-single/6822600461?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "AnythingBecomeMoe",
-   "artist": "AnythingBecomeMoe",
-   "title": "EternaL CrescenT - Single",
+   "watch": "RiraN",
+   "artist": "RiraN feat. 初音ミク",
+   "title": "Lost Without You",
    "released": "2026-10-15",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/eternal-crescent-single/6820058360?uo=4",
-   "source": "itunes"
+   "url": "https://youtu.be/pjB-qgQMQj0",
+   "source": "vocadb"
   },
   {
-   "watch": "AnythingBecomeMoe",
-   "artist": "AnythingBecomeMoe",
-   "title": "I'm Shooting Star - Single",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/im-shooting-star-single/6820058457?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "AnythingBecomeMoe",
-   "artist": "AnythingBecomeMoe",
-   "title": "PingPong TIKITAKA - Single",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/pingpong-tikitaka-single/6820058911?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "AnythingBecomeMoe",
-   "artist": "AnythingBecomeMoe",
-   "title": "PART-Y TIME - Single",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/part-y-time-single/6820058929?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "AnythingBecomeMoe",
-   "artist": "AnythingBecomeMoe",
-   "title": "짜증나는 모기 - Single",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%EC%A7%9C%EC%A6%9D%EB%82%98%EB%8A%94-%EB%AA%A8%EA%B8%B0-single/6820058933?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "夢ノ結唱 ROSE",
-   "artist": "夢ノ結唱 ROSE",
-   "title": "The View We Shared - Single",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/the-view-we-shared-single/6822184392?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "悪P38 & 初音ミク",
-   "title": "ASUKAYAMA - Single",
+   "watch": "電音部",
+   "artist": "電音部, 池袋電音部, MY NEW GEAR & 中村さんそ",
+   "title": "Fanfare - Single",
    "released": "2026-10-14",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/asukayama-single/6812619327?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "あたたかい水族館, 初音ミク & 音街ウナ",
-   "title": "Ubiquitous",
-   "released": "2026-10-14",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/ubiquitous/6818020659?uo=4",
+   "url": "https://music.apple.com/jp/album/fanfare-single/6820919815?uo=4",
    "source": "itunes"
   },
   {
@@ -154,15 +271,6 @@
    "released": "2026-10-14",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/azure-striker-single/6821007159?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "洛天依",
-   "artist": "洛天依",
-   "title": "活成这样多可笑 - Single",
-   "released": "2026-10-14",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E6%B4%BB%E6%88%90%E8%BF%99%E6%A0%B7%E5%A4%9A%E5%8F%AF%E7%AC%91-single/6821250294?uo=4",
    "source": "itunes"
   },
   {
@@ -346,15 +454,6 @@
    "source": "itunes"
   },
   {
-   "watch": "はしメロ",
-   "artist": "はしメロ",
-   "title": "エメラルド - Single",
-   "released": "2026-10-02",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89-single/6812189940?uo=4",
-   "source": "itunes+musicbrainz"
-  },
-  {
    "watch": "tofubeats",
    "artist": "tofubeats",
    "title": "Angels On The Dancefloor (Sasuke Haraguchi Remix) - Single",
@@ -380,15 +479,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/MflA4ZIKD3U",
    "source": "vocadb"
-  },
-  {
-   "watch": "Aiobahn",
-   "artist": "Aiobahn +81 & DEMONDICE",
-   "title": "DEMON'S SHOT - Single",
-   "released": "2026-09-30",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/demons-shot-single/6813022242?uo=4",
-   "source": "itunes"
   }
  ]
 }
