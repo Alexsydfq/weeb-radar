@@ -1,8 +1,26 @@
 {
- "generated": "2026-10-17T00:02:39Z",
- "about": "Premiery 2026-10-02..2026-11-15 artystów z watch.json, których nie ma w music.json",
- "count": 34,
+ "generated": "2026-10-17T23:39:06Z",
+ "about": "Premiery 2026-10-03..2026-11-16 artystów z watch.json, których nie ma w music.json",
+ "count": 44,
  "items": [
+  {
+   "watch": "Takafumi Sato",
+   "artist": "佐藤貴文 feat. 重音テトSV",
+   "title": "刻",
+   "released": "2026-10-25",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1047909",
+   "source": "vocadb"
+  },
+  {
+   "watch": "いのうつはSA",
+   "artist": "いのうつはSA feat. 重音テトSV",
+   "title": "早めの放課後",
+   "released": "2026-10-25",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1047908",
+   "source": "vocadb"
+  },
   {
    "watch": "picco",
    "artist": "Various artists",
@@ -11,6 +29,24 @@
    "kind": "singiel",
    "url": "https://vocadb.net/S/1041617",
    "source": "vocadb"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "KAPPPPA, 可不 & 初音ミク",
+   "title": "モーメント - Single",
+   "released": "2026-10-18",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88-single/1896098532?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "いよわ",
+   "artist": "いよわ",
+   "title": "Syzygy - Single",
+   "released": "2026-10-18",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/syzygy-single/6823647055?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "初音ミク",
@@ -67,12 +103,12 @@
    "source": "itunes"
   },
   {
-   "watch": "初音ミク",
-   "artist": "heiakim & 初音ミク",
-   "title": "Giddy! (ft. 初音ミク) - Single",
-   "released": "2026-10-16",
+   "watch": "DYES IWASAKI",
+   "artist": "DYES IWASAKI",
+   "title": "Zigi (feat. Miyamori Bungaku) - Single",
+   "released": "2026-10-17",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/giddy-ft-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-single/6820241704?uo=4",
+   "url": "https://music.apple.com/jp/album/zigi-feat-miyamori-bungaku-single/6818706627?uo=4",
    "source": "itunes"
   },
   {
@@ -85,6 +121,24 @@
    "source": "itunes"
   },
   {
+   "watch": "電音部",
+   "artist": "電音部 & DE DE MOUSE",
+   "title": "Star Chase Girl - Single",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/star-chase-girl-single/6819919084?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "雨良 feat. 重音テト",
+   "title": "catch-22",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/c2e98082-1729-44cf-87ab-98eafd6747d1",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "ラプラス・ダークネス",
    "artist": "ラプラス・ダークネス",
    "title": "リーサルドーズ・パラノイド",
@@ -94,12 +148,75 @@
    "source": "musicbrainz"
   },
   {
+   "watch": "Toby Fox",
+   "artist": "Trevor Alan Gomes & Toby Fox",
+   "title": "Hammer of Justice",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/aa1b9cda-3902-45e7-8965-f509d8842267",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "Mori Calliope",
+   "artist": "HIMEHINA × Mori Calliope × Tokoyami Towa",
+   "title": "ファイアダンス",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/7734557b-97ae-4f82-9b8a-dde38d8fa724",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "suzie",
+   "artist": "Monochrome Media, suzie feat. Synthesizer V AI 音街ウナ",
+   "title": "LEMON-LIMELIGHT",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://youtu.be/Pz8aAW6dZrY",
+   "source": "vocadb"
+  },
+  {
+   "watch": "suzie",
+   "artist": "Chorvus, suzie feat. Synthesizer V AI 音街ウナ",
+   "title": "DUST IN THE WAKE",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://youtu.be/fcci8QAxFaQ",
+   "source": "vocadb"
+  },
+  {
+   "watch": "suzie",
+   "artist": "Rook, suzie feat. Synthesizer V AI 音街ウナ",
+   "title": "The Proper Way to Watch Paint Dry",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://youtu.be/LiKnXreq4JI",
+   "source": "vocadb"
+  },
+  {
+   "watch": "suzie",
+   "artist": "Monochrome Media, suzie feat. Synthesizer V AI 音街ウナ",
+   "title": "VFX",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://youtu.be/vnQ50skXVts",
+   "source": "vocadb"
+  },
+  {
+   "watch": "suzie",
+   "artist": "WAVESS, suzie feat. Synthesizer V AI 音街ウナ",
+   "title": "I WON’T CHEW YOUR FILTH!",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://youtu.be/pi6o4f4lz-8",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Monochrome Media",
    "artist": "suzie feat. Synthesizer V AI 音街ウナ",
    "title": "START DANCING TO THE BEAT, TWIN",
    "released": "2026-10-16",
    "kind": "singiel",
-   "url": "https://vocadb.net/S/1046607",
+   "url": "https://youtu.be/oDumdCU6CBQ",
    "source": "vocadb"
   },
   {
@@ -108,17 +225,17 @@
    "title": "ウナナイト☆ディスコ",
    "released": "2026-10-16",
    "kind": "singiel",
-   "url": "https://vocadb.net/S/1046606",
+   "url": "https://youtu.be/6NgfqAjp_LA",
    "source": "vocadb"
   },
   {
-   "watch": "Camellia",
-   "artist": "Camellia",
-   "title": "Strongest Rat Ever Existed",
+   "watch": "D.watt",
+   "artist": "D.watt",
+   "title": "Blue Cup - Single",
    "released": "2026-10-15",
    "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/a9716c93-f964-40ba-8026-d515bb08ecfc",
-   "source": "musicbrainz"
+   "url": "https://music.apple.com/jp/album/blue-cup-single/6823937030?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "夢ノ結唱 ROSE",
@@ -127,15 +244,6 @@
    "released": "2026-10-14",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/glass-wing-feat-yumenokessho-popy-single/6819126402?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "picco",
-   "artist": "picco",
-   "title": "Pop Days! - Single",
-   "released": "2026-10-13",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/pop-days-single/6817181015?uo=4",
    "source": "itunes"
   },
   {
@@ -155,6 +263,15 @@
    "kind": "cover",
    "url": "https://vocadb.net/S/1045474",
    "source": "vocadb"
+  },
+  {
+   "watch": "なみぐる",
+   "artist": "なみぐる",
+   "title": "CharmingHappyStar - Single",
+   "released": "2026-10-11",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/charminghappystar-single/6821554692?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "博衣こより",
@@ -209,6 +326,15 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/f00cafdb-ce0a-4b02-92cf-32f4a797895c",
    "source": "musicbrainz"
+  },
+  {
+   "watch": "11vein",
+   "artist": "LuminaNeko feat. Synthesizer V AI 音街ウナ",
+   "title": "the box",
+   "released": "2026-10-09",
+   "kind": "cover",
+   "url": "https://youtu.be/tRhxxlt5xfs",
+   "source": "vocadb"
   },
   {
    "watch": "Camellia",
@@ -271,42 +397,6 @@
    "released": "2026-10-03",
    "kind": "singiel",
    "url": "https://youtu.be/cY0qV7q9IC4",
-   "source": "vocadb"
-  },
-  {
-   "watch": "電音部",
-   "artist": "Ma’Scar’Piece & 電音部",
-   "title": "Vampire Kiss - Single",
-   "released": "2026-10-02",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/vampire-kiss-single/6809677082?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "tofubeats",
-   "artist": "tofubeats",
-   "title": "Angels On The Dancefloor (Sasuke Haraguchi Remix) - Single",
-   "released": "2026-10-02",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/angels-on-the-dancefloor-sasuke-haraguchi-remix-single/6809700695?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "RADWIMPS",
-   "artist": "RADWIMPS",
-   "title": "夕星-ゆうづつ-",
-   "released": "2026-10-02",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/3b08fae1-8632-4302-946c-9cfc618178e4",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "PinocchioP",
-   "artist": "ピノキオピー feat. 初音ミク V4X (Dark), 重音テトSV",
-   "title": "えねみぃ",
-   "released": "2026-10-02",
-   "kind": "singiel",
-   "url": "https://youtu.be/MflA4ZIKD3U",
    "source": "vocadb"
   }
  ]

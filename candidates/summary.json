@@ -1,27 +1,24 @@
 {
- "generated": "2026-10-17T00:02:39Z",
+ "generated": "2026-10-17T23:39:06Z",
  "artists": 472,
- "seconds": 1460,
+ "seconds": 1773,
  "music": {
-  "found": 150,
-  "new": 34
+  "found": 145,
+  "new": 44
  },
  "concerts": {
   "found": 61,
   "new": 11
  },
  "japan": {
-  "found": 4,
-  "new": 0
+  "found": 11,
+  "new": 7
  },
  "calls": {
-  "itunes_calls": 472,
-  "vocadb_calls": 238,
+  "vocadb_calls": 242,
   "songkick_calls": 146,
   "mb_calls": 472,
-  "errors": 1
+  "itunes_calls": 472
  },
- "errors": [
-  "vocadb events: HTTPError HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }
