@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T04:42:03Z",
+ "updated": "2026-10-17T04:41:50Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -134,6 +134,78 @@
    "id": "qiyijiu-luo-tianyi-qiutang-lian-ai-shouce"
   },
   {
+   "about": "Hatsune Miku to najsłynniejszy wokal Vocaloid/Piapro, bohaterka tysięcy utworów producentów z całego świata.",
+   "artist": "Hatsune Miku",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Nowy singiel z Miku w roli głównej, wydany w sklepach 17 października.",
+   "title": "We heard a cicada chirping",
+   "url": "https://music.apple.com/jp/album/we-heard-a-cicada-chirping-feat-hatsune-miku-single/6820397391?uo=4",
+   "id": "hatsune-miku-we-heard-a-cicada-chirping"
+  },
+  {
+   "about": "Adachi Rei to wokal UTAU/CeVIO używany przez wielu producentów vocaloidowych.",
+   "artist": "稲葉陽炎 & Adachi Rei",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Nowy singiel z Adachi Rei, premiera 17 października.",
+   "title": "Summer Trapped in an Aquarium",
+   "url": "https://music.apple.com/jp/album/summer-trapped-in-an-aquarium-single/6820388339?uo=4",
+   "id": "inaba-kagerou-adachi-rei-summer-trapped-in-an-aquarium"
+  },
+  {
+   "about": "Iyowa to producent vocaloidowy i wokalista, znany z nastrojowych, chaotycznych piosenek jak „Wakusei Chokuretsu”.",
+   "artist": "Iyowa",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Nowy singiel Iyowy, premiera 17 października.",
+   "title": "Last Rally",
+   "url": "https://music.apple.com/jp/album/last-rally-single/6823650148?uo=4",
+   "id": "iyowa-last-rally"
+  },
+  {
+   "about": "Otera to producent vocaloidowy tworzący z Hatsune Miku.",
+   "artist": "おてら & Hatsune Miku",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Nowy singiel z Miku, premiera 17 października.",
+   "title": "TIME OVER DEATH",
+   "url": "https://music.apple.com/jp/album/time-over-death-single/6820398326?uo=4",
+   "id": "otera-hatsune-miku-time-over-death"
+  },
+  {
+   "about": "unmia to producent tworzący utwory z Hatsune Miku.",
+   "artist": "unmia & Hatsune Miku",
+   "foundAt": "2026-10-17",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Nowe wydawnictwo z wokalem Miku, premiera 17 października.",
+   "title": "Paper Under Water",
+   "url": "https://music.apple.com/jp/album/paper-under-water/6823498095?uo=4",
+   "id": "unmia-hatsune-miku-paper-under-water"
+  },
+  {
+   "about": "ROSE to wokal Synthesizer V z serii Yumenokessho, używany przez producentów wokaloidowych.",
+   "artist": "Yumeno Yuusho ROSE",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Kolejny singiel ROSE, premiera 17 października.",
+   "title": "By a Distant Window",
+   "url": "https://music.apple.com/jp/album/by-a-distant-window-single/6823069446?uo=4",
+   "id": "yumeno-yuusho-rose-by-a-distant-window"
+  },
+  {
    "about": "023P – producent vocaloidowy współpracujący z Kasane Teto.",
    "artist": "023P & 重音テト",
    "foundAt": "2026-10-16",
@@ -242,6 +314,18 @@
    "id": "arianne-olhos-no-espelho"
   },
   {
+   "about": "heiakim to producent tworzący utwory z Hatsune Miku.",
+   "artist": "heiakim & Hatsune Miku",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel z Miku, premiera 16 października.",
+   "title": "Giddy!",
+   "url": "https://music.apple.com/jp/album/giddy-ft-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-single/6820241704?uo=4",
+   "id": "heiakim-hatsune-miku-giddy"
+  },
+  {
    "about": "Zundamon – maskotka głosowa VOICEVOX, bardzo popularna w memach i piosenkach fanowskich.",
    "artist": "ほねまる & ずんだもん",
    "foundAt": "2026-10-16",
@@ -264,6 +348,18 @@
    "title": "Silent Howling (Single Edit)",
    "url": "https://music.apple.com/jp/album/silent-howling-single-edit-single/6815957439?uo=4",
    "id": "hoshishiitake-kasane-teto-silent-howling"
+  },
+  {
+   "about": "JB to producent tworzący utwory z Hatsune Miku.",
+   "artist": "JB & Hatsune Miku",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel z Miku, premiera 16 października.",
+   "title": "Fine",
+   "url": "https://music.apple.com/jp/album/fine-single/6820004410?uo=4",
+   "id": "jb-hatsune-miku-fine"
   },
   {
    "about": "キノシタ (Kinoshita) – producent Vocaloid związany z głosem Otomachi Una.",
@@ -468,6 +564,18 @@
    "title": "PingPong TIKITAKA",
    "url": "https://music.apple.com/jp/album/pingpong-tikitaka-single/6820058911?uo=4",
    "id": "anythingbecomemoe-pingpong-tikitaka"
+  },
+  {
+   "about": "Camellia (Cametek) to japoński producent hardcore/EDM, znany z utworów w grach rytmicznych (Arcaea, maimai, CHUNITHM) i ze współpracy z Ayumi Ito.",
+   "artist": "Camellia",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Nowy singiel Camellii, premiera 15 października.",
+   "title": "Strongest Rat Ever Existed",
+   "url": "https://musicbrainz.org/release-group/a9716c93-f964-40ba-8026-d515bb08ecfc",
+   "id": "camellia-strongest-rat-ever-existed"
   },
   {
    "about": "Luo Tianyi – chińska wirtualna wokalistka.",
@@ -696,6 +804,18 @@
    "title": "Shirahanoya",
    "url": "https://music.apple.com/jp/album/shirahanoya-single/6812951839?uo=4",
    "id": "ashizawa-potof-kasane-teto-shirahanoya"
+  },
+  {
+   "about": "picco to producent vocaloidowy i artysta związany z sceną gier rytmicznych oraz Project SEKAI.",
+   "artist": "picco",
+   "foundAt": "2026-10-17",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-13",
+   "songAbout": "Nowy singiel picco, premiera 13 października.",
+   "title": "Pop Days!",
+   "url": "https://music.apple.com/jp/album/pop-days-single/6817181015?uo=4",
+   "id": "picco-pop-days"
   },
   {
    "about": "PoppoOVO to twórca muzyki wokaloidowej współpracujący z kilkoma syntezatorami głosu.",

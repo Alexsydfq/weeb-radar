@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:47:59Z",
+ "updated": "2026-10-17T04:41:50Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -841,6 +841,38 @@
    "title": "60. edycja „Legacy” — Yoko Kanno jedynym japońskim gościem muzycznym",
    "url": "https://www.animeclick.it/news/111846-lucca-comics-games-2026-il-resoconto-del-final-keynote",
    "id": "2026-10-lucca-comics-and-games"
+  },
+  {
+   "about": "MCM Comic Con to największy w Wielkiej Brytanii cykl konwentów popkultury: anime i manga, gry, komiksy, cosplay, strefy artystów i stoiska. Londyńska edycja odbywa się w ExCeL dwa razy w roku.",
+   "artist": "MCM Comic Con London 2026",
+   "dateEnd": "2026-10-25",
+   "dateStart": "2026-10-23",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "23–25.10.2026, ExCeL London"
+    },
+    {
+     "k": "Muzyka",
+     "v": "brak ogłoszonych koncertów w źródłach"
+    }
+   ],
+   "foundAt": "2026-10-17",
+   "hits": [],
+   "kind": "konwent",
+   "note": "Termin 23–25.10.2026 potwierdzony przez organizatora (ReedPop). Gości muzycznych w źródłach nie znaleziono; to głównie konwent komiksów, anime, gier i cosplayu.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-23",
+     "venue": "ExCeL London"
+    }
+   ],
+   "tier": 3,
+   "title": "Największy brytyjski konwent popkultury (ExCeL)",
+   "url": "https://www.mcmcomiccon.com/global/en-us/blog/comics/mcm-comic-con-2026-dates.html",
+   "id": "2026-10-mcm-comic-con-london"
   },
   {
    "about": "Jesienna edycja węgierskiego konwentu MondoCon w Budapeszcie. Gośćmi muzycznymi są Azumi Inoue, głos piosenek z filmów Studia Ghibli, oraz zespół Who-ya Extended, znany z openingu Jujutsu Kaisen.",
@@ -2115,6 +2147,39 @@
    "title": "TOUR 2026 DREAMING",
    "url": "https://www.jame-world.com/en/concerts.html?page=8",
    "id": "2026-11-tomohisa-yamashita-paris"
+  },
+  {
+   "about": "German Film & Comic Con to cykl niemieckich konwentów popkultury (aktorzy z filmów i seriali, komiksy, cosplay, stoiska), organizowany przez We Love Conventions.",
+   "artist": "German Film & Comic Con Dortmund 2026",
+   "dateEnd": "2026-12-06",
+   "dateStart": "2026-12-05",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "sob. 10:00–18:00 · niedz. 10:00–17:00"
+    },
+    {
+     "k": "Bilety",
+     "v": "Eventbrite, cen nie podano na stronie targów"
+    }
+   ],
+   "foundAt": "2026-10-17",
+   "hits": [],
+   "kind": "konwent",
+   "note": "Goście muzyczni nie ogłoszeni; organizator podaje tylko ogólnie aktorów, dubbingowców, artystów i cosplayerów. Impreza raczej filmowo-komiksowa niż anime.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Dortmund",
+     "date": "2026-12-05",
+     "venue": "Messe Dortmund, hale 4–7"
+    }
+   ],
+   "tickets": "https://www.eventbrite.com",
+   "tier": 3,
+   "title": "Konwent popkultury w Dortmundzie (Messe Dortmund)",
+   "url": "https://www.messe-dortmund.de/en/trade-fair-calendar/trade-fair-calendar/trade-fair-details/german-film-comic-con-dortmund-2026/",
+   "id": "2026-12-german-film-comic-con-dortmund"
   },
   {
    "about": "Japan Sound Quest to jednodniowy festiwal muzyki z gier, na którym występują twórcy ścieżek do Final Fantasy, Super Mario RPG i innych klasyków. Główną gwiazdą jest Nobuo Uematsu, kompozytor serii Final Fantasy, grający ze swoim zespołem Tiki Show.",
@@ -3845,6 +3910,32 @@
    "title": "Światowa trasa orkiestrowa Square Enix: Londyn i Paryż",
    "url": "https://essential-japan.com/news/square-enix-announces-huge-final-fantasy-40th-anniversary-orchestra-world-tour-for-2027/",
    "id": "2027-09-final-fantasy-40th-anniversary-orchestra-london"
+  },
+  {
+   "about": "Japan Weekend Madrid to duży hiszpański festiwal kultury japońskiej: anime, manga, gry, cosplay, ilustratorzy i koncerty japońskich artystów (anisong, J-pop).",
+   "artist": "Japan Weekend Madrid 2027",
+   "dateEnd": "2027-09-30",
+   "dateStart": "2027-09-01",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "wrzesień 2027 (dni do potwierdzenia)"
+    }
+   ],
+   "foundAt": "2026-10-17",
+   "hits": [],
+   "kind": "konwent",
+   "note": "Wg ESMadrid następna edycja we wrześniu 2027, dokładne dni i miejsce (w 2026: stadion Riyadh Air Metropolitano) do potwierdzenia. Goście muzyczni na 2027 nie ogłoszeni; w 2026 grali m.in. Machico i Liella!.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Madryt"
+    }
+   ],
+   "tier": 3,
+   "title": "Festiwal kultury japońskiej w Madrycie (termin do potwierdzenia)",
+   "url": "https://www.esmadrid.com/en/whats-on/japan-weekend-madrid",
+   "id": "2027-09-japan-weekend-madrid"
   },
   {
    "about": "Japońskie trio z Kobe z basistką i wokalistką Natsuko Miyamoto: post-hardcore'owa intensywność, shoegaze'owe ściany gitar i indie-rockowe melodie. Trasa promuje szósty album „Iwaou” (sierpień 2026) i jest największą w historii zespołu.",
