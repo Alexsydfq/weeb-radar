@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-16T00:06:23Z",
+ "generated": "2026-10-17T00:02:39Z",
  "artists": 472,
- "seconds": 1463,
+ "seconds": 1460,
  "music": {
-  "found": 153,
-  "new": 53
+  "found": 150,
+  "new": 34
  },
  "concerts": {
   "found": 61,
   "new": 11
  },
  "japan": {
-  "found": 11,
-  "new": 7
+  "found": 4,
+  "new": 0
  },
  "calls": {
   "itunes_calls": 472,
+  "vocadb_calls": 238,
   "songkick_calls": 146,
-  "vocadb_calls": 242,
-  "mb_calls": 471,
+  "mb_calls": 472,
   "errors": 1
  },
  "errors": [
-  "mb NAKANO-DENNOU: HTTPError HTTP Error 503: Service Temporarily Unavailable"
+  "vocadb events: HTTPError HTTP Error 503: Service Unavailable"
  ]
 }
