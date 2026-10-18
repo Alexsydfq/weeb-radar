@@ -284,6 +284,41 @@
    "url": "https://www.zan-live.com/ja/live/detail/10853"
   },
   {
+   "id": "asia-2026-08-22-teto-sonic-summer-2026",
+   "artist": "TETO SONIC SUMMER 2026",
+   "nameOrig": "TETO SONIC SUMMER 2026",
+   "title": "Letnia edycja DJ-skiej imprezy Kasane Teto (twórcy hitów Teto za deckami)",
+   "kind": "rave",
+   "region": "JP",
+   "dateStart": "2026-08-22",
+   "dateEnd": "2026-08-22",
+   "stops": [
+    {
+     "date": "2026-08-22",
+     "city": "Tokio",
+     "cc": "JP",
+     "venue": "SEL OCTAGON TOKYO"
+    }
+   ],
+   "tags": [
+    "Teto",
+    "UTAU",
+    "SynthV",
+    "club",
+    "Amala",
+    "d0tc0mmie"
+   ],
+   "search": [
+    "TETO SONIC SUMMER 2026",
+    "テトソニック サマー",
+    "重音テト DJ SEL OCTAGON",
+    "重音Teto DJ活动 TETO SONIC SUMMER",
+    "d0tc0mmie TETO SONIC SUMMER",
+    "雨良 Amala TETO SONIC"
+   ],
+   "url": "https://teto-news.jp/events/archives/teto-sonic-2026-summer"
+  },
+  {
    "id": "asia-2026-08-15-miku-mirai-music-party-2026",
    "artist": "Miku's Mirai Music Party 2026 Live in Nagaoka",
    "nameOrig": "Miku's Mirai Music Party 2026 Live in Nagaoka",
