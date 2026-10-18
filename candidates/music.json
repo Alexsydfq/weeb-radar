@@ -1,26 +1,8 @@
 {
- "generated": "2026-10-17T23:39:06Z",
- "about": "Premiery 2026-10-03..2026-11-16 artystów z watch.json, których nie ma w music.json",
- "count": 44,
+ "generated": "2026-10-18T23:42:24Z",
+ "about": "Premiery 2026-10-04..2026-11-17 artystów z watch.json, których nie ma w music.json",
+ "count": 36,
  "items": [
-  {
-   "watch": "Takafumi Sato",
-   "artist": "佐藤貴文 feat. 重音テトSV",
-   "title": "刻",
-   "released": "2026-10-25",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1047909",
-   "source": "vocadb"
-  },
-  {
-   "watch": "いのうつはSA",
-   "artist": "いのうつはSA feat. 重音テトSV",
-   "title": "早めの放課後",
-   "released": "2026-10-25",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1047908",
-   "source": "vocadb"
-  },
   {
    "watch": "picco",
    "artist": "Various artists",
@@ -32,21 +14,93 @@
   },
   {
    "watch": "初音ミク",
-   "artist": "KAPPPPA, 可不 & 初音ミク",
-   "title": "モーメント - Single",
-   "released": "2026-10-18",
+   "artist": "D_CLACX & 初音ミク",
+   "title": "ZeroAndOneEx01 - Single",
+   "released": "2026-10-19",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88-single/1896098532?uo=4",
+   "url": "https://music.apple.com/jp/album/zeroandoneex01-single/6819629055?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "いよわ",
-   "artist": "いよわ",
-   "title": "Syzygy - Single",
+   "watch": "初音ミク",
+   "artist": "Kurama & 初音ミク",
+   "title": "あさのうた",
+   "released": "2026-10-19",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/%E3%81%82%E3%81%95%E3%81%AE%E3%81%86%E3%81%9F/6823158050?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "HANA (GUGUDAN) & 初音ミク",
+   "title": "The Long Way",
+   "released": "2026-10-19",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/the-long-way/6823498449?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "*Luna",
+   "artist": "luna",
+   "title": "Good Chemistry - Single",
+   "released": "2026-10-19",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/good-chemistry-single/6821242276?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "*Luna",
+   "artist": "luna",
+   "title": "One More Secret - Single",
+   "released": "2026-10-19",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/one-more-secret-single/6821242393?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "*Luna",
+   "artist": "luna",
+   "title": "Waiting for Your Text - Single",
+   "released": "2026-10-19",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/waiting-for-your-text-single/6821242933?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "*Luna",
+   "artist": "luna",
+   "title": "Coming Your Way - Single",
+   "released": "2026-10-19",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/coming-your-way-single/6821243104?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "*Luna",
+   "artist": "luna",
+   "title": "I'm Not Yours to Keep - Single",
+   "released": "2026-10-19",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/im-not-yours-to-keep-single/6821243285?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "BilliumMoto",
+   "artist": "BilliumMoto",
+   "title": "Look At Me",
    "released": "2026-10-18",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/syzygy-single/6823647055?uo=4",
-   "source": "itunes"
+   "url": "https://musicbrainz.org/release-group/3c26656e-6f19-49c3-b589-73de4a35fafd",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "BilliumMoto",
+   "artist": "BilliumMoto feat. 重音テトSV2",
+   "title": "Look At Me",
+   "released": "2026-10-18",
+   "kind": "singiel",
+   "url": "https://youtu.be/4V5gFpCf92I",
+   "source": "vocadb"
   },
   {
    "watch": "初音ミク",
@@ -55,24 +109,6 @@
    "released": "2026-10-17",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/we-heard-a-cicada-chirping-feat-hatsune-miku-single/6820397391?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "unmia & 初音ミク",
-   "title": "Paper Under Water",
-   "released": "2026-10-17",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/paper-under-water/6823498095?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "おてら & 初音ミク",
-   "title": "TIME OVER DEATH - Single",
-   "released": "2026-10-17",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/time-over-death-single/6820398326?uo=4",
    "source": "itunes"
   },
   {
@@ -103,42 +139,6 @@
    "source": "itunes"
   },
   {
-   "watch": "DYES IWASAKI",
-   "artist": "DYES IWASAKI",
-   "title": "Zigi (feat. Miyamori Bungaku) - Single",
-   "released": "2026-10-17",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/zigi-feat-miyamori-bungaku-single/6818706627?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "JB & 初音ミク",
-   "title": "Fine - Single",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/fine-single/6820004410?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "電音部",
-   "artist": "電音部 & DE DE MOUSE",
-   "title": "Star Chase Girl - Single",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/star-chase-girl-single/6819919084?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "重音テト",
-   "artist": "雨良 feat. 重音テト",
-   "title": "catch-22",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/c2e98082-1729-44cf-87ab-98eafd6747d1",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "ラプラス・ダークネス",
    "artist": "ラプラス・ダークネス",
    "title": "リーサルドーズ・パラノイド",
@@ -148,48 +148,12 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Toby Fox",
-   "artist": "Trevor Alan Gomes & Toby Fox",
-   "title": "Hammer of Justice",
+   "watch": "Jamie Paige",
+   "artist": "Vane Lily, MonochroMenace, Jamie Paige feat. Synthesizer V AI 音街ウナ",
+   "title": "Follow You",
    "released": "2026-10-16",
    "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/aa1b9cda-3902-45e7-8965-f509d8842267",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Mori Calliope",
-   "artist": "HIMEHINA × Mori Calliope × Tokoyami Towa",
-   "title": "ファイアダンス",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/7734557b-97ae-4f82-9b8a-dde38d8fa724",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "suzie",
-   "artist": "Monochrome Media, suzie feat. Synthesizer V AI 音街ウナ",
-   "title": "LEMON-LIMELIGHT",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/Pz8aAW6dZrY",
-   "source": "vocadb"
-  },
-  {
-   "watch": "suzie",
-   "artist": "Chorvus, suzie feat. Synthesizer V AI 音街ウナ",
-   "title": "DUST IN THE WAKE",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/fcci8QAxFaQ",
-   "source": "vocadb"
-  },
-  {
-   "watch": "suzie",
-   "artist": "Rook, suzie feat. Synthesizer V AI 音街ウナ",
-   "title": "The Proper Way to Watch Paint Dry",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/LiKnXreq4JI",
+   "url": "https://youtu.be/qfhseuYZWlg",
    "source": "vocadb"
   },
   {
@@ -199,15 +163,6 @@
    "released": "2026-10-16",
    "kind": "singiel",
    "url": "https://youtu.be/vnQ50skXVts",
-   "source": "vocadb"
-  },
-  {
-   "watch": "suzie",
-   "artist": "WAVESS, suzie feat. Synthesizer V AI 音街ウナ",
-   "title": "I WON’T CHEW YOUR FILTH!",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/pi6o4f4lz-8",
    "source": "vocadb"
   },
   {
@@ -229,22 +184,22 @@
    "source": "vocadb"
   },
   {
-   "watch": "D.watt",
-   "artist": "D.watt",
-   "title": "Blue Cup - Single",
+   "watch": "AnythingBecomeMoe",
+   "artist": "AnythingBecomeMoe",
+   "title": "Digital Psychosis - Single",
    "released": "2026-10-15",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/blue-cup-single/6823937030?uo=4",
+   "url": "https://music.apple.com/jp/album/digital-psychosis-single/6820059007?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "夢ノ結唱 ROSE",
-   "artist": "夢ノ結唱 ROSE",
-   "title": "Glass Wing (feat. Yumenokessho POPY) - Single",
-   "released": "2026-10-14",
+   "watch": "RADWIMPS",
+   "artist": "RADWIMPS",
+   "title": "汝、星のごとく",
+   "released": "2026-10-15",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/glass-wing-feat-yumenokessho-popy-single/6819126402?uo=4",
-   "source": "itunes"
+   "url": "https://musicbrainz.org/release-group/d294a91a-62c8-4b05-9141-cbf845f7645e",
+   "source": "musicbrainz"
   },
   {
    "watch": "OZIGIRI",
@@ -263,15 +218,6 @@
    "kind": "cover",
    "url": "https://vocadb.net/S/1045474",
    "source": "vocadb"
-  },
-  {
-   "watch": "なみぐる",
-   "artist": "なみぐる",
-   "title": "CharmingHappyStar - Single",
-   "released": "2026-10-11",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/charminghappystar-single/6821554692?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "博衣こより",
@@ -379,24 +325,6 @@
    "released": "2026-10-04",
    "kind": "cover",
    "url": "https://youtu.be/6u3KsJhGC_s",
-   "source": "vocadb"
-  },
-  {
-   "watch": "cosMo@Bousou-P",
-   "artist": "cosMo@暴走P feat. 初音ミク V6 (Original)",
-   "title": "キラー",
-   "released": "2026-10-03",
-   "kind": "singiel",
-   "url": "https://youtu.be/L6afm5zRaxA",
-   "source": "vocadb"
-  },
-  {
-   "watch": "FLAVOR FOLEY",
-   "artist": "Various artists",
-   "title": "Clover",
-   "released": "2026-10-03",
-   "kind": "singiel",
-   "url": "https://youtu.be/cY0qV7q9IC4",
    "source": "vocadb"
   }
  ]

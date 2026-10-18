@@ -1,19 +1,8 @@
 {
- "generated": "2026-10-17T23:39:08Z",
+ "generated": "2026-10-18T23:42:26Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 11,
+ "count": 10,
  "items": [
-  {
-   "watch": "Mori Calliope",
-   "name": "Mori Calliope @ Ufa-palast Düsseldorf",
-   "date": "2026-10-17",
-   "dateEnd": "2026-10-17",
-   "city": "Düsseldorf",
-   "cc": "DE",
-   "venue": "Ufa-palast Düsseldorf",
-   "url": "https://www.songkick.com/concerts/43338903-irys-at-ufapalast-dusseldorf",
-   "source": "songkick"
-  },
   {
    "watch": "Mori Calliope",
    "name": "Mori Calliope @ Colosseum Kino & Eventlocation",
