@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:41:50Z",
+ "updated": "2026-10-18T04:42:24Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -62,6 +62,18 @@
    "id": "capchii-swell"
   },
   {
+   "about": "Producent vocaloidowy/SynthV pracujący z głosem Kasane Teto SV.",
+   "artist": "いのうつはSA feat. 重音テトSV",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Zapowiedziany singiel z Kasane Teto SV, premiera 25 października.",
+   "title": "早めの放課後",
+   "url": "https://vocadb.net/S/1047908",
+   "id": "inoutsuwa-sa-kasane-teto-hayame-no-houkago"
+  },
+  {
    "about": "Koreański producent z kręgu Vocaloid/Project SEKAI i gier rytmicznych.",
    "artist": "RiraN feat. Synthesizer V AI Megpoid",
    "foundAt": "2026-10-11",
@@ -72,6 +84,18 @@
    "title": "New Days",
    "url": "https://vocadb.net/S/1044823",
    "id": "riran-feat-synthesizer-v-ai-megpoid-new--ce5930"
+  },
+  {
+   "about": "Japoński producent muzyczny tworzący piosenki z głosem Kasane Teto SV.",
+   "artist": "佐藤貴文 feat. 重音テトSV",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Zapowiedziany singiel na syntezatorze Kasane Teto SV, premiera 25 października.",
+   "title": "刻",
+   "url": "https://vocadb.net/S/1047909",
+   "id": "sato-takafumi-kasane-teto-toki"
   },
   {
    "about": "Japońska wokalistka znana z openingów anime, m.in. „Gurenge” (Demon Slayer) i „Unlasting” (Sword Art Online).",
@@ -122,6 +146,30 @@
    "id": "beatmario-insane"
   },
   {
+   "about": "Iyowa to producent vocaloidowy znany z intensywnych, szalonych piosenek z Hatsune Miku.",
+   "artist": "いよわ",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-18",
+   "songAbout": "Drugi singiel Iyowy w tym tygodniu, premiera 18 października.",
+   "title": "Syzygy",
+   "url": "https://music.apple.com/jp/album/syzygy-single/6823647055?uo=4",
+   "id": "iyowa-syzygy"
+  },
+  {
+   "about": "KAPPPPA to twórca piosenek vocaloidowych/SynthV; tu łączy głosy KAFU i Hatsune Miku.",
+   "artist": "KAPPPPA, 可不 & 初音ミク",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-18",
+   "songAbout": "Duet syntezatorów głosu KAFU i Miku, świeży singiel z Apple Music Japan.",
+   "title": "モーメント",
+   "url": "https://music.apple.com/jp/album/%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88-single/1896098532?uo=4",
+   "id": "kappppa-kafu-hatsune-miku-moment"
+  },
+  {
    "about": "Luo Tianyi to chiński vocaloid; tu we współpracy z twórcą 栖亦久.",
    "artist": "栖亦久 & 洛天依",
    "foundAt": "2026-10-14",
@@ -132,6 +180,18 @@
    "title": "秋糖恋爱手册",
    "url": "https://music.apple.com/jp/album/%E7%A7%8B%E7%B3%96%E6%81%8B%E7%88%B1%E6%89%8B%E5%86%8C-single/6821288651?uo=4",
    "id": "qiyijiu-luo-tianyi-qiutang-lian-ai-shouce"
+  },
+  {
+   "about": "DYES IWASAKI to japoński producent z pogranicza elektroniki i j-popu, współpracujący m.in. z vocaloidami.",
+   "artist": "DYES IWASAKI",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Singiel z gościnnym udziałem Miyamori Bungaku, premiera 17 października.",
+   "title": "Zigi (feat. Miyamori Bungaku)",
+   "url": "https://music.apple.com/jp/album/zigi-feat-miyamori-bungaku-single/6818706627?uo=4",
+   "id": "dyes-iwasaki-zigi"
   },
   {
    "about": "Hatsune Miku to najsłynniejszy wokal Vocaloid/Piapro, bohaterka tysięcy utworów producentów z całego świata.",
@@ -302,6 +362,18 @@
    "id": "aku-p-something-new"
   },
   {
+   "about": "Producent tworzący piosenki z Kasane Teto.",
+   "artist": "雨良 feat. 重音テト",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel z Kasane Teto, wykryty w MusicBrainz.",
+   "title": "catch-22",
+   "url": "https://musicbrainz.org/release-group/c2e98082-1729-44cf-87ab-98eafd6747d1",
+   "id": "amera-kasane-teto-catch-22"
+  },
+  {
    "about": "Arianne – artystka z listy obserwowanych.",
    "artist": "Arianne",
    "foundAt": "2026-10-16",
@@ -314,6 +386,30 @@
    "id": "arianne-olhos-no-espelho"
   },
   {
+   "about": "Chorvus i suzie to producenci sceny SynthV z głosem Otomachi Una.",
+   "artist": "Chorvus, suzie feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Część zbiorczego wydawnictwa z 16 października.",
+   "title": "DUST IN THE WAKE",
+   "url": "https://youtu.be/fcci8QAxFaQ",
+   "id": "chorvus-suzie-dust-in-the-wake"
+  },
+  {
+   "about": "Denonbu to elektroniczny projekt idolowy z DJ-ami i producentami klubowymi.",
+   "artist": "電音部 & DE DE MOUSE",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Współpraca z DE DE MOUSE, znanym z kolorowej, popowej elektroniki.",
+   "title": "Star Chase Girl",
+   "url": "https://music.apple.com/jp/album/star-chase-girl-single/6819919084?uo=4",
+   "id": "denonbu-de-de-mouse-star-chase-girl"
+  },
+  {
    "about": "heiakim to producent tworzący utwory z Hatsune Miku.",
    "artist": "heiakim & Hatsune Miku",
    "foundAt": "2026-10-17",
@@ -324,6 +420,18 @@
    "title": "Giddy!",
    "url": "https://music.apple.com/jp/album/giddy-ft-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-single/6820241704?uo=4",
    "id": "heiakim-hatsune-miku-giddy"
+  },
+  {
+   "about": "Mori Calliope i Tokoyami Towa to VTuberki z hololive, HIMEHINA to japoński duet muzyczny.",
+   "artist": "HIMEHINA × Mori Calliope × Tokoyami Towa",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Kolaboracja duetu z dwiema VTuberkami hololive, premiera 16 października.",
+   "title": "ファイアダンス (Fire Dance)",
+   "url": "https://musicbrainz.org/release-group/7734557b-97ae-4f82-9b8a-dde38d8fa724",
+   "id": "himehina-mori-calliope-tokoyami-towa-fire-dance"
   },
   {
    "about": "Zundamon – maskotka głosowa VOICEVOX, bardzo popularna w memach i piosenkach fanowskich.",
@@ -422,6 +530,18 @@
    "id": "luo-tianyi-wo-shi-ni-laopo"
   },
   {
+   "about": "Monochrome Media i suzie to twórcy sceny SynthV/Vocaloid śpiewający głosem Otomachi Una.",
+   "artist": "Monochrome Media, suzie feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Część zbiorczego wydawnictwa z 16 października na głosie Otomachi Una.",
+   "title": "LEMON-LIMELIGHT",
+   "url": "https://youtu.be/Pz8aAW6dZrY",
+   "id": "monochrome-media-suzie-lemon-limelight"
+  },
+  {
    "about": "Monochrome Media – producent elektroniczny.",
    "artist": "Monochrome Media feat. Synthesizer V AI 音街ウナ",
    "foundAt": "2026-10-16",
@@ -482,6 +602,18 @@
    "id": "radwimps-you-like-a-star"
   },
   {
+   "about": "Rook i suzie to producenci sceny SynthV z głosem Otomachi Una.",
+   "artist": "Rook, suzie feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Część zbiorczego wydawnictwa z 16 października.",
+   "title": "The Proper Way to Watch Paint Dry",
+   "url": "https://youtu.be/LiKnXreq4JI",
+   "id": "rook-suzie-proper-way-to-watch-paint-dry"
+  },
+  {
    "about": "suzie – producent Vocaloid piszący na głosie Otomachi Una.",
    "artist": "suzie feat. 音街ウナ Sugar",
    "foundAt": "2026-10-15",
@@ -494,6 +626,18 @@
    "id": "suzie-start-dancing-to-the-beat-twin"
   },
   {
+   "about": "Toby Fox to twórca Undertale i Deltarune, Trevor Alan Gomes to aranżer i pianista związany z muzyką Deltarune.",
+   "artist": "Trevor Alan Gomes & Toby Fox",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy utwór ze strefy muzyki z Deltarune/Undertale, premiera 16 października.",
+   "title": "Hammer of Justice",
+   "url": "https://musicbrainz.org/release-group/aa1b9cda-3902-45e7-8965-f509d8842267",
+   "id": "toby-fox-trevor-alan-gomes-hammer-of-justice"
+  },
+  {
    "about": "Unlike Pluto – amerykański producent electro/future bass.",
    "artist": "Unlike Pluto",
    "foundAt": "2026-10-16",
@@ -504,6 +648,18 @@
    "title": "Never Shine Again",
    "url": "https://music.apple.com/jp/album/never-shine-again-single/6819561521?uo=4",
    "id": "unlike-pluto-never-shine-again"
+  },
+  {
+   "about": "WAVESS i suzie to producenci sceny SynthV z głosem Otomachi Una.",
+   "artist": "WAVESS, suzie feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Część zbiorczego wydawnictwa z 16 października.",
+   "title": "I WON’T CHEW YOUR FILTH!",
+   "url": "https://youtu.be/pi6o4f4lz-8",
+   "id": "wavess-suzie-i-wont-chew-your-filth"
   },
   {
    "about": "AnythingBecomeMoe – artysta z kręgu J-core/denpa i moe-elektroniki.",
@@ -576,6 +732,18 @@
    "title": "Strongest Rat Ever Existed",
    "url": "https://musicbrainz.org/release-group/a9716c93-f964-40ba-8026-d515bb08ecfc",
    "id": "camellia-strongest-rat-ever-existed"
+  },
+  {
+   "about": "D.watt to japoński producent i DJ z elektronicznego kręgu denpa/vocaloid.",
+   "artist": "D.watt",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Singiel z 15 października, wykryty w Apple Music Japan.",
+   "title": "Blue Cup",
+   "url": "https://music.apple.com/jp/album/blue-cup-single/6823937030?uo=4",
+   "id": "d-watt-blue-cup"
   },
   {
    "about": "Luo Tianyi – chińska wirtualna wokalistka.",
@@ -1020,6 +1188,18 @@
    "title": "长安不见你",
    "url": "https://music.apple.com/jp/album/%E9%95%BF%E5%AE%89%E4%B8%8D%E8%A7%81%E4%BD%A0-single/6820798291?uo=4",
    "id": "luo-tianyi-chang-an-bu-jian-ni"
+  },
+  {
+   "about": "Namiguru to twórca muzyki kręgu vocaloid/denpa.",
+   "artist": "なみぐる",
+   "foundAt": "2026-10-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-11",
+   "songAbout": "Singiel z 11 października, wykryty w Apple Music Japan.",
+   "title": "CharmingHappyStar",
+   "url": "https://music.apple.com/jp/album/charminghappystar-single/6821554692?uo=4",
+   "id": "namigur-charming-happy-star"
   },
   {
    "about": "Producent tworzący utwory z wokalem Kasane Teto.",
