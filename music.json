@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:42:24Z",
+ "updated": "2026-10-19T04:42:59Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -144,6 +144,30 @@
    "title": "Insane",
    "url": "https://music.apple.com/jp/album/insane-single/6818033944?uo=4",
    "id": "beatmario-insane"
+  },
+  {
+   "about": "D_CLACX to producent elektronicznej muzyki wykorzystujący głos Hatsune Miku.",
+   "artist": "D_CLACX & Hatsune Miku",
+   "foundAt": "2026-10-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Nowy singiel z wokalem Hatsune Miku w elektronicznym, klubowym klimacie.",
+   "title": "ZeroAndOneEx01",
+   "url": "https://music.apple.com/jp/album/zeroandoneex01-single/6819629055?uo=4",
+   "id": "d-clacx-hatsune-miku-zeroandoneex01"
+  },
+  {
+   "about": "BilliumMoto to producent elektroniczny, który tworzy utwory z wokalem Kasane Teto, m.in. „Pandora Prototype”.",
+   "artist": "BilliumMoto feat. Kasane Teto SV2",
+   "foundAt": "2026-10-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-18",
+   "songAbout": "Nowy singiel z głosem Kasane Teto SV2, energetyczny elektroniczny kawałek z klimatem vocaloidowym.",
+   "title": "Look At Me",
+   "url": "https://youtu.be/4V5gFpCf92I",
+   "id": "billiummoto-kasane-teto-look-at-me"
   },
   {
    "about": "Iyowa to producent vocaloidowy znany z intensywnych, szalonych piosenek z Hatsune Miku.",
@@ -660,6 +684,18 @@
    "title": "I WON’T CHEW YOUR FILTH!",
    "url": "https://youtu.be/pi6o4f4lz-8",
    "id": "wavess-suzie-i-wont-chew-your-filth"
+  },
+  {
+   "about": "AnythingBecomeMoe to producent z kręgu denpa i hyperpopu, tworzący szybkie, przesterowane utwory z internetową estetyką.",
+   "artist": "AnythingBecomeMoe",
+   "foundAt": "2026-10-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Nowy singiel w denpa/hyperpopowym stylu, pełen chaotycznych syntezatorów i szybkiego tempa.",
+   "title": "Digital Psychosis",
+   "url": "https://music.apple.com/jp/album/digital-psychosis-single/6820059007?uo=4",
+   "id": "anythingbecomemoe-digital-psychosis"
   },
   {
    "about": "AnythingBecomeMoe – artysta z kręgu J-core/denpa i moe-elektroniki.",

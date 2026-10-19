@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-15T18:47:59Z",
+ "updated": "2026-10-19T04:42:59Z",
  "events": [
+  {
+   "id": "jp-2026-10-vocaloid-maniax-vol58-mogra",
+   "artist": "VOCALOID-ManiaX vol.58",
+   "title": "Noc Vocaloid w MOGRA Akihabara",
+   "kind": "rave",
+   "region": "JP",
+   "tier": 2,
+   "dateStart": "2026-10-18",
+   "dateEnd": "2026-10-18",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Akihabara)",
+     "date": "2026-10-18",
+     "venue": "MOGRA"
+    }
+   ],
+   "url": "https://club-mogra.jp/2026/10/"
+  },
+  {
+   "id": "jp-2026-10-shinkai-fes-2026",
+   "artist": "Shinkai Fes 2026 'Super Deep Sea'",
+   "title": "Festiwal VTuber music, 100+ wykonawców, Shibuya",
+   "kind": "festiwal",
+   "region": "JP",
+   "tier": 2,
+   "dateStart": "2026-10-17",
+   "dateEnd": "2026-10-18",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Shibuya)",
+     "date": "2026-10-17",
+     "venue": "Shibuya Stream Hall"
+    }
+   ],
+   "lineup": [
+    "Rim",
+    "Harubiko",
+    "Fuji Aoi",
+    "Hoshikuzu Purane",
+    "Moemi",
+    "Amakuzu Sumoa",
+    "Tsukishiro Kasane",
+    "AZKi",
+    "YuNi",
+    "Ohmasa Chitamu",
+    "Kashiwamori Ema"
+   ],
+   "url": "https://panora.tokyo/archives/157583"
+  },
+  {
+   "id": "kr-2026-10-ano-seoul",
+   "artist": "ano",
+   "title": "ano in Seoul (2 dni)",
+   "kind": "koncert",
+   "region": "KR",
+   "tier": 1,
+   "dateStart": "2026-10-17",
+   "dateEnd": "2026-10-18",
+   "stops": [
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2026-10-17",
+     "venue": "Blue Square (WooriWON Banking Hall)"
+    },
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2026-10-18",
+     "venue": "Blue Square (WooriWON Banking Hall)"
+    }
+   ],
+   "url": "https://www.eventworld.com/ano-seoul-tickets-17-10-2026/event/515852"
+  },
+  {
+   "id": "2026-10-mondocon-autumn",
+   "artist": "Őszi MondoCon 2026",
+   "title": "Azumi Inoue i Who-ya Extended",
+   "kind": "konwent",
+   "tier": 3,
+   "dateStart": "2026-10-16",
+   "dateEnd": "2026-10-18",
+   "stops": [
+    {
+     "cc": "HU",
+     "city": "Budapeszt",
+     "date": "2026-10-16",
+     "venue": "Hungexpo"
+    }
+   ],
+   "lineup": [
+    "Azumi Inoue",
+    "Yuyu",
+    "Who-ya Extended"
+   ],
+   "url": "https://budappest.hu/ghibli-koncert-animepremier-es-cosplay-vilagsztarok-ilyen-lesz-az-oszi-mondocon-2026-budapesten/"
+  },
   {
    "id": "past-2026-10-13-nier-orchestra-concert-12026-yorha-krakow",
    "artist": "NieR:Orchestra Concert 12026 [ YoRHa ]",
@@ -135,6 +234,44 @@
     }
    ],
    "url": "https://www.songkick.com/concerts/43339021-mori-calliope-at-ugc-cine-cite-bercy"
+  },
+  {
+   "id": "2026-10-hololive-english-serendipity-screening",
+   "artist": "hololive English",
+   "title": "4th Concert -Serendipity- — oficjalne pokazy kinowe w Europie",
+   "kind": "koncert",
+   "tier": 3,
+   "dateStart": "2026-10-10",
+   "dateEnd": "2026-10-18",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-10-10",
+     "venue": "UGC Ciné Cité Bercy (wg strony trasy; bileteria podaje UGC Montparnasse)"
+    },
+    {
+     "cc": "DE",
+     "city": "Düsseldorf",
+     "date": "2026-10-17",
+     "venue": "UFA-Palast Düsseldorf"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-18",
+     "venue": "Colosseum Kino & Eventlocation"
+    }
+   ],
+   "lineup": [
+    "Mori Calliope",
+    "IRyS",
+    "Takanashi Kiara",
+    "Ninomae Ina'nis",
+    "Hakos Baelz",
+    "Ouro Kronii"
+   ],
+   "url": "https://www.serendipityscreening.com/"
   },
   {
    "id": "past-2026-10-08-unsound",
