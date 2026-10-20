@@ -1,19 +1,8 @@
 {
- "generated": "2026-10-18T23:42:26Z",
+ "generated": "2026-10-20T00:48:36Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 10,
+ "count": 9,
  "items": [
-  {
-   "watch": "Mori Calliope",
-   "name": "Mori Calliope @ Colosseum Kino & Eventlocation",
-   "date": "2026-10-18",
-   "dateEnd": "2026-10-18",
-   "city": "Berlin",
-   "cc": "DE",
-   "venue": "Colosseum Kino & Eventlocation",
-   "url": "https://www.songkick.com/concerts/43339037-irys-at-colosseum-kino-and-eventlocation",
-   "source": "songkick"
-  },
   {
    "watch": "Jimmy Gnecco",
    "name": "Jimmy Gnecco @ Café la Palma",

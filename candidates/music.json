@@ -1,8 +1,17 @@
 {
- "generated": "2026-10-18T23:42:24Z",
- "about": "Premiery 2026-10-04..2026-11-17 artystów z watch.json, których nie ma w music.json",
- "count": 36,
+ "generated": "2026-10-20T00:48:34Z",
+ "about": "Premiery 2026-10-06..2026-11-19 artystów z watch.json, których nie ma w music.json",
+ "count": 41,
  "items": [
+  {
+   "watch": "EmoCosine",
+   "artist": "EmoCosine",
+   "title": "Cutter Remixes",
+   "released": "2026-11-01",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/cutter-remixes/6823890671?uo=4",
+   "source": "itunes"
+  },
   {
    "watch": "picco",
    "artist": "Various artists",
@@ -11,6 +20,15 @@
    "kind": "singiel",
    "url": "https://vocadb.net/S/1041617",
    "source": "vocadb"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "まさよし & 重音テト",
+   "title": "現実と幻術 - Single",
+   "released": "2026-10-20",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E7%8F%BE%E5%AE%9F%E3%81%A8%E5%B9%BB%E8%A1%93-single/6816833941?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "初音ミク",
@@ -85,12 +103,21 @@
    "source": "itunes"
   },
   {
-   "watch": "BilliumMoto",
-   "artist": "BilliumMoto",
-   "title": "Look At Me",
+   "watch": "ワンダーランズ×ショウタイム",
+   "artist": "isonosuke feat. various",
+   "title": "バカ通信",
+   "released": "2026-10-19",
+   "kind": "cover",
+   "url": "https://youtu.be/xxRgcEZQNCU",
+   "source": "vocadb"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "AVTechNO! feat. 初音ミク",
+   "title": "レメストリア (LoFi)",
    "released": "2026-10-18",
    "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/3c26656e-6f19-49c3-b589-73de4a35fafd",
+   "url": "https://musicbrainz.org/release-group/5e494ab6-70ab-4a8d-bfac-5f770f412604",
    "source": "musicbrainz"
   },
   {
@@ -101,15 +128,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/4V5gFpCf92I",
    "source": "vocadb"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "初音ミク",
-   "title": "We heard a cicada chirping feat.Hatsune Miku - Single",
-   "released": "2026-10-17",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/we-heard-a-cicada-chirping-feat-hatsune-miku-single/6820397391?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "いよわ",
@@ -148,6 +166,15 @@
    "source": "musicbrainz"
   },
   {
+   "watch": "wotaku",
+   "artist": "wotaku feat. 花隈千冬",
+   "title": "栞",
+   "released": "2026-10-16",
+   "kind": "singiel",
+   "url": "https://youtu.be/bOtfL94ln1A",
+   "source": "vocadb"
+  },
+  {
    "watch": "Jamie Paige",
    "artist": "Vane Lily, MonochroMenace, Jamie Paige feat. Synthesizer V AI 音街ウナ",
    "title": "Follow You",
@@ -184,13 +211,13 @@
    "source": "vocadb"
   },
   {
-   "watch": "AnythingBecomeMoe",
-   "artist": "AnythingBecomeMoe",
-   "title": "Digital Psychosis - Single",
-   "released": "2026-10-15",
+   "watch": "d0tc0mmie",
+   "artist": "d0tc0mmie feat. Synthesizer V AI 音街ウナ",
+   "title": "Iris Shining",
+   "released": "2026-10-16",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/digital-psychosis-single/6820059007?uo=4",
-   "source": "itunes"
+   "url": "https://youtu.be/7VNOscDw35E",
+   "source": "vocadb"
   },
   {
    "watch": "RADWIMPS",
@@ -216,7 +243,34 @@
    "title": "星、ときどき光",
    "released": "2026-10-12",
    "kind": "cover",
-   "url": "https://vocadb.net/S/1045474",
+   "url": "https://youtu.be/UPkTQ3hfbGI",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Abaraya",
+   "artist": "あばらや feat. v4 flower",
+   "title": "星、ときどき光",
+   "released": "2026-10-12",
+   "kind": "singiel",
+   "url": "https://youtu.be/EwP8xfUvI9w",
+   "source": "vocadb"
+  },
+  {
+   "watch": "d0tc0mmie",
+   "artist": "d0tc0mmie feat. 初音ミク, 重音テトSV",
+   "title": "dream.mp3.flip",
+   "released": "2026-10-12",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1045744",
+   "source": "vocadb"
+  },
+  {
+   "watch": "d0tc0mmie",
+   "artist": "d0tc0mmie, HWAAStyle feat. 初音ミク, 重音テトSV",
+   "title": "ゆめ",
+   "released": "2026-10-12",
+   "kind": "cover",
+   "url": "https://vocadb.net/S/1045739",
    "source": "vocadb"
   },
   {
@@ -316,15 +370,6 @@
    "released": "2026-10-06",
    "kind": "singiel",
    "url": "https://youtu.be/BBCRBlHT_Go",
-   "source": "vocadb"
-  },
-  {
-   "watch": "TAK",
-   "artist": "TAK feat. various",
-   "title": "LEMON MELON COOKIE",
-   "released": "2026-10-04",
-   "kind": "cover",
-   "url": "https://youtu.be/6u3KsJhGC_s",
    "source": "vocadb"
   }
  ]
