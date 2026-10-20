@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:42:59Z",
+ "updated": "2026-10-20T04:42:05Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -24,6 +24,18 @@
    "title": "夢心地",
    "url": "https://music.apple.com/jp/album/%E5%A4%A2%E5%BF%83%E5%9C%B0-ep/6810941092?uo=4",
    "id": "tooboe-yumegokochi"
+  },
+  {
+   "about": "EmoCosine to koreański producent z sceny gier rytmicznych (DJMAX / Inspion), znany z energetycznego electro i future bass.",
+   "artist": "EmoCosine",
+   "foundAt": "2026-10-20",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-11-01",
+   "songAbout": "Album z remiksami utworu Cutter; premiera zapowiedziana na 1 listopada 2026.",
+   "title": "Cutter Remixes",
+   "url": "https://music.apple.com/jp/album/cutter-remixes/6823890671?uo=4",
+   "id": "emocosine-cutter-remixes"
   },
   {
    "about": "Queens of the Stone Age – amerykański zespół stoner/alternative rockowy Josha Hommego.",
@@ -134,6 +146,18 @@
    "id": "picco-flip-flop"
   },
   {
+   "about": "Kasane Teto to wirtualna wokalistka UTAU/Synthesizer V, jedna z najpopularniejszych w środowisku producentów.",
+   "artist": "まさよし & 重音テト",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-20",
+   "songAbout": "Nowy singiel z wokalem Teto, wydany 20 października.",
+   "title": "現実と幻術",
+   "url": "https://music.apple.com/jp/album/%E7%8F%BE%E5%AE%9F%E3%81%A8%E5%B9%BB%E8%A1%93-single/6816833941?uo=4",
+   "id": "masayoshi-kasane-teto-genjitsu-to-genjutsu"
+  },
+  {
    "about": "beatMARIO (COOL&CREATE) to jeden z najbardziej znanych producentów J-core i electro, związany z serią Touhou.",
    "artist": "ビートまりお",
    "foundAt": "2026-10-09",
@@ -156,6 +180,102 @@
    "title": "ZeroAndOneEx01",
    "url": "https://music.apple.com/jp/album/zeroandoneex01-single/6819629055?uo=4",
    "id": "d-clacx-hatsune-miku-zeroandoneex01"
+  },
+  {
+   "about": "isonosuke to japoński twórca związany ze sceną Project SEKAI / wirtualnych śpiewaków.",
+   "artist": "isonosuke feat. various",
+   "foundAt": "2026-10-20",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Cover utworu w wykonaniu postaci z Wonderlands×Showtime (Project SEKAI).",
+   "title": "バカ通信",
+   "url": "https://youtu.be/xxRgcEZQNCU",
+   "id": "isonosuke-baka-tsushin"
+  },
+  {
+   "about": "Kurama to producent vocaloidowy tworzący piosenki z wokalem Hatsune Miku.",
+   "artist": "Kurama & 初音ミク",
+   "foundAt": "2026-10-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Nowe wydawnictwo z wokalem Miku, spokojny klimat poranka.",
+   "title": "あさのうた",
+   "url": "https://music.apple.com/jp/album/%E3%81%82%E3%81%95%E3%81%AE%E3%81%86%E3%81%9F/6823158050?uo=4",
+   "id": "kurama-hatsune-miku-asa-no-uta"
+  },
+  {
+   "about": "luna to artysta z listy obserwowanych, wydający serię singli z elektroniczną muzyką.",
+   "artist": "luna",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Jeden z pięciu singli wydanych tego samego dnia.",
+   "title": "Coming Your Way",
+   "url": "https://music.apple.com/jp/album/coming-your-way-single/6821243104?uo=4",
+   "id": "luna-coming-your-way"
+  },
+  {
+   "about": "luna to artysta z listy obserwowanych, wydający serię singli z elektroniczną muzyką.",
+   "artist": "luna",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Jeden z pięciu singli wydanych tego samego dnia.",
+   "title": "Good Chemistry",
+   "url": "https://music.apple.com/jp/album/good-chemistry-single/6821242276?uo=4",
+   "id": "luna-good-chemistry"
+  },
+  {
+   "about": "luna to artysta z listy obserwowanych, wydający serię singli z elektroniczną muzyką.",
+   "artist": "luna",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Jeden z pięciu singli wydanych tego samego dnia.",
+   "title": "I'm Not Yours to Keep",
+   "url": "https://music.apple.com/jp/album/im-not-yours-to-keep-single/6821243285?uo=4",
+   "id": "luna-im-not-yours-to-keep"
+  },
+  {
+   "about": "luna to artysta z listy obserwowanych, wydający serię singli z elektroniczną muzyką.",
+   "artist": "luna",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Jeden z pięciu singli wydanych tego samego dnia.",
+   "title": "One More Secret",
+   "url": "https://music.apple.com/jp/album/one-more-secret-single/6821242393?uo=4",
+   "id": "luna-one-more-secret"
+  },
+  {
+   "about": "luna to artysta z listy obserwowanych, wydający serię singli z elektroniczną muzyką.",
+   "artist": "luna",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Jeden z pięciu singli wydanych tego samego dnia.",
+   "title": "Waiting for Your Text",
+   "url": "https://music.apple.com/jp/album/waiting-for-your-text-single/6821242933?uo=4",
+   "id": "luna-waiting-for-your-text"
+  },
+  {
+   "about": "AVTechNO! to producent muzyki elektronicznej tworzący z wokalem Hatsune Miku.",
+   "artist": "AVTechNO! feat. 初音ミク",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-18",
+   "songAbout": "Lofi wersja utworu Remestria z wokalem Miku.",
+   "title": "レメストリア (LoFi)",
+   "url": "https://musicbrainz.org/release-group/5e494ab6-70ab-4a8d-bfac-5f770f412604",
+   "id": "avtechno-hatsune-miku-remestria-lofi"
   },
   {
    "about": "BilliumMoto to producent elektroniczny, który tworzy utwory z wokalem Kasane Teto, m.in. „Pandora Prototype”.",
@@ -422,6 +542,18 @@
    "id": "chorvus-suzie-dust-in-the-wake"
   },
   {
+   "about": "d0tc0mmie to producent z zachodniej sceny vocaloidowej, tworzący hyperpop i electro z wokalami SynthV.",
+   "artist": "d0tc0mmie feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy singiel z wokalem Otomachi Una.",
+   "title": "Iris Shining",
+   "url": "https://youtu.be/7VNOscDw35E",
+   "id": "d0tc0mmie-oto-machi-una-iris-shining"
+  },
+  {
    "about": "Denonbu to elektroniczny projekt idolowy z DJ-ami i producentami klubowymi.",
    "artist": "電音部 & DE DE MOUSE",
    "foundAt": "2026-10-18",
@@ -684,6 +816,18 @@
    "title": "I WON’T CHEW YOUR FILTH!",
    "url": "https://youtu.be/pi6o4f4lz-8",
    "id": "wavess-suzie-i-wont-chew-your-filth"
+  },
+  {
+   "about": "wotaku to japoński producent z kręgu denpa / J-core, znany z energetycznych utworów w stylu otaku.",
+   "artist": "wotaku feat. 花隈千冬",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-16",
+   "songAbout": "Nowy kawałek z wokalem Hanakuma Chifuyu.",
+   "title": "栞",
+   "url": "https://youtu.be/bOtfL94ln1A",
+   "id": "wotaku-hanakuma-chifuyu-shiori"
   },
   {
    "about": "AnythingBecomeMoe to producent z kręgu denpa i hyperpopu, tworzący szybkie, przesterowane utwory z internetową estetyką.",
@@ -1080,6 +1224,18 @@
    "title": "Riot In Hell",
    "url": "https://music.apple.com/jp/album/riot-in-hell-ep/6816827241?uo=4",
    "id": "coakira-ozigiri-riot-in-hell"
+  },
+  {
+   "about": "d0tc0mmie to producent z zachodniej sceny vocaloidowej, tworzący hyperpop i electro.",
+   "artist": "d0tc0mmie feat. 初音ミク, 重音テトSV",
+   "foundAt": "2026-10-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Singiel z wokalami Miku i Teto.",
+   "title": "dream.mp3.flip",
+   "url": "https://vocadb.net/S/1045744",
+   "id": "d0tc0mmie-dream-mp3-flip"
   },
   {
    "about": "えびすぇんP to producent vocaloidowy tworzący piosenki z Hatsune Miku.",
