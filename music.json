@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:42:05Z",
+ "updated": "2026-10-21T04:42:48Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -146,6 +146,114 @@
    "id": "picco-flip-flop"
   },
   {
+   "about": "25-ji, Nightcord de. to jedna z grup w grze rytmicznej Project SEKAI COLORFUL STAGE! feat. Hatsune Miku.",
+   "artist": "25時、ナイトコードで。",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Podwójny singiel grupy z Project SEKAI, wykonywany przez Kanade, Mafuyu, Ena i Mizuki.",
+   "title": "The name of painting / Love and Punishment",
+   "url": "https://music.apple.com/jp/album/the-name-of-painting-love-and-punishment-feat/6823539898?uo=4",
+   "id": "25ji-night-code-name-of-painting-love-and-punishment"
+  },
+  {
+   "about": "Broken By The Scream to japoński zespół z kręgu anime-rocka/idoli metalowych.",
+   "artist": "Broken By The Scream",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Nowy singiel zespołu.",
+   "title": "Parallel Universe",
+   "url": "https://music.apple.com/jp/album/parallel-universe-single/6810742377?uo=4",
+   "id": "broken-by-the-scream-parallel-universe"
+  },
+  {
+   "about": "Laplus Darknesss to VTuberka z hololive (sekcja secret society holoX), znana z energetycznych coverów i oryginalnych utworów, m.in. kolaboracji z IOSYS.",
+   "artist": "ラプラス・ダークネス",
+   "foundAt": "2026-10-21",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Nowy album VTuberki z oryginalnymi piosenkami.",
+   "title": "Project Y.M.A.",
+   "url": "https://music.apple.com/jp/album/project-y-m-a/6818734773?uo=4",
+   "id": "laplus-darknesss-project-y-m-a"
+  },
+  {
+   "about": "STEAVEN-T i SAIJI to twórcy sceny Vocaloid piszący utwory dla Hatsune Miku.",
+   "artist": "STEAVEN-T, 初音ミク & SAIJI",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Nowy kawałek z wokalem Hatsune Miku.",
+   "title": "カゴメスマイル",
+   "url": "https://music.apple.com/jp/album/%E3%82%AB%E3%82%B4%E3%83%A1%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB-single/6819629236?uo=4",
+   "id": "steaven-t-saiji-hatsune-miku-kagome-smile"
+  },
+  {
+   "about": "r-906 to japoński producent elektroniczny/vocaloidowy, znany z energetycznych utworów dla Hatsune Miku i Adachi Rei; tu współpracuje z twórcą 水槽.",
+   "artist": "水槽 & r-906",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Nowy singiel z klubowym, elektronicznym klimatem.",
+   "title": "ハルシネイション",
+   "url": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3-single/6820414231?uo=4",
+   "id": "suisou-r-906-hallucination"
+  },
+  {
+   "about": "t+pazolite to jedna z czołowych postaci japońskiej sceny hardcore/J-core i wydawnictwa TANO*C; DJ Myosuke to producent tej samej sceny.",
+   "artist": "t+pazolite & DJ Myosuke",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Kolaboracja w stylu szybkiego hardcore/breakcore z ciężkimi bitami.",
+   "title": "Uragiri",
+   "url": "https://music.apple.com/jp/album/uragiri-single/6822998665?uo=4",
+   "id": "t-pazolite-dj-myosuke-uragiri"
+  },
+  {
+   "about": "海風太陽 to japoński producent muzyczny współpracujący z Hatsune Miku.",
+   "artist": "海風太陽 & 初音ミク",
+   "foundAt": "2026-10-21",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Nowy album z utworami z wokalem Hatsune Miku.",
+   "title": "How We Sing,",
+   "url": "https://music.apple.com/jp/album/how-we-sing/6820005282?uo=4",
+   "id": "umikaze-taiyo-hatsune-miku-how-we-sing"
+  },
+  {
+   "about": "Shigure Ui to znana japońska ilustratorka i VTuberka, a ゆこぴ to producent muzyczny.",
+   "artist": "ゆこぴ feat. しぐれうい",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Piosenka w stylu popowo-vocaloidowym z udziałem Shigure Ui.",
+   "title": "強風オールバック",
+   "url": "https://musicbrainz.org/release-group/1997ead9-93b4-45b2-8b78-8a1211a05a2f",
+   "id": "yukopi-shigure-ui-kyofu-oalback"
+  },
+  {
+   "about": "Luo Tianyi to chiński wokal Vocaloid (Vsinger), najpopularniejszy głos chińskiej sceny wirtualnych śpiewaków.",
+   "artist": "洛天依",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-20",
+   "songAbout": "Nowy singiel w stylu chińskiego popu.",
+   "title": "还好有你",
+   "url": "https://music.apple.com/jp/album/%E8%BF%98%E5%A5%BD%E6%9C%89%E4%BD%A0-single/6824932328?uo=4",
+   "id": "luo-tianyi-hai-hao-you-ni"
+  },
+  {
    "about": "Kasane Teto to wirtualna wokalistka UTAU/Synthesizer V, jedna z najpopularniejszych w środowisku producentów.",
    "artist": "まさよし & 重音テト",
    "foundAt": "2026-10-20",
@@ -180,6 +288,18 @@
    "title": "ZeroAndOneEx01",
    "url": "https://music.apple.com/jp/album/zeroandoneex01-single/6819629055?uo=4",
    "id": "d-clacx-hatsune-miku-zeroandoneex01"
+  },
+  {
+   "about": "HANA to koreańska wokalistka (była członkini GUGUDAN) nagrywająca z Hatsune Miku.",
+   "artist": "HANA (GUGUDAN) & 初音ミク",
+   "foundAt": "2026-10-21",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Album-kolaboracja koreańskiej wokalistki z wokalem Hatsune Miku.",
+   "title": "The Long Way",
+   "url": "https://music.apple.com/jp/album/the-long-way/6823498449?uo=4",
+   "id": "hana-gugudan-hatsune-miku-the-long-way"
   },
   {
    "about": "isonosuke to japoński twórca związany ze sceną Project SEKAI / wirtualnych śpiewaków.",
@@ -384,6 +504,18 @@
    "title": "TIME OVER DEATH",
    "url": "https://music.apple.com/jp/album/time-over-death-single/6820398326?uo=4",
    "id": "otera-hatsune-miku-time-over-death"
+  },
+  {
+   "about": "Screamerrr to producent łączący Vocaloida z hyperpopem i rapem; gościnnie raper Bones.",
+   "artist": "Screamerrr ft. Hatsune Miku & Bones",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Halloweenowy kawałek na styku hyperpopu, rapu i Vocaloida.",
+   "title": "DOWN THE SPOOKY LANE",
+   "url": "https://musicbrainz.org/release-group/81524268-202b-4228-bedb-7147ae81225a",
+   "id": "screamerrr-hatsune-miku-bones-down-the-spooky-lane"
   },
   {
    "about": "unmia to producent tworzący utwory z Hatsune Miku.",
@@ -960,6 +1092,18 @@
    "title": "壊痕少女",
    "url": "https://music.apple.com/jp/album/%E5%A3%8A%E7%97%95%E5%B0%91%E5%A5%B3-single/6814770309?uo=4",
    "id": "nagusaki-hatsune-miku-kaikon-shoujo"
+  },
+  {
+   "about": "RADWIMPS to japoński zespół rockowy znany z muzyki do filmów Makoto Shinkai (Kimi no Na wa, Tenki no Ko).",
+   "artist": "RADWIMPS",
+   "foundAt": "2026-10-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-15",
+   "songAbout": "Nowy singiel zespołu.",
+   "title": "汝、星のごとく",
+   "url": "https://musicbrainz.org/release-group/d294a91a-62c8-4b05-9141-cbf845f7645e",
+   "id": "radwimps-nanji-hoshi-no-gotoku"
   },
   {
    "about": "RiraN – koreański producent sceny gier rytmicznych i vocaloidowej.",

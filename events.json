@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:41:50Z",
+ "updated": "2026-10-21T04:42:48Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -1691,6 +1691,57 @@
    "id": "2026-11-hatsune-miku-expo-europe"
   },
   {
+   "about": "DreamHack Stockholm to duży festiwal gamingowy i LAN party. W 2026 r. gości europejską premierę hololive Meet SUPER KARAOKE PARTY z pokazem scenicznym, stoiskiem hololive production, panelami i meet & greetami.",
+   "artist": "hololive Meet SUPER KARAOKE PARTY @ DreamHack Stockholm 2026",
+   "dateEnd": "2026-11-29",
+   "dateStart": "2026-11-27",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "27–29.11.2026, Stockholmsmässan, Sztokholm"
+    },
+    {
+     "k": "Program",
+     "v": "stoisko hololive, panele, meet & greety, energetyczny pokaz sceniczny (godziny niepodane)"
+    },
+    {
+     "k": "Bilety",
+     "v": "przez dreamhack.com/stockholm; ceny nie podane w komunikacie"
+    }
+   ],
+   "foundAt": "2026-10-21",
+   "hits": [
+    "Mori Calliope – Tragic Love",
+    "Mori Calliope – Eternal Arcadia",
+    "Hoshimachi Suisei – Stellar Stellar",
+    "hololive English – Shiny Smily Story"
+   ],
+   "kind": "konwent",
+   "lineup": [
+    "Mori Calliope",
+    "Nerissa Ravencroft",
+    "Elizabeth Rose Bloodflame",
+    "Tsunomaki Watame",
+    "Airani Iofifteen",
+    "Gigi Murin",
+    "Rindo Chihaya"
+   ],
+   "note": "Konwent/festiwal growy z pokazem na żywo hololive (nie klasyczny koncert). Pełnego składu karaoke party jeszcze nie podano; w komunikacie festiwalu pojawiają się Mori Calliope, Nerissa Ravencroft i Elizabeth Rose Bloodflame, a w newsie hololive jako ambasadorzy z wideo na stoisku m.in. Tsunomaki Watame, Airani Iofifteen, Gigi Murin i Rindo Chihaya.",
+   "stops": [
+    {
+     "cc": "SE",
+     "city": "Sztokholm",
+     "date": "2026-11-27",
+     "venue": "Stockholmsmässan, Älvsjö"
+    }
+   ],
+   "tickets": "https://dreamhack.com/stockholm/",
+   "tier": 3,
+   "title": "Europejska premiera hololive Meet: karaoke party, stoisko, panele i meet & greety",
+   "url": "https://hololive.hololivepro.com/en/news/20261019-01-239/",
+   "id": "2026-11-hololive-meet-super-karaoke-party-dreamhack-stockholm"
+  },
+  {
    "about": "inba☆style to polska ekipa organizująca w Warszawie imprezy klubowe z japońskim hardcorem (J-core) i muzyką w klimacie anime. „Zettai Hardcore Territory” to jej listopadowa noc z gościnnymi setami HakiSume i Yohiii oraz wizualizacjami na żywo.",
    "artist": "inba☆style",
    "dateEnd": "2026-11-07",
@@ -3154,8 +3205,19 @@
   {
    "about": "Orkiestrowa trasa z okazji 40-lecia serii The Legend of Zelda, z muzyką z gier Nintendo w wykonaniu lokalnych orkiestr.",
    "artist": "The Legend of Zelda 40th Anniversary Concert",
-   "dateEnd": "2027-04-03",
+   "changeNote": "Doszły daty: Sztokholm 18–19.06, Edynburg 17.09, Glasgow 18.09.2027 (+ drugi koncert w Londynie 4.04)",
+   "dateEnd": "2027-09-18",
    "dateStart": "2027-04-03",
+   "facts": [
+    {
+     "k": "Sprzedaż",
+     "v": "od 30.09.2026 12:00 BST (UK); ceny niepodane w źródle"
+    },
+    {
+     "k": "Kolejne kraje",
+     "v": "FR, DE, IT, ES – daty do ogłoszenia"
+    }
+   ],
    "foundAt": "2026-10-15",
    "hits": [
     "Zelda – Main Theme",
@@ -3167,17 +3229,49 @@
    "lineup": [
     "London Symphony Orchestra"
    ],
-   "note": "Później dojdą Sztokholm, Edynburg i Glasgow (bez dat). Bilety: wg organizatora sprzedaż od września 2026, terminy ustala każdy obiekt.",
+   "note": "Europejskie daty: Londyn 3–4.04, Sztokholm 18–19.06, Edynburg 17.09, Glasgow 18.09.2027. Francja, Niemcy, Włochy i Hiszpania zapowiedziane bez dat i miejsc. Bilety w UK od 30.09.2026.",
    "stops": [
     {
      "cc": "UK",
      "city": "Londyn",
      "date": "2027-04-03",
      "venue": "Royal Albert Hall"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-04-04",
+     "venue": "Royal Albert Hall"
+    },
+    {
+     "cc": "SE",
+     "city": "Sztokholm",
+     "date": "2027-06-18",
+     "venue": "Konserthuset Stockholm"
+    },
+    {
+     "cc": "SE",
+     "city": "Sztokholm",
+     "date": "2027-06-19",
+     "venue": "Konserthuset Stockholm"
+    },
+    {
+     "cc": "UK",
+     "city": "Edynburg",
+     "date": "2027-09-17",
+     "venue": "Usher Hall"
+    },
+    {
+     "cc": "UK",
+     "city": "Glasgow",
+     "date": "2027-09-18",
+     "venue": "Glasgow Royal Concert Hall"
     }
    ],
+   "tickets": "https://zelda.gameconcerts.com/",
    "tier": 2,
-   "title": "Trasa z okazji 40-lecia Zeldy: Londyn z London Symphony Orchestra",
+   "title": "Trasa z okazji 40-lecia Zeldy: Londyn, Sztokholm, Edynburg, Glasgow",
+   "updatedAt": "2026-10-21",
    "url": "https://consolepulse.com/nintendo/zelda/news/zelda-40th-anniversary-concert-tour-2027-announced",
    "id": "2027-04-zelda-40th-anniversary-concert-london"
   },
