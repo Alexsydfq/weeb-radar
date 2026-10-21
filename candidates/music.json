@@ -1,17 +1,8 @@
 {
- "generated": "2026-10-20T00:48:34Z",
+ "generated": "2026-10-21T00:20:41Z",
  "about": "Premiery 2026-10-06..2026-11-19 artystów z watch.json, których nie ma w music.json",
- "count": 41,
+ "count": 39,
  "items": [
-  {
-   "watch": "EmoCosine",
-   "artist": "EmoCosine",
-   "title": "Cutter Remixes",
-   "released": "2026-11-01",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/cutter-remixes/6823890671?uo=4",
-   "source": "itunes"
-  },
   {
    "watch": "picco",
    "artist": "Various artists",
@@ -22,31 +13,103 @@
    "source": "vocadb"
   },
   {
-   "watch": "重音テト",
-   "artist": "まさよし & 重音テト",
-   "title": "現実と幻術 - Single",
+   "watch": "r-906",
+   "artist": "水槽 & r-906",
+   "title": "ハルシネイション - Single",
+   "released": "2026-10-21",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3-single/6820414231?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "DJ Myosuke",
+   "artist": "t+pazolite & DJ Myosuke",
+   "title": "Uragiri - Single",
+   "released": "2026-10-21",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/uragiri-single/6822998665?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "STEAVEN-T, 初音ミク & SAIJI",
+   "title": "カゴメスマイル - Single",
+   "released": "2026-10-21",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E3%82%AB%E3%82%B4%E3%83%A1%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB-single/6819629236?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "海風太陽 & 初音ミク",
+   "title": "How We Sing,",
+   "released": "2026-10-21",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/how-we-sing/6820005282?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "ラプラス・ダークネス",
+   "artist": "ラプラス・ダークネス",
+   "title": "Project Y.M.A.",
+   "released": "2026-10-21",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/project-y-m-a/6818734773?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "25時、ナイトコードで。",
+   "artist": "25時、ナイトコードで。",
+   "title": "The name of painting/Love and Punishment (feat. 宵崎奏, 朝比奈まふゆ, 東雲絵名 & 暁山瑞希) - Single",
+   "released": "2026-10-21",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/the-name-of-painting-love-and-punishment-feat/6823539898?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Broken By The Scream",
+   "artist": "Broken By The Scream",
+   "title": "Parallel Universe - Single",
+   "released": "2026-10-21",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/parallel-universe-single/6810742377?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "しぐれうい",
+   "artist": "ゆこぴ feat. しぐれうい",
+   "title": "強風オールバック",
+   "released": "2026-10-21",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/1997ead9-93b4-45b2-8b78-8a1211a05a2f",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "25時、ナイトコードで。",
+   "artist": "25時、ナイトコードで。",
+   "title": "その絵の名前は/幸福刑",
+   "released": "2026-10-21",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/9ed2ab99-4f70-4e7a-bac1-41e3a213946e",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "洛天依",
+   "artist": "洛天依",
+   "title": "还好有你 - Single",
    "released": "2026-10-20",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E7%8F%BE%E5%AE%9F%E3%81%A8%E5%B9%BB%E8%A1%93-single/6816833941?uo=4",
+   "url": "https://music.apple.com/jp/album/%E8%BF%98%E5%A5%BD%E6%9C%89%E4%BD%A0-single/6824932328?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "初音ミク",
-   "artist": "D_CLACX & 初音ミク",
-   "title": "ZeroAndOneEx01 - Single",
-   "released": "2026-10-19",
+   "watch": "Marasy",
+   "artist": "まらしぃ, KOUICHI, びび feat. KAITO, MEIKO",
+   "title": "開演 another ver.",
+   "released": "2026-10-20",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/zeroandoneex01-single/6819629055?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "Kurama & 初音ミク",
-   "title": "あさのうた",
-   "released": "2026-10-19",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/%E3%81%82%E3%81%95%E3%81%AE%E3%81%86%E3%81%9F/6823158050?uo=4",
-   "source": "itunes"
+   "url": "https://youtu.be/RlvLl9sc97U",
+   "source": "vocadb"
   },
   {
    "watch": "初音ミク",
@@ -58,67 +121,13 @@
    "source": "itunes"
   },
   {
-   "watch": "*Luna",
-   "artist": "luna",
-   "title": "Good Chemistry - Single",
-   "released": "2026-10-19",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/good-chemistry-single/6821242276?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "luna",
-   "title": "One More Secret - Single",
-   "released": "2026-10-19",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/one-more-secret-single/6821242393?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "luna",
-   "title": "Waiting for Your Text - Single",
-   "released": "2026-10-19",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/waiting-for-your-text-single/6821242933?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "luna",
-   "title": "Coming Your Way - Single",
-   "released": "2026-10-19",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/coming-your-way-single/6821243104?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "luna",
-   "title": "I'm Not Yours to Keep - Single",
-   "released": "2026-10-19",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/im-not-yours-to-keep-single/6821243285?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "ワンダーランズ×ショウタイム",
-   "artist": "isonosuke feat. various",
-   "title": "バカ通信",
-   "released": "2026-10-19",
-   "kind": "cover",
-   "url": "https://youtu.be/xxRgcEZQNCU",
-   "source": "vocadb"
-  },
-  {
    "watch": "初音ミク",
-   "artist": "AVTechNO! feat. 初音ミク",
-   "title": "レメストリア (LoFi)",
-   "released": "2026-10-18",
+   "artist": "D_CLACX & 初音ミク",
+   "title": "ZeroAndOneEx01 - Single",
+   "released": "2026-10-19",
    "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/5e494ab6-70ab-4a8d-bfac-5f770f412604",
-   "source": "musicbrainz"
+   "url": "https://music.apple.com/jp/album/zeroandoneex01-single/6819629055?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "BilliumMoto",
@@ -157,6 +166,15 @@
    "source": "itunes"
   },
   {
+   "watch": "Hatsune Miku",
+   "artist": "Screamerrr ft. Hatsune Miku & Bones",
+   "title": "DOWN THE SPOOKY LANE",
+   "released": "2026-10-17",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/81524268-202b-4228-bedb-7147ae81225a",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "ラプラス・ダークネス",
    "artist": "ラプラス・ダークネス",
    "title": "リーサルドーズ・パラノイド",
@@ -164,15 +182,6 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/3e6ee366-4fed-410d-98aa-b49afba16d41",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "wotaku",
-   "artist": "wotaku feat. 花隈千冬",
-   "title": "栞",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/bOtfL94ln1A",
-   "source": "vocadb"
   },
   {
    "watch": "Jamie Paige",
@@ -208,15 +217,6 @@
    "released": "2026-10-16",
    "kind": "singiel",
    "url": "https://youtu.be/6NgfqAjp_LA",
-   "source": "vocadb"
-  },
-  {
-   "watch": "d0tc0mmie",
-   "artist": "d0tc0mmie feat. Synthesizer V AI 音街ウナ",
-   "title": "Iris Shining",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/7VNOscDw35E",
    "source": "vocadb"
   },
   {
@@ -257,15 +257,6 @@
   },
   {
    "watch": "d0tc0mmie",
-   "artist": "d0tc0mmie feat. 初音ミク, 重音テトSV",
-   "title": "dream.mp3.flip",
-   "released": "2026-10-12",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1045744",
-   "source": "vocadb"
-  },
-  {
-   "watch": "d0tc0mmie",
    "artist": "d0tc0mmie, HWAAStyle feat. 初音ミク, 重音テトSV",
    "title": "ゆめ",
    "released": "2026-10-12",
@@ -299,15 +290,6 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/3ea0e722-8e4f-47bf-b554-379008386a8e",
    "source": "musicbrainz+vocadb"
-  },
-  {
-   "watch": "いよわ",
-   "artist": "いよわ feat. 足立レイV6・足立レイV5",
-   "title": "惑星直列",
-   "released": "2026-10-09",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/f7c21688-5146-43b7-9082-37d768e7d4f1",
-   "source": "musicbrainz"
   },
   {
    "watch": "Vane Lily",

@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-20T00:48:34Z",
+ "generated": "2026-10-21T00:20:41Z",
  "artists": 473,
  "seconds": 1463,
  "music": {
-  "found": 139,
-  "new": 41
+  "found": 145,
+  "new": 39
  },
  "concerts": {
   "found": 59,
@@ -16,9 +16,12 @@
  },
  "calls": {
   "itunes_calls": 473,
-  "mb_calls": 475,
-  "songkick_calls": 147,
-  "vocadb_calls": 244
+  "songkick_calls": 146,
+  "vocadb_calls": 243,
+  "mb_calls": 472,
+  "errors": 1
  },
- "errors": []
+ "errors": [
+  "mb いよわ: HTTPError HTTP Error 503: Service Temporarily Unavailable"
+ ]
 }
