@@ -1,27 +1,24 @@
 {
- "generated": "2026-10-21T00:20:41Z",
+ "generated": "2026-10-22T00:27:23Z",
  "artists": 473,
- "seconds": 1463,
+ "seconds": 1572,
  "music": {
-  "found": 145,
-  "new": 39
+  "found": 137,
+  "new": 35
  },
  "concerts": {
   "found": 59,
   "new": 9
  },
  "japan": {
-  "found": 11,
-  "new": 7
+  "found": 12,
+  "new": 8
  },
  "calls": {
+  "vocadb_calls": 243,
   "itunes_calls": 473,
   "songkick_calls": 146,
-  "vocadb_calls": 243,
-  "mb_calls": 472,
-  "errors": 1
+  "mb_calls": 473
  },
- "errors": [
-  "mb いよわ: HTTPError HTTP Error 503: Service Temporarily Unavailable"
- ]
+ "errors": []
 }
