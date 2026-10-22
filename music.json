@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:42:48Z",
+ "updated": "2026-10-22T04:42:51Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -110,6 +110,66 @@
    "id": "sato-takafumi-kasane-teto-toki"
   },
   {
+   "about": "Srav3R i Getty to producenci z kręgu hardcore TANO*C / J-core, znani z ostrego, szybkiego gabbera i breakcore'u.",
+   "artist": "Srav3R & Getty",
+   "foundAt": "2026-10-22",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Album specjalny wytwórni TANO*C (TCPLUS-0065); premiera zapowiedziana na 25 października.",
+   "title": "XX",
+   "url": "https://www.tano-c.net/release/tcplus-0065/",
+   "id": "srav3r-getty-xx"
+  },
+  {
+   "about": "HARDCORE SYNDROME to coroczna składanka wytwórni TANO*C z nowymi utworami czołowych artystów j-core i hardcore.",
+   "artist": "Various Artists (TANO*C)",
+   "foundAt": "2026-10-22",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Dwudziesta część serii (TANOCD-0032); premiera zapowiedziana na 25 października.",
+   "title": "HARDCORE SYNDROME 20",
+   "url": "https://www.tano-c.net/release/tanocd-0032/",
+   "id": "various-artists-hardcore-syndrome-20"
+  },
+  {
+   "about": "Sasuke Haraguchi to japoński producent vocaloidowy i remikser, znany z szybkich, elektronicznych kawałków z Miku i Teto.",
+   "artist": "原口沙輔",
+   "foundAt": "2026-10-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Remiks nowego utworu; premiera zapowiedziana na 24 października.",
+   "title": "動揺しちゃった (原口沙輔 Remix)",
+   "url": "https://vocadb.net/S/1049298",
+   "id": "haraguchi-sasuke-doyo-shichatta-remix"
+  },
+  {
+   "about": "higma to japoński producent muzyki elektronicznej związany ze sceną vocaloidową.",
+   "artist": "higma",
+   "foundAt": "2026-10-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Remiks utworu ヒースノート; premiera zapowiedziana na 24 października.",
+   "title": "ヒースノート (higma Remix)",
+   "url": "https://vocadb.net/S/1049302",
+   "id": "higma-heathnote-higma-remix"
+  },
+  {
+   "about": "higma to japoński producent muzyki elektronicznej związany ze sceną vocaloidową.",
+   "artist": "SEE, higma",
+   "foundAt": "2026-10-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Kolaboracyjny singiel SEE i higmy; premiera zapowiedziana na 24 października.",
+   "title": "tenshi",
+   "url": "https://vocadb.net/S/1049300",
+   "id": "see-higma-tenshi"
+  },
+  {
    "about": "Japońska wokalistka znana z openingów anime, m.in. „Gurenge” (Demon Slayer) i „Unlasting” (Sword Art Online).",
    "artist": "LISA",
    "foundAt": "2026-10-09",
@@ -146,6 +206,42 @@
    "id": "picco-flip-flop"
   },
   {
+   "about": "Beatmario (ビートまりお) to japoński producent elektroniczny, znany z remiksów i oryginałów w stylu j-core, wokalizy Miku i Teto, a także z muzyki do gier rytmicznych.",
+   "artist": "ビートまりお",
+   "foundAt": "2026-10-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-22",
+   "songAbout": "Nowy singiel wydany 22 października; energetyczna elektronika w jego stylu.",
+   "title": "Begin",
+   "url": "https://music.apple.com/jp/album/begin-single/6818034140?uo=4",
+   "id": "beat-mario-begin"
+  },
+  {
+   "about": "luna to artysta wydający serię singli z elektroniczną, vocaloidową muzyką.",
+   "artist": "luna",
+   "foundAt": "2026-10-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-22",
+   "songAbout": "Kolejny singiel luny wydany 22 października.",
+   "title": "Come to Our Side",
+   "url": "https://music.apple.com/jp/album/come-to-our-side-single/6822225665?uo=4",
+   "id": "luna-come-to-our-side"
+  },
+  {
+   "about": "Luo Tianyi to chiński głos Vocaloid / Vsinger, jedna z najpopularniejszych wirtualnych piosenkarek w Chinach.",
+   "artist": "洛天依",
+   "foundAt": "2026-10-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-22",
+   "songAbout": "Nowy singiel Luo Tianyi wydany 22 października w sklepach cyfrowych.",
+   "title": "岁星十二辞",
+   "url": "https://music.apple.com/jp/album/%E5%B2%81%E6%98%9F%E5%8D%81%E4%BA%8C%E8%BE%9E-single/6825252880?uo=4",
+   "id": "luo-tianyi-suixing-shier-ci"
+  },
+  {
    "about": "25-ji, Nightcord de. to jedna z grup w grze rytmicznej Project SEKAI COLORFUL STAGE! feat. Hatsune Miku.",
    "artist": "25時、ナイトコードで。",
    "foundAt": "2026-10-21",
@@ -170,6 +266,18 @@
    "id": "broken-by-the-scream-parallel-universe"
   },
   {
+   "about": "iroha (sasaki) to japoński producent związany ze sceną denpa i elektroniczną.",
+   "artist": "iroha",
+   "foundAt": "2026-10-22",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Album wydany 21 października.",
+   "title": "irohacore E",
+   "url": "https://musicbrainz.org/release-group/ba5d06d3-0fd0-448e-8480-53c546fc1749",
+   "id": "iroha-irohacore-e"
+  },
+  {
    "about": "Laplus Darknesss to VTuberka z hololive (sekcja secret society holoX), znana z energetycznych coverów i oryginalnych utworów, m.in. kolaboracji z IOSYS.",
    "artist": "ラプラス・ダークネス",
    "foundAt": "2026-10-21",
@@ -180,6 +288,30 @@
    "title": "Project Y.M.A.",
    "url": "https://music.apple.com/jp/album/project-y-m-a/6818734773?uo=4",
    "id": "laplus-darknesss-project-y-m-a"
+  },
+  {
+   "about": "Laplus Darknesss to VTuberka z hololive (SecretSociety holoX), znana z mocnych wokali i współpracy z IOSYS, w tym „Onee-sama♡Love Call”.",
+   "artist": "ラプラス・ダークネス",
+   "foundAt": "2026-10-22",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Album zbierający utwory Laplus; wydany 21 października.",
+   "title": "ラプ様アーティスト化計画",
+   "url": "https://musicbrainz.org/release-group/b798c4a5-4e94-4a4f-8325-ed404d66ecac",
+   "id": "laplus-darknesss-rapusama-artist-ka-keikaku"
+  },
+  {
+   "about": "Rime (理芽) to wokalistka z KAMITSUBAKI STUDIO, znana z utworów „Hakuchuumu” i działalności jako V.W.P / VOCALOID-owych kolaboracji.",
+   "artist": "理芽",
+   "foundAt": "2026-10-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Nowy singiel Rime wydany 21 października.",
+   "title": "ふかいです！",
+   "url": "https://musicbrainz.org/release-group/3fc84b97-e66d-48aa-bae9-2c48c0c88680",
+   "id": "riga-fukai-desu"
   },
   {
    "about": "STEAVEN-T i SAIJI to twórcy sceny Vocaloid piszący utwory dla Hatsune Miku.",
