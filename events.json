@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:42:48Z",
+ "updated": "2026-10-23T04:42:14Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -1499,6 +1499,40 @@
    "id": "2026-10-zeke-deux-europe"
   },
   {
+   "about": "Atomic Pixel Party to hiszpańska ekipa objazdowych imprez klubowych z muzyką z anime, gier i Vocaloid.",
+   "artist": "Atomic Pixel Party – Anime Rave Granada i Sevilla",
+   "dateEnd": "2026-11-14",
+   "dateStart": "2026-11-13",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "Granada ok. 0:59–7:00, Sevilla 23:59–6:00"
+    }
+   ],
+   "foundAt": "2026-10-23",
+   "hits": [],
+   "kind": "rave",
+   "note": "Dwie noce objazdowych anime rave'ów; DJ-ów i cen strona główna nie podaje.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Grenada",
+     "date": "2026-11-13",
+     "venue": "Arcade"
+    },
+    {
+     "cc": "ES",
+     "city": "Sewilla",
+     "date": "2026-11-14",
+     "venue": "Arcade"
+    }
+   ],
+   "tier": 3,
+   "title": "Anime rave'y w Andaluzji (Arcade)",
+   "url": "https://atomicpixel.es/anime-rave-granada/",
+   "id": "2026-11-atomic-pixel-anime-rave-granada-sevilla"
+  },
+  {
    "about": "Koncert z muzyką z anime Demon Slayer (Kimetsu no Yaiba) w wykonaniu orkiestry, z projekcją obrazu. Muzykę z serii tworzą Yuki Kajiura i Go Shiina, a openingi wykonuje LiSA.",
    "artist": "Demon Slayer: Kimetsu no Yaiba in Concert",
    "dateEnd": "2026-11-29",
@@ -1927,6 +1961,42 @@
    "id": "2026-11-joe-hisaishi-world-dream-tour"
   },
   {
+   "about": "Cykliczna anime night w warszawskim VooDoo Clubie: set DJ-a z muzyką z anime, J-rockiem i city popem.",
+   "artist": "Kawaii Beats: Anime Night (DJ Baker Party Maker)",
+   "dateEnd": "2026-11-10",
+   "dateStart": "2026-11-10",
+   "facts": [
+    {
+     "k": "Start",
+     "v": "23:00"
+    },
+    {
+     "k": "Bilety",
+     "v": "30 PLN do 2.11 · 35 PLN do 9.11 · 40 PLN w dniu imprezy"
+    }
+   ],
+   "foundAt": "2026-10-23",
+   "hits": [],
+   "kind": "rave",
+   "lineup": [
+    "DJ Baker Party Maker"
+   ],
+   "note": "Noc klubowa z muzyką z anime, J-rocka i city popu; DJ Baker Party Maker.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-11-10",
+     "venue": "VooDoo Club (scena 2)"
+    }
+   ],
+   "tickets": "https://stage24.pl/wydarzenia/dj-baker-party-maker-voodoo-club-10026",
+   "tier": 2,
+   "title": "Anime Night w VooDoo Club — J-rock, soundtracki z anime, city pop",
+   "url": "https://www.voodooclub.pl/event/kawaii-beats-anime-night-dj-baker-party-maker-3/",
+   "id": "2026-11-kawaii-beats-anime-night-warszawa"
+  },
+  {
    "about": "Lotus Juice to japoński raper znany z wokali w ścieżkach dźwiękowych serii Persona (Persona 3, Persona 3 Reload) i anime. Shao Dow to niezależny brytyjski raper łączący angielski z japońskim.",
    "artist": "Lotus Juice + Shao Dow",
    "dateEnd": "2026-11-09",
@@ -2073,7 +2143,8 @@
   {
    "about": "Atomic Pixel Party to hiszpańska ekipa objazdowych imprez klubowych z muzyką z anime i gier. Ta edycja jest tematycznie związana z Hatsune Miku.",
    "artist": "Miku Expo Afterparty (Atomic Pixel Party)",
-   "dateEnd": "2026-11-25",
+   "changeNote": "Doszła Lizbona 27.11 (po koncercie MIKU EXPO)",
+   "dateEnd": "2026-11-27",
    "dateStart": "2026-11-25",
    "facts": [
     {
@@ -2102,11 +2173,17 @@
      "city": "Madryt",
      "date": "2026-11-25",
      "venue": "Marta, Cariño! (Calle de Silva 4)"
+    },
+    {
+     "cc": "PT",
+     "city": "Lizbona",
+     "date": "2026-11-27"
     }
    ],
    "tickets": "https://site.fourvenues.com/es/atomic-pixel-party-espana/events/miku-expo-afterparty-25-11-2026-VN9Y",
    "tier": 2,
-   "title": "Impreza klubowa po madryckich koncertach MIKU EXPO",
+   "title": "Imprezy klubowe po koncertach MIKU EXPO (Madryt, Lizbona)",
+   "updatedAt": "2026-10-23",
    "url": "https://eventosfrikis.com/2026/07/25/miku-expo-afterparty/",
    "id": "2026-11-miku-expo-afterparty-madrid"
   },
@@ -2739,6 +2816,47 @@
    "id": "2027-01-sound-of-epic-anime-munchen"
   },
   {
+   "about": "Koncert z muzyką filmów Studio Ghibli i Joe Hisaishiego w wykonaniu Guillaume'a Massona i Marie Ishii.",
+   "artist": "The Music of Studio Ghibli – In Miyazaki's Dream",
+   "dateEnd": "2027-01-22",
+   "dateStart": "2027-01-22",
+   "facts": [
+    {
+     "k": "Start",
+     "v": "19:00"
+    },
+    {
+     "k": "Bilety",
+     "v": "stare bilety ważne lub do zwrotu w miejscu zakupu"
+    }
+   ],
+   "foundAt": "2026-10-23",
+   "hits": [
+    "Spirited Away – One Summer's Day",
+    "My Neighbor Totoro – Path of the Wind",
+    "Howl's Moving Castle – Merry-Go-Round of Life",
+    "Princess Mononoke – Ashitaka and San"
+   ],
+   "kind": "symfoniczny",
+   "lineup": [
+    "Guillaume Masson",
+    "Marie Ishii"
+   ],
+   "note": "Termin przeniesiony z 12.09.2026 na 22.01.2027; dotychczasowe bilety zachowują ważność.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Düsseldorf",
+     "date": "2027-01-22",
+     "venue": "Robert-Schumann-Saal"
+    }
+   ],
+   "tier": 1,
+   "title": "Koncert muzyki Studio Ghibli (Guillaume Masson i Marie Ishii)",
+   "url": "https://www.visitduesseldorf.de/en/calendar-of-events/the-music-of-studio-ghibli-df17b2f052",
+   "id": "2027-01-studio-ghibli-in-miyazakis-dream-dusseldorf"
+  },
+  {
    "about": "Symfoniczny przegląd muzyki z anime (Ghibli, Naruto, Dragon Ball, One Piece, Evangelion, Fullmetal Alchemist, Demon Slayer) produkcji Overlook Events, z udziałem twórców oryginalnych ścieżek. Wokalnie największe nazwiska to KOKIA (Origin, The Ancient Magus' Bride) i Hiroki Takahashi, wykonawca pierwszego openingu Dragon Balla.",
    "artist": "Anime Symphony 2027",
    "dateEnd": "2027-02-05",
@@ -3343,8 +3461,9 @@
   {
    "about": "Koncert z serii NieR:Orchestra: pełna orkiestra i chór, wokalistki J'Nique Nicole i Emi Evans, wizualizacje na wielkim ekranie i narracja opowiadająca historię prequelu NieR:Automata (Pearl Harbor Descent Operation).",
    "artist": "NieR:Orchestra Concert 12026 [YoRHa]",
+   "changeNote": "Doszedł Rotterdam: 12–13.03.2027, De Doelen",
    "dateEnd": "2027-06-12",
-   "dateStart": "2027-06-11",
+   "dateStart": "2027-03-12",
    "facts": [
     {
      "k": "Bilety",
@@ -3367,6 +3486,18 @@
    "note": "Ten sam cykl co NieR:Orchestra, który wystąpił już w Europie. Godzina w źródłach niespójna (18:30 lub 19:31).",
    "stops": [
     {
+     "cc": "NL",
+     "city": "Rotterdam",
+     "date": "2027-03-12",
+     "venue": "De Doelen"
+    },
+    {
+     "cc": "NL",
+     "city": "Rotterdam",
+     "date": "2027-03-13",
+     "venue": "De Doelen"
+    },
+    {
      "cc": "UK",
      "city": "Londyn",
      "date": "2027-06-11",
@@ -3380,7 +3511,8 @@
     }
    ],
    "tier": 3,
-   "title": "Dwa wieczory w Londynie: prequel NieR:Automata z orkiestrą i chórem",
+   "title": "NieR:Orchestra Concert 12026 [YoRHa] — Rotterdam i Londyn",
+   "updatedAt": "2026-10-23",
    "url": "https://www.ents24.com/london-events/eventim-apollo/nierorchestra-concert-12026-yorha/7536294",
    "id": "2027-06-nier-orchestra-concert-12026-yorha-london"
   },
@@ -4808,6 +4940,34 @@
    "title": "2 dni w K Arena Yokohama: AZKi, Sakura Miko, Hakos Baelz, ReGLOSS / Fubuki, Marine, Kobo Kanaeru, FLOW GLOW",
    "url": "https://www.4gamers.com.tw/news/detail/80699/hololive-records-history-collection-music-stage-live-2027-announced",
    "id": "jp-2027-01-hololive-records-music-stage-2027"
+  },
+  {
+   "about": "SNOW MIKU to zimowa odmiana Hatsune Miku, promująca Sapporo i Hokkaidō; coroczny live to koncert z udziałem producentów vocaloidowych i orkiestry/zespołu na żywo.",
+   "artist": "SNOW MIKU LIVE! 2027",
+   "dateEnd": "2027-02-07",
+   "dateStart": "2027-02-05",
+   "foundAt": "2026-10-23",
+   "hits": [
+    "Snow Miku – Yukiyama",
+    "Snow Miku – Yuki no Hana",
+    "Snow Miku – Snow Fairy Story",
+    "Snow Miku – Maiden's Snow"
+   ],
+   "kind": "koncert",
+   "note": "Doroczny wirtualny koncert Hatsune Miku w motywie zimowym podczas Sapporo Snow Festival. Terminy 5–7.02.2027 wg kalendarza VocaDB; szczegóły sprzedaży i stream nieznane (strona oficjalna snowmiku.com).",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Sapporo",
+     "date": "2027-02-05",
+     "venue": "Zepp Sapporo"
+    }
+   ],
+   "tier": 3,
+   "title": "Yuki Miku Live w Zepp Sapporo",
+   "url": "https://snowmiku.com/2027/event-live.html",
+   "id": "jp-2027-02-snow-miku-live-2027"
   },
   {
    "about": "Animelo Summer Live (Anisama) to największy festiwal anison na świecie, organizowany przez Dwango od 2005 r. Edycja w Fukuoce to jego pierwsza wizyta w zachodniej Japonii.",

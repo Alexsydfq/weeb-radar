@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:42:51Z",
+ "updated": "2026-10-23T04:42:14Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -170,6 +170,42 @@
    "id": "see-higma-tenshi"
   },
   {
+   "about": "Producent vocaloidowy współpracujący z Miku i IA.",
+   "artist": "ぼぉの, Hatsune Miku & IA",
+   "foundAt": "2026-10-23",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Album z Miku i IA, premiera 23 października 2026.",
+   "title": "Moon Glow",
+   "url": "https://music.apple.com/jp/album/moon-glow/6820836966",
+   "id": "boono-hatsune-miku-ia-moon-glow"
+  },
+  {
+   "about": "Producent vocaloidowy tworzący utwory z Miku.",
+   "artist": "奇幻セカイ & Hatsune Miku",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Nowy singiel Miku z 23 października 2026.",
+   "title": "ぜつ",
+   "url": "https://music.apple.com/jp/album/%E3%81%9C%E3%81%A4-single/6818445213",
+   "id": "kigen-sekai-hatsune-miku-zetsu"
+  },
+  {
+   "about": "Producent vocaloidowy tworzący utwory z Miku.",
+   "artist": "ラテルネ & Hatsune Miku",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Singiel z Miku w klimatach letniej magii.",
+   "title": "Witch of Summer Mist",
+   "url": "https://music.apple.com/jp/album/witch-of-summer-mist-single/6820837138",
+   "id": "laterne-hatsune-miku-witch-of-summer-mist"
+  },
+  {
    "about": "Japońska wokalistka znana z openingów anime, m.in. „Gurenge” (Demon Slayer) i „Unlasting” (Sword Art Online).",
    "artist": "LISA",
    "foundAt": "2026-10-09",
@@ -194,6 +230,18 @@
    "id": "nakiso-in-the-womb"
   },
   {
+   "about": "SAWTOWNE to producent z kręgu hyperpopu i vocaloidowej sceny internetowej.",
+   "artist": "onumi & SAWTOWNE",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Kolaboracja onumi i SAWTOWNE w klimatach hyperpopu.",
+   "title": "XxxROTTEN/GURLxxx",
+   "url": "https://music.apple.com/jp/album/xxxrotten-gurlxxx-single/6821165417",
+   "id": "onumi-sawtowne-xxxrotten-gurlxxx"
+  },
+  {
    "about": "picco to producent vocaloidowy i elektroniczny, współpracujący ze sceną hyperpop.",
    "artist": "picco (various)",
    "foundAt": "2026-10-09",
@@ -206,6 +254,54 @@
    "id": "picco-flip-flop"
   },
   {
+   "about": "Porter Robinson to amerykański producent elektroniczny, znany z albumów Worlds i Nurture oraz miłości do anime i Vocaloidów.",
+   "artist": "Porter Robinson & Vertile",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Remiks utworu z albumu Nurture autorstwa Vertile.",
+   "title": "Easier to Love You (Vertile Remix)",
+   "url": "https://music.apple.com/jp/album/easier-to-love-you-vertile-remix-single/6822955233",
+   "id": "porter-robinson-vertile-easier-to-love-you-vertile-remix"
+  },
+  {
+   "about": "ryo to producent i założyciel supercell, autor „World is Mine” i „Melt” oraz muzyki do anime Bakemonogatari.",
+   "artist": "ryo (supercell) & Hatsune Miku",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Nowy singiel Miku od ryo, dostępny od 23 października 2026.",
+   "title": "LEGENDS",
+   "url": "https://music.apple.com/jp/album/legends-single/6823551373",
+   "id": "ryo-supercell-hatsune-miku-legends"
+  },
+  {
+   "about": "ryo to założyciel supercell i autor wielu hitów Miku.",
+   "artist": "RYO",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Nowy singiel ryo wydany 23 października 2026.",
+   "title": "Mitsugimono",
+   "url": "https://music.apple.com/jp/album/mitsugimono-single/6825353679",
+   "id": "ryo-supercell-mitsugimono"
+  },
+  {
+   "about": "Unlike Pluto to amerykański producent elektroniczny, współpracuje ze sceną anime i gier.",
+   "artist": "Unlike Pluto",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Nowy singiel w elektronicznym stylu duetu.",
+   "title": "Falling Behind",
+   "url": "https://music.apple.com/jp/album/falling-behind-single/6822685395",
+   "id": "unlike-pluto-falling-behind"
+  },
+  {
    "about": "Beatmario (ビートまりお) to japoński producent elektroniczny, znany z remiksów i oryginałów w stylu j-core, wokalizy Miku i Teto, a także z muzyki do gier rytmicznych.",
    "artist": "ビートまりお",
    "foundAt": "2026-10-22",
@@ -216,6 +312,30 @@
    "title": "Begin",
    "url": "https://music.apple.com/jp/album/begin-single/6818034140?uo=4",
    "id": "beat-mario-begin"
+  },
+  {
+   "about": "Capchii to producent elektroniczny ze sceny vocaloidowej.",
+   "artist": "Capchii feat. Mizka AI, 六歌AI",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-22",
+   "songAbout": "Nowy kawałek z głosami Mizka AI i 六歌AI.",
+   "title": "CTRL+LIGHT",
+   "url": "https://youtu.be/-2zSz7lUqyQ",
+   "id": "capchii-ctrl-light"
+  },
+  {
+   "about": "Kasane Teto to głos UTAU/Synthesizer V, jedna z najpopularniejszych wirtualnych śpiewaczek.",
+   "artist": "重音テト",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-22",
+   "songAbout": "Singiel Teto z koreańskim tytułem, zimowy nastrój.",
+   "title": "동화 속 겨울 달 이야기",
+   "url": "https://music.apple.com/jp/album/%EB%8F%99%ED%99%94-%EC%86%8D-%EA%B2%A8%EC%9A%B8-%EB%8B%AC-%EC%9D%B4%EC%95%BC%EA%B8%B0-single/6823568041",
+   "id": "kasane-teto-dongwha-sok-gyeoul-dal-iyagi"
   },
   {
    "about": "luna to artysta wydający serię singli z elektroniczną, vocaloidową muzyką.",
@@ -302,6 +422,30 @@
    "id": "laplus-darknesss-rapusama-artist-ka-keikaku"
   },
   {
+   "about": "麻婆豆腐 (Mabo Tofu) to twórca ze sceny vocaloidowej.",
+   "artist": "麻婆豆腐",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Singiel z 21 października 2026.",
+   "title": "Retry Now",
+   "url": "https://music.apple.com/jp/album/retry-now-single/6818447363",
+   "id": "mapo-tofu-retry-now"
+  },
+  {
+   "about": "picco to japoński producent vocaloidowy i wokalista.",
+   "artist": "picco",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Singiel picco z 21 października 2026.",
+   "title": "Endroll",
+   "url": "https://music.apple.com/jp/album/endroll-single/6819126191",
+   "id": "picco-endroll"
+  },
+  {
    "about": "Rime (理芽) to wokalistka z KAMITSUBAKI STUDIO, znana z utworów „Hakuchuumu” i działalności jako V.W.P / VOCALOID-owych kolaboracji.",
    "artist": "理芽",
    "foundAt": "2026-10-22",
@@ -384,6 +528,18 @@
    "title": "还好有你",
    "url": "https://music.apple.com/jp/album/%E8%BF%98%E5%A5%BD%E6%9C%89%E4%BD%A0-single/6824932328?uo=4",
    "id": "luo-tianyi-hai-hao-you-ni"
+  },
+  {
+   "about": "Marasy to pianista i producent, znany z coverów Vocaloidów i występów na MIKU EXPO.",
+   "artist": "まらしぃ, KOUICHI, びび feat. KAITO V3, MEIKO V3",
+   "foundAt": "2026-10-23",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-20",
+   "songAbout": "Alternatywna wersja „Kaien” z głosami KAITO i MEIKO.",
+   "title": "開演 another ver.",
+   "url": "https://youtu.be/RlvLl9sc97U",
+   "id": "marasy-kyokukai-kaien-another-ver"
   },
   {
    "about": "Kasane Teto to wirtualna wokalistka UTAU/Synthesizer V, jedna z najpopularniejszych w środowisku producentów.",
@@ -1512,6 +1668,18 @@
    "title": "dream.mp3.flip",
    "url": "https://vocadb.net/S/1045744",
    "id": "d0tc0mmie-dream-mp3-flip"
+  },
+  {
+   "about": "d0tc0mmie to producent hyperpopu i digicore z kręgu Vocaloid.",
+   "artist": "d0tc0mmie, HWAAStyle feat. Hatsune Miku, Kasane Teto SV",
+   "foundAt": "2026-10-23",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-12",
+   "songAbout": "Kolaboracja z Miku i Teto w klimatach hyperpopu.",
+   "title": "ゆめ",
+   "url": "https://vocadb.net/S/1045739",
+   "id": "d0tc0mmie-hwaastyle-yume"
   },
   {
    "about": "えびすぇんP to producent vocaloidowy tworzący piosenki z Hatsune Miku.",
