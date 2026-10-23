@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-22T00:27:25Z",
+ "generated": "2026-10-23T00:24:55Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 9,
+ "count": 10,
  "items": [
   {
    "watch": "Jimmy Gnecco",
@@ -102,6 +102,17 @@
    "cc": "ES",
    "venue": "Parc del Fòrum",
    "url": "https://www.songkick.com/festivals/618-primavera-sound/id/43448637-primavera-sound-festival-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "Queens of the Stone Age",
+   "name": "Queens of the Stone Age @ Sweden Rock Festival Grounds",
+   "date": "2027-06-09",
+   "dateEnd": "2027-06-12",
+   "city": "Sölvesborg",
+   "cc": "SE",
+   "venue": "Sweden Rock Festival Grounds",
+   "url": "https://www.songkick.com/festivals/33046-sweden-rock/id/43259776-sweden-rock-festival-2027",
    "source": "songkick"
   }
  ]
