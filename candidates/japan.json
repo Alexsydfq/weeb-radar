@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-23T00:24:55Z",
+ "generated": "2026-10-24T00:19:56Z",
  "about": "Lajwy w Japonii i Korei (Songkick, VocaDB), których nie ma w events.json",
- "count": 8,
+ "count": 7,
  "items": [
   {
    "watch": null,
@@ -67,17 +67,6 @@
    "cc": "JP",
    "category": "Concert",
    "url": "https://x.com/mikusymphony/status/2073754168125222956",
-   "source": "vocadb"
-  },
-  {
-   "watch": null,
-   "name": "SNOW MIKU LIVE! 2027",
-   "date": "2027-02-05",
-   "dateEnd": "2027-02-07",
-   "city": "Zepp Sapporo",
-   "cc": "JP",
-   "category": "Concert",
-   "url": "https://snowmiku.com/2027/event-live.html",
    "source": "vocadb"
   },
   {
