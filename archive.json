@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-19T04:42:59Z",
+ "updated": "2026-10-24T04:41:58Z",
  "events": [
+  {
+   "id": "2026-10-goreshit-manchester",
+   "artist": "Goreshit",
+   "title": "Występ klubowy w Manchesterze",
+   "kind": "koncert",
+   "tier": 3,
+   "dateStart": "2026-10-23",
+   "dateEnd": "2026-10-23",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Manchester",
+     "date": "2026-10-23",
+     "venue": "The Deaf Institute"
+    }
+   ],
+   "url": "https://www.jambase.com/show/goreshit-the-deaf-institute-20261023"
+  },
   {
    "id": "jp-2026-10-vocaloid-maniax-vol58-mogra",
    "artist": "VOCALOID-ManiaX vol.58",
