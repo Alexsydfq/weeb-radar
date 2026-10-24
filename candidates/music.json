@@ -1,61 +1,97 @@
 {
- "generated": "2026-10-24T00:19:51Z",
- "about": "Premiery 2026-10-09..2026-11-22 artystów z watch.json, których nie ma w music.json",
- "count": 47,
+ "generated": "2026-10-24T23:44:04Z",
+ "about": "Premiery 2026-10-10..2026-11-23 artystów z watch.json, których nie ma w music.json",
+ "count": 43,
  "items": [
   {
    "watch": "重音テト",
-   "artist": "軽井さん & 重音テト",
-   "title": "Anubis - Single",
-   "released": "2026-10-24",
+   "artist": "Dele+e & 重音テト",
+   "title": "Hedonism - Single",
+   "released": "2026-10-25",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/anubis-single/6823478944?uo=4",
+   "url": "https://music.apple.com/jp/album/hedonism-single/6823480554?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "初音ミク",
-   "artist": "初音ミク",
-   "title": "She's definitely a good woman feat.Hatsune Miku - Single",
-   "released": "2026-10-24",
+   "watch": "ずんだもん",
+   "artist": "AIハーモニー歌劇団 : てスパる5, ずんだもん, 四国めたん, 東北きりたん & めろう",
+   "title": "Spain National Anthem \"Royal March - Marcha Real\" Alfonso XIII's Reign Lyrics : Spanish Ai Chorus! (Neutrino) - Single",
+   "released": "2026-10-25",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/shes-definitely-a-good-woman-feat-hatsune-miku-single/6823483428?uo=4",
+   "url": "https://music.apple.com/jp/album/spain-national-anthem-royal-march-marcha-real-alfonso/6823052648?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "初音ミク",
-   "artist": "ryo (supercell) & 初音ミク",
-   "title": "1996 - Single",
+   "watch": "Ado",
+   "artist": "Ado",
+   "title": "Patient A - Single",
    "released": "2026-10-24",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/1996-single/6823551054?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "星街すいせい",
-   "artist": "星街すいせい",
-   "title": "ゾンビゾンビゾンビ - Single",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E3%82%BE%E3%83%B3%E3%83%93%E3%82%BE%E3%83%B3%E3%83%93%E3%82%BE%E3%83%B3%E3%83%93-single/6820056553?uo=4",
+   "url": "https://music.apple.com/jp/album/patient-a-single/6825272595?uo=4",
    "source": "itunes+musicbrainz"
+  },
+  {
+   "watch": "ファル公",
+   "artist": "篠崎あやと, ファル公 & 大瀬良あい",
+   "title": "Take Me to the Mortal World! - Single",
+   "released": "2026-10-24",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/take-me-to-the-mortal-world-single/6826566587?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Vane Lily",
+   "artist": "Vane Lily",
+   "title": "La Marea Sube - Single",
+   "released": "2026-10-24",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/la-marea-sube-single/6826477074?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "花譜 (KAF) / V.W.P / KAMITSUBAKI",
+   "artist": "花譜",
+   "title": "ダイダイダイダイダイキライ",
+   "released": "2026-10-24",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/29c3d27d-030d-48eb-b1a9-4f38fd706d83",
+   "source": "musicbrainz"
   },
   {
    "watch": "ななひら",
    "artist": "ななひら",
-   "title": "Denpa-Tic Imaginary Girl \"Q\" (feat. Qtie (CV:Nanahira)) [Cover] - Single",
+   "title": "電波的妄想美少女Q",
    "released": "2026-10-24",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/denpa-tic-imaginary-girl-q-feat-qtie-cv-nanahira-cover/6824845816?uo=4",
-   "source": "itunes"
+   "url": "https://musicbrainz.org/release-group/fdb5c278-32c1-492c-b238-2a48624095cc",
+   "source": "musicbrainz"
   },
   {
-   "watch": "初音ミク",
-   "artist": "marasy & 初音ミク",
-   "title": "Kaien - Single",
-   "released": "2026-10-23",
+   "watch": "Jamie Paige",
+   "artist": "Vane Lily, YoppyVU feat. various",
+   "title": "La Marea Sube",
+   "released": "2026-10-24",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/kaien-single/6822981678?uo=4",
-   "source": "itunes"
+   "url": "https://youtu.be/O6HGVVqvOQs",
+   "source": "vocadb"
+  },
+  {
+   "watch": "いのうつはSA",
+   "artist": "いのうつはSA feat. 星尘Infinity",
+   "title": "地球ガ異星命体 (いのうつはSA remix)",
+   "released": "2026-10-24",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1050982",
+   "source": "vocadb"
+  },
+  {
+   "watch": "higma",
+   "artist": "SEE, higma feat. 初音ミク",
+   "title": "tenshi",
+   "released": "2026-10-24",
+   "kind": "singiel",
+   "url": "https://youtu.be/M-BOnNr4J3c",
+   "source": "vocadb"
   },
   {
    "watch": "初音ミク",
@@ -68,6 +104,15 @@
   },
   {
    "watch": "初音ミク",
+   "artist": "marasy & 初音ミク",
+   "title": "Kaien - Single",
+   "released": "2026-10-23",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/kaien-single/6822981678?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
    "artist": "ラテルネ & 初音ミク",
    "title": "Witch of Summer Mist - Single",
    "released": "2026-10-23",
@@ -76,12 +121,39 @@
    "source": "itunes"
   },
   {
-   "watch": "Kotoha",
-   "artist": "Kotoha",
-   "title": "Nightmare Freak - Single",
+   "watch": "電音部",
+   "artist": "電音部, purini & Mi7s3",
+   "title": "Silent Pulse - Single",
    "released": "2026-10-23",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/nightmare-freak-single/6823931591?uo=4",
+   "url": "https://music.apple.com/jp/album/silent-pulse-single/6824384863?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "picco",
+   "artist": "レノ, picco, purini & Mi7s3",
+   "title": "flip-flop - Single",
+   "released": "2026-10-23",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/flip-flop-single/6824377024?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "RiraN",
+   "artist": "RiraN & NotThatRecords",
+   "title": "Good Time - Single",
+   "released": "2026-10-23",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/good-time-single/6816242283?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "MEIKO",
+   "artist": "marasy, KAITO & MEIKO",
+   "title": "Kaien another ver. - Single",
+   "released": "2026-10-23",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/kaien-another-ver-single/6823506889?uo=4",
    "source": "itunes"
   },
   {
@@ -92,15 +164,6 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/not-over-yet-grace-paul-oakenfold-vs-julian-fijma-single/6823230380?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "LiSA",
-   "artist": "LISA",
-   "title": "Tarantino",
-   "released": "2026-10-23",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/a7635e81-c49c-4210-b4f4-4bdd90b9f28a",
-   "source": "musicbrainz"
   },
   {
    "watch": "初音ミク",
@@ -121,30 +184,12 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "VISUAL ARTS / Key",
-   "artist": "key vs. locket",
-   "title": "Turn Sour",
-   "released": "2026-10-23",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/55cbae84-3997-4f3e-b329-29a123091b0e",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "picco",
    "artist": "Various artists",
    "title": "flip-flop",
    "released": "2026-10-23",
    "kind": "singiel",
    "url": "https://youtu.be/akEYwgs6MrA",
-   "source": "vocadb"
-  },
-  {
-   "watch": "南ノ南",
-   "artist": "南ノ南 feat. 初音ミク V4X (Original), 重音テトSV, ずんだもん (CeVIO AI)",
-   "title": "へんてこいんわんだぁらんどりー",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://youtu.be/W0NVOVu6Ook",
    "source": "vocadb"
   },
   {
@@ -182,15 +227,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/R0cuA4X9W4U",
    "source": "vocadb"
-  },
-  {
-   "watch": "理芽",
-   "artist": "理芽",
-   "title": "Love Me, Own Me - Single",
-   "released": "2026-10-21",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/love-me-own-me-single/6819124728?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "r-906",
@@ -236,15 +272,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/4V5gFpCf92I",
    "source": "vocadb"
-  },
-  {
-   "watch": "BilliumMoto",
-   "artist": "BilliumMoto",
-   "title": "Arrival of the Other - Single",
-   "released": "2026-10-17",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/arrival-of-the-other-single/6826382985?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "いよわ",
@@ -337,15 +364,6 @@
    "source": "vocadb"
   },
   {
-   "watch": "Abaraya",
-   "artist": "あばらや feat. v4 flower",
-   "title": "星、ときどき光",
-   "released": "2026-10-12",
-   "kind": "singiel",
-   "url": "https://youtu.be/EwP8xfUvI9w",
-   "source": "vocadb"
-  },
-  {
    "watch": "d0tc0mmie",
    "artist": "d0tc0mmie, HWAAStyle feat. 初音ミク, 重音テトSV",
    "title": "ゆめ",
@@ -370,60 +388,6 @@
    "released": "2026-10-10",
    "kind": "singiel",
    "url": "https://youtu.be/A7B-NLopRAk",
-   "source": "vocadb"
-  },
-  {
-   "watch": "r-906",
-   "artist": "r-906 feat. 足立レイ",
-   "title": "Yoyo2",
-   "released": "2026-10-09",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/3ea0e722-8e4f-47bf-b554-379008386a8e",
-   "source": "musicbrainz+vocadb"
-  },
-  {
-   "watch": "いよわ",
-   "artist": "いよわ feat. 足立レイV6・足立レイV5",
-   "title": "惑星直列",
-   "released": "2026-10-09",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/f7c21688-5146-43b7-9082-37d768e7d4f1",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Vane Lily",
-   "artist": "Vane Lily feat. SAROS and ROSE (SynthV)",
-   "title": "Aurora",
-   "released": "2026-10-09",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/71d394c3-cf87-49d8-bb01-0984026501cd",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Queen",
-   "artist": "Queen",
-   "title": "Crazy Little Thing Called Love (live in Budapest)",
-   "released": "2026-10-09",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/f00cafdb-ce0a-4b02-92cf-32f4a797895c",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Atena",
-   "artist": "Amael Schwarz feat. 林籁, HXVOC, Ninezero 2",
-   "title": "惑星ウェブスター",
-   "released": "2026-10-09",
-   "kind": "cover",
-   "url": "https://youtu.be/aUdhDzr-a0c",
-   "source": "vocadb"
-  },
-  {
-   "watch": "11vein",
-   "artist": "LuminaNeko feat. Synthesizer V AI 音街ウナ",
-   "title": "the box",
-   "released": "2026-10-09",
-   "kind": "cover",
-   "url": "https://youtu.be/tRhxxlt5xfs",
    "source": "vocadb"
   }
  ]
