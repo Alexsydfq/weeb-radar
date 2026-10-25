@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:41:58Z",
+ "updated": "2026-10-25T05:42:18Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -74,6 +74,18 @@
    "id": "capchii-swell"
   },
   {
+   "about": "Dele+e to producent z kręgu sceny Vocaloid/UTAU, współpracujący z głosem Kasane Teto.",
+   "artist": "Dele+e & 重音テト",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Nowy singiel z wokalem Kasane Teto, wydany 25 października.",
+   "title": "Hedonism",
+   "url": "https://music.apple.com/jp/album/hedonism-single/6823480554?uo=4",
+   "id": "dele-e-kasane-teto-hedonism"
+  },
+  {
    "about": "Producent vocaloidowy/SynthV pracujący z głosem Kasane Teto SV.",
    "artist": "いのうつはSA feat. 重音テトSV",
    "foundAt": "2026-10-18",
@@ -134,6 +146,18 @@
    "id": "various-artists-hardcore-syndrome-20"
   },
   {
+   "about": "Ado to japońska wokalistka sławna jako głos Uty w „One Piece Film: Red”, autorka „Usseewa”.",
+   "artist": "Ado",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Nowy singiel Ado wydany 24 października.",
+   "title": "Patient A",
+   "url": "https://music.apple.com/jp/album/patient-a-single/6825272595?uo=4",
+   "id": "ado-patient-a"
+  },
+  {
    "about": "Sasuke Haraguchi to japoński producent vocaloidowy i remikser, znany z szybkich, elektronicznych kawałków z Miku i Teto.",
    "artist": "原口沙輔",
    "foundAt": "2026-10-22",
@@ -180,6 +204,30 @@
    "title": "ゾンビゾンビゾンビ",
    "url": "https://music.apple.com/jp/album/%E3%82%BE%E3%83%B3%E3%83%93%E3%82%BE%E3%83%B3%E3%83%93%E3%82%BE%E3%83%B3%E3%83%93-single/6820056553?uo=4",
    "id": "hoshimachi-suisei-zombie-zombie-zombie"
+  },
+  {
+   "about": "いのうつはSA to producent z japońskiej sceny Vocaloid/UTAU, tworzący elektroniczne remiksy.",
+   "artist": "いのうつはSA feat. 星尘Infinity",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Remiks utworu z wokalem Xingchen Infinity, wydany 24 października.",
+   "title": "地球ガ異星命体 (いのうつはSA remix)",
+   "url": "https://vocadb.net/S/1050982",
+   "id": "inoutsuwa-sa-chikyu-ga-isei-meitai-remix"
+  },
+  {
+   "about": "花譜 (KAF) to wirtualna wokalistka z kolektywu KAMITSUBAKI STUDIO, znana z emocjonalnego głosu i hitów „Toumei Ningen”.",
+   "artist": "花譜",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Nowy singiel KAF, wydany 24 października.",
+   "title": "ダイダイダイダイダイキライ",
+   "url": "https://musicbrainz.org/release-group/29c3d27d-030d-48eb-b1a9-4f38fd706d83",
+   "id": "kaf-daidaidaidaidaikirai"
   },
   {
    "about": "Karuisan to twórca/producent muzyczny tworzący utwory z głosem Kasane Teto.",
@@ -230,6 +278,30 @@
    "id": "see-higma-tenshi"
   },
   {
+   "about": "ファル公 (Farukou) to twórca/producent z sceny internetowej, znany z energicznych utworów w stylu denpa/vocaloid.",
+   "artist": "篠崎あやと, ファル公 & 大瀬良あい",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Singiel w kolaboracji kilku twórców, wydany 24 października.",
+   "title": "Take Me to the Mortal World!",
+   "url": "https://music.apple.com/jp/album/take-me-to-the-mortal-world-single/6826566587?uo=4",
+   "id": "shinozaki-ayato-faruko-take-me-to-the-mortal-world"
+  },
+  {
+   "about": "Vane Lily to producentka z zachodniej sceny Vocaloid/Synthesizer V, współpracująca m.in. z Jamie Paige.",
+   "artist": "Vane Lily, YoppyVU feat. various",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Kolaboracyjny singiel z wokalami syntezatorowymi, wydany 24 października.",
+   "title": "La Marea Sube",
+   "url": "https://youtu.be/O6HGVVqvOQs",
+   "id": "vane-lily-la-marea-sube"
+  },
+  {
    "about": "Producent vocaloidowy współpracujący z Miku i IA.",
    "artist": "ぼぉの, Hatsune Miku & IA",
    "foundAt": "2026-10-23",
@@ -252,6 +324,18 @@
    "title": "シュレディンガーズ・ミー",
    "url": "https://youtu.be/naCd6NQAiQ0",
    "id": "d0tc0mmie-schrodingers-me"
+  },
+  {
+   "about": "電音部 (Denonbu) to multimedialny projekt idolski oparty na klubowej muzyce elektronicznej, z udziałem znanych producentów.",
+   "artist": "電音部, purini & Mi7s3",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Klubowy singiel projektu 電音部, wydany 23 października.",
+   "title": "Silent Pulse",
+   "url": "https://music.apple.com/jp/album/silent-pulse-single/6824384863?uo=4",
+   "id": "denonbu-silent-pulse"
   },
   {
    "about": "Grace (Vo. Hikari Kodama) to japońska wokalistka trance, a Paul Oakenfold to legenda sceny trance.",
@@ -396,6 +480,18 @@
    "title": "Easier to Love You (Vertile Remix)",
    "url": "https://music.apple.com/jp/album/easier-to-love-you-vertile-remix-single/6822955233",
    "id": "porter-robinson-vertile-easier-to-love-you-vertile-remix"
+  },
+  {
+   "about": "RiraN to koreański producent Vocaloid/DJ ze sceny gier rytmicznych (DJMAX), znany z utworów z Hatsune Miku.",
+   "artist": "RiraN & NotThatRecords",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-23",
+   "songAbout": "Nowy singiel RiraN wydany 23 października.",
+   "title": "Good Time",
+   "url": "https://music.apple.com/jp/album/good-time-single/6816242283?uo=4",
+   "id": "riran-notthatrecords-good-time"
   },
   {
    "about": "ryo to producent i założyciel supercell, autor „World is Mine” i „Melt” oraz muzyki do anime Bakemonogatari.",

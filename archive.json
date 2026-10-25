@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-24T04:41:58Z",
+ "updated": "2026-10-25T05:42:18Z",
  "events": [
+  {
+   "id": "2026-10-queens-of-the-stone-age-reykjavik",
+   "artist": "Queens of the Stone Age",
+   "title": "Koncert w Reykjavíku (Laugardalshöll)",
+   "kind": "koncert",
+   "tier": 3,
+   "dateStart": "2026-10-24",
+   "dateEnd": "2026-10-24",
+   "stops": [
+    {
+     "cc": "IS",
+     "city": "Reykjavík",
+     "date": "2026-10-24",
+     "venue": "Laugardalshöll"
+    }
+   ],
+   "lineup": [
+    "Queens of the Stone Age",
+    "Virgin Orchestra"
+   ],
+   "url": "https://www.songkick.com/concerts/43285077-queens-of-the-stone-age-at-laugardalsholl"
+  },
   {
    "id": "2026-10-goreshit-manchester",
    "artist": "Goreshit",
@@ -568,6 +590,72 @@
     }
    ],
    "url": "https://www.setlist.fm/search?query=country:pl+kamijo"
+  },
+  {
+   "id": "2026-10-babybeard-europe",
+   "artist": "BABYBEARD",
+   "title": "Maximum Kawaii Chaos European Tour 2026",
+   "kind": "trasa",
+   "tier": 1,
+   "dateStart": "2026-10-02",
+   "dateEnd": "2026-10-24",
+   "stops": [
+    {
+     "cc": "NL",
+     "city": "Haga",
+     "date": "2026-10-02",
+     "venue": "Paard"
+    },
+    {
+     "cc": "BE",
+     "city": "Antwerpia",
+     "date": "2026-10-03",
+     "venue": "TRIX (support Samurai Pizza Cats)"
+    },
+    {
+     "cc": "NL",
+     "city": "Tilburg",
+     "date": "2026-10-04",
+     "venue": "013 (support Samurai Pizza Cats)"
+    },
+    {
+     "cc": "IT",
+     "city": "Como",
+     "date": "2026-10-18",
+     "venue": "Como Fun"
+    },
+    {
+     "cc": "IT",
+     "city": "Rzym",
+     "date": "2026-10-19",
+     "venue": "Traffic"
+    },
+    {
+     "cc": "CZ",
+     "city": "Praga",
+     "date": "2026-10-21",
+     "venue": "Cafe V Lese"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-10-22",
+     "venue": "Hybrydy"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-23",
+     "venue": "MEX"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-10-24",
+     "venue": "MEX"
+    }
+   ],
+   "url": "https://tokyonoizu.com/japanese-band-tours"
   },
   {
    "id": "past-2026-09-30-kamijo-berlin",

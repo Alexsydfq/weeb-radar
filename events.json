@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T04:42:14Z",
+ "updated": "2026-10-25T05:42:18Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -1999,7 +1999,7 @@
   {
    "about": "Lotus Juice to japoński raper znany z wokali w ścieżkach dźwiękowych serii Persona (Persona 3, Persona 3 Reload) i anime. Shao Dow to niezależny brytyjski raper łączący angielski z japońskim.",
    "artist": "Lotus Juice + Shao Dow",
-   "dateEnd": "2026-11-09",
+   "dateEnd": "2026-12-08",
    "dateStart": "2026-11-05",
    "facts": [
     {
@@ -2063,6 +2063,18 @@
      "city": "Glasgow",
      "date": "2026-11-09",
      "venue": "Nice n' Sleazy"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2026-12-05",
+     "venue": "Fira Gran Via (Manga Barcelona)"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2026-12-08",
+     "venue": "Fira Gran Via (Manga Barcelona)"
     }
    ],
    "tickets": "https://dice.fm/event/oea83m-lotus-juice-shao-dow-duel-elements-tour-9th-nov-nice-n-sleazy-glasgow-tickets",
@@ -2627,6 +2639,88 @@
    "title": "Gość honorowy: Yūki Hayashi",
    "url": "https://desucon.fi/frostbite2027/",
    "id": "2027-01-desucon-frostbite"
+  },
+  {
+   "about": "Japoński zespół z pogranicza visual kei i ciężkiego rocka, który wraca do Europy z kolejną trasą po występach z poprzednich lat.",
+   "artist": "Madmans Esprit",
+   "dateEnd": "2027-02-14",
+   "dateStart": "2027-01-25",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "ogólna sprzedaż ruszyła 22.10.2026; VIP-upgrade ogłoszone później, sprzedaż od listopada"
+    }
+   ],
+   "foundAt": "2026-10-25",
+   "kind": "trasa",
+   "note": "Dwanaście miast, w tym dwa polskie przystanki. Źródło nie podaje klubów ani supportów.",
+   "stops": [
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2027-01-25"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-01-27"
+    },
+    {
+     "cc": "UK",
+     "city": "Manchester",
+     "date": "2027-01-28"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-01-30"
+    },
+    {
+     "cc": "NL",
+     "city": "Utrecht",
+     "date": "2027-01-31"
+    },
+    {
+     "cc": "DE",
+     "city": "Kolonia",
+     "date": "2027-02-02"
+    },
+    {
+     "cc": "DE",
+     "city": "Hamburg",
+     "date": "2027-02-03"
+    },
+    {
+     "cc": "PL",
+     "city": "Kraków",
+     "date": "2027-02-05"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2027-02-07"
+    },
+    {
+     "cc": "HU",
+     "city": "Budapeszt",
+     "date": "2027-02-10"
+    },
+    {
+     "cc": "BG",
+     "city": "Sofia",
+     "date": "2027-02-12"
+    },
+    {
+     "cc": "RO",
+     "city": "Bukareszt",
+     "date": "2027-02-14"
+    }
+   ],
+   "tickets": "https://killingdazemgmt.com",
+   "tier": 1,
+   "title": "Europe Tour 2027 „SEVERANCE”",
+   "url": "https://jrocknews.com/2026/10/madmans-esprit-returns-to-europe-for-2027-tour-severance.html",
+   "id": "2027-01-madmans-esprit-severance-europe"
   },
   {
    "about": "Japoński zespół grający mieszankę metalu, punku i reggae. Światową sławę dał mu „The Rumbling”, opening finałowego sezonu Attack on Titan.",
