@@ -1,16 +1,70 @@
 {
- "generated": "2026-10-24T23:44:04Z",
- "about": "Premiery 2026-10-10..2026-11-23 artystów z watch.json, których nie ma w music.json",
- "count": 43,
+ "generated": "2026-10-25T23:54:30Z",
+ "about": "Premiery 2026-10-11..2026-11-24 artystów z watch.json, których nie ma w music.json",
+ "count": 41,
  "items": [
   {
    "watch": "重音テト",
-   "artist": "Dele+e & 重音テト",
-   "title": "Hedonism - Single",
-   "released": "2026-10-25",
+   "artist": "まさよし & 重音テト",
+   "title": "チープな言葉 - Single",
+   "released": "2026-10-26",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/hedonism-single/6823480554?uo=4",
+   "url": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%97%E3%81%AA%E8%A8%80%E8%91%89-single/6819167924?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "あくたり & 重音テト",
+   "title": "Lie after lie - Single",
+   "released": "2026-10-26",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/lie-after-lie-single/6820836405?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "Rossweisse & 初音ミク",
+   "title": "Butterfly - Single",
+   "released": "2026-10-26",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/butterfly-single/6823752303?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "サイジ & 初音ミク",
+   "title": "Butterfly Dilemma - Single",
+   "released": "2026-10-26",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/butterfly-dilemma-single/6799840144?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "ずんだもん",
+   "artist": "AIハーモニー歌劇団 : てスパる5, ずんだもん, 四国めたん, 東北きりたん & めろう",
+   "title": "Portugal National Anthem \"The Portuguese - A Portuguesa\" Portuguese Ai Chorus! (Neutrino) - Single",
+   "released": "2026-10-26",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/portugal-national-anthem-the-portuguese-a/6823566896?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "ビートまりお",
+   "artist": "ビートまりお",
+   "title": "Salem - Single",
+   "released": "2026-10-26",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/salem-single/6818034470?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "t+pazolite",
+   "artist": "t+pazolite",
+   "title": "Reimei My World",
+   "released": "2026-10-25",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/reimei-my-world/6822998624?uo=4",
+   "source": "itunes+musicbrainz"
   },
   {
    "watch": "ずんだもん",
@@ -22,39 +76,12 @@
    "source": "itunes"
   },
   {
-   "watch": "Ado",
-   "artist": "Ado",
-   "title": "Patient A - Single",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/patient-a-single/6825272595?uo=4",
-   "source": "itunes+musicbrainz"
-  },
-  {
-   "watch": "ファル公",
-   "artist": "篠崎あやと, ファル公 & 大瀬良あい",
-   "title": "Take Me to the Mortal World! - Single",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/take-me-to-the-mortal-world-single/6826566587?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Vane Lily",
-   "artist": "Vane Lily",
-   "title": "La Marea Sube - Single",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/la-marea-sube-single/6826477074?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "花譜 (KAF) / V.W.P / KAMITSUBAKI",
-   "artist": "花譜",
-   "title": "ダイダイダイダイダイキライ",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/29c3d27d-030d-48eb-b1a9-4f38fd706d83",
+   "watch": "HARDCORE TANO*C (dowolny artysta)",
+   "artist": "HARDCORE TANO*C",
+   "title": "HARDCORE SYNDROME 20",
+   "released": "2026-10-25",
+   "kind": "album",
+   "url": "https://musicbrainz.org/release-group/27efc1e8-0003-4f0b-bb00-d8e6c8436e08",
    "source": "musicbrainz"
   },
   {
@@ -67,24 +94,6 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Jamie Paige",
-   "artist": "Vane Lily, YoppyVU feat. various",
-   "title": "La Marea Sube",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://youtu.be/O6HGVVqvOQs",
-   "source": "vocadb"
-  },
-  {
-   "watch": "いのうつはSA",
-   "artist": "いのうつはSA feat. 星尘Infinity",
-   "title": "地球ガ異星命体 (いのうつはSA remix)",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1050982",
-   "source": "vocadb"
-  },
-  {
    "watch": "higma",
    "artist": "SEE, higma feat. 初音ミク",
    "title": "tenshi",
@@ -95,56 +104,11 @@
   },
   {
    "watch": "初音ミク",
-   "artist": "ryo (supercell) & 初音ミク",
-   "title": "LEGENDS - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/legends-single/6823551373?uo=4",
-   "source": "itunes+musicbrainz"
-  },
-  {
-   "watch": "初音ミク",
    "artist": "marasy & 初音ミク",
    "title": "Kaien - Single",
    "released": "2026-10-23",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/kaien-single/6822981678?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "ラテルネ & 初音ミク",
-   "title": "Witch of Summer Mist - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/witch-of-summer-mist-single/6820837138?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "電音部",
-   "artist": "電音部, purini & Mi7s3",
-   "title": "Silent Pulse - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/silent-pulse-single/6824384863?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "picco",
-   "artist": "レノ, picco, purini & Mi7s3",
-   "title": "flip-flop - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/flip-flop-single/6824377024?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "RiraN",
-   "artist": "RiraN & NotThatRecords",
-   "title": "Good Time - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/good-time-single/6816242283?uo=4",
    "source": "itunes"
   },
   {
@@ -172,6 +136,15 @@
    "released": "2026-10-23",
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/6578530e-5998-4a65-a2eb-3325074b153a",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "ryo (supercell) & 初音ミク",
+   "title": "LEGENDS",
+   "released": "2026-10-23",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/6557dc3d-1b93-4f41-880c-d0007a6d87fe",
    "source": "musicbrainz"
   },
   {
@@ -265,12 +238,30 @@
    "source": "vocadb"
   },
   {
+   "watch": "姫森ルーナ",
+   "artist": "尾丸ポルカ & 姫森ルーナ",
+   "title": "チェリーポップ",
+   "released": "2026-10-19",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/c5617c1f-fda7-4c66-8b5d-963c4db307ea",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "BilliumMoto",
    "artist": "BilliumMoto feat. 重音テトSV2",
    "title": "Look At Me",
    "released": "2026-10-18",
    "kind": "singiel",
    "url": "https://youtu.be/4V5gFpCf92I",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Vane Lily",
+   "artist": "SillySwrdd feat. 亞北ネル NEO 2.0",
+   "title": "FIRE!!!",
+   "released": "2026-10-18",
+   "kind": "cover",
+   "url": "https://youtu.be/XaAJ2a_-Itw",
    "source": "vocadb"
   },
   {
@@ -380,15 +371,6 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/8da4d6f9-34ce-4e37-bf33-a4e73c64396a",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "Guitarheropianozero",
-   "artist": "Du Du Danyon feat. 重音テトSV2, 重音テト 飴屋調整版, klattsch",
-   "title": "耳のあるロボットの唄 (inlove remix)",
-   "released": "2026-10-10",
-   "kind": "singiel",
-   "url": "https://youtu.be/A7B-NLopRAk",
-   "source": "vocadb"
   }
  ]
 }

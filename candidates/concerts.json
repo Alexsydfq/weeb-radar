@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-24T23:44:06Z",
+ "generated": "2026-10-25T23:54:32Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 10,
+ "count": 8,
  "items": [
   {
    "watch": "Jimmy Gnecco",
@@ -34,28 +34,6 @@
    "cc": "FR",
    "venue": "Le Klub",
    "url": "https://www.songkick.com/concerts/43186498-ours-at-le-klub",
-   "source": "songkick"
-  },
-  {
-   "watch": "Lotus Juice",
-   "name": "Lotus Juice @ Fira Gran Via",
-   "date": "2026-12-05",
-   "dateEnd": "2026-12-05",
-   "city": "Barcelona",
-   "cc": "ES",
-   "venue": "Fira Gran Via",
-   "url": "https://www.songkick.com/concerts/43312772-lotus-juice-at-fira-gran-via",
-   "source": "songkick"
-  },
-  {
-   "watch": "Lotus Juice",
-   "name": "Lotus Juice @ Fira Gran Via",
-   "date": "2026-12-08",
-   "dateEnd": "2026-12-08",
-   "city": "Barcelona",
-   "cc": "ES",
-   "venue": "Fira Gran Via",
-   "url": "https://www.songkick.com/concerts/43312779-lotus-juice-at-fira-gran-via",
    "source": "songkick"
   },
   {
