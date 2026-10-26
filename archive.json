@@ -1,6 +1,43 @@
 {
- "updated": "2026-10-25T05:42:18Z",
+ "updated": "2026-10-26T05:42:52Z",
  "events": [
+  {
+   "id": "2026-10-7-the-a-festival-paris",
+   "artist": "7!!",
+   "title": "The A Festival",
+   "kind": "koncert",
+   "tier": 2,
+   "dateStart": "2026-10-25",
+   "dateEnd": "2026-10-25",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-10-25",
+     "venue": "Paris Event Center"
+    }
+   ],
+   "url": "https://www.jame-world.com/en/concerts.html?page=4"
+  },
+  {
+   "id": "jp-2026-10-toe-the-argument",
+   "artist": "toe",
+   "title": "Występ na festiwalu The Argument 2026, Shibuya O-East",
+   "kind": "koncert",
+   "region": "JP",
+   "tier": 3,
+   "dateStart": "2026-10-25",
+   "dateEnd": "2026-10-25",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Shibuya)",
+     "date": "2026-10-25",
+     "venue": "Shibuya O-East"
+    }
+   ],
+   "url": "https://www.songkick.com/festivals/3802634-argument/id/43386069-the-argument-2026"
+  },
   {
    "id": "2026-10-queens-of-the-stone-age-reykjavik",
    "artist": "Queens of the Stone Age",
@@ -40,6 +77,24 @@
     }
    ],
    "url": "https://www.jambase.com/show/goreshit-the-deaf-institute-20261023"
+  },
+  {
+   "id": "2026-10-mcm-comic-con-london",
+   "artist": "MCM Comic Con London 2026",
+   "title": "Największy brytyjski konwent popkultury (ExCeL)",
+   "kind": "konwent",
+   "tier": 3,
+   "dateStart": "2026-10-23",
+   "dateEnd": "2026-10-25",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-23",
+     "venue": "ExCeL London"
+    }
+   ],
+   "url": "https://www.mcmcomiccon.com/global/en-us/blog/comics/mcm-comic-con-2026-dates.html"
   },
   {
    "id": "jp-2026-10-vocaloid-maniax-vol58-mogra",

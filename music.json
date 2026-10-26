@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T05:42:18Z",
+ "updated": "2026-10-26T05:42:52Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -62,6 +62,66 @@
    "id": "rumaki-sun-on-the-sea"
   },
   {
+   "about": "あくたり to twórca vocaloidowy współpracujący z Kasane Teto.",
+   "artist": "あくたり & 重音テト",
+   "foundAt": "2026-10-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-26",
+   "songAbout": "Nowy singiel z Teto, wydany cyfrowo 26 października.",
+   "title": "Lie after lie",
+   "url": "https://music.apple.com/jp/album/lie-after-lie-single/6820836405?uo=4",
+   "id": "akutari-kasane-teto-lie-after-lie"
+  },
+  {
+   "about": "ビートまりお (beatMARIO) to twórca z kręgu IOSYS i COOL&CREATE, znany z elektronicznych aranżacji touhou i anisongów.",
+   "artist": "ビートまりお",
+   "foundAt": "2026-10-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-26",
+   "songAbout": "Nowy singiel beatMARIO wydany 26 października.",
+   "title": "Salem",
+   "url": "https://music.apple.com/jp/album/salem-single/6818034470?uo=4",
+   "id": "beatmario-salem"
+  },
+  {
+   "about": "まさよし to producent śpiewający głosem Kasane Teto (Synthesizer V), znany z jej utworów.",
+   "artist": "まさよし & 重音テト",
+   "foundAt": "2026-10-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-26",
+   "songAbout": "Nowy singiel z Teto, wydany cyfrowo 26 października.",
+   "title": "チープな言葉",
+   "url": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%97%E3%81%AA%E8%A8%80%E8%91%89-single/6819167924?uo=4",
+   "id": "masayoshi-kasane-teto-cheap-words"
+  },
+  {
+   "about": "Rossweisse to producent vocaloidowy tworzący z Hatsune Miku.",
+   "artist": "Rossweisse & 初音ミク",
+   "foundAt": "2026-10-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-26",
+   "songAbout": "Nowy singiel z Miku wydany 26 października.",
+   "title": "Butterfly",
+   "url": "https://music.apple.com/jp/album/butterfly-single/6823752303?uo=4",
+   "id": "rossweisse-hatsune-miku-butterfly"
+  },
+  {
+   "about": "サイジ (Saiji) to producent vocaloidowy, autor m.in. utworów z Hatsune Miku.",
+   "artist": "サイジ & 初音ミク",
+   "foundAt": "2026-10-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-26",
+   "songAbout": "Nowy singiel z Miku wydany 26 października.",
+   "title": "Butterfly Dilemma",
+   "url": "https://music.apple.com/jp/album/butterfly-dilemma-single/6799840144?uo=4",
+   "id": "saiji-hatsune-miku-butterfly-dilemma"
+  },
+  {
    "about": "Producent vocaloidowy/Synthesizer V tworzący elektroniczne single z głosem Una.",
    "artist": "Capchii feat. AI 音街ウナ Sugar",
    "foundAt": "2026-10-16",
@@ -72,6 +132,18 @@
    "title": "Swell",
    "url": "https://vocadb.net/S/1046905",
    "id": "capchii-swell"
+  },
+  {
+   "about": "ClariS to duet anisongowy znany z openingów Madoka Magica i OreImo.",
+   "artist": "ClariS",
+   "foundAt": "2026-10-26",
+   "kind": "MV",
+   "pick": true,
+   "released": "2026-10-25",
+   "songAbout": "Nowe MV z premierą 25 października (wg Lisani).",
+   "title": "シンクロブルー",
+   "url": "https://www.lisani.jp/news/",
+   "id": "clairs-synchro-blue"
   },
   {
    "about": "Dele+e to producent z kręgu sceny Vocaloid/UTAU, współpracujący z głosem Kasane Teto.",
@@ -132,6 +204,18 @@
    "title": "XX",
    "url": "https://www.tano-c.net/release/tcplus-0065/",
    "id": "srav3r-getty-xx"
+  },
+  {
+   "about": "t+pazolite to gwiazda sceny J-core/hardcore tano*C, znany z szalonych setów i remiksów.",
+   "artist": "t+pazolite",
+   "foundAt": "2026-10-26",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Nowy album t+pazolite wydany 25 października.",
+   "title": "Reimei My World",
+   "url": "https://music.apple.com/jp/album/reimei-my-world/6822998624?uo=4",
+   "id": "t-pazolite-reimei-my-world"
   },
   {
    "about": "HARDCORE SYNDROME to coroczna składanka wytwórni TANO*C z nowymi utworami czołowych artystów j-core i hardcore.",
@@ -914,6 +998,18 @@
    "id": "luna-waiting-for-your-text"
   },
   {
+   "about": "Himemori Luna to VTuberka z hololive (4. gen), a Omaru Polka z hololive (5. gen).",
+   "artist": "尾丸ポルカ & 姫森ルーナ",
+   "foundAt": "2026-10-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-19",
+   "songAbout": "Duet dwóch VTuberek hololive, pozycja z listy nowości MusicBrainz.",
+   "title": "チェリーポップ",
+   "url": "https://musicbrainz.org/release-group/c5617c1f-fda7-4c66-8b5d-963c4db307ea",
+   "id": "omaru-polka-himemori-luna-cherry-pop"
+  },
+  {
    "about": "AVTechNO! to producent muzyki elektronicznej tworzący z wokalem Hatsune Miku.",
    "artist": "AVTechNO! feat. 初音ミク",
    "foundAt": "2026-10-20",
@@ -972,6 +1068,18 @@
    "title": "秋糖恋爱手册",
    "url": "https://music.apple.com/jp/album/%E7%A7%8B%E7%B3%96%E6%81%8B%E7%88%B1%E6%89%8B%E5%86%8C-single/6821288651?uo=4",
    "id": "qiyijiu-luo-tianyi-qiutang-lian-ai-shouce"
+  },
+  {
+   "about": "Vane Lily to twórca vocaloidowy, a SillySwrdd współpracuje z nim przy coverach.",
+   "artist": "SillySwrdd feat. 亞北ネル NEO 2.0",
+   "foundAt": "2026-10-26",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-18",
+   "songAbout": "Cover w wykonaniu syntezatora głosu Akita Neru NEO 2.0.",
+   "title": "FIRE!!!",
+   "url": "https://youtu.be/XaAJ2a_-Itw",
+   "id": "sillyswrdd-vane-lily-fire"
   },
   {
    "about": "BilliumMoto to producent znany z remiksów i utworów z Kasane Teto.",
