@@ -1,42 +1,33 @@
 {
- "generated": "2026-10-25T23:54:30Z",
- "about": "Premiery 2026-10-11..2026-11-24 artystów z watch.json, których nie ma w music.json",
- "count": 41,
+ "generated": "2026-10-27T00:58:40Z",
+ "about": "Premiery 2026-10-13..2026-11-26 artystów z watch.json, których nie ma w music.json",
+ "count": 33,
  "items": [
   {
-   "watch": "重音テト",
-   "artist": "まさよし & 重音テト",
-   "title": "チープな言葉 - Single",
-   "released": "2026-10-26",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%97%E3%81%AA%E8%A8%80%E8%91%89-single/6819167924?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "重音テト",
-   "artist": "あくたり & 重音テト",
-   "title": "Lie after lie - Single",
-   "released": "2026-10-26",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/lie-after-lie-single/6820836405?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "初音ミク",
-   "artist": "Rossweisse & 初音ミク",
-   "title": "Butterfly - Single",
-   "released": "2026-10-26",
+   "artist": "Veluche & 初音ミク",
+   "title": "Coming your way (Miku Ver) - Single",
+   "released": "2026-10-27",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/butterfly-single/6823752303?uo=4",
+   "url": "https://music.apple.com/jp/album/coming-your-way-miku-ver-single/6817665417?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "初音ミク",
-   "artist": "サイジ & 初音ミク",
-   "title": "Butterfly Dilemma - Single",
-   "released": "2026-10-26",
+   "watch": "ビートまりお",
+   "artist": "ビートまりお & LUNA",
+   "title": "Melody Village - Single",
+   "released": "2026-10-27",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/butterfly-dilemma-single/6799840144?uo=4",
+   "url": "https://music.apple.com/jp/album/melody-village-single/6818109022?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Queen",
+   "artist": "Parish & QUEEN",
+   "title": "Tiava Zaho - Single",
+   "released": "2026-10-27",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/tiava-zaho-single/6825306336?uo=4",
    "source": "itunes"
   },
   {
@@ -49,22 +40,13 @@
    "source": "itunes"
   },
   {
-   "watch": "ビートまりお",
-   "artist": "ビートまりお",
-   "title": "Salem - Single",
+   "watch": "夢ノ結唱 POPY",
+   "artist": "夢ノ結唱 AVER, 夢ノ結唱 POPY & 夢ノ結唱 ROSE",
+   "title": "But (Ter) Fly [feat. HATSUNE MIKU] - Single",
    "released": "2026-10-26",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/salem-single/6818034470?uo=4",
+   "url": "https://music.apple.com/jp/album/but-ter-fly-feat-hatsune-miku-single/6827032981?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "t+pazolite",
-   "artist": "t+pazolite",
-   "title": "Reimei My World",
-   "released": "2026-10-25",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/reimei-my-world/6822998624?uo=4",
-   "source": "itunes+musicbrainz"
   },
   {
    "watch": "ずんだもん",
@@ -85,6 +67,15 @@
    "source": "musicbrainz"
   },
   {
+   "watch": "洛天依",
+   "artist": "洛天依 & 不二兔",
+   "title": "玄甲辞 - Single",
+   "released": "2026-10-24",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E7%8E%84%E7%94%B2%E8%BE%9E-single/6827133562?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "ななひら",
    "artist": "ななひら",
    "title": "電波的妄想美少女Q",
@@ -103,15 +94,6 @@
    "source": "vocadb"
   },
   {
-   "watch": "初音ミク",
-   "artist": "marasy & 初音ミク",
-   "title": "Kaien - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/kaien-single/6822981678?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "MEIKO",
    "artist": "marasy, KAITO & MEIKO",
    "title": "Kaien another ver. - Single",
@@ -121,12 +103,12 @@
    "source": "itunes"
   },
   {
-   "watch": "Grace (Vo.Hikari Kodama)",
-   "artist": "GRACE, ポール・オークンフォールド & Julian Fijma",
-   "title": "Not Over Yet (Grace, Paul Oakenfold vs. Julian Fijma) - Single",
+   "watch": "Marasy",
+   "artist": "marasy & 初音ミク",
+   "title": "Kaien - Single",
    "released": "2026-10-23",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/not-over-yet-grace-paul-oakenfold-vs-julian-fijma-single/6823230380?uo=4",
+   "url": "https://music.apple.com/jp/album/kaien-single/6822981678?uo=4",
    "source": "itunes"
   },
   {
@@ -238,15 +220,6 @@
    "source": "vocadb"
   },
   {
-   "watch": "姫森ルーナ",
-   "artist": "尾丸ポルカ & 姫森ルーナ",
-   "title": "チェリーポップ",
-   "released": "2026-10-19",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/c5617c1f-fda7-4c66-8b5d-963c4db307ea",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "BilliumMoto",
    "artist": "BilliumMoto feat. 重音テトSV2",
    "title": "Look At Me",
@@ -256,30 +229,12 @@
    "source": "vocadb"
   },
   {
-   "watch": "Vane Lily",
-   "artist": "SillySwrdd feat. 亞北ネル NEO 2.0",
-   "title": "FIRE!!!",
-   "released": "2026-10-18",
-   "kind": "cover",
-   "url": "https://youtu.be/XaAJ2a_-Itw",
-   "source": "vocadb"
-  },
-  {
    "watch": "いよわ",
    "artist": "いよわ",
    "title": "Last Rally - Single",
    "released": "2026-10-17",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/last-rally-single/6823650148?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "夢ノ結唱 ROSE",
-   "artist": "夢ノ結唱 ROSE",
-   "title": "By a Distant Window - Single",
-   "released": "2026-10-17",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/by-a-distant-window-single/6823069446?uo=4",
    "source": "itunes"
   },
   {
@@ -337,40 +292,13 @@
    "source": "vocadb"
   },
   {
-   "watch": "OZIGIRI",
-   "artist": "Coakira feat. OZIGIRI",
-   "title": "Riot in Hell",
-   "released": "2026-10-12",
-   "kind": "EP",
-   "url": "https://musicbrainz.org/release-group/c3ab3676-8c2d-4aaf-a1c2-04e72c2908c2",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Abaraya",
-   "artist": "あばらや feat. various",
-   "title": "星、ときどき光",
-   "released": "2026-10-12",
-   "kind": "cover",
-   "url": "https://youtu.be/UPkTQ3hfbGI",
-   "source": "vocadb"
-  },
-  {
-   "watch": "d0tc0mmie",
-   "artist": "d0tc0mmie, HWAAStyle feat. 初音ミク, 重音テトSV",
-   "title": "ゆめ",
-   "released": "2026-10-12",
-   "kind": "cover",
-   "url": "https://vocadb.net/S/1045739",
-   "source": "vocadb"
-  },
-  {
-   "watch": "博衣こより",
-   "artist": "博衣こより",
-   "title": "RISING 酸",
-   "released": "2026-10-11",
+   "watch": "Mori Calliope",
+   "artist": "Garlt, Lomz & Mori Calliope",
+   "title": "Bajo de Las luces - Single",
+   "released": "2026-10-14",
    "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/8da4d6f9-34ce-4e37-bf33-a4e73c64396a",
-   "source": "musicbrainz"
+   "url": "https://music.apple.com/jp/album/bajo-de-las-luces-single/6823311548?uo=4",
+   "source": "itunes"
   }
  ]
 }
