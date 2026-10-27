@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T05:42:18Z",
+ "updated": "2026-10-27T05:42:12Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -3084,6 +3084,55 @@
    "id": "2027-02-esprit-dair-uk"
   },
   {
+   "about": "Kenshi Yonezu to japoński wokalista, producent i ilustrator, dawniej vocaloidowy producent Hachi. Znany z openingów i piosenek do anime (Chainsaw Man, Boku no Hero Academia) oraz hitu „Lemon”.",
+   "artist": "Kenshi Yonezu",
+   "dateEnd": "2027-02-28",
+   "dateStart": "2027-02-24",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "w sprzedaży od 22.10.2026, 12:00 czasu lokalnego (Live Nation)"
+    },
+    {
+     "k": "Trasa",
+     "v": "Seul 14–17.01.2027, Singapur 29.01, USA/Kanada/Meksyk luty, potem Europa"
+    }
+   ],
+   "foundAt": "2026-10-27",
+   "hits": [
+    "Lemon",
+    "KICK BACK",
+    "Peace Sign",
+    "IRIS OUT"
+   ],
+   "kind": "trasa",
+   "note": "Europejska część światowej trasy GHOST; sprzedaż biletów ruszyła 22.10.2026 przez Live Nation. Cen i godzin źródła nie podają.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-02-24",
+     "venue": "The O2 Arena"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-02-26",
+     "venue": "Accor Arena"
+    },
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2027-02-28",
+     "venue": "Ziggo Dome"
+    }
+   ],
+   "tier": 2,
+   "title": "GHOST World Tour 2027 – Londyn, Paryż, Amsterdam",
+   "url": "https://hypebeast.com/2026/10/kenshi-yonezu-announces-global-2027-ghost-tour-dates",
+   "id": "2027-02-kenshi-yonezu-ghost-europe"
+  },
+  {
    "about": "Włoski zespół rockowy, zwycięzca Eurowizji 2021 i Sanremo 2021, znany z globalnych hitów.",
    "artist": "Måneskin",
    "dateEnd": "2027-02-20",
@@ -5213,6 +5262,46 @@
    "title": "ano in Seoul (2 dni)",
    "url": "https://www.eventworld.com/ano-seoul-tickets-17-10-2026/event/515852",
    "id": "kr-2026-10-ano-seoul"
+  },
+  {
+   "about": "Kenshi Yonezu to japoński wokalista, producent i ilustrator, dawniej vocaloidowy producent Hachi. Znany z openingów i piosenek do anime (Chainsaw Man, Boku no Hero Academia) oraz hitu „Lemon”.",
+   "artist": "Kenshi Yonezu",
+   "dateEnd": "2027-01-17",
+   "dateStart": "2027-01-14",
+   "foundAt": "2026-10-27",
+   "hits": [
+    "Lemon",
+    "KICK BACK",
+    "Peace Sign",
+    "IRIS OUT"
+   ],
+   "kind": "trasa",
+   "note": "Trzy wieczory w Seulu, otwarcie zagranicznej części trasy GHOST. Stream i szczegóły sprzedaży nieznane.",
+   "region": "KR",
+   "stops": [
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2027-01-14",
+     "venue": "INSPIRE Arena"
+    },
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2027-01-16",
+     "venue": "INSPIRE Arena"
+    },
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2027-01-17",
+     "venue": "INSPIRE Arena"
+    }
+   ],
+   "tier": 2,
+   "title": "GHOST World Tour 2027 – Seul (3 koncerty)",
+   "url": "https://hypebeast.com/2026/10/kenshi-yonezu-announces-global-2027-ghost-tour-dates",
+   "id": "kr-2027-01-kenshi-yonezu-ghost-seoul"
   }
  ]
 }

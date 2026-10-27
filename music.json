@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:42:52Z",
+ "updated": "2026-10-27T05:42:12Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -62,6 +62,30 @@
    "id": "rumaki-sun-on-the-sea"
   },
   {
+   "about": "ビートまりお (Beat Mario) to japoński producent i DJ znany z elektronicznych, taneczno-vocaloidowych utworów oraz z pracy przy muzyce do gier rytmicznych.",
+   "artist": "ビートまりお & LUNA",
+   "foundAt": "2026-10-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-27",
+   "songAbout": "Nowy singiel w duecie z LUNĄ – lekki, taneczny kawałek elektroniczny.",
+   "title": "Melody Village",
+   "url": "https://music.apple.com/jp/album/melody-village-single/6818109022?uo=4",
+   "id": "beatmario-luna-melody-village"
+  },
+  {
+   "about": "Hatsune Miku to najsłynniejszy wirtualny głos Vocaloid; Veluche to producent związany ze sceną elektroniczną.",
+   "artist": "Veluche & 初音ミク",
+   "foundAt": "2026-10-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-27",
+   "songAbout": "Wersja Miku singla „Coming your way”, wcześniej wydanego w innych wokalach.",
+   "title": "Coming your way (Miku Ver)",
+   "url": "https://music.apple.com/jp/album/coming-your-way-miku-ver-single/6817665417?uo=4",
+   "id": "veluche-hatsune-miku-coming-your-way-miku-ver"
+  },
+  {
    "about": "あくたり to twórca vocaloidowy współpracujący z Kasane Teto.",
    "artist": "あくたり & 重音テト",
    "foundAt": "2026-10-26",
@@ -120,6 +144,18 @@
    "title": "Butterfly Dilemma",
    "url": "https://music.apple.com/jp/album/butterfly-dilemma-single/6799840144?uo=4",
    "id": "saiji-hatsune-miku-butterfly-dilemma"
+  },
+  {
+   "about": "夢ノ結唱 to seria głosów Synthesizer V/CeVIO (AVER, POPY, ROSE), rozwijana wokół sceny wokaloidowej.",
+   "artist": "夢ノ結唱 AVER, POPY & ROSE",
+   "foundAt": "2026-10-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-26",
+   "songAbout": "Singiel tria Yume no Yuusho z gościnnym udziałem Hatsune Miku.",
+   "title": "But (Ter) Fly [feat. HATSUNE MIKU]",
+   "url": "https://music.apple.com/jp/search?term=But%20(Ter)%20Fly%20Yumeno%20Yuusho",
+   "id": "yumeno-yuusho-aver-popy-rose-but-ter-fly"
   },
   {
    "about": "Producent vocaloidowy/Synthesizer V tworzący elektroniczne single z głosem Una.",
@@ -324,6 +360,18 @@
    "title": "Anubis",
    "url": "https://music.apple.com/jp/album/anubis-single/6823478944?uo=4",
    "id": "karuisan-kasane-teto-anubis"
+  },
+  {
+   "about": "洛天依 (Luo Tianyi) to najpopularniejszy chiński głos vocaloidowy, wydawany przez Vsinger.",
+   "artist": "洛天依 & 不二兔",
+   "foundAt": "2026-10-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Nowy singiel Luo Tianyi z gościnnym udziałem 不二兔, w klimacie chińskiego stylu historycznego.",
+   "title": "玄甲辞",
+   "url": "https://music.apple.com/jp/album/%E7%8E%84%E7%94%B2%E8%BE%9E-single/6827133562?uo=4",
+   "id": "luo-tianyi-buer-tu-xuanjia-ci"
   },
   {
    "about": "Nanahira to ikona denpa i doujin, wokalistka związana z IOSYS i wotaku.",
@@ -1836,6 +1884,18 @@
    "title": "Fanfare",
    "url": "https://music.apple.com/jp/album/fanfare-single/6820919815?uo=4",
    "id": "denonbu-fanfare"
+  },
+  {
+   "about": "Mori Calliope to raperka i VTuberka z hololive EN, znana m.in. z „Dead Beats” i „Eien ni Hitori Ijime”.",
+   "artist": "Garlt, Lomz & Mori Calliope",
+   "foundAt": "2026-10-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-14",
+   "songAbout": "Hiszpańskojęzyczna współpraca z producentami Garlt i Lomz, klubowy singiel z udziałem Calliope.",
+   "title": "Bajo de Las luces",
+   "url": "https://music.apple.com/jp/album/bajo-de-las-luces-single/6823311548?uo=4",
+   "id": "garlt-lomz-mori-calliope-bajo-de-las-luces"
   },
   {
    "about": "irucaice to japoński twórca muzyki elektronicznej pracujący z głosami VOICEROID.",
