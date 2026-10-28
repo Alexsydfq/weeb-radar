@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T05:42:12Z",
+ "updated": "2026-10-28T05:42:26Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -12,6 +12,18 @@
    "title": "バリバリBuddy",
    "url": "https://music.apple.com/jp/album/%E3%83%90%E3%83%AA%E3%83%90%E3%83%AAbuddy-single/6816049853?uo=4",
    "id": "-c55dc74f"
+  },
+  {
+   "about": "Ikoniczna pierwsza VTuberka hololive, debiutowała w 2017 roku jako 'Tokino Sora'; śpiewa idolowe pop-rockowe piosenki.",
+   "artist": "ときのそら",
+   "foundAt": "2026-10-28",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-04",
+   "songAbout": "Zapowiedziany EP (premiera 4 listopada 2026), energiczny idolowy pop.",
+   "title": "CHECK! (EP)",
+   "url": "https://music.apple.com/jp/album/check-ep/6822192205?uo=4",
+   "id": "tokino-sora-check-ep"
   },
   {
    "about": "TOOBOE to japoński wokalista i producent tworzący energiczny rock-pop.",
@@ -60,6 +72,114 @@
    "title": "Sun On The Sea (feat. Alina Enn)",
    "url": "https://music.apple.com/jp/album/sun-on-the-sea-feat-alina-enn-single/6814819013?uo=4",
    "id": "rumaki-sun-on-the-sea"
+  },
+  {
+   "about": "Żeński zespół hard rockowy w strojach pokojówek, regularnie jeżdżący po Europie; znani z 'Thrill' i 'Choose Me'.",
+   "artist": "BAND-MAID",
+   "foundAt": "2026-10-28",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Nowy singiel, ciężki, tanecznie-rockowy.",
+   "title": "SPIN",
+   "url": "https://music.apple.com/jp/album/spin-single/6822591760?uo=4",
+   "id": "band-maid-spin"
+  },
+  {
+   "about": "Producent vocaloidowy współpracujący z Kasane Teto i Hatsune Miku.",
+   "artist": "べこ, 重音テト & 初音ミク",
+   "foundAt": "2026-10-28",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Album z utworami na głosach Teto i Miku, trzecia odsłona serii 'Beat'.",
+   "title": "Beat 3",
+   "url": "https://music.apple.com/jp/album/beat-3/6819965222?uo=4",
+   "id": "beko-kasane-teto-hatsune-miku-beat-3"
+  },
+  {
+   "about": "Producent vocaloidowy tworzący na głosie Hatsune Miku.",
+   "artist": "Cocktailmiko & 初音ミク",
+   "foundAt": "2026-10-28",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Singiel na głosie Miku, elektroniczny i dynamiczny.",
+   "title": "OVERLOAD",
+   "url": "https://music.apple.com/jp/album/overload-single/6825803803?uo=4",
+   "id": "cocktailmiko-hatsune-miku-overload"
+  },
+  {
+   "about": "Producent vocaloidowy (Hayashida Takumi) piszący na głosie Hatsune Miku.",
+   "artist": "林田匠 & 初音ミク",
+   "foundAt": "2026-10-28",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Singiel na głosie Miku, spokojniejszy, melodyjny.",
+   "title": "Balloon String",
+   "url": "https://music.apple.com/jp/album/balloon-string-single/6823507226?uo=4",
+   "id": "hayashida-takumi-hatsune-miku-balloon-string"
+  },
+  {
+   "about": "Producent vocaloidowy, tu z hardstyle'ową wersją klasyka 'PoPiPo'.",
+   "artist": "Koneko! & 初音ミク",
+   "foundAt": "2026-10-28",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Hardstyle'owy remake PoPiPo z Hatsune Miku, dla fanów J-core i rave'ów.",
+   "title": "POPIPO #HARDSTYLE",
+   "url": "https://music.apple.com/jp/album/popipo-hardstyle-single/6825919518?uo=4",
+   "id": "koneko-hatsune-miku-popipo-hardstyle"
+  },
+  {
+   "about": "Członek HoneyWorks, kolektywu znanego z serii 'Kokuhaku Jikkō Iinkai' i anime-popowych piosenek z postaciami CV.",
+   "artist": "MARUMOCHI from HoneyWorks",
+   "foundAt": "2026-10-28",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Piosenka z postacią Homare Udagawa (głos: Miyu Tomita) w stylu idolowego anime-popu.",
+   "title": "ほめてよ、ほまれ (feat. Homare Udagawa (CV: Miyu Tomita))",
+   "url": "https://music.apple.com/jp/album/%E3%81%BB%E3%82%81%E3%81%A6%E3%82%88-%E3%81%BB%E3%81%BE%E3%82%8C-feat-homare-udagawa-cv-miyu-tomita-single/6823038362?uo=4",
+   "id": "marumochi-honeyworks-homete-yo-homare"
+  },
+  {
+   "about": "miyu to twórca/wokalista sceny nico-vocaloid; tu w duecie syntezatorów Kasane Teto i Otomachi Una.",
+   "artist": "miyu, 重音テト, 音街ウナ",
+   "foundAt": "2026-10-28",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Singiel z Teto i Uną, pastelowy, imprezowy klimat 'piżama party'.",
+   "title": "スランバーパーティー",
+   "url": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%90%E3%83%BC%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-single/6821802768?uo=4",
+   "id": "miyu-kasane-teto-otonomachi-una-slumber-party"
+  },
+  {
+   "about": "Producent vocaloidowy (Natsuyama Yotsugi) piszący na głosie Hatsune Miku.",
+   "artist": "夏山よつぎ & 初音ミク",
+   "foundAt": "2026-10-28",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Singiel na głosie Miku w klimacie 'parady złoczyńców', mocny rytm.",
+   "title": "Messed up! (Villa!ns Parade)",
+   "url": "https://music.apple.com/jp/album/messed-up-villa-ns-parade-single/6822982294?uo=4",
+   "id": "natsuyama-yotsugi-hatsune-miku-messed-up"
+  },
+  {
+   "about": "Japoński zespół rockowy znany z soundtracków Makoto Shinkai ('Your Name', 'Weathering with You', 'Suzume').",
+   "artist": "RADWIMPS",
+   "foundAt": "2026-10-28",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Nowy singiel zespołu.",
+   "title": "Shabadaba",
+   "url": "https://music.apple.com/jp/album/shabadaba-single/6823156003?uo=4",
+   "id": "radwimps-shabadaba"
   },
   {
    "about": "ビートまりお (Beat Mario) to japoński producent i DJ znany z elektronicznych, taneczno-vocaloidowych utworów oraz z pracy przy muzyce do gier rytmicznych.",
@@ -156,6 +276,18 @@
    "title": "But (Ter) Fly [feat. HATSUNE MIKU]",
    "url": "https://music.apple.com/jp/search?term=But%20(Ter)%20Fly%20Yumeno%20Yuusho",
    "id": "yumeno-yuusho-aver-popy-rose-but-ter-fly"
+  },
+  {
+   "about": "Wokalistka i VTuberka związana ze sceną anisong/denpa, znana z mocnych, elektronicznych piosenek.",
+   "artist": "藍月なくる",
+   "foundAt": "2026-10-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Nowy singiel w elektronicznym, energicznym stylu.",
+   "title": "Bekkai",
+   "url": "https://music.apple.com/jp/album/bekkai-single/6824806561?uo=4",
+   "id": "aizuki-nakuru-bekkai"
   },
   {
    "about": "Producent vocaloidowy/Synthesizer V tworzący elektroniczne single z głosem Una.",
