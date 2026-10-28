@@ -1,24 +1,96 @@
 {
- "generated": "2026-10-27T00:58:40Z",
- "about": "Premiery 2026-10-13..2026-11-26 artystów z watch.json, których nie ma w music.json",
- "count": 33,
+ "generated": "2026-10-28T01:06:24Z",
+ "about": "Premiery 2026-10-14..2026-11-27 artystów z watch.json, których nie ma w music.json",
+ "count": 40,
  "items": [
   {
-   "watch": "初音ミク",
-   "artist": "Veluche & 初音ミク",
-   "title": "Coming your way (Miku Ver) - Single",
-   "released": "2026-10-27",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/coming-your-way-miku-ver-single/6817665417?uo=4",
+   "watch": "ときのそら",
+   "artist": "ときのそら",
+   "title": "CHECK! - EP",
+   "released": "2026-11-04",
+   "kind": "EP",
+   "url": "https://music.apple.com/jp/album/check-ep/6822192205?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "ビートまりお",
-   "artist": "ビートまりお & LUNA",
-   "title": "Melody Village - Single",
-   "released": "2026-10-27",
+   "watch": "重音テト",
+   "artist": "miyu, 重音テト, 音街ウナ",
+   "title": "スランバーパーティー - Single",
+   "released": "2026-10-28",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/melody-village-single/6818109022?uo=4",
+   "url": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%90%E3%83%BC%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-single/6821802768?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "べこ, 重音テト & 初音ミク",
+   "title": "Beat 3",
+   "released": "2026-10-28",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/beat-3/6819965222?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "Cocktailmiko & 初音ミク",
+   "title": "OVERLOAD - Single",
+   "released": "2026-10-28",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/overload-single/6825803803?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "Koneko! & 初音ミク",
+   "title": "POPIPO #HARDSTYLE - Single",
+   "released": "2026-10-28",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/popipo-hardstyle-single/6825919518?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "夏山よつぎ & 初音ミク",
+   "title": "Messed up! (Villa!ns Parade) - Single",
+   "released": "2026-10-28",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/messed-up-villa-ns-parade-single/6822982294?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "林田匠 & 初音ミク",
+   "title": "Balloon String - Single",
+   "released": "2026-10-28",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/balloon-string-single/6823507226?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "MARUMOCHI from HoneyWorks",
+   "artist": "MARUMOCHI from HoneyWorks",
+   "title": "ほめてよ、ほまれ (feat. Homare Udagawa(CV:Miyu Tomita)) - Single",
+   "released": "2026-10-28",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E3%81%BB%E3%82%81%E3%81%A6%E3%82%88-%E3%81%BB%E3%81%BE%E3%82%8C-feat-homare-udagawa-cv-miyu-tomita-single/6823038362?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "RADWIMPS",
+   "artist": "RADWIMPS",
+   "title": "Shabadaba - Single",
+   "released": "2026-10-28",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/shabadaba-single/6823156003?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "BAND-MAID",
+   "artist": "BAND-MAID",
+   "title": "SPIN - Single",
+   "released": "2026-10-28",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/spin-single/6822591760?uo=4",
    "source": "itunes"
   },
   {
@@ -40,21 +112,21 @@
    "source": "itunes"
   },
   {
-   "watch": "夢ノ結唱 POPY",
-   "artist": "夢ノ結唱 AVER, 夢ノ結唱 POPY & 夢ノ結唱 ROSE",
-   "title": "But (Ter) Fly [feat. HATSUNE MIKU] - Single",
-   "released": "2026-10-26",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/but-ter-fly-feat-hatsune-miku-single/6827032981?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "ずんだもん",
    "artist": "AIハーモニー歌劇団 : てスパる5, ずんだもん, 四国めたん, 東北きりたん & めろう",
    "title": "Spain National Anthem \"Royal March - Marcha Real\" Alfonso XIII's Reign Lyrics : Spanish Ai Chorus! (Neutrino) - Single",
    "released": "2026-10-25",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/spain-national-anthem-royal-march-marcha-real-alfonso/6823052648?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "藍月なくる",
+   "artist": "藍月なくる",
+   "title": "Bekkai - Single",
+   "released": "2026-10-25",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/bekkai-single/6824806561?uo=4",
    "source": "itunes"
   },
   {
@@ -67,13 +139,13 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "洛天依",
-   "artist": "洛天依 & 不二兔",
-   "title": "玄甲辞 - Single",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E7%8E%84%E7%94%B2%E8%BE%9E-single/6827133562?uo=4",
-   "source": "itunes"
+   "watch": "HARDCORE TANO*C (dowolny artysta)",
+   "artist": "HARDCORE TANO*C",
+   "title": "HARDCORE SYNDROME BEST",
+   "released": "2026-10-25",
+   "kind": "album",
+   "url": "https://musicbrainz.org/release-group/5ce8483e-2805-450d-a792-c8315af19572",
+   "source": "musicbrainz"
   },
   {
    "watch": "ななひら",
@@ -290,15 +362,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/pjB-qgQMQj0",
    "source": "vocadb"
-  },
-  {
-   "watch": "Mori Calliope",
-   "artist": "Garlt, Lomz & Mori Calliope",
-   "title": "Bajo de Las luces - Single",
-   "released": "2026-10-14",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/bajo-de-las-luces-single/6823311548?uo=4",
-   "source": "itunes"
   }
  ]
 }
