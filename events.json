@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T05:42:12Z",
+ "updated": "2026-10-29T05:43:20Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -3380,6 +3380,58 @@
    "id": "2027-03-steve-aoki-deols"
   },
   {
+   "about": "Japoński producent i DJ z kręgu hyperpopu i muzyki elektronicznej, popularny w środowisku internetowym i anime. Pierwszy raz jedzie jako headliner po Europie.",
+   "artist": "¥ØU$UK€ ¥UK1MAT$U",
+   "dateEnd": "2027-03-27",
+   "dateStart": "2027-03-12",
+   "facts": [
+    {
+     "k": "Sprzedaż",
+     "v": "ogólna od 18.09.2026, przedsprzedaż przez link organizatora"
+    }
+   ],
+   "foundAt": "2026-10-29",
+   "kind": "trasa",
+   "note": "Pierwsza europejska trasa headlinerska japońskiego producenta elektronicznego. Brak dat w Polsce; ceny nie podane w źródle.",
+   "stops": [
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2027-03-12",
+     "venue": "Gashouder"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-03-13",
+     "venue": "104 CENTQUATRE"
+    },
+    {
+     "cc": "BE",
+     "city": "Bruksela",
+     "date": "2027-03-19",
+     "venue": "Ancienne Belgique"
+    },
+    {
+     "cc": "DK",
+     "city": "Kopenhaga",
+     "date": "2027-03-24",
+     "venue": "Poolen"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-03-27",
+     "venue": "O2 Academy Brixton"
+    }
+   ],
+   "tickets": "https://drop.cobrand.com/d/yousuke/eu2027tourdnjskd",
+   "tier": 2,
+   "title": "Debiutancka europejska trasa „I ❤ €URØP€”",
+   "url": "https://djmag.com/news/youukeu-yuk1matu-announces-debut-european-headline-tour",
+   "id": "2027-03-youukeu-yuk1matu-i-love-europe"
+  },
+  {
    "about": "Holenderski konwent anime w Hadze, na którym regularnie występuje m.in. Vocafest z koncertem fanowskich wykonań piosenek Vocaloid.",
    "artist": "AnimeCon 2027",
    "dateEnd": "2027-04-18",
@@ -3841,6 +3893,68 @@
    "updatedAt": "2026-10-09",
    "url": "https://pyrkon.pl/bez-kategorii/cos-sie-konczy-cos-zaczyna-poznajcie-pierwszych-gosci-pyrkonu-2027/",
    "id": "2027-06-pyrkon"
+  },
+  {
+   "about": "Największy szwedzki festiwal rocka i metalu, co roku w Norje koło Sölvesborga. Największe nazwy edycji 2027 to Mötley Crüe, Alice Cooper i Queens of the Stone Age.",
+   "artist": "Sweden Rock Festival 2027",
+   "dateEnd": "2027-06-12",
+   "dateStart": "2027-06-09",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "karnet 4-dniowy 3 998 SEK, VIP 5 798 SEK, młodzież 13–17 lat 1 898 SEK"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "od 23.10.2026 11:00 (czas szwedzki), Ticketmaster"
+    },
+    {
+     "k": "Parking",
+     "v": "500 SEK"
+    }
+   ],
+   "foundAt": "2026-10-29",
+   "hits": [
+    "Queens of the Stone Age – No One Knows",
+    "Queens of the Stone Age – Go with the Flow",
+    "Mötley Crüe – Kickstart My Heart",
+    "Alice Cooper – School's Out"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Mötley Crüe",
+    "Queens of the Stone Age",
+    "Alice Cooper",
+    "Parkway Drive",
+    "Europe",
+    "Amon Amarth",
+    "Accept",
+    "Edguy",
+    "Bad Religion",
+    "Arch Enemy",
+    "Children of Bodom",
+    "Blue Öyster Cult",
+    "Clutch",
+    "Uriah Heep",
+    "Lordi",
+    "Finntroll",
+    "Black Flag",
+    "Blind Channel"
+   ],
+   "note": "Ogłoszono pierwsze 52 bookingi (22.10.2026). Z listy artystów gra Queens of the Stone Age; brak japońskich aktów otaku. Rozpiska dni jeszcze nieustalona.",
+   "stops": [
+    {
+     "cc": "SE",
+     "city": "Sölvesborg",
+     "date": "2027-06-09",
+     "venue": "Sweden Rock Festival Grounds, Norje"
+    }
+   ],
+   "tickets": "https://swedenrock.com/biljetter",
+   "tier": 3,
+   "title": "Mötley Crüe, Queens of the Stone Age, Alice Cooper i inni",
+   "url": "https://hurbra.se/sweden-rock-2027-52-band-klara/",
+   "id": "2027-06-sweden-rock-festival"
   },
   {
    "about": "Jeden z najstarszych niemieckich konwentów anime, z koncertami japońskich artystów w głównej sali Rosengarten w Mannheimie. Największą gwiazdą muzyczną edycji 2027 jest Hironobu Kageyama, głos „CHA-LA HEAD-CHA-LA” z Dragon Ball Z; obok niego Eir Aoi (Sword Art Online) i Little Glee Monster (My Hero Academia, Boruto).",

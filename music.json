@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:42:26Z",
+ "updated": "2026-10-29T05:43:20Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -62,6 +62,54 @@
    "id": "queens-of-the-stone--db3fb986"
   },
   {
+   "about": "Beat Mario (ビートまりお) – weteran sceny doujin/electro, producent z kręgu IOSYS i Touhou.",
+   "artist": "ビートまりお",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-29",
+   "songAbout": "Nowy singiel w klimacie elektronicznym.",
+   "title": "Web orbital networks",
+   "url": "https://music.apple.com/jp/album/web-orbital-networks-single/6818034372?uo=4",
+   "id": "beat-mario-web-orbital-networks"
+  },
+  {
+   "about": "Brutalismus 3000 – niemiecki duet techno/hardcore; Boys Noise to japoński producent elektroniczny.",
+   "artist": "ボーイズ・ノイズ & Brutalismus 3000",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-29",
+   "songAbout": "Kolaboracja japońsko-niemiecka, ciężkie brzmienia klubowe.",
+   "title": "Nächstenliebe",
+   "url": "https://music.apple.com/jp/album/n%C3%A4chstenliebe-single/6821032304?uo=4",
+   "id": "boys-noise-brutalismus-3000-nachstenliebe"
+  },
+  {
+   "about": "Hiwa7 – producent vocaloidowy piszący dla Hatsune Miku.",
+   "artist": "Hiwa7 & 初音ミク",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-29",
+   "songAbout": "Nowy singiel z Hatsune Miku.",
+   "title": "Echinacea",
+   "url": "https://music.apple.com/jp/album/echinacea-single/6825803799?uo=4",
+   "id": "hiwa7-hatsune-miku-echinacea"
+  },
+  {
+   "about": "kinoue64 – producent vocaloidowy tworzący piosenki dla Hatsune Miku.",
+   "artist": "kinoue64 & 初音ミク",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-29",
+   "songAbout": "Nowy singiel z Hatsune Miku.",
+   "title": "Seito yume nippo",
+   "url": "https://music.apple.com/jp/album/seito-yume-nippo-single/6823507463?uo=4",
+   "id": "kinoue64-hatsune-miku-seito-yume-nippo"
+  },
+  {
    "about": "Rumaki – producent elektroniczny z kręgu sceny dance/trance.",
    "artist": "Rumaki",
    "foundAt": "2026-10-15",
@@ -110,6 +158,18 @@
    "id": "cocktailmiko-hatsune-miku-overload"
   },
   {
+   "about": "Denonbu (電音部) – projekt muzyki klubowej łączący DJ-ów i postacie anime z dzielnic Tokio.",
+   "artist": "電音部, 池袋電音部, MY NEW GEAR & 中村さんそ",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Singiel klubowy projektu Denonbu z dzielnicy Ikebukuro.",
+   "title": "Bleed Me Bright",
+   "url": "https://music.apple.com/jp/album/bleed-me-bright-single/6822983684?uo=4",
+   "id": "denonbu-bleed-me-bright"
+  },
+  {
    "about": "Producent vocaloidowy (Hayashida Takumi) piszący na głosie Hatsune Miku.",
    "artist": "林田匠 & 初音ミク",
    "foundAt": "2026-10-28",
@@ -132,6 +192,18 @@
    "title": "POPIPO #HARDSTYLE",
    "url": "https://music.apple.com/jp/album/popipo-hardstyle-single/6825919518?uo=4",
    "id": "koneko-hatsune-miku-popipo-hardstyle"
+  },
+  {
+   "about": "MARUMOCHI from HoneyWorks – jednostka HoneyWorks, znanej z serii piosenek o szkolnych romansach.",
+   "artist": "MARUMOCHI from HoneyWorks",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Nowy singiel z wokalem postaci Homare Udagawy (CV: Miyu Tomita).",
+   "title": "ほめてよ、ほまれ (feat. 宇田川ほまれ(CV:富田美憂))",
+   "url": "https://music.apple.com/jp/album/%E3%81%BB%E3%82%81%E3%81%A6%E3%82%88-%E3%81%BB%E3%81%BE%E3%82%8C-feat-%E5%AE%87%E7%94%B0%E5%B7%9D%E3%81%BB%E3%81%BE%E3%82%8C-cv-%E5%AF%8C%E7%94%B0%E7%BE%8E%E6%86%82-single/6823038362?uo=4",
+   "id": "marumochi-honeyworks-homete-yo-homare-2"
   },
   {
    "about": "Członek HoneyWorks, kolektywu znanego z serii 'Kokuhaku Jikkō Iinkai' i anime-popowych piosenek z postaciami CV.",
@@ -170,6 +242,18 @@
    "id": "natsuyama-yotsugi-hatsune-miku-messed-up"
   },
   {
+   "about": "Queens of the Stone Age – amerykański zespół stoner/alternative rockowy Josha Hommego.",
+   "artist": "Queens of the Stone Age",
+   "foundAt": "2026-10-29",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Nowe EP zespołu, tuż przed albumem Perfecth.",
+   "title": "Run Away From the Mob",
+   "url": "https://musicbrainz.org/release-group/fcb95ca5-c5db-4717-b23f-2919b116aab4",
+   "id": "queens-of-the-stone-age-run-away-from-the-mob"
+  },
+  {
    "about": "Japoński zespół rockowy znany z soundtracków Makoto Shinkai ('Your Name', 'Weathering with You', 'Suzume').",
    "artist": "RADWIMPS",
    "foundAt": "2026-10-28",
@@ -180,6 +264,18 @@
    "title": "Shabadaba",
    "url": "https://music.apple.com/jp/album/shabadaba-single/6823156003?uo=4",
    "id": "radwimps-shabadaba"
+  },
+  {
+   "about": "Rime (理芽) – wokalistka z kolektywu KAMITSUBAKI STUDIO, znana z kooperacji z producentami elektroniki.",
+   "artist": "THE LUV BUGS, krynX & 理芽",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Singiel w klimacie elektronicznym.",
+   "title": "kotowari",
+   "url": "https://music.apple.com/jp/album/kotowari-single/6820887625?uo=4",
+   "id": "the-luv-bugs-krynx-rime-kotowari"
   },
   {
    "about": "ビートまりお (Beat Mario) to japoński producent i DJ znany z elektronicznych, taneczno-vocaloidowych utworów oraz z pracy przy muzyce do gier rytmicznych.",
@@ -266,6 +362,18 @@
    "id": "saiji-hatsune-miku-butterfly-dilemma"
   },
   {
+   "about": "Adachi Rei (足立レイ) – syntezator głosu UTAU, popularny wśród producentów.",
+   "artist": "サツキ & 足立レイ",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-26",
+   "songAbout": "Nowy singiel z głosem Adachi Rei.",
+   "title": "Walking with you",
+   "url": "https://music.apple.com/jp/album/walking-with-you-single/6820836219?uo=4",
+   "id": "satsuki-adachi-rei-walking-with-you"
+  },
+  {
    "about": "夢ノ結唱 to seria głosów Synthesizer V/CeVIO (AVER, POPY, ROSE), rozwijana wokół sceny wokaloidowej.",
    "artist": "夢ノ結唱 AVER, POPY & ROSE",
    "foundAt": "2026-10-27",
@@ -336,6 +444,18 @@
    "title": "早めの放課後",
    "url": "https://vocadb.net/S/1047908",
    "id": "inoutsuwa-sa-kasane-teto-hayame-no-houkago"
+  },
+  {
+   "about": "Natsume Itsuki (棗いつき) – japońska wokalistka z kręgu sceny elektronicznej.",
+   "artist": "棗いつき",
+   "foundAt": "2026-10-29",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Nowy album, wydany w październiku 2026.",
+   "title": "Whose Fault",
+   "url": "https://musicbrainz.org/release-group/e5b9725a-5b4f-44c5-ac12-b39de401095d",
+   "id": "natsume-itsuki-whose-fault"
   },
   {
    "about": "Koreański producent z kręgu Vocaloid/Project SEKAI i gier rytmicznych.",
@@ -504,6 +624,18 @@
    "title": "玄甲辞",
    "url": "https://music.apple.com/jp/album/%E7%8E%84%E7%94%B2%E8%BE%9E-single/6827133562?uo=4",
    "id": "luo-tianyi-buer-tu-xuanjia-ci"
+  },
+  {
+   "about": "Luo Tianyi – chiński wokal syntezatora głosu, ikona chińskiej sceny Vocaloid.",
+   "artist": "洛天依 & Eden Ro Swift",
+   "foundAt": "2026-10-29",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-24",
+   "songAbout": "Singiel kolaboracyjny z Eden Ro Swift.",
+   "title": "Is It The Farewell Letter?",
+   "url": "https://music.apple.com/jp/album/is-it-the-farewell-letter-single/6827879298?uo=4",
+   "id": "luo-tianyi-eden-ro-swift-is-it-the-farewell-letter"
   },
   {
    "about": "Nanahira to ikona denpa i doujin, wokalistka związana z IOSYS i wotaku.",
