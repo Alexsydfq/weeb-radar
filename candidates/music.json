@@ -1,97 +1,106 @@
 {
- "generated": "2026-10-29T01:39:08Z",
- "about": "Premiery 2026-10-15..2026-11-28 artystów z watch.json, których nie ma w music.json",
- "count": 44,
+ "generated": "2026-10-30T01:34:48Z",
+ "about": "Premiery 2026-10-16..2026-11-29 artystów z watch.json, których nie ma w music.json",
+ "count": 41,
  "items": [
   {
-   "watch": "初音ミク",
-   "artist": "kinoue64 & 初音ミク",
-   "title": "Seito yume nippo - Single",
-   "released": "2026-10-29",
+   "watch": "重音テト",
+   "artist": "干ししいたけ & 重音テト",
+   "title": "Links to Chain - EP",
+   "released": "2026-10-30",
+   "kind": "EP",
+   "url": "https://music.apple.com/jp/album/links-to-chain-ep/6814771235?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "はかめ & 重音テト",
+   "title": "Spice Merge - Single",
+   "released": "2026-10-30",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/seito-yume-nippo-single/6823507463?uo=4",
+   "url": "https://music.apple.com/jp/album/spice-merge-single/6823507439?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "d0tc0mmie, 重音テト & 初音ミク",
+   "title": "Dream - EP",
+   "released": "2026-10-30",
+   "kind": "EP",
+   "url": "https://music.apple.com/jp/album/dream-ep/6822981634?uo=4",
    "source": "itunes"
   },
   {
    "watch": "初音ミク",
-   "artist": "Hiwa7 & 初音ミク",
-   "title": "Echinacea - Single",
-   "released": "2026-10-29",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/echinacea-single/6825803799?uo=4",
+   "artist": "Muimi1 & 初音ミク",
+   "title": "TERMINAL VELOCITY",
+   "released": "2026-10-30",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/terminal-velocity/6826334214?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "洛天依",
-   "artist": "洛天依",
-   "title": "再无归期 - Single",
-   "released": "2026-10-29",
+   "watch": "marina",
+   "artist": "Marina",
+   "title": "No Limit - Single",
+   "released": "2026-10-30",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E5%86%8D%E6%97%A0%E5%BD%92%E6%9C%9F-single/6827387299?uo=4",
+   "url": "https://music.apple.com/jp/album/no-limit-single/6823909764?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "ビートまりお",
-   "artist": "ビートまりお",
-   "title": "Web orbital networks - Single",
-   "released": "2026-10-29",
+   "watch": "YACA IN DA HOUSE",
+   "artist": "YACA IN DA HOUSE & Yaca",
+   "title": "Altnate - Single",
+   "released": "2026-10-30",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/web-orbital-networks-single/6818034372?uo=4",
+   "url": "https://music.apple.com/jp/album/altnate-single/6828373370?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Kotoha",
+   "artist": "Kotoha",
+   "title": "A Little Sweet, Still Bitter - Single",
+   "released": "2026-10-30",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/a-little-sweet-still-bitter-single/6825349257?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "mona（CV：夏川椎菜）",
+   "artist": "mona(CV:夏川椎菜) & CHiCO with HoneyWorks",
+   "title": "原宿deいちご☆オレ - Single",
+   "released": "2026-10-30",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E5%8E%9F%E5%AE%BFde%E3%81%84%E3%81%A1%E3%81%94-%E3%82%AA%E3%83%AC-single/6823532275?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Unlike Pluto",
+   "artist": "Unlike Pluto",
+   "title": "Power - Single",
+   "released": "2026-10-30",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/power-single/6825631985?uo=4",
    "source": "itunes"
   },
   {
    "watch": "Brutalismus 3000",
-   "artist": "ボーイズ・ノイズ & Brutalismus 3000",
-   "title": "Nächstenliebe - Single",
+   "artist": "Boys Noize & Brutalismus 3000",
+   "title": "Nächstenliebe",
    "released": "2026-10-29",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/n%C3%A4chstenliebe-single/6821032304?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "電音部",
-   "artist": "電音部, 池袋電音部, MY NEW GEAR & 中村さんそ",
-   "title": "Bleed Me Bright - Single",
-   "released": "2026-10-28",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/bleed-me-bright-single/6822983684?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "MARUMOCHI from HoneyWorks",
-   "artist": "MARUMOCHI from HoneyWorks",
-   "title": "ほめてよ、ほまれ (feat. 宇田川ほまれ(CV:富田美憂)) - Single",
-   "released": "2026-10-28",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E3%81%BB%E3%82%81%E3%81%A6%E3%82%88-%E3%81%BB%E3%81%BE%E3%82%8C-feat-%E5%AE%87%E7%94%B0%E5%B7%9D%E3%81%BB%E3%81%BE%E3%82%8C-cv-%E5%AF%8C%E7%94%B0%E7%BE%8E%E6%86%82-single/6823038362?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "理芽",
-   "artist": "THE LUV BUGS, krynX & 理芽",
-   "title": "kotowari - Single",
-   "released": "2026-10-28",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/kotowari-single/6820887625?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "洛天依",
-   "artist": "洛天依 & 没有实力的小飞",
-   "title": "就算没有漂亮的翅膀 - Single",
-   "released": "2026-10-28",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E5%B0%B1%E7%AE%97%E6%B2%A1%E6%9C%89%E6%BC%82%E4%BA%AE%E7%9A%84%E7%BF%85%E8%86%80-single/6827964954?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "artist": "Queens of the Stone Age",
-   "title": "Run Away From the Mob",
-   "released": "2026-10-28",
-   "kind": "EP",
-   "url": "https://musicbrainz.org/release-group/fcb95ca5-c5db-4717-b23f-2919b116aab4",
+   "url": "https://musicbrainz.org/release-group/960495b5-c702-47a7-93a4-618e9013f3bd",
    "source": "musicbrainz"
+  },
+  {
+   "watch": "picco",
+   "artist": "シンクロプロジェクト, picco & Kotoha",
+   "title": "Infinite ∞ Imagination - Single",
+   "released": "2026-10-28",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/infinite-imagination-single/6817687749?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "Queen",
@@ -103,22 +112,13 @@
    "source": "itunes"
   },
   {
-   "watch": "足立レイ",
-   "artist": "サツキ & 足立レイ",
-   "title": "Walking with you - Single",
-   "released": "2026-10-26",
+   "watch": "Toby Fox",
+   "artist": "Toby Fox, Dylan Browne feat. Jess Elkins, 重音テトSV2",
+   "title": "Pacifying Nurse Ralsei Plush Instructional Song",
+   "released": "2026-10-27",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/walking-with-you-single/6820836219?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "ずんだもん",
-   "artist": "AIハーモニー歌劇団 : てスパる5, ずんだもん, 四国めたん, 東北きりたん & めろう",
-   "title": "Portugal National Anthem \"The Portuguese - A Portuguesa\" Portuguese Ai Chorus! (Neutrino) - Single",
-   "released": "2026-10-26",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/portugal-national-anthem-the-portuguese-a/6823566896?uo=4",
-   "source": "itunes"
+   "url": "https://youtu.be/C7rJQemxzyk",
+   "source": "vocadb"
   },
   {
    "watch": "HARDCORE TANO*C (dowolny artysta)",
@@ -146,24 +146,6 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/e777d523-5b93-49fd-8ee1-7b1311e5ab2d",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "棗いつき",
-   "artist": "棗いつき",
-   "title": "Whose Fault",
-   "released": "2026-10-25",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/e5b9725a-5b4f-44c5-ac12-b39de401095d",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "洛天依",
-   "artist": "洛天依 & Eden Ro Swift",
-   "title": "Is It The Farewell Letter? - Single",
-   "released": "2026-10-24",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/is-it-the-farewell-letter-single/6827879298?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "ななひら",
@@ -388,15 +370,6 @@
    "released": "2026-10-16",
    "kind": "singiel",
    "url": "https://youtu.be/6NgfqAjp_LA",
-   "source": "vocadb"
-  },
-  {
-   "watch": "RiraN",
-   "artist": "RiraN feat. 初音ミク V6 (Original)",
-   "title": "Lost Without You",
-   "released": "2026-10-15",
-   "kind": "singiel",
-   "url": "https://youtu.be/pjB-qgQMQj0",
    "source": "vocadb"
   }
  ]
