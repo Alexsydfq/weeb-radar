@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:43:20Z",
+ "updated": "2026-10-31T05:42:14Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -50,6 +50,150 @@
    "id": "emocosine-cutter-remixes"
   },
   {
+   "about": "EBeats to producent sceny Vocaloid/Synthesizer V tworzący piosenki z Teto i Miku.",
+   "artist": "EBeats, Kasane Teto & Hatsune Miku",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowy singiel w duecie wokali syntezowanych Teto i Miku.",
+   "title": "I Wish Tomorrow Would Never Come!!",
+   "url": "https://music.apple.com/jp/album/i-wish-tomorrow-would-never-come-single/6826032874?uo=4",
+   "id": "ebeats-kasane-teto-hatsune-miku-i-wish-tomorrow-would-never-come"
+  },
+  {
+   "about": "Ebisuen-P to producent Vocaloid znany z mrocznych, rockowych utworów z Miku.",
+   "artist": "Ebisuen-P & Hatsune Miku",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowy singiel o ciężkim, nerwowym klimacie.",
+   "title": "CreepingJack",
+   "url": "https://music.apple.com/jp/album/creepingjack-single/6817663780?uo=4",
+   "id": "ebisuen-p-hatsune-miku-creepingjack"
+  },
+  {
+   "about": "Hatsune Miku to najsłynniejsza wirtualna piosenkarka Vocaloid.",
+   "artist": "Hatsune Miku",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowy singiel z wokalem Miku o straconej miłości.",
+   "title": "I loved you the most feat. Hatsune Miku",
+   "url": "https://music.apple.com/jp/album/i-loved-you-the-most-feat-hatsune-miku-single/6826039745?uo=4",
+   "id": "hatsune-miku-i-loved-you-the-most"
+  },
+  {
+   "about": "Hatsune Miku to najsłynniejsza wirtualna piosenkarka Vocaloid.",
+   "artist": "Hatsune Miku",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowy, melancholijny singiel z wokalem Miku.",
+   "title": "Why Do You Have Sad Eyes? feat. Hatsune Miku",
+   "url": "https://music.apple.com/jp/album/why-do-you-have-sad-eyes-feat-hatsune-miku-single/6826039044?uo=4",
+   "id": "hatsune-miku-why-do-you-have-sad-eyes"
+  },
+  {
+   "about": "Jason Brown to zachodni producent piszący piosenki dla Hatsune Miku.",
+   "artist": "Jason Brown & Hatsune Miku",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Słodki, kolorowy singiel Miku z klimatem magical girl.",
+   "title": "Magical Comet Candy",
+   "url": "https://music.apple.com/jp/album/magical-comet-candy-single/6826044898?uo=4",
+   "id": "jason-brown-hatsune-miku-magical-comet-candy"
+  },
+  {
+   "about": "Veluche to producent muzyki elektronicznej z wokalem Hatsune Miku.",
+   "artist": "Veluche & Hatsune Miku",
+   "foundAt": "2026-10-31",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowe wydawnictwo Veluche z Miku, elektronika i taneczne rytmy.",
+   "title": "Another momentum",
+   "url": "https://music.apple.com/jp/album/another-momentum/6817665728?uo=4",
+   "id": "veluche-hatsune-miku-another-momentum"
+  },
+  {
+   "about": "d0tc0mmie to producent hyperpopu i elektroniki z wokalami syntezowanymi.",
+   "artist": "d0tc0mmie, Kasane Teto & Hatsune Miku",
+   "foundAt": "2026-10-31",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "EP z hyperpopowymi utworami z Teto i Miku, powiązane z jego ostatnimi singlami.",
+   "title": "Dream EP",
+   "url": "https://music.apple.com/jp/album/dream-ep/6822981634?uo=4",
+   "id": "d0tc0mmie-kasane-teto-hatsune-miku-dream-ep"
+  },
+  {
+   "about": "Hakame to producent sceny Teto/Vocaloid.",
+   "artist": "Hakame & Kasane Teto",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Nowy singiel z wokalem Kasane Teto.",
+   "title": "Spice Merge",
+   "url": "https://music.apple.com/jp/album/spice-merge-single/6823507439?uo=4",
+   "id": "hakame-kasane-teto-spice-merge"
+  },
+  {
+   "about": "AnythingBecomeMoe to koreańska scena Vocaloid/SeeU, tworząca covery i remiksy.",
+   "artist": "Harry Hz, 오드아이, AnythingBecomeMoe feat. SeeU Re:Voice",
+   "foundAt": "2026-10-31",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Koreański cover/remiks z wokalem SeeU Re:Voice.",
+   "title": "야라라라",
+   "url": "https://youtu.be/k5BH4gdSnYo",
+   "id": "harry-hz-anythingbecomemoe-seeu-yarara"
+  },
+  {
+   "about": "Hoshishiitake (干ししいたけ) to producent piszący dla Kasane Teto, autor m.in. „Silent Howling”.",
+   "artist": "Hoshishiitake & Kasane Teto",
+   "foundAt": "2026-10-31",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "EP z kilkoma piosenkami z wokalem Teto.",
+   "title": "Links to Chain",
+   "url": "https://music.apple.com/jp/album/links-to-chain-ep/6814771235?uo=4",
+   "id": "hoshishiitake-kasane-teto-links-to-chain"
+  },
+  {
+   "about": "Kotoha to japońska wokalistka i twórczyni muzyki elektronicznej pop.",
+   "artist": "Kotoha",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Nowy singiel o słodko-gorzkim nastroju.",
+   "title": "A Little Sweet, Still Bitter",
+   "url": "https://music.apple.com/jp/album/a-little-sweet-still-bitter-single/6825349257?uo=4",
+   "id": "kotoha-a-little-sweet-still-bitter"
+  },
+  {
+   "about": "HoneyWorks to znany zespół producentów od serii „Kokuhaku Jikkō Iinkai”; CHiCO to ich wokalistka.",
+   "artist": "mona (CV: Natsukawa Shiina) & CHiCO with HoneyWorks",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Radosny singiel idolkowo-anisongowy związany z uniwersum HoneyWorks.",
+   "title": "原宿deいちご☆オレ",
+   "url": "https://music.apple.com/jp/album/%E5%8E%9F%E5%AE%BFde%E3%81%84%E3%81%A1%E3%81%94-%E3%82%AA%E3%83%AC-single/6823532275?uo=4",
+   "id": "mona-cv-natsukawa-shiina-chico-honeyworks-harajuku-de-ichigo-ore"
+  },
+  {
    "about": "Queens of the Stone Age – amerykański zespół stoner/alternative rockowy Josha Hommego.",
    "artist": "Queens of the Stone Age",
    "foundAt": "2026-10-10",
@@ -60,6 +204,30 @@
    "title": "Perfecth",
    "url": "https://musicbrainz.org/release-group/b835704b-05f4-4572-ae8f-d0bb9d8a8f95",
    "id": "queens-of-the-stone--db3fb986"
+  },
+  {
+   "about": "Toby Fox to twórca Undertale i Deltarune; Trevor Alan Gomes to pianista i aranżer jego muzyki.",
+   "artist": "Trevor Alan Gomes & Toby Fox",
+   "foundAt": "2026-10-31",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Drugi tom fortepianowych aranżacji muzyki z Deltarune.",
+   "title": "DELTARUNE Piano Collections, Vol. 2",
+   "url": "https://musicbrainz.org/release-group/41b9ee03-0931-4717-b62b-2aff49b58379",
+   "id": "trevor-alan-gomes-toby-fox-deltarune-piano-collections-vol-2"
+  },
+  {
+   "about": "Unlike Pluto to amerykański duet elektroniczny znany z remiksów i anime-owych kolaboracji.",
+   "artist": "Unlike Pluto",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Nowy, energetyczny singiel w stylu future bass.",
+   "title": "Power",
+   "url": "https://music.apple.com/jp/album/power-single/6825631985?uo=4",
+   "id": "unlike-pluto-power"
   },
   {
    "about": "Beat Mario (ビートまりお) – weteran sceny doujin/electro, producent z kręgu IOSYS i Touhou.",
@@ -266,6 +434,18 @@
    "id": "radwimps-shabadaba"
   },
   {
+   "about": "picco to producent muzyki elektronicznej i J-core związany ze sceną rytmiczną.",
+   "artist": "Synchro Project, picco & Kotoha",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-28",
+   "songAbout": "Wspólny singiel z Kotohą, elektroniczny i taneczny.",
+   "title": "Infinite ∞ Imagination",
+   "url": "https://music.apple.com/jp/album/infinite-imagination-single/6817687749?uo=4",
+   "id": "shinku-project-picco-kotoha-infinite-imagination"
+  },
+  {
    "about": "Rime (理芽) – wokalistka z kolektywu KAMITSUBAKI STUDIO, znana z kooperacji z producentami elektroniki.",
    "artist": "THE LUV BUGS, krynX & 理芽",
    "foundAt": "2026-10-29",
@@ -288,6 +468,18 @@
    "title": "Melody Village",
    "url": "https://music.apple.com/jp/album/melody-village-single/6818109022?uo=4",
    "id": "beatmario-luna-melody-village"
+  },
+  {
+   "about": "Toby Fox to twórca Undertale i Deltarune.",
+   "artist": "Toby Fox, Dylan Browne feat. Jess Elkins, Kasane Teto SV2",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-27",
+   "songAbout": "Żartobliwa piosenka instruktażowa z uniwersum Deltarune z wokalem Teto SV2.",
+   "title": "Pacifying Nurse Ralsei Plush Instructional Song",
+   "url": "https://youtu.be/C7rJQemxzyk",
+   "id": "toby-fox-dylan-browne-pacifying-nurse-ralsei-plush-instructional-song"
   },
   {
    "about": "Hatsune Miku to najsłynniejszy wirtualny głos Vocaloid; Veluche to producent związany ze sceną elektroniczną.",
@@ -432,6 +624,18 @@
    "title": "Hedonism",
    "url": "https://music.apple.com/jp/album/hedonism-single/6823480554?uo=4",
    "id": "dele-e-kasane-teto-hedonism"
+  },
+  {
+   "about": "HARDCORE TANO*C to japońska wytwórnia i scena hardcore'u / J-core.",
+   "artist": "HARDCORE TANO*C",
+   "foundAt": "2026-10-31",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Kompilacja „best” z serii HARDCORE SYNDROME, zbiór klasyków J-core.",
+   "title": "HARDCORE SYNDROME BEST",
+   "url": "https://musicbrainz.org/release-group/5ce8483e-2805-450d-a792-c8315af19572",
+   "id": "hardcore-tano-c-hardcore-syndrome-best"
   },
   {
    "about": "Producent vocaloidowy/SynthV pracujący z głosem Kasane Teto SV.",
@@ -1452,6 +1656,18 @@
    "title": "Last Rally",
    "url": "https://music.apple.com/jp/album/last-rally-single/6823650148?uo=4",
    "id": "iyowa-last-rally"
+  },
+  {
+   "about": "Iyowa to producent Vocaloid znany z „Hitorie” i „Kimi no Taion”, wydawcy emocjonalnych i dziwacznych utworów.",
+   "artist": "Iyowa",
+   "foundAt": "2026-10-31",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-17",
+   "songAbout": "Nowy utwór Iyowy, wydany tuż po „Last Rally”.",
+   "title": "なかなおり",
+   "url": "https://musicbrainz.org/release-group/b0da4fde-e72e-4b45-b47e-e9cd3bc3b64b",
+   "id": "iyowa-nakanaori"
   },
   {
    "about": "Otera to producent vocaloidowy tworzący z Hatsune Miku.",

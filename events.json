@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:43:20Z",
+ "updated": "2026-10-31T05:42:14Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -4203,6 +4203,36 @@
    "title": "Festiwal na lotnisku w Trenczynie — line-up jeszcze nieogłoszony",
    "url": "https://www.pohodafestival.sk/en/news",
    "id": "2027-07-pohoda"
+  },
+  {
+   "about": "Amerykański DJ i producent EDM, założyciel wytwórni Dim Mak, znany z energetycznych setów festiwalowych i współprac.",
+   "artist": "Steve Aoki",
+   "dateEnd": "2027-07-18",
+   "dateStart": "2027-07-15",
+   "foundAt": "2026-10-31",
+   "hits": [
+    "Delirious (Boneless)",
+    "Waste It On Me",
+    "Pursuit of Happiness (remix)",
+    "Just Hold On"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Steve Aoki"
+   ],
+   "note": "Steve Aoki figuruje w Deichbrand Festival 2027 wg Songkick; dnia, sceny i godziny występu nie podano.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Wurster Nordseeküste (Cuxhaven)",
+     "date": "2027-07-15",
+     "venue": "Seeflughafen Cuxhaven/Nordholz"
+    }
+   ],
+   "tier": 3,
+   "title": "Deichbrand Festival 2027 – występ na festiwalu",
+   "url": "https://www.songkick.com/festivals/87901-deichbrand/id/43491378-deichbrand-festival-2027",
+   "id": "2027-07-steve-aoki-deichbrand"
   },
   {
    "about": "Amerykański DJ i producent EDM, założyciel wytwórni Dim Mak, znany z energetycznych setów festiwalowych i współprac, m.in. z BTS.",
