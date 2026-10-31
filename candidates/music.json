@@ -1,8 +1,62 @@
 {
- "generated": "2026-10-30T01:34:48Z",
- "about": "Premiery 2026-10-16..2026-11-29 artystów z watch.json, których nie ma w music.json",
- "count": 41,
+ "generated": "2026-10-31T01:15:00Z",
+ "about": "Premiery 2026-10-17..2026-11-30 artystów z watch.json, których nie ma w music.json",
+ "count": 42,
  "items": [
+  {
+   "watch": "重音テト",
+   "artist": "EBeats, 重音テト & 初音ミク",
+   "title": "I Wish Tomorrow Would Never Come!! - Single",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/i-wish-tomorrow-would-never-come-single/6826032874?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "Jason Brown & 初音ミク",
+   "title": "Magical Comet Candy - Single",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/magical-comet-candy-single/6826044898?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "初音ミク",
+   "title": "I loved you the most feat.Hatsune Miku - Single",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/i-loved-you-the-most-feat-hatsune-miku-single/6826039745?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "初音ミク",
+   "title": "Why Do You Have Sad Eyes? feat.Hatsune Miku - Single",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/why-do-you-have-sad-eyes-feat-hatsune-miku-single/6826039044?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "Veluche & 初音ミク",
+   "title": "Another momentum",
+   "released": "2026-10-31",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/another-momentum/6817665728?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "えびすぇんP & 初音ミク",
+   "title": "CreepingJack - Single",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/creepingjack-single/6817663780?uo=4",
+   "source": "itunes"
+  },
   {
    "watch": "重音テト",
    "artist": "干ししいたけ & 重音テト",
@@ -28,15 +82,6 @@
    "released": "2026-10-30",
    "kind": "EP",
    "url": "https://music.apple.com/jp/album/dream-ep/6822981634?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "Muimi1 & 初音ミク",
-   "title": "TERMINAL VELOCITY",
-   "released": "2026-10-30",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/terminal-velocity/6826334214?uo=4",
    "source": "itunes"
   },
   {
@@ -85,6 +130,24 @@
    "source": "itunes"
   },
   {
+   "watch": "Toby Fox",
+   "artist": "Trevor Alan Gomes & Toby Fox",
+   "title": "DELTARUNE Piano Collections, Vol. 2",
+   "released": "2026-10-30",
+   "kind": "album",
+   "url": "https://musicbrainz.org/release-group/41b9ee03-0931-4717-b62b-2aff49b58379",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "AnythingBecomeMoe",
+   "artist": "Harry Hz, 오드아이, AnythingBecomeMoe feat. SeeU Re:Voice",
+   "title": "야라라라",
+   "released": "2026-10-30",
+   "kind": "cover",
+   "url": "https://youtu.be/k5BH4gdSnYo",
+   "source": "vocadb"
+  },
+  {
    "watch": "Brutalismus 3000",
    "artist": "Boys Noize & Brutalismus 3000",
    "title": "Nächstenliebe",
@@ -94,7 +157,7 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "picco",
+   "watch": "Kotoha",
    "artist": "シンクロプロジェクト, picco & Kotoha",
    "title": "Infinite ∞ Imagination - Single",
    "released": "2026-10-28",
@@ -199,15 +262,6 @@
    "released": "2026-10-23",
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/6578530e-5998-4a65-a2eb-3325074b153a",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "ryo (supercell) & 初音ミク",
-   "title": "LEGENDS",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/6557dc3d-1b93-4f41-880c-d0007a6d87fe",
    "source": "musicbrainz"
   },
   {
@@ -326,51 +380,6 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/b0da4fde-e72e-4b45-b47e-e9cd3bc3b64b",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "ラプラス・ダークネス",
-   "artist": "ラプラス・ダークネス",
-   "title": "リーサルドーズ・パラノイド",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/3e6ee366-4fed-410d-98aa-b49afba16d41",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "Vane Lily, MonochroMenace, Jamie Paige feat. Synthesizer V AI 音街ウナ",
-   "title": "Follow You",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/qfhseuYZWlg",
-   "source": "vocadb"
-  },
-  {
-   "watch": "suzie",
-   "artist": "Monochrome Media, suzie feat. Synthesizer V AI 音街ウナ",
-   "title": "VFX",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/vnQ50skXVts",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Monochrome Media",
-   "artist": "suzie feat. Synthesizer V AI 音街ウナ",
-   "title": "START DANCING TO THE BEAT, TWIN",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/oDumdCU6CBQ",
-   "source": "vocadb"
-  },
-  {
-   "watch": "kinoshita",
-   "artist": "キノシタ feat. Synthesizer V 2 AI 音街ウナ",
-   "title": "ウナナイト☆ディスコ",
-   "released": "2026-10-16",
-   "kind": "singiel",
-   "url": "https://youtu.be/6NgfqAjp_LA",
-   "source": "vocadb"
   }
  ]
 }
