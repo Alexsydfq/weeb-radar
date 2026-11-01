@@ -1,8 +1,19 @@
 {
- "generated": "2026-10-31T01:15:19Z",
+ "generated": "2026-11-01T00:34:26Z",
  "about": "Lajwy w Japonii i Korei (Songkick, VocaDB), których nie ma w events.json",
- "count": 7,
+ "count": 9,
  "items": [
+  {
+   "watch": null,
+   "name": "ボカロメタル投稿祭 2026",
+   "date": "2026-11-08",
+   "dateEnd": null,
+   "city": "ニコニコ動画",
+   "cc": "JP",
+   "category": "Festival",
+   "url": "https://twipla.jp/events/735076",
+   "source": "vocadb"
+  },
   {
    "watch": null,
    "name": "UTAU男祭り2026",
@@ -12,6 +23,17 @@
    "cc": "JP",
    "category": "Festival",
    "url": "https://x.com/utau_otoko_fest",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "PaintVoice投稿祭 2026",
+   "date": "2026-11-14",
+   "dateEnd": null,
+   "city": "ニコニコ動画",
+   "cc": "JP",
+   "category": "Festival",
+   "url": "https://twipla.jp/events/726138",
    "source": "vocadb"
   },
   {

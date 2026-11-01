@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-31T01:15:19Z",
+ "generated": "2026-11-01T00:34:26Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 9,
+ "count": 8,
  "items": [
   {
    "watch": "Jimmy Gnecco",
@@ -91,17 +91,6 @@
    "cc": "SE",
    "venue": "Sweden Rock Festival Grounds",
    "url": "https://www.songkick.com/festivals/33046-sweden-rock/id/43259776-sweden-rock-festival-2027",
-   "source": "songkick"
-  },
-  {
-   "watch": "Steve Aoki",
-   "name": "Steve Aoki @ Seeflughafen Cuxhaven/Nordholz",
-   "date": "2027-07-15",
-   "dateEnd": "2027-07-18",
-   "city": "Wurster Nordseeküste",
-   "cc": "DE",
-   "venue": "Seeflughafen Cuxhaven/Nordholz",
-   "url": "https://www.songkick.com/festivals/87901-deichbrand/id/43491378-deichbrand-festival-2027",
    "source": "songkick"
   }
  ]

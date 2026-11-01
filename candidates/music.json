@@ -1,8 +1,26 @@
 {
- "generated": "2026-10-31T01:15:00Z",
- "about": "Premiery 2026-10-17..2026-11-30 artystów z watch.json, których nie ma w music.json",
- "count": 42,
+ "generated": "2026-11-01T00:34:24Z",
+ "about": "Premiery 2026-10-18..2026-12-01 artystów z watch.json, których nie ma w music.json",
+ "count": 48,
  "items": [
+  {
+   "watch": "ずんだもん",
+   "artist": "十音猫 & ずんだもん",
+   "title": "Young Girl A (feat. siinamota) [Cover] - Single",
+   "released": "2026-11-01",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/young-girl-a-feat-siinamota-cover-single/6829152429?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "博衣こより",
+   "artist": "博衣こより",
+   "title": "推したら引けない恋でした",
+   "released": "2026-11-01",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/22f4d4a0-4065-47e7-abee-e400cc343443",
+   "source": "musicbrainz"
+  },
   {
    "watch": "重音テト",
    "artist": "EBeats, 重音テト & 初音ミク",
@@ -58,6 +76,60 @@
    "source": "itunes"
   },
   {
+   "watch": "Sasuke Haraguchi",
+   "artist": "原口沙輔 feat. 重音テト",
+   "title": "逓送概念",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://youtu.be/B7hyzv9BD_w",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Sasuke Haraguchi",
+   "artist": "原口沙輔 feat. 重音テト",
+   "title": "リスニング",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://youtu.be/CKBAU9rY5r4",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Sasuke Haraguchi",
+   "artist": "原口沙輔 feat. 重音テト",
+   "title": "転送コール・ザッパ",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://youtu.be/BsPqTSG4K6E",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Sasuke Haraguchi",
+   "artist": "原口沙輔 feat. 重音テト",
+   "title": "フィジカル1",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://youtu.be/HDsNRQyBwKM",
+   "source": "vocadb"
+  },
+  {
+   "watch": "IDONO KAWAZU",
+   "artist": "IDONO KAWAZU feat. 足立レイ AI",
+   "title": "無為",
+   "released": "2026-10-31",
+   "kind": "cover",
+   "url": "https://youtu.be/EkAxIZiIQwA",
+   "source": "vocadb"
+  },
+  {
+   "watch": "MonochroMenace",
+   "artist": "Pomegranola, MonochroMenace feat. 初音ミク V6 (Unknown)",
+   "title": "Madame Scientist",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://youtu.be/hXFSYnX_4zM",
+   "source": "vocadb"
+  },
+  {
    "watch": "重音テト",
    "artist": "干ししいたけ & 重音テト",
    "title": "Links to Chain - EP",
@@ -103,15 +175,6 @@
    "source": "itunes"
   },
   {
-   "watch": "Kotoha",
-   "artist": "Kotoha",
-   "title": "A Little Sweet, Still Bitter - Single",
-   "released": "2026-10-30",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/a-little-sweet-still-bitter-single/6825349257?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "mona（CV：夏川椎菜）",
    "artist": "mona(CV:夏川椎菜) & CHiCO with HoneyWorks",
    "title": "原宿deいちご☆オレ - Single",
@@ -121,26 +184,17 @@
    "source": "itunes"
   },
   {
-   "watch": "Unlike Pluto",
-   "artist": "Unlike Pluto",
-   "title": "Power - Single",
+   "watch": "HoneyWorks",
+   "artist": "mona夏川椎菜 & CHiCO with HoneyWorks",
+   "title": "原宿deいちご☆オレ",
    "released": "2026-10-30",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/power-single/6825631985?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Toby Fox",
-   "artist": "Trevor Alan Gomes & Toby Fox",
-   "title": "DELTARUNE Piano Collections, Vol. 2",
-   "released": "2026-10-30",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/41b9ee03-0931-4717-b62b-2aff49b58379",
+   "url": "https://musicbrainz.org/release-group/e3f3d4b2-8b3c-48bc-864b-d69c7850a6e9",
    "source": "musicbrainz"
   },
   {
    "watch": "AnythingBecomeMoe",
-   "artist": "Harry Hz, 오드아이, AnythingBecomeMoe feat. SeeU Re:Voice",
+   "artist": "오드아이, AnythingBecomeMoe, Harry Hz feat. SeeU Re:Voice",
    "title": "야라라라",
    "released": "2026-10-30",
    "kind": "cover",
@@ -175,6 +229,15 @@
    "source": "itunes"
   },
   {
+   "watch": "JID",
+   "artist": "Young Nudy & JID",
+   "title": "Judy",
+   "released": "2026-10-27",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/2b2989be-dca3-48df-be86-3ef833cc4f40",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "Toby Fox",
    "artist": "Toby Fox, Dylan Browne feat. Jess Elkins, 重音テトSV2",
    "title": "Pacifying Nurse Ralsei Plush Instructional Song",
@@ -182,15 +245,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/C7rJQemxzyk",
    "source": "vocadb"
-  },
-  {
-   "watch": "HARDCORE TANO*C (dowolny artysta)",
-   "artist": "HARDCORE TANO*C",
-   "title": "HARDCORE SYNDROME BEST",
-   "released": "2026-10-25",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/5ce8483e-2805-450d-a792-c8315af19572",
-   "source": "musicbrainz"
   },
   {
    "watch": "HARDCORE TANO*C (dowolny artysta)",
@@ -208,6 +262,15 @@
    "released": "2026-10-25",
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/e777d523-5b93-49fd-8ee1-7b1311e5ab2d",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "Ado",
+   "artist": "Ado",
+   "title": "患者A",
+   "released": "2026-10-24",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/3ef89565-467c-4f02-a7dc-026cc98a1d7f",
    "source": "musicbrainz"
   },
   {
@@ -337,6 +400,15 @@
    "source": "musicbrainz"
   },
   {
+   "watch": "Kairiki Bear",
+   "artist": "かいりきベア feat. 初音ミク",
+   "title": "METAMOR HEROINE",
+   "released": "2026-10-21",
+   "kind": "singiel",
+   "url": "https://youtu.be/LYCcBtv_tdM",
+   "source": "vocadb"
+  },
+  {
    "watch": "r-906",
    "artist": "水槽, r-906 feat. ナースロボ＿タイプＴ",
    "title": "ハルシネイション",
@@ -362,24 +434,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/4V5gFpCf92I",
    "source": "vocadb"
-  },
-  {
-   "watch": "いよわ",
-   "artist": "いよわ",
-   "title": "Last Rally - Single",
-   "released": "2026-10-17",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/last-rally-single/6823650148?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "いよわ",
-   "artist": "いよわ",
-   "title": "なかなおり",
-   "released": "2026-10-17",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/b0da4fde-e72e-4b45-b47e-e9cd3bc3b64b",
-   "source": "musicbrainz"
   }
  ]
 }
