@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-26T05:42:52Z",
+ "updated": "2026-11-01T05:42:26Z",
  "events": [
+  {
+   "id": "2026-10-vocafest-spookyfest-2-london",
+   "artist": "Vocafest UK – Spookyfest 2",
+   "title": "Koncert Vocafest + IA RE:PULSE World DJ Tour w Londynie",
+   "kind": "koncert",
+   "tier": 3,
+   "dateStart": "2026-10-31",
+   "dateEnd": "2026-10-31",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-31",
+     "venue": "Union Theatre (Southwark)"
+    }
+   ],
+   "lineup": [
+    "Vocafest Concert",
+    "Nebula & Nova",
+    "IA RE:PULSE World DJ Tour – London",
+    "SARE",
+    "Askey",
+    "Thea-P",
+    "lolilili",
+    "Shirox"
+   ],
+   "url": "https://tickets.vocafest.co.uk/vocafest/spookyfest2/"
+  },
   {
    "id": "2026-10-7-the-a-festival-paris",
    "artist": "7!!",

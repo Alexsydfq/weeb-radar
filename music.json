@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:42:14Z",
+ "updated": "2026-11-01T05:42:26Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -50,6 +50,30 @@
    "id": "emocosine-cutter-remixes"
   },
   {
+   "about": "Hakui Koyori to VTuberka z hololive (SecretSociety holoX), znana z wokali i coverów.",
+   "artist": "博衣こより",
+   "foundAt": "2026-11-01",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-01",
+   "songAbout": "Nowy singiel Koyori o zakochaniu się w idolu; premiera 1 listopada.",
+   "title": "推したら引けない恋でした",
+   "url": "https://musicbrainz.org/release-group/22f4d4a0-4065-47e7-abee-e400cc343443",
+   "id": "hakui-koyori-oshitara-hikenai-koi-deshita"
+  },
+  {
+   "about": "Zundamon to maskotka-głos VOICEVOX, bardzo popularna w coverach i memach; 十音猫 to twórca coverów z jej udziałem.",
+   "artist": "十音猫 & ずんだもん",
+   "foundAt": "2026-11-01",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-11-01",
+   "songAbout": "Cover utworu „Young Girl A” śpiewany głosem Zundamon.",
+   "title": "Young Girl A (feat. siinamota) [Cover]",
+   "url": "https://music.apple.com/jp/album/young-girl-a-feat-siinamota-cover-single/6829152429?uo=4",
+   "id": "zundamon-toneneko-young-girl-a-cover"
+  },
+  {
    "about": "EBeats to producent sceny Vocaloid/Synthesizer V tworzący piosenki z Teto i Miku.",
    "artist": "EBeats, Kasane Teto & Hatsune Miku",
    "foundAt": "2026-10-31",
@@ -72,6 +96,54 @@
    "title": "CreepingJack",
    "url": "https://music.apple.com/jp/album/creepingjack-single/6817663780?uo=4",
    "id": "ebisuen-p-hatsune-miku-creepingjack"
+  },
+  {
+   "about": "Haraguchi Sasuke to producent vocaloidowy znany z internetowego, elektro-popowego brzmienia i utworów z Kasane Teto.",
+   "artist": "原口沙輔 feat. 重音テト",
+   "foundAt": "2026-11-01",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowy utwór Haraguchiego z wokalem Kasane Teto, w jego charakterystycznym stylu.",
+   "title": "リスニング",
+   "url": "https://youtu.be/CKBAU9rY5r4",
+   "id": "haraguchi-sasuke-listening"
+  },
+  {
+   "about": "Haraguchi Sasuke to producent vocaloidowy znany z internetowego, elektro-popowego brzmienia i utworów z Kasane Teto.",
+   "artist": "原口沙輔 feat. 重音テト",
+   "foundAt": "2026-11-01",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowy utwór Haraguchiego z wokalem Kasane Teto, w jego charakterystycznym stylu.",
+   "title": "フィジカル1",
+   "url": "https://youtu.be/HDsNRQyBwKM",
+   "id": "haraguchi-sasuke-physical-1"
+  },
+  {
+   "about": "Haraguchi Sasuke to producent vocaloidowy znany z internetowego, elektro-popowego brzmienia i utworów z Kasane Teto.",
+   "artist": "原口沙輔 feat. 重音テト",
+   "foundAt": "2026-11-01",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowy utwór Haraguchiego z wokalem Kasane Teto, w jego charakterystycznym stylu.",
+   "title": "逓送概念",
+   "url": "https://youtu.be/B7hyzv9BD_w",
+   "id": "haraguchi-sasuke-teiso-gainen"
+  },
+  {
+   "about": "Haraguchi Sasuke to producent vocaloidowy znany z internetowego, elektro-popowego brzmienia i utworów z Kasane Teto.",
+   "artist": "原口沙輔 feat. 重音テト",
+   "foundAt": "2026-11-01",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Nowy utwór Haraguchiego z wokalem Kasane Teto, w jego charakterystycznym stylu.",
+   "title": "転送コール・ザッパ",
+   "url": "https://youtu.be/BsPqTSG4K6E",
+   "id": "haraguchi-sasuke-tenso-call-zappa"
   },
   {
    "about": "Hatsune Miku to najsłynniejsza wirtualna piosenkarka Vocaloid.",
@@ -108,6 +180,18 @@
    "title": "Magical Comet Candy",
    "url": "https://music.apple.com/jp/album/magical-comet-candy-single/6826044898?uo=4",
    "id": "jason-brown-hatsune-miku-magical-comet-candy"
+  },
+  {
+   "about": "MonochroMenace to producent łączący electro i bass music z wokalem Vocaloid.",
+   "artist": "Pomegranola, MonochroMenace feat. 初音ミク",
+   "foundAt": "2026-11-01",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Energetyczny utwór z Hatsune Miku, kolaboracja z Pomegranola.",
+   "title": "Madame Scientist",
+   "url": "https://youtu.be/hXFSYnX_4zM",
+   "id": "monochromenace-pomegranola-madame-scientist"
   },
   {
    "about": "Veluche to producent muzyki elektronicznej z wokalem Hatsune Miku.",
@@ -492,6 +576,18 @@
    "title": "Coming your way (Miku Ver)",
    "url": "https://music.apple.com/jp/album/coming-your-way-miku-ver-single/6817665417?uo=4",
    "id": "veluche-hatsune-miku-coming-your-way-miku-ver"
+  },
+  {
+   "about": "JID to amerykański raper z Atlanty (Dreamville), ceniony za szybki flow.",
+   "artist": "Young Nudy & JID",
+   "foundAt": "2026-11-01",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-27",
+   "songAbout": "Nowa kolaboracja Young Nudy i JID.",
+   "title": "Judy",
+   "url": "https://musicbrainz.org/release-group/2b2989be-dca3-48df-be86-3ef833cc4f40",
+   "id": "young-nudy-jid-judy"
   },
   {
    "about": "あくたり to twórca vocaloidowy współpracujący z Kasane Teto.",
@@ -1224,6 +1320,18 @@
    "title": "irohacore E",
    "url": "https://musicbrainz.org/release-group/ba5d06d3-0fd0-448e-8480-53c546fc1749",
    "id": "iroha-irohacore-e"
+  },
+  {
+   "about": "Kairiki Bear to producent vocaloidowy znany z „Dramaturgy”, „Mosaic Roll” i „Ghost Rule”.",
+   "artist": "かいりきベア feat. 初音ミク",
+   "foundAt": "2026-11-01",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-21",
+   "songAbout": "Nowy utwór Kairiki Beara z Hatsune Miku w jego pop-rockowym stylu.",
+   "title": "METAMOR HEROINE",
+   "url": "https://youtu.be/LYCcBtv_tdM",
+   "id": "kairiki-bear-metamor-heroine"
   },
   {
    "about": "Laplus Darknesss to VTuberka z hololive (sekcja secret society holoX), znana z energetycznych coverów i oryginalnych utworów, m.in. kolaboracji z IOSYS.",
