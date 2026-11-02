@@ -1,25 +1,133 @@
 {
- "generated": "2026-11-01T00:34:24Z",
- "about": "Premiery 2026-10-18..2026-12-01 artystów z watch.json, których nie ma w music.json",
- "count": 48,
+ "generated": "2026-11-02T01:13:27Z",
+ "about": "Premiery 2026-10-19..2026-12-02 artystów z watch.json, których nie ma w music.json",
+ "count": 55,
  "items": [
   {
-   "watch": "ずんだもん",
-   "artist": "十音猫 & ずんだもん",
-   "title": "Young Girl A (feat. siinamota) [Cover] - Single",
+   "watch": "重音テト",
+   "artist": "穂波いと & 重音テト",
+   "title": "Spiral of Lights - Single",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/spiral-of-lights-single/6822166324?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "林はゆる, 重音テト & 初音ミク",
+   "title": "メラン子 - Single",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%A9%E3%83%B3%E5%AD%90-single/6797781212?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "ジェキア花平, 初音ミク & 五十嵐あゆみ",
+   "title": "ハッピーワールド (feat. jekiaあゆみ花平) - Single",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89-feat-jekia%E3%81%82%E3%82%86%E3%81%BF%E8%8A%B1%E5%B9%B3-single/6821787107?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "夏色まつり",
+   "artist": "夏色まつり",
+   "title": "Senshu Sensation - Single",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/senshu-sensation-single/6828276653?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "MEIKO",
+   "artist": "IMO & MEIKO",
+   "title": "Tatarigami - Single",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/tatarigami-single/6822124623?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "MEIKO",
+   "artist": "夜未アガリ, HotaRu & MEIKO",
+   "title": "Luv Addict - Single",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/luv-addict-single/6822124653?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "MEIKO",
+   "artist": "Toy機 & MEIKO",
+   "title": "Over Lost Love - Single",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/over-lost-love-single/6822981749?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "MEIKO",
+   "artist": "うらみ第二形態 & MEIKO",
+   "title": "The Breath Between - Single",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/the-breath-between-single/6822124593?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "夏色まつり",
+   "artist": "夏色まつり",
+   "title": "せんしゅセンセーション",
+   "released": "2026-11-02",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/2fe5f777-287b-473e-b16f-4ba45f71876a",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "betarandom & 初音ミク",
+   "title": "Water Sound - Single",
    "released": "2026-11-01",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/young-girl-a-feat-siinamota-cover-single/6829152429?uo=4",
+   "url": "https://music.apple.com/jp/album/water-sound-single/6810063579?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "初音ミク, 星乃一歌, 花里みのり, 小豆沢こはね, 天馬司 & 宵崎奏",
+   "title": "Emerald - Single",
+   "released": "2026-11-01",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/emerald-single/6825624786?uo=4",
    "source": "itunes"
   },
   {
    "watch": "博衣こより",
    "artist": "博衣こより",
-   "title": "推したら引けない恋でした",
+   "title": "Oshitara Hikenai Koideshita - Single",
    "released": "2026-11-01",
    "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/22f4d4a0-4065-47e7-abee-e400cc343443",
-   "source": "musicbrainz"
+   "url": "https://music.apple.com/jp/album/oshitara-hikenai-koideshita-single/6828274937?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "EmoCosine",
+   "artist": "USAO, EmoCosine & Qlarabelle",
+   "title": "Astra ~Abear Cup Theme Song Collection 2~",
+   "released": "2026-11-01",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/astra-abear-cup-theme-song-collection-2/6827395626?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "HoneyWorks",
+   "artist": "HoneyWorks",
+   "title": "JunjoOtomeno Itazurasengen (feat. HaKoniwaLily, Karennaivory & Takanenonadeshiko) - Single",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/junjootomeno-itazurasengen-feat-hakoniwalily-karennaivory/6827917264?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "重音テト",
@@ -32,33 +140,6 @@
   },
   {
    "watch": "初音ミク",
-   "artist": "Jason Brown & 初音ミク",
-   "title": "Magical Comet Candy - Single",
-   "released": "2026-10-31",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/magical-comet-candy-single/6826044898?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "初音ミク",
-   "title": "I loved you the most feat.Hatsune Miku - Single",
-   "released": "2026-10-31",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/i-loved-you-the-most-feat-hatsune-miku-single/6826039745?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "初音ミク",
-   "title": "Why Do You Have Sad Eyes? feat.Hatsune Miku - Single",
-   "released": "2026-10-31",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/why-do-you-have-sad-eyes-feat-hatsune-miku-single/6826039044?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
    "artist": "Veluche & 初音ミク",
    "title": "Another momentum",
    "released": "2026-10-31",
@@ -67,49 +148,13 @@
    "source": "itunes"
   },
   {
-   "watch": "初音ミク",
-   "artist": "えびすぇんP & 初音ミク",
-   "title": "CreepingJack - Single",
+   "watch": "電音部",
+   "artist": "中野電脳, 電音部 & KOERU",
+   "title": "Ululu (feat. INUKAI ULU (CV:POCHI)) - Single",
    "released": "2026-10-31",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/creepingjack-single/6817663780?uo=4",
+   "url": "https://music.apple.com/jp/album/ululu-feat-inukai-ulu-cv-pochi-single/6823006777?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "Sasuke Haraguchi",
-   "artist": "原口沙輔 feat. 重音テト",
-   "title": "逓送概念",
-   "released": "2026-10-31",
-   "kind": "singiel",
-   "url": "https://youtu.be/B7hyzv9BD_w",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Sasuke Haraguchi",
-   "artist": "原口沙輔 feat. 重音テト",
-   "title": "リスニング",
-   "released": "2026-10-31",
-   "kind": "singiel",
-   "url": "https://youtu.be/CKBAU9rY5r4",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Sasuke Haraguchi",
-   "artist": "原口沙輔 feat. 重音テト",
-   "title": "転送コール・ザッパ",
-   "released": "2026-10-31",
-   "kind": "singiel",
-   "url": "https://youtu.be/BsPqTSG4K6E",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Sasuke Haraguchi",
-   "artist": "原口沙輔 feat. 重音テト",
-   "title": "フィジカル1",
-   "released": "2026-10-31",
-   "kind": "singiel",
-   "url": "https://youtu.be/HDsNRQyBwKM",
-   "source": "vocadb"
   },
   {
    "watch": "IDONO KAWAZU",
@@ -131,15 +176,6 @@
   },
   {
    "watch": "重音テト",
-   "artist": "干ししいたけ & 重音テト",
-   "title": "Links to Chain - EP",
-   "released": "2026-10-30",
-   "kind": "EP",
-   "url": "https://music.apple.com/jp/album/links-to-chain-ep/6814771235?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "重音テト",
    "artist": "はかめ & 重音テト",
    "title": "Spice Merge - Single",
    "released": "2026-10-30",
@@ -149,11 +185,29 @@
   },
   {
    "watch": "重音テト",
-   "artist": "d0tc0mmie, 重音テト & 初音ミク",
-   "title": "Dream - EP",
+   "artist": "干ししいたけ & 重音テト",
+   "title": "Links to Chain - EP",
    "released": "2026-10-30",
    "kind": "EP",
-   "url": "https://music.apple.com/jp/album/dream-ep/6822981634?uo=4",
+   "url": "https://music.apple.com/jp/album/links-to-chain-ep/6814771235?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "電音部",
+   "artist": "電音部 & 桃井 はるこ",
+   "title": "Lunar in Daylight - Single",
+   "released": "2026-10-30",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/lunar-in-daylight-single/6826051525?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "電音部",
+   "artist": "輝きノスタルジア & 電音部",
+   "title": "Plastic Love (Cover) - Single",
+   "released": "2026-10-30",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/plastic-love-cover-single/6822995273?uo=4",
    "source": "itunes"
   },
   {
@@ -184,12 +238,30 @@
    "source": "itunes"
   },
   {
+   "watch": "d0tc0mmie",
+   "artist": "d0tc0mmie, 重音テト & 初音ミク",
+   "title": "Dream - EP",
+   "released": "2026-10-30",
+   "kind": "EP",
+   "url": "https://music.apple.com/jp/album/dream-ep/6822981634?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "HoneyWorks",
    "artist": "mona夏川椎菜 & CHiCO with HoneyWorks",
    "title": "原宿deいちご☆オレ",
    "released": "2026-10-30",
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/e3f3d4b2-8b3c-48bc-864b-d69c7850a6e9",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "Mori Calliope",
+   "artist": "Nerissa Ravencroft, Regis Altare, Elizabeth Rose Bloodflame, Kobo Kanaeru, Octavio, Moona Hoshinova, Ouro Kronii, Mori Calliope, Ayunda Risu & Axel Syrios",
+   "title": "祝福のメシアとアイの塔",
+   "released": "2026-10-30",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/3ede0303-3af2-493e-9ff9-0b9b17f6685b",
    "source": "musicbrainz"
   },
   {
@@ -200,6 +272,42 @@
    "kind": "cover",
    "url": "https://youtu.be/k5BH4gdSnYo",
    "source": "vocadb"
+  },
+  {
+   "watch": "洛天依",
+   "artist": "洛天依",
+   "title": "就算没有漂亮的翅膀 (优化版) - Single",
+   "released": "2026-10-29",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E5%B0%B1%E7%AE%97%E6%B2%A1%E6%9C%89%E6%BC%82%E4%BA%AE%E7%9A%84%E7%BF%85%E8%86%80-%E4%BC%98%E5%8C%96%E7%89%88-single/6828262542?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "夢ノ結唱 POPY",
+   "artist": "23, 夢ノ結唱 AVER, 夢ノ結唱 POPY & 夢ノ結唱 ROSE",
+   "title": "But (Ter) Fly [feat. HATSUNE MIKU] - Single",
+   "released": "2026-10-29",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/but-ter-fly-feat-hatsune-miku-single/6828420558?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Hatsune Miku",
+   "artist": "ricecristpy feat. Hatsune Miku",
+   "title": "Cure For Me",
+   "released": "2026-10-29",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/f982997c-c600-4d07-85f6-58fc6d1ae4e8",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "MIMI feat. 重音テト",
+   "title": "ミステリー",
+   "released": "2026-10-29",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/f97fb689-dd38-432e-9349-20a06c53714c",
+   "source": "musicbrainz"
   },
   {
    "watch": "Brutalismus 3000",
@@ -220,26 +328,8 @@
    "source": "itunes"
   },
   {
-   "watch": "Queen",
-   "artist": "Parish & QUEEN",
-   "title": "Tiava Zaho - Single",
-   "released": "2026-10-27",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/tiava-zaho-single/6825306336?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "JID",
-   "artist": "Young Nudy & JID",
-   "title": "Judy",
-   "released": "2026-10-27",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/2b2989be-dca3-48df-be86-3ef833cc4f40",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "Toby Fox",
-   "artist": "Toby Fox, Dylan Browne feat. Jess Elkins, 重音テトSV2",
+   "artist": "Toby Fox, Dylan Browne feat. Jess Elkins",
    "title": "Pacifying Nurse Ralsei Plush Instructional Song",
    "released": "2026-10-27",
    "kind": "singiel",
@@ -290,15 +380,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/M-BOnNr4J3c",
    "source": "vocadb"
-  },
-  {
-   "watch": "picco",
-   "artist": "レノ, picco, purini & Mi7s3",
-   "title": "flip-flop - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/flip-flop-single/6824377024?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "MEIKO",
@@ -400,15 +481,6 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Kairiki Bear",
-   "artist": "かいりきベア feat. 初音ミク",
-   "title": "METAMOR HEROINE",
-   "released": "2026-10-21",
-   "kind": "singiel",
-   "url": "https://youtu.be/LYCcBtv_tdM",
-   "source": "vocadb"
-  },
-  {
    "watch": "r-906",
    "artist": "水槽, r-906 feat. ナースロボ＿タイプＴ",
    "title": "ハルシネイション",
@@ -424,15 +496,6 @@
    "released": "2026-10-20",
    "kind": "singiel",
    "url": "https://youtu.be/RlvLl9sc97U",
-   "source": "vocadb"
-  },
-  {
-   "watch": "BilliumMoto",
-   "artist": "BilliumMoto feat. 重音テトSV2",
-   "title": "Look At Me",
-   "released": "2026-10-18",
-   "kind": "singiel",
-   "url": "https://youtu.be/4V5gFpCf92I",
    "source": "vocadb"
   }
  ]

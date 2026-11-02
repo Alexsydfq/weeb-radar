@@ -1,19 +1,8 @@
 {
- "generated": "2026-11-01T00:34:26Z",
+ "generated": "2026-11-02T01:13:32Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 8,
+ "count": 7,
  "items": [
-  {
-   "watch": "Jimmy Gnecco",
-   "name": "Jimmy Gnecco @ Café la Palma",
-   "date": "2026-11-01",
-   "dateEnd": "2026-11-01",
-   "city": "Madrid",
-   "cc": "ES",
-   "venue": "Café la Palma",
-   "url": "https://www.songkick.com/concerts/43268147-ours-at-cafe-la-palma",
-   "source": "songkick"
-  },
   {
    "watch": "Jimmy Gnecco",
    "name": "Jimmy Gnecco @ Brin de Zinc",
