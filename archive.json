@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:42:26Z",
+ "updated": "2026-11-02T05:43:00Z",
  "events": [
   {
    "id": "2026-10-vocafest-spookyfest-2-london",
@@ -28,6 +28,95 @@
     "Shirox"
    ],
    "url": "https://tickets.vocafest.co.uk/vocafest/spookyfest2/"
+  },
+  {
+   "id": "jp-2026-11-night-hike-makuhari",
+   "artist": "NIGHT HIKE 2026 in Makuhari",
+   "title": "Festiwal sieci: DAY2 – KAF, Kizuna AI, Natori Sana, Pinocchio-P",
+   "kind": "festiwal",
+   "region": "JP",
+   "tier": 3,
+   "dateStart": "2026-10-31",
+   "dateEnd": "2026-11-01",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Chiba (Makuhari)",
+     "date": "2026-11-01",
+     "venue": "Makuhari Messe, Hale 9 i 11"
+    }
+   ],
+   "lineup": [
+    "Kana Yomori (KAF)",
+    "Kizuna AI",
+    "Natori Sana",
+    "Shinichirou Osawa",
+    "PinocchioP",
+    "Utsu-P meets siinamota",
+    "Iori Kanzaki",
+    "Dios",
+    "Shosuke Haraguchi",
+    "Takeaki Wada",
+    "kz (livetune)",
+    "Hachioji-P",
+    "Utsu-P",
+    "Suisou",
+    "KOTONOHOUSE"
+   ],
+   "url": "https://panora.tokyo/archives/149654"
+  },
+  {
+   "id": "2026-10-yunicon",
+   "artist": "YuniCon 2026",
+   "title": "SPYAIR, Saki Fujita",
+   "kind": "konwent",
+   "tier": 3,
+   "dateStart": "2026-10-30",
+   "dateEnd": "2026-11-01",
+   "stops": [
+    {
+     "cc": "AT",
+     "city": "Schwechat (Wiedeń)",
+     "date": "2026-10-30",
+     "venue": "Multiversum Schwechat, Möhringgasse 2-4"
+    }
+   ],
+   "lineup": [
+    "SPYAIR",
+    "Saki Fujita",
+    "Kontrollverlust",
+    "Nanowar Of Steel",
+    "Elevate & N.D.M.S",
+    "DJ Shen",
+    "Nerds at Raves",
+    "DJ Shiru"
+   ],
+   "url": "https://www.yunicon.at/programm-2025/"
+  },
+  {
+   "id": "2026-10-lucca-comics-and-games",
+   "artist": "Lucca Comics & Games 2026",
+   "title": "60. edycja „Legacy” — Yoko Kanno jedynym japońskim gościem muzycznym",
+   "kind": "konwent",
+   "tier": 3,
+   "dateStart": "2026-10-28",
+   "dateEnd": "2026-11-01",
+   "stops": [
+    {
+     "cc": "IT",
+     "city": "Lukka",
+     "date": "2026-10-28",
+     "venue": "centrum miasta (Piazzale Verdi, Giardino degli Osservanti, Teatro del Giglio, Foro Boario)"
+    }
+   ],
+   "lineup": [
+    "Yoko Kanno",
+    "ANIMEniacs Corp",
+    "I Cavalieri del Re",
+    "Finley",
+    "Giorgio Vanni"
+   ],
+   "url": "https://www.animeclick.it/news/111846-lucca-comics-games-2026-il-resoconto-del-final-keynote"
   },
   {
    "id": "2026-10-7-the-a-festival-paris",
@@ -123,6 +212,48 @@
     }
    ],
    "url": "https://www.mcmcomiccon.com/global/en-us/blog/comics/mcm-comic-con-2026-dates.html"
+  },
+  {
+   "id": "2026-10-blaze-rengoku-europe",
+   "artist": "BLAZE",
+   "title": "RENGOKU Europe Tour",
+   "kind": "trasa",
+   "tier": 1,
+   "dateStart": "2026-10-23",
+   "dateEnd": "2026-11-01",
+   "stops": [
+    {
+     "cc": "RO",
+     "city": "Bukareszt",
+     "date": "2026-10-23",
+     "venue": "Expirat Halele Carol"
+    },
+    {
+     "cc": "SK",
+     "city": "Bratysława",
+     "date": "2026-10-25",
+     "venue": "Randal Club"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-10-27",
+     "venue": "The Underworld"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-10-30",
+     "venue": "Hybrydy"
+    },
+    {
+     "cc": "DE",
+     "city": "Kolonia",
+     "date": "2026-11-01",
+     "venue": "Yuca Club"
+    }
+   ],
+   "url": "https://www.jame-world.com/en/event/pl"
   },
   {
    "id": "jp-2026-10-vocaloid-maniax-vol58-mogra",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:42:26Z",
+ "updated": "2026-11-02T05:43:00Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -38,6 +38,114 @@
    "id": "tooboe-yumegokochi"
   },
   {
+   "about": "Jekia Hanahira i Igarashi Ayumi to twórcy współpracujący z Vocaloid.",
+   "artist": "ジェキア花平, 初音ミク & 五十嵐あゆみ",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-02",
+   "songAbout": "Singiel z Hatsune Miku, wesoły, popowy klimat.",
+   "title": "ハッピーワールド (feat. jekiaあゆみ花平)",
+   "url": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89-feat-jekia%E3%81%82%E3%82%86%E3%81%BF%E8%8A%B1%E5%B9%B3-single/6821787107?uo=4",
+   "id": "m--6f04d"
+  },
+  {
+   "about": "Producentka Hayashi Haruyu (林はゆる), znana ze scen Vocaloid/UTAU.",
+   "artist": "林はゆる, 重音テト & 初音ミク",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-02",
+   "songAbout": "Singiel z Teto i Miku, utrzymany w klimacie vocaloidowego popu.",
+   "title": "メラン子",
+   "url": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%A9%E3%83%B3%E5%AD%90-single/6797781212?uo=4",
+   "id": "m--86934"
+  },
+  {
+   "about": "Yomi Agari i HotaRu to twórcy vocaloidowi.",
+   "artist": "夜未アガリ, HotaRu & MEIKO",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-02",
+   "songAbout": "Singiel z MEIKO, taneczny pop.",
+   "title": "Luv Addict",
+   "url": "https://music.apple.com/jp/album/luv-addict-single/6822124653?uo=4",
+   "id": "meiko-luv-addict"
+  },
+  {
+   "about": "Toyki (Toy機) to producent vocaloidowy.",
+   "artist": "Toy機 & MEIKO",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-02",
+   "songAbout": "Singiel z MEIKO o straconej miłości.",
+   "title": "Over Lost Love",
+   "url": "https://music.apple.com/jp/album/over-lost-love-single/6822981749?uo=4",
+   "id": "meiko-over-lost-love"
+  },
+  {
+   "about": "IMO to twórca vocaloidowy współpracujący z MEIKO.",
+   "artist": "IMO & MEIKO",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-02",
+   "songAbout": "Singiel z MEIKO z serii okolicznościowych wydawnictw dla MEIKO.",
+   "title": "Tatarigami",
+   "url": "https://music.apple.com/jp/album/tatarigami-single/6822124623?uo=4",
+   "id": "meiko-tatarigami"
+  },
+  {
+   "about": "Urami Daini Keitai to producent vocaloidowy.",
+   "artist": "うらみ第二形態 & MEIKO",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-02",
+   "songAbout": "Singiel z MEIKO, spokojniejszy utwór.",
+   "title": "The Breath Between",
+   "url": "https://music.apple.com/jp/album/the-breath-between-single/6822124593?uo=4",
+   "id": "meiko-the-breath-between"
+  },
+  {
+   "about": "Natsuiro Matsuri to VTuberka z hololive (1. generacja).",
+   "artist": "夏色まつり",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-02",
+   "songAbout": "Nowy singiel Matsuri, energetyczny idolowy pop.",
+   "title": "Senshu Sensation",
+   "url": "https://music.apple.com/jp/album/senshu-sensation-single/6828276653?uo=4",
+   "id": "senshu-sensation"
+  },
+  {
+   "about": "Wokalistka/twórczyni współpracująca z Vocaloid/UTAU, tu w duecie z Kasane Teto.",
+   "artist": "穂波いと & 重音テト",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-02",
+   "songAbout": "Nowy singiel z Kasane Teto, elektroniczny pop.",
+   "title": "Spiral of Lights",
+   "url": "https://music.apple.com/jp/album/spiral-of-lights-single/6822166324?uo=4",
+   "id": "spiral-of-lights"
+  },
+  {
+   "about": "USAO, EmoCosine i Qlarabelle to artyści sceny gier rytmicznych (DJMAX/Inspion) i hardcore.",
+   "artist": "USAO, EmoCosine & Qlarabelle",
+   "foundAt": "2026-11-02",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-11-01",
+   "songAbout": "Album z motywami pucharu Abear, muzyka rytmiczna/hardcore.",
+   "title": "Astra ~Abear Cup Theme Song Collection 2~",
+   "url": "https://music.apple.com/jp/album/astra-abear-cup-theme-song-collection-2/6827395626?uo=4",
+   "id": "emocosine-astra-abear-cup-theme-song-collection-2"
+  },
+  {
    "about": "EmoCosine to koreański producent z sceny gier rytmicznych (DJMAX / Inspion), znany z energetycznego electro i future bass.",
    "artist": "EmoCosine",
    "foundAt": "2026-10-20",
@@ -60,6 +168,18 @@
    "title": "推したら引けない恋でした",
    "url": "https://musicbrainz.org/release-group/22f4d4a0-4065-47e7-abee-e400cc343443",
    "id": "hakui-koyori-oshitara-hikenai-koi-deshita"
+  },
+  {
+   "about": "betarandom to producent elektroniczny/vocaloidowy.",
+   "artist": "betarandom & 初音ミク",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-01",
+   "songAbout": "Singiel z Hatsune Miku, elektroniczny klimat.",
+   "title": "Water Sound",
+   "url": "https://music.apple.com/jp/album/water-sound-single/6810063579?uo=4",
+   "id": "water-sound"
   },
   {
    "about": "Zundamon to maskotka-głos VOICEVOX, bardzo popularna w coverach i memach; 十音猫 to twórca coverów z jej udziałem.",
@@ -170,6 +290,18 @@
    "id": "hatsune-miku-why-do-you-have-sad-eyes"
   },
   {
+   "about": "HoneyWorks to japoński zespół vocaloidowy/popowy znany z serii serialowych wideo i anime.",
+   "artist": "HoneyWorks",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Singiel w klimacie idolowego popu HoneyWorks.",
+   "title": "JunjoOtomeno Itazurasengen (feat. HaKoniwaLily, Karennaivory & Takanenonadeshiko)",
+   "url": "https://music.apple.com/jp/album/junjootomeno-itazurasengen-feat-hakoniwalily-karennaivory/6827917264?uo=4",
+   "id": "honeyworks-junjo-otome-no-itazura-sengen"
+  },
+  {
    "about": "Jason Brown to zachodni producent piszący piosenki dla Hatsune Miku.",
    "artist": "Jason Brown & Hatsune Miku",
    "foundAt": "2026-10-31",
@@ -192,6 +324,18 @@
    "title": "Madame Scientist",
    "url": "https://youtu.be/hXFSYnX_4zM",
    "id": "monochromenace-pomegranola-madame-scientist"
+  },
+  {
+   "about": "Nakano Dennou i Denonbu to projekt muzyczny DJ-ów i postaci anime (Denonbu).",
+   "artist": "中野電脳, 電音部 & KOERU",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Singiel z projektu Denonbu, elektroniczny.",
+   "title": "Ululu",
+   "url": "https://music.apple.com/jp/album/ululu-feat-inukai-ulu-cv-pochi-single/6823006777?uo=4",
+   "id": "ululu-9ace1"
   },
   {
    "about": "Veluche to producent muzyki elektronicznej z wokalem Hatsune Miku.",
@@ -266,6 +410,18 @@
    "id": "kotoha-a-little-sweet-still-bitter"
   },
   {
+   "about": "Denonbu to multimedialny projekt klubowy z postaciami anime.",
+   "artist": "電音部 & 桃井 はるこ",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Singiel z Momoi Haruko, elektroniczny pop.",
+   "title": "Lunar in Daylight",
+   "url": "https://music.apple.com/jp/album/lunar-in-daylight-single/6826051525?uo=4",
+   "id": "lunar-in-daylight"
+  },
+  {
    "about": "HoneyWorks to znany zespół producentów od serii „Kokuhaku Jikkō Iinkai”; CHiCO to ich wokalistka.",
    "artist": "mona (CV: Natsukawa Shiina) & CHiCO with HoneyWorks",
    "foundAt": "2026-10-31",
@@ -276,6 +432,30 @@
    "title": "原宿deいちご☆オレ",
    "url": "https://music.apple.com/jp/album/%E5%8E%9F%E5%AE%BFde%E3%81%84%E3%81%A1%E3%81%94-%E3%82%AA%E3%83%AC-single/6823532275?uo=4",
    "id": "mona-cv-natsukawa-shiina-chico-honeyworks-harajuku-de-ichigo-ore"
+  },
+  {
+   "about": "Mori Calliope to raperka i VTuberka z hololive English.",
+   "artist": "Nerissa Ravencroft, Regis Altare, Elizabeth Rose Bloodflame, Kobo Kanaeru, Octavio, Moona Hoshinova, Ouro Kronii, Mori Calliope, Ayunda Risu & Axel Syrios",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Wspólny singiel wielu osób z hololive English.",
+   "title": "祝福のメシアとアイの塔",
+   "url": "https://musicbrainz.org/release-group/3ede0303-3af2-493e-9ff9-0b9b17f6685b",
+   "id": "mori-calliope"
+  },
+  {
+   "about": "Denonbu to projekt klubowy z postaciami anime.",
+   "artist": "輝きノスタルジア & 電音部",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Cover klasycznego city popu Plastic Love.",
+   "title": "Plastic Love (Cover)",
+   "url": "https://music.apple.com/jp/album/plastic-love-cover-single/6822995273?uo=4",
+   "id": "plastic-love-cover"
   },
   {
    "about": "Queens of the Stone Age – amerykański zespół stoner/alternative rockowy Josha Hommego.",
@@ -314,6 +494,18 @@
    "id": "unlike-pluto-power"
   },
   {
+   "about": "YACA IN DA HOUSE to producent elektroniczny.",
+   "artist": "YACA IN DA HOUSE & Yaca",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Singiel klubowy.",
+   "title": "Altnate",
+   "url": "https://music.apple.com/jp/album/altnate-single/6828373370?uo=4",
+   "id": "yaca-in-da-house-altnate"
+  },
+  {
    "about": "Beat Mario (ビートまりお) – weteran sceny doujin/electro, producent z kręgu IOSYS i Touhou.",
    "artist": "ビートまりお",
    "foundAt": "2026-10-29",
@@ -338,6 +530,18 @@
    "id": "boys-noise-brutalismus-3000-nachstenliebe"
   },
   {
+   "about": "ricecristpy to twórca współpracujący z Miku.",
+   "artist": "ricecristpy feat. Hatsune Miku",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-29",
+   "songAbout": "Singiel z Hatsune Miku.",
+   "title": "Cure For Me",
+   "url": "https://musicbrainz.org/release-group/f982997c-c600-4d07-85f6-58fc6d1ae4e8",
+   "id": "hatsune-miku-cure-for-me"
+  },
+  {
    "about": "Hiwa7 – producent vocaloidowy piszący dla Hatsune Miku.",
    "artist": "Hiwa7 & 初音ミク",
    "foundAt": "2026-10-29",
@@ -360,6 +564,30 @@
    "title": "Seito yume nippo",
    "url": "https://music.apple.com/jp/album/seito-yume-nippo-single/6823507463?uo=4",
    "id": "kinoue64-hatsune-miku-seito-yume-nippo"
+  },
+  {
+   "about": "Luo Tianyi to chiński wokalista Vocaloid.",
+   "artist": "洛天依",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-29",
+   "songAbout": "Zoptymalizowana wersja piosenki Luo Tianyi.",
+   "title": "就算没有漂亮的翅膀 (优化版)",
+   "url": "https://music.apple.com/jp/album/%E5%B0%B1%E7%AE%97%E6%B2%A1%E6%9C%89%E6%BC%82%E4%BA%AE%E7%9A%84%E7%BF%85%E8%86%80-%E4%BC%98%E5%8C%96%E7%89%88-single/6828262542?uo=4",
+   "id": "m--85dc8"
+  },
+  {
+   "about": "MIMI to producentka vocaloidowa.",
+   "artist": "MIMI feat. 重音テト",
+   "foundAt": "2026-11-02",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-29",
+   "songAbout": "Singiel z Kasane Teto.",
+   "title": "ミステリー",
+   "url": "https://musicbrainz.org/release-group/f97fb689-dd38-432e-9349-20a06c53714c",
+   "id": "m--c51f8"
   },
   {
    "about": "Rumaki – producent elektroniczny z kręgu sceny dance/trance.",
