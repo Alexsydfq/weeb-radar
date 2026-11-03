@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T05:43:00Z",
+ "updated": "2026-11-03T05:41:54Z",
  "songs": [
   {
    "about": "花冷え。 – japoński artysta; zapowiedź singla.",
@@ -36,6 +36,18 @@
    "title": "夢心地",
    "url": "https://music.apple.com/jp/album/%E5%A4%A2%E5%BF%83%E5%9C%B0-ep/6810941092?uo=4",
    "id": "tooboe-yumegokochi"
+  },
+  {
+   "about": "Vane Lily to twórca elektronicznej muzyki związany ze sceną Vocaloid/UTAU i anglojęzycznymi projektami wokaloidowymi.",
+   "artist": "Vane Lily, YoppyVU",
+   "foundAt": "2026-11-03",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-03",
+   "songAbout": "Nowy singiel z udziałem wielu wokali syntezowanych, elektroniczny klimat.",
+   "title": "Garden of Eden",
+   "url": "https://youtu.be/oMGLVszr13Y",
+   "id": "vane-lily-garden-of-eden"
   },
   {
    "about": "Jekia Hanahira i Igarashi Ayumi to twórcy współpracujący z Vocaloid.",
@@ -314,6 +326,18 @@
    "id": "jason-brown-hatsune-miku-magical-comet-candy"
   },
   {
+   "about": "Machigerita to producent vocaloidowy tworzący piosenki z Hatsune Miku.",
+   "artist": "マチゲリータ(Machigerita) feat. 初音ミク",
+   "foundAt": "2026-11-03",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-31",
+   "songAbout": "Halloweenowy singiel z Miku, premiera 31 października.",
+   "title": "ゾンビソング",
+   "url": "https://musicbrainz.org/release-group/96f9d406-cef3-4f18-b613-3dc92e789ff0",
+   "id": "machigerita-hatsune-miku-zombie-song"
+  },
+  {
    "about": "MonochroMenace to producent łączący electro i bass music z wokalem Vocaloid.",
    "artist": "Pomegranola, MonochroMenace feat. 初音ミク",
    "foundAt": "2026-11-01",
@@ -420,6 +444,18 @@
    "title": "Lunar in Daylight",
    "url": "https://music.apple.com/jp/album/lunar-in-daylight-single/6826051525?uo=4",
    "id": "lunar-in-daylight"
+  },
+  {
+   "about": "MOB CHOIR to japońska grupa znana z openingów anime Mob Psycho 100 („99”, „1”).",
+   "artist": "MOB CHOIR",
+   "foundAt": "2026-11-03",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-10-30",
+   "songAbout": "Nowa EP-ka zespołu, rockowo-anisongowe brzmienie.",
+   "title": "ONE STEP BEYOND",
+   "url": "https://music.apple.com/jp/album/one-step-beyond-ep/6826199759?uo=4",
+   "id": "mob-choir-one-step-beyond"
   },
   {
    "about": "HoneyWorks to znany zespół producentów od serii „Kokuhaku Jikkō Iinkai”; CHiCO to ich wokalistka.",
@@ -1044,6 +1080,18 @@
    "title": "HARDCORE SYNDROME 20",
    "url": "https://www.tano-c.net/release/tanocd-0032/",
    "id": "various-artists-hardcore-syndrome-20"
+  },
+  {
+   "about": "YUKIYANAGI to producent/remikser ze sceny Vocaloid.",
+   "artist": "YUKIYANAGI feat. 初音ミク",
+   "foundAt": "2026-11-03",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-10-25",
+   "songAbout": "Remiks utworu „Ishtar” z Hatsune Miku w klubowej aranżacji.",
+   "title": "イシュタル (YUKIYANAGI Remix)",
+   "url": "https://vocadb.net/S/1056355",
+   "id": "yukiyanagi-hatsune-miku-ishtar-remix"
   },
   {
    "about": "Ado to japońska wokalistka sławna jako głos Uty w „One Piece Film: Red”, autorka „Usseewa”.",
