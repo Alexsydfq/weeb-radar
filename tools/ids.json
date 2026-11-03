@@ -983,6 +983,12 @@
   "songkick": null,
   "vocadb": 494
  },
+ "Massive New Krew": {
+  "checked": "2026-11-03",
+  "mbid": "9aed24f5-4293-4c5b-a7c9-1027c8d9d608",
+  "songkick": null,
+  "vocadb": 168263
+ },
  "Megurine Luka": {
   "checked": "2026-10-09",
   "mbid": null,
@@ -1979,6 +1985,12 @@
   "songkick": "198986-kors-k",
   "vocadb": 606
  },
+ "lapix": {
+  "checked": "2026-11-03",
+  "mbid": "790514fd-422b-4d8e-b85e-ba1fb56e6c5b",
+  "songkick": null,
+  "vocadb": 13345
+ },
  "maoneko": {
   "checked": "2026-10-09",
   "mbid": null,
@@ -2369,6 +2381,12 @@
   "mbid": "2a185ca9-6241-4c84-b744-3ec7f44f6ba6",
   "songkick": null,
   "vocadb": 63138
+ },
+ "カミるれ": {
+  "checked": "2026-11-03",
+  "mbid": "33824e18-e37c-4b3f-a92e-b01ee4610130",
+  "songkick": null,
+  "vocadb": 120843
  },
  "コメティック": {
   "checked": "2026-10-09",
