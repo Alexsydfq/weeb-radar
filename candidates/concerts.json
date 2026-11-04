@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-03T03:20:35Z",
+ "generated": "2026-11-04T01:51:05Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 14,
+ "count": 15,
  "items": [
   {
    "watch": "Jimmy Gnecco",
@@ -23,6 +23,17 @@
    "cc": "FR",
    "venue": "Le Klub",
    "url": "https://www.songkick.com/concerts/43186498-ours-at-le-klub",
+   "source": "songkick"
+  },
+  {
+   "watch": "Aiobahn",
+   "name": "Aiobahn @ Atlantic Sound BCN",
+   "date": "2026-12-04",
+   "dateEnd": "2026-12-05",
+   "city": "Barcelona",
+   "cc": "ES",
+   "venue": "Atlantic Sound BCN",
+   "url": "https://www.songkick.com/festivals/3812493-manga-barcelona-night-party-by-atomic-pixel-party/id/43498072-manga-barcelona-night-party-by-atomic-pixel-party-2026",
    "source": "songkick"
   },
   {
