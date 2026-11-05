@@ -1,8 +1,35 @@
 {
- "generated": "2026-11-04T01:51:04Z",
- "about": "Premiery 2026-10-21..2026-12-04 artystów z watch.json, których nie ma w music.json",
- "count": 46,
+ "generated": "2026-11-05T01:53:33Z",
+ "about": "Premiery 2026-10-22..2026-12-05 artystów z watch.json, których nie ma w music.json",
+ "count": 49,
  "items": [
+  {
+   "watch": "IDONO KAWAZU",
+   "artist": "IDONO KAWAZU & 足立レイ",
+   "title": "No-Action - Single",
+   "released": "2026-11-13",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/no-action-single/6830514270?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "int_4096, 初音ミク & RESOLVERS",
+   "title": "__libp_start_main - Single",
+   "released": "2026-11-05",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/libp-start-main-single/6830134932?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "白上フブキ",
+   "artist": "アキ・ローゼンタール, 白上フブキ, 宝鐘マリン & 一条莉々華",
+   "title": "Kami-Tsumo Dora Dora Densetsu - EP",
+   "released": "2026-11-05",
+   "kind": "EP",
+   "url": "https://music.apple.com/jp/album/kami-tsumo-dora-dora-densetsu-ep/6830512937?uo=4",
+   "source": "itunes"
+  },
   {
    "watch": "LiSA",
    "artist": "LiSA",
@@ -10,7 +37,7 @@
    "released": "2026-11-04",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/%E3%81%8F%E3%81%9F%E3%81%B0%E3%82%8C%E3%83%9E%E3%82%A4%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3-single/6825742580?uo=4",
-   "source": "itunes"
+   "source": "itunes+musicbrainz"
   },
   {
    "watch": "YOASOBI",
@@ -85,6 +112,15 @@
    "source": "itunes"
   },
   {
+   "watch": "lapix",
+   "artist": "La Pix",
+   "title": "All the Ways To - Single",
+   "released": "2026-11-04",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/all-the-ways-to-single/6821243170?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "初星学園 (Gakuen iDOLM@STER)",
    "artist": "初星学園",
    "title": "初星学園 LIVE TOUR Single 修学旅行",
@@ -101,6 +137,15 @@
    "kind": "EP",
    "url": "https://musicbrainz.org/release-group/ae5c7874-bf07-45a1-8f2b-afe4a4c6fe83",
    "source": "musicbrainz"
+  },
+  {
+   "watch": "RiraN",
+   "artist": "RiraN",
+   "title": "Signal (feat. ひやむぎこむぎ。) - Single",
+   "released": "2026-11-03",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/signal-feat-%E3%81%B2%E3%82%84%E3%82%80%E3%81%8E%E3%81%93%E3%82%80%E3%81%8E-single/6828180700?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "TAK",
@@ -398,24 +443,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/R0cuA4X9W4U",
    "source": "vocadb"
-  },
-  {
-   "watch": "r-906",
-   "artist": "水槽 × r-906",
-   "title": "ハルシネイション",
-   "released": "2026-10-21",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/3dffb168-df3c-4a4d-8192-f2a4d47462fa",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "25時、ナイトコードで。",
-   "artist": "25時、ナイトコードで。",
-   "title": "その絵の名前は/幸福刑",
-   "released": "2026-10-21",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/9ed2ab99-4f70-4e7a-bac1-41e3a213946e",
-   "source": "musicbrainz"
   }
  ]
 }
