@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T05:43:00Z",
+ "updated": "2026-11-06T08:02:27Z",
  "events": [
   {
    "id": "2026-10-vocafest-spookyfest-2-london",
@@ -64,6 +64,41 @@
     "KOTONOHOUSE"
    ],
    "url": "https://panora.tokyo/archives/149654"
+  },
+  {
+   "id": "2026-10-yoko-kanno-lucca-milan",
+   "artist": "Yoko Kanno",
+   "title": "Lucca Comics & Games + Piano Me",
+   "kind": "koncert",
+   "tier": 2,
+   "dateStart": "2026-10-31",
+   "dateEnd": "2026-11-03",
+   "stops": [
+    {
+     "cc": "IT",
+     "city": "Lucca",
+     "date": "2026-10-31",
+     "venue": "Auditorium del Suffragio (wywiad publiczny, 10:00)"
+    },
+    {
+     "cc": "IT",
+     "city": "Lucca",
+     "date": "2026-11-01",
+     "venue": "Teatro del Giglio (Yoko Kanno Celebration, 15:00–16:30)"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2026-11-03",
+     "venue": "Teatro Nazionale"
+    }
+   ],
+   "lineup": [
+    "Yoko Kanno",
+    "ANIMEniacs Corp (Lukka, 1.11)",
+    "muzycy konserwatorium im. Boccheriniego (Lukka, 1.11)"
+   ],
+   "url": "https://www.animeclick.it/news/110995-lucca-comics-games-2026-yoko-kanno-sara-tra-gli-ospiti-dell-evento"
   },
   {
    "id": "2026-10-yunicon",
