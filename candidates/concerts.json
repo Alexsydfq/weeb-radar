@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-06T01:59:52Z",
+ "generated": "2026-11-07T01:23:33Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 21,
+ "count": 22,
  "items": [
   {
    "watch": "Jimmy Gnecco",
@@ -201,6 +201,17 @@
    "cc": "ES",
    "venue": "Roig Arena",
    "url": "https://www.songkick.com/concerts/43494947-queens-of-the-stone-age-at-roig-arena",
+   "source": "songkick"
+  },
+  {
+   "watch": "Queens of the Stone Age",
+   "name": "Queens of the Stone Age @ Arènes de Nîmes",
+   "date": "2027-06-23",
+   "dateEnd": "2027-06-23",
+   "city": "Nîmes",
+   "cc": "FR",
+   "venue": "Arènes de Nîmes",
+   "url": "https://www.songkick.com/concerts/43504130-queens-of-the-stone-age-at-arenes-de-nimes",
    "source": "songkick"
   },
   {

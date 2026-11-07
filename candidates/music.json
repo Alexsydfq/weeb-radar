@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06T01:59:51Z",
- "about": "Premiery 2026-10-23..2026-12-06 artystów z watch.json, których nie ma w music.json",
+ "generated": "2026-11-07T01:21:56Z",
+ "about": "Premiery 2026-10-24..2026-12-07 artystów z watch.json, których nie ma w music.json",
  "count": 66,
  "items": [
   {
@@ -22,6 +22,96 @@
    "source": "itunes"
   },
   {
+   "watch": "重音テト",
+   "artist": "まさよし & 重音テト",
+   "title": "暗黒騎士現れた",
+   "released": "2026-11-07",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/%E6%9A%97%E9%BB%92%E9%A8%8E%E5%A3%AB%E7%8F%BE%E3%82%8C%E3%81%9F/6822165789?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "gum cola & 重音テト",
+   "title": "Song of Weeds+Organ - Single",
+   "released": "2026-11-07",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/song-of-weeds-organ-single/6829619095?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "初音ミク",
+   "title": "Wedding Aisle feat.Hatsune Miku - Single",
+   "released": "2026-11-07",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/wedding-aisle-feat-hatsune-miku-single/6829617121?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "初音ミク",
+   "title": "I can't wait any longer feat.Hatsune Miku - Single",
+   "released": "2026-11-07",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/i-cant-wait-any-longer-feat-hatsune-miku-single/6829617020?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "初音ミク",
+   "title": "You were there, with that smile feat.Hatsune Miku - Single",
+   "released": "2026-11-07",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/you-were-there-with-that-smile-feat-hatsune-miku-single/6829614727?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "HANA (GUGUDAN) & 初音ミク",
+   "title": "Blue",
+   "released": "2026-11-07",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/blue/6827907341?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初音ミク",
+   "artist": "海茶 & 初音ミク",
+   "title": "Sugar",
+   "released": "2026-11-07",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/sugar/6827902005?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "夢ノ結唱 POPY",
+   "artist": "はるよよ & 夢ノ結唱 POPY",
+   "title": "HappyXmas - Single",
+   "released": "2026-11-07",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/happyxmas-single/6827431591?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "夢ノ結唱 ROSE",
+   "artist": "夢ノ結唱 ROSE",
+   "title": "Rose Leaf",
+   "released": "2026-11-07",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/rose-leaf/6831055203?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "夢ノ結唱 ROSE",
+   "artist": "夢ノ結唱 ROSE",
+   "title": "Karen - Single",
+   "released": "2026-11-07",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/karen-single/6829444557?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "Ado",
    "artist": "Ado",
    "title": "Shinka - Single",
@@ -31,15 +121,6 @@
    "source": "itunes+musicbrainz"
   },
   {
-   "watch": "初音ミク",
-   "artist": "Azunex & 初音ミク",
-   "title": "オール・マイ・ラブ | ブレイクコア - Single",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%BC%E3%83%AB-%E3%83%9E%E3%82%A4-%E3%83%A9%E3%83%96-%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%A2-single/6830274149?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "P丸様。",
    "artist": "P丸様。",
    "title": "絶対晴天!! - Single",
@@ -47,6 +128,15 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/%E7%B5%B6%E5%AF%BE%E6%99%B4%E5%A4%A9-single/6825373132?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "AnythingBecomeMoe",
+   "artist": "AnythingBecomeMoe & 音街ウナ",
+   "title": "好きな隙間 - Single",
+   "released": "2026-11-06",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%AA%E9%9A%99%E9%96%93-single/6827068754?uo=4",
+   "source": "itunes+vocadb"
   },
   {
    "watch": "ずんだもん",
@@ -73,7 +163,7 @@
    "released": "2026-11-06",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/dumb-single/6828289914?uo=4",
-   "source": "itunes"
+   "source": "itunes+musicbrainz"
   },
   {
    "watch": "Żabson",
@@ -103,22 +193,13 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "初音ミク",
-   "artist": "int_4096, 初音ミク & RESOLVERS",
-   "title": "__libp_start_main - Single",
-   "released": "2026-11-05",
+   "watch": "Something's off with my Vocaloid",
+   "artist": "うちのボカロは様子がおかしい feat. 初音ミク V4X (Original), 雨衣",
+   "title": "プレイバック",
+   "released": "2026-11-06",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/libp-start-main-single/6830134932?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "Znowy & 初音ミク",
-   "title": "Chills - Single",
-   "released": "2026-11-05",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/chills-single/6830998113?uo=4",
-   "source": "itunes"
+   "url": "https://youtu.be/8oiyutRI3nI",
+   "source": "vocadb"
   },
   {
    "watch": "白上フブキ",
@@ -137,6 +218,15 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/6b628ad4-27b4-4bff-8d5c-bf799777c17c",
    "source": "musicbrainz"
+  },
+  {
+   "watch": "Jamie Paige",
+   "artist": "TWIIG feat. Ｔくん",
+   "title": "ROT FOR CLOUT",
+   "released": "2026-11-05",
+   "kind": "cover",
+   "url": "https://youtu.be/KFunV6wv38k",
+   "source": "vocadb"
   },
   {
    "watch": "Jamie Paige",
@@ -175,30 +265,21 @@
    "source": "itunes+musicbrainz"
   },
   {
+   "watch": "YOASOBI",
+   "artist": "YOASOBI",
+   "title": "YOASOBI 5th ANNIVERSARY DOME LIVE 2024 “超現実” at TOKYO DOME",
+   "released": "2026-11-04",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/yoasobi-5th-anniversary-dome-live-2024-%E8%B6%85%E7%8F%BE%E5%AE%9F-at-tokyo-dome/6826993131?uo=4",
+   "source": "itunes+musicbrainz"
+  },
+  {
    "watch": "重音テト",
    "artist": "Tezu & 重音テト",
    "title": "ピーコックブルー - Single",
    "released": "2026-11-04",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/%E3%83%94%E3%83%BC%E3%82%B3%E3%83%83%E3%82%AF%E3%83%96%E3%83%AB%E3%83%BC-single/6819613624?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "フユウ & 初音ミク",
-   "title": "GLOOMY ME - Single",
-   "released": "2026-11-04",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/gloomy-me-single/6825185211?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "dezzy(一億円P) & 初音ミク",
-   "title": "Ordinary song - Single",
-   "released": "2026-11-04",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/ordinary-song-single/6825165046?uo=4",
    "source": "itunes"
   },
   {
@@ -220,15 +301,6 @@
    "source": "itunes"
   },
   {
-   "watch": "ryo (supercell)",
-   "artist": "RYO",
-   "title": "Jijohjibaku - Single",
-   "released": "2026-11-04",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/jijohjibaku-single/6828448738?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "lapix",
    "artist": "La Pix",
    "title": "All the Ways To - Single",
@@ -247,15 +319,6 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "YOASOBI",
-   "artist": "YOASOBI",
-   "title": "YOASOBI 5th ANNIVERSARY DOME LIVE 2024 “超現実” at TOKYO DOME",
-   "released": "2026-11-04",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/e35b6462-0096-402f-8ab9-c7ac96ff7630",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "宇宙ネコ子",
    "artist": "宇宙ネコ子",
    "title": "大人になっても、夜は暗くて",
@@ -263,15 +326,6 @@
    "kind": "EP",
    "url": "https://musicbrainz.org/release-group/ae5c7874-bf07-45a1-8f2b-afe4a4c6fe83",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "TAK",
-   "artist": "TAK",
-   "title": "mirror mirror (feat. Hatsune Miku & Kasane Teto) - Single",
-   "released": "2026-11-03",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/mirror-mirror-feat-hatsune-miku-kasane-teto-single/6825669374?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "洛天依",
@@ -301,39 +355,21 @@
    "source": "musicbrainz"
   },
   {
+   "watch": "初音ミク",
+   "artist": "TAK feat. 初音ミク, 重音テト",
+   "title": "ミラーミラー",
+   "released": "2026-11-03",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/c48e4013-9cc3-44dc-a089-6e0823f8510c",
+   "source": "musicbrainz+vocadb"
+  },
+  {
    "watch": "Jamie Paige",
    "artist": "Vane Lily, YoppyVU feat. various",
    "title": "Garden of Eden",
    "released": "2026-11-03",
    "kind": "singiel",
    "url": "https://youtu.be/oMGLVszr13Y",
-   "source": "vocadb"
-  },
-  {
-   "watch": "TAK",
-   "artist": "TAK feat. 初音ミク, 重音テトSV2",
-   "title": "ミラーミラー",
-   "released": "2026-11-03",
-   "kind": "singiel",
-   "url": "https://youtu.be/0YHJoexs5TU",
-   "source": "vocadb"
-  },
-  {
-   "watch": "AnythingBecomeMoe",
-   "artist": "AnythingBecomeMoe feat. Synthesizer V 2 AI 音街ウナ",
-   "title": "[MV] ABM - '好きな隙間' (My Lovely Nook) feat. 音街ウナ",
-   "released": "2026-11-03",
-   "kind": "singiel",
-   "url": "https://youtu.be/OlprURqnZw8",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Aku P",
-   "artist": "SmokyP feat. v4 flower",
-   "title": "AFFECTION ADDICTION (SMOKED)",
-   "released": "2026-11-03",
-   "kind": "singiel",
-   "url": "https://youtu.be/ee0U6m8n9EI",
    "source": "vocadb"
   },
   {
@@ -373,12 +409,30 @@
    "source": "itunes"
   },
   {
+   "watch": "重音テト",
+   "artist": "____natural feat. 重音テト",
+   "title": "新時代コミュニケーション (2026 ver.)",
+   "released": "2026-11-01",
+   "kind": "EP",
+   "url": "https://musicbrainz.org/release-group/a57218b2-8bd4-4e43-9658-6f8b44bf51c8",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "Ado",
    "artist": "Ado",
    "title": "And July",
    "released": "2026-10-31",
    "kind": "album",
    "url": "https://musicbrainz.org/release-group/287939f3-7a21-409a-811b-b3ad6ca59e26",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "重音テト",
+   "artist": "Yuta Imai feat. 重音テト",
+   "title": "G.H.O.S.T.",
+   "released": "2026-10-31",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/15927c7c-1609-4883-9730-9513ea6fddbd",
    "source": "musicbrainz"
   },
   {
@@ -392,7 +446,7 @@
   },
   {
    "watch": "MonochroMenace",
-   "artist": "Pomegranola, MonochroMenace feat. 初音ミク V6 (Unknown)",
+   "artist": "Pomegranola, MonochroMenace feat. 初音ミク V6 (Soft)",
    "title": "Madame Scientist",
    "released": "2026-10-31",
    "kind": "singiel",
@@ -463,7 +517,7 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "picco",
+   "watch": "Kotoha",
    "artist": "シンクロプロジェクト, picco & Kotoha",
    "title": "Infinite ∞ Imagination - Single",
    "released": "2026-10-28",
@@ -517,6 +571,15 @@
    "source": "musicbrainz"
   },
   {
+   "watch": "GUMI",
+   "artist": "Vane Lily feat. Lin Lai, Solaria, GUMI",
+   "title": "La Marea Sube",
+   "released": "2026-10-24",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/81e3a29b-77ef-40ee-b64d-d43066bfda53",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "ななひら",
    "artist": "ななひら",
    "title": "電波的妄想美少女Q",
@@ -532,69 +595,6 @@
    "released": "2026-10-24",
    "kind": "singiel",
    "url": "https://youtu.be/M-BOnNr4J3c",
-   "source": "vocadb"
-  },
-  {
-   "watch": "MEIKO",
-   "artist": "marasy, KAITO & MEIKO",
-   "title": "Kaien another ver. - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/kaien-another-ver-single/6823506889?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Marasy",
-   "artist": "marasy & 初音ミク",
-   "title": "Kaien - Single",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/kaien-single/6822981678?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "ラテルネ & 初音ミク",
-   "title": "夏霞の魔女",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/6578530e-5998-4a65-a2eb-3325074b153a",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "初音ミク",
-   "artist": "ぼぉの & 初音ミク & IA",
-   "title": "Moon Glow",
-   "released": "2026-10-23",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/c38779e1-44ca-40c6-8482-4e11f0bd1629",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "picco",
-   "artist": "Various artists",
-   "title": "flip-flop",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://youtu.be/akEYwgs6MrA",
-   "source": "vocadb"
-  },
-  {
-   "watch": "NAKISO",
-   "artist": "なきそ, 威戸れもね。 feat. Unknown vocal synth(s)",
-   "title": "In the Womb",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://youtu.be/26tgEc38m6g",
-   "source": "vocadb"
-  },
-  {
-   "watch": "d0tc0mmie",
-   "artist": "Various artists",
-   "title": "シュレディンガーズ・ミー",
-   "released": "2026-10-23",
-   "kind": "singiel",
-   "url": "https://youtu.be/naCd6NQAiQ0",
    "source": "vocadb"
   }
  ]
