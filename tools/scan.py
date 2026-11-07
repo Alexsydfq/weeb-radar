@@ -26,6 +26,9 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from synths import followed_terms, is_synth_entry, synth_only  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "candidates"
 IDS = ROOT / "tools" / "ids.json"
@@ -190,20 +193,33 @@ def mb_releases(entry: str, terms: list[str]) -> list[dict]:
     return res
 
 
+def vocadb_names(a: dict) -> list[str]:
+    """Wszystkie zapisy nazwy (japoński, romaji, angielski), żeby filtr syntezatorów
+    rozpoznał „なきそ feat. 初音ミク” jako obserwowanego NAKISO."""
+    names = {a.get("name") or ""} | {n.get("value") or "" for n in a.get("names", [])}
+    names |= {x.strip() for x in (a.get("additionalNames") or "").split(",")}
+    return sorted(n for n in names if n)
+
+
 def vocadb_id(entry: str, terms: list[str], ids: dict) -> int | None:
     rec = ids.setdefault(entry, {})
+    if rec.get("vocadb") and "names" not in rec:
+        data = vocadb.get(f"https://vocadb.net/api/artists/{rec['vocadb']}?fields=Names") or {}
+        bump("vocadb_calls")
+        rec["names"] = vocadb_names(data) if data.get("id") else []
     if "vocadb" in rec:
         return rec["vocadb"]
     found = None
     for t in terms[:2]:
         data = vocadb.get(f"https://vocadb.net/api/artists?query={q(t)}&maxResults=3&nameMatchMode=Exact"
-                          f"&fields=None") or {}
+                          f"&fields=Names") or {}
         bump("vocadb_calls")
         for a in data.get("items", []):
             # Głosy syntezatorów (Miku, Teto…) mają tysiące cudzych piosenek, więc je pomijamy.
             if a.get("artistType") in ("Producer", "CoverArtist", "Circle", "OtherGroup", "Band", "Utaite",
                                        "Vocalist", "Unknown", "OtherIndividual"):
                 found = a["id"]
+                rec["names"] = vocadb_names(a)
                 break
         if found:
             break
@@ -472,6 +488,8 @@ def main() -> None:
     artists = [a for a in watch["artists"] if "(CV:" not in a]
     if args.limit:
         artists = artists[: args.limit]
+    # Syntezatory (Miku, Teto, 可不…) to instrumenty: premier szukamy tylko u obserwowanych twórców.
+    music_artists = [a for a in artists if not is_synth_entry(a)]
     ids = json.loads(IDS.read_text()) if IDS.exists() else {}
     events, songs = load_feed()
     OUT.mkdir(exist_ok=True)
@@ -479,9 +497,9 @@ def main() -> None:
 
     threads = []
     if "music" in only:
-        threads.append(("itunes",) + run_pool("itunes", artists, itunes_releases))
-        threads.append(("mb_music",) + run_pool("mb", artists, mb_releases))
-        threads.append(("vocadb",) + run_pool("vocadb", artists, lambda e, t: vocadb_songs(e, t, ids)))
+        threads.append(("itunes",) + run_pool("itunes", music_artists, itunes_releases))
+        threads.append(("mb_music",) + run_pool("mb", music_artists, mb_releases))
+        threads.append(("vocadb",) + run_pool("vocadb", music_artists, lambda e, t: vocadb_songs(e, t, ids)))
     if "concerts" in only or "japan" in only:
         def sk_fn(e, t):
             if e in ORCHESTRAL:
@@ -501,6 +519,8 @@ def main() -> None:
     if "music" in only:
         music = cap(got["itunes"]) + cap(got["mb_music"]) + cap(got["vocadb"])
         music = dedupe(music, lambda m: (norm(m["artist"])[:12], norm(re.sub(r"\s*-\s*(Single|EP)$", "", m["title"] or ""))))
+        followed = followed_terms(watch["artists"], ids)
+        music = [m for m in music if not synth_only(m, followed)]
         fresh = [m for m in music if not known_song(m, songs)]
         fresh.sort(key=lambda m: m["released"], reverse=True)
         write("music", fresh, f"Premiery {MUSIC_FROM}..{MUSIC_TO} artystów z watch.json, których nie ma w music.json")
