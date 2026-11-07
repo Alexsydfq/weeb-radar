@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:02:27Z",
+ "updated": "2026-11-07T05:43:29Z",
  "events": [
   {
    "id": "2026-10-vocafest-spookyfest-2-london",
@@ -561,6 +561,43 @@
     "Ouro Kronii"
    ],
    "url": "https://www.serendipityscreening.com/"
+  },
+  {
+   "id": "2026-10-neonya-helsinki",
+   "artist": "Neonya!!",
+   "title": "J-core i anime party",
+   "kind": "rave",
+   "tier": 3,
+   "dateStart": "2026-10-10",
+   "dateEnd": "2026-11-06",
+   "stops": [
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2026-10-10",
+     "venue": "Lepakkomies (Neonya!! Party)"
+    },
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2026-11-06",
+     "venue": "Bar Kraken (W.E.E.B Lounge)"
+    }
+   ],
+   "lineup": [
+    "Hexexen (10.10)",
+    "LARA KAAOS (10.10)",
+    "DJ Degradation (10.10)",
+    "Aversal (10.10)",
+    "OSC HOOD (6.11)",
+    "DraGonis (6.11)",
+    "Emiru (6.11)",
+    "Sericanyan (6.11)",
+    "DJ Twist (6.11)",
+    "DJ Yukata (6.11)",
+    "DJ Kehveli (6.11)"
+   ],
+   "url": "https://neonya.party/"
   },
   {
    "id": "past-2026-10-08-unsound",
