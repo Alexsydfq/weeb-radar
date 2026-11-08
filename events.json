@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:42:14Z",
+ "updated": "2026-11-08T05:41:59Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -2410,6 +2410,33 @@
    "id": "2026-12-magnificon-winter-expo"
   },
   {
+   "about": "Impreza klubowa Atomic Pixel Party towarzysząca konwentowi Manga Barcelona. Aiobahn to japoński producent znany z remiksów i utworów dla anime i Vocaloid.",
+   "artist": "Manga Barcelona Night Party 2026 (Atomic Pixel Party)",
+   "dateEnd": "2026-12-05",
+   "dateStart": "2026-12-04",
+   "foundAt": "2026-11-08",
+   "hits": [
+    "Aiobahn – Kimi no Kioku"
+   ],
+   "kind": "rave",
+   "lineup": [
+    "Aiobahn"
+   ],
+   "note": "Według Songkick w Atlantic Sound BCN gra Aiobahn (4–5.12); godziny, cen i pełnego line-upu nie potwierdzono.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2026-12-04",
+     "venue": "Atlantic Sound BCN"
+    }
+   ],
+   "tier": 3,
+   "title": "Nocna impreza przy Manga Barcelona z Aiobahn",
+   "url": "https://www.songkick.com/festivals/3812493-manga-barcelona-night-party-by-atomic-pixel-party/id/43498072-manga-barcelona-night-party-by-atomic-pixel-party-2026",
+   "id": "2026-12-manga-barcelona-night-party-aiobahn"
+  },
+  {
    "about": "Największy festiwal mangi i anime w Hiszpanii. Muzycznie gwiazdą edycji jest Reol, autorka i wokalistka znana z sieciowych hitów i utworów do anime, a obok niej NIGHTMARE (openingi Death Note).",
    "artist": "Manga Barcelona 32",
    "dateEnd": "2026-12-08",
@@ -2460,6 +2487,37 @@
    "title": "Reol, NIGHTMARE, ALI, Lotus Juice",
    "url": "https://www.akibastation.es/2026/07/manga-barcelona-2026-conciertos.html",
    "id": "2026-12-manga-barcelona"
+  },
+  {
+   "about": "Festiwal japońskiej muzyki w Londynie. Kyary Pamyu Pamyu to gwiazda stylu harajuku znana z produkcji Yasutaka Nakata.",
+   "artist": "Matsuri '26 Japanese Music Experience",
+   "dateEnd": "2026-12-14",
+   "dateStart": "2026-12-14",
+   "foundAt": "2026-11-08",
+   "hits": [
+    "Kyary Pamyu Pamyu – PONPONPON",
+    "Kyary Pamyu Pamyu – Fashion Monster",
+    "Kyary Pamyu Pamyu – Candy Candy"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Hitsujibungaku",
+    "Kyary Pamyu Pamyu",
+    "Otoboke Beaver"
+   ],
+   "note": "Wieczór japońskiej muzyki w Londynie; cen i godzin nie sprawdzono.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-12-14",
+     "venue": "Outernet Live"
+    }
+   ],
+   "tier": 1,
+   "title": "Hitsujibungaku, Kyary Pamyu Pamyu, Otoboke Beaver",
+   "url": "https://tokyonoizu.com/japanese-band-tours",
+   "id": "2026-12-matsuri-26-japanese-music-experience-london"
   },
   {
    "about": "Japońska singer-songwriterka (うぴ子), działająca od 2020 r.: mocny, ekspresyjny wokal i gitara akustyczna na pograniczu folku i rocka. Ma na koncie albumy „Rashinban” (2024) i „Gekidou” (2026).",
@@ -3893,6 +3951,97 @@
    "updatedAt": "2026-10-09",
    "url": "https://pyrkon.pl/bez-kategorii/cos-sie-konczy-cos-zaczyna-poznajcie-pierwszych-gosci-pyrkonu-2027/",
    "id": "2027-06-pyrkon"
+  },
+  {
+   "about": "Amerykański zespół stoner rockowy Josha Hommego, jeden z ulubionych aktów z listy. Znany z albumów „Songs for the Deaf” i „Rated R”.",
+   "artist": "Queens of the Stone Age",
+   "dateEnd": "2027-06-30",
+   "dateStart": "2027-06-13",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "sprzedaż ogólna ruszyła 6.11.2026, 10:00 czasu lokalnego (Ticketmaster)"
+    },
+    {
+     "k": "Niemcy",
+     "v": "Hannover 13.06, Monachium 28.06"
+    }
+   ],
+   "foundAt": "2026-11-08",
+   "hits": [
+    "No One Knows",
+    "Go with the Flow",
+    "Little Sister",
+    "Make It wit Chu",
+    "Burn the Witch"
+   ],
+   "kind": "trasa",
+   "lineup": [
+    "Queens of the Stone Age",
+    "Zep"
+   ],
+   "note": "Zespół promuje dziewiąty album „Perfecth”. Dwie daty w Niemczech (Hannover, Monachium); Polski, Czech i Austrii na trasie brak. Support: Zep (z jednego źródła). Występuje też na Sweden Rock 9–12.06.2027.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Hannover",
+     "date": "2027-06-13",
+     "venue": "Gilde Parkbühne"
+    },
+    {
+     "cc": "FR",
+     "city": "Bordeaux",
+     "date": "2027-06-15",
+     "venue": "Arkéa Arena"
+    },
+    {
+     "cc": "ES",
+     "city": "Bilbao",
+     "date": "2027-06-16",
+     "venue": "Bilbao Arena"
+    },
+    {
+     "cc": "ES",
+     "city": "Sewilla",
+     "date": "2027-06-20",
+     "venue": "Icónica Sevilla"
+    },
+    {
+     "cc": "ES",
+     "city": "Walencja",
+     "date": "2027-06-21",
+     "venue": "Roig Arena"
+    },
+    {
+     "cc": "FR",
+     "city": "Nîmes",
+     "date": "2027-06-23",
+     "venue": "Festival de Nîmes"
+    },
+    {
+     "cc": "IT",
+     "city": "Pordenone",
+     "date": "2027-06-27",
+     "venue": "Parco San Valentino"
+    },
+    {
+     "cc": "DE",
+     "city": "Monachium",
+     "date": "2027-06-28",
+     "venue": "Tollwood"
+    },
+    {
+     "cc": "HR",
+     "city": "Pula",
+     "date": "2027-06-30",
+     "venue": "Pula Arena"
+    }
+   ],
+   "tickets": "https://www.ticketmaster.com/queens-of-the-stone-age-tickets/artist/730011",
+   "tier": 3,
+   "title": "Perfecth World Tour — europejska odnoga (czerwiec 2027)",
+   "url": "https://www.loudersound.com/bands-artists/live-performances/queens-of-the-stone-age-announce-european-leg-of-perfecth-world-tour",
+   "id": "2027-06-queens-of-the-stone-age-perfecth-europe"
   },
   {
    "about": "Największy szwedzki festiwal rocka i metalu, co roku w Norje koło Sölvesborga. Największe nazwy edycji 2027 to Mötley Crüe, Alice Cooper i Queens of the Stone Age.",
