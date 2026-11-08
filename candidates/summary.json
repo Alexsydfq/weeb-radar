@@ -1,27 +1,24 @@
 {
- "generated": "2026-11-07T01:21:56Z",
+ "generated": "2026-11-08T01:04:34Z",
  "artists": 476,
- "seconds": 1472,
+ "seconds": 1407,
  "music": {
-  "found": 121,
-  "new": 66
+  "found": 94,
+  "new": 43
  },
  "concerts": {
-  "found": 74,
-  "new": 22
+  "found": 73,
+  "new": 21
  },
  "japan": {
-  "found": 3,
-  "new": 0
+  "found": 14,
+  "new": 10
  },
  "calls": {
-  "itunes_calls": 476,
-  "songkick_calls": 146,
-  "vocadb_calls": 242,
-  "mb_calls": 476,
-  "errors": 1
+  "vocadb_calls": 478,
+  "itunes_calls": 455,
+  "mb_calls": 455,
+  "songkick_calls": 146
  },
- "errors": [
-  "vocadb events: TimeoutError The read operation timed out"
- ]
+ "errors": []
 }

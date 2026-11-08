@@ -1,19 +1,8 @@
 {
- "generated": "2026-11-07T01:23:33Z",
+ "generated": "2026-11-08T01:04:36Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 22,
+ "count": 21,
  "items": [
-  {
-   "watch": "Jimmy Gnecco",
-   "name": "Jimmy Gnecco @ Brin de Zinc",
-   "date": "2026-11-07",
-   "dateEnd": "2026-11-07",
-   "city": "Barberaz",
-   "cc": "FR",
-   "venue": "Brin de Zinc",
-   "url": "https://www.songkick.com/concerts/43186493-ours-at-brin-de-zinc",
-   "source": "songkick"
-  },
   {
    "watch": "Jimmy Gnecco",
    "name": "Jimmy Gnecco @ Le Klub",

@@ -2,6 +2,9 @@
  "*Luna": {
   "checked": "2026-10-09",
   "mbid": "e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5",
+  "names": [
+   "*Luna"
+  ],
   "songkick": "110737-luna",
   "vocadb": 1620
  },
@@ -15,6 +18,11 @@
  "11vein": {
   "checked": "2026-10-09",
   "mbid": "92987b15-8af5-4e0f-ba59-b7f039e27432",
+  "names": [
+   "11vein",
+   "CRUORMOR",
+   "mors"
+  ],
   "songkick": null,
   "vocadb": 110576
  },
@@ -27,12 +35,25 @@
  "23.exe": {
   "checked": "2026-10-09",
   "mbid": "44271533-b55d-4761-9d2a-7e1e56c85f24",
+  "names": [
+   "23.exe"
+  ],
   "songkick": null,
   "vocadb": 18373
  },
  "25時、ナイトコードで。": {
   "checked": "2026-10-09",
   "mbid": "2d5bd5f2-d0fa-4dd8-ba72-c1fea94a0ae0",
+  "names": [
+   "25-ji, Night Code de.",
+   "25-ji, Nightcord de.",
+   "25時、ナイトコードで。",
+   "25點，Nightcord見。",
+   "25시, 나이트 코드에서.",
+   "N25",
+   "Nightcord at 25:00",
+   "Niigo"
+  ],
   "songkick": null,
   "vocadb": 83861
  },
@@ -45,12 +66,19 @@
  "32ki": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "32ki"
+  ],
   "songkick": null,
   "vocadb": 100676
  },
  "4M-P": {
   "checked": "2026-10-09",
   "mbid": "5b3adc1c-5980-4185-a3c1-3e8473dc7ba9",
+  "names": [
+   "4M-P",
+   "Four \"Enko\" Hundred"
+  ],
   "songkick": null,
   "vocadb": 103185
  },
@@ -75,6 +103,12 @@
  "Abaraya": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Abaraya",
+   "Avaraya",
+   "あばらや",
+   "아바라야"
+  ],
   "songkick": null,
   "vocadb": 105192
  },
@@ -100,24 +134,42 @@
  "Aiobahn": {
   "checked": "2026-10-09",
   "mbid": "85188b12-0c2a-4879-a98d-fa0f6efb4e89",
+  "names": [
+   "Aiobahn",
+   "Aiobahn +81"
+  ],
   "songkick": "8644769-aiobahn",
   "vocadb": 56310
  },
  "Aiobahn +81": {
   "checked": "2026-10-09",
   "mbid": "a39cf062-a860-4e22-ac59-1a8ebc65a8ff",
+  "names": [
+   "Aiobahn",
+   "Aiobahn +81"
+  ],
   "songkick": null,
   "vocadb": 56310
  },
  "Aku P": {
   "checked": "2026-10-09",
   "mbid": "b953f543-2e20-4a54-a950-a7effea204fe",
+  "names": [
+   "Aku P",
+   "Aku TV",
+   "Miguel Rocha",
+   "acupi",
+   "エンリケ ミケル"
+  ],
   "songkick": null,
   "vocadb": 46847
  },
  "Amateras Records": {
   "checked": "2026-10-09",
   "mbid": "957b8dab-5a3a-47af-b7e7-e43cfd96eb62",
+  "names": [
+   "Amateras Records"
+  ],
   "songkick": null,
   "vocadb": 160251
  },
@@ -140,12 +192,26 @@
  "AnythingBecomeMoe": {
   "checked": "2026-10-09",
   "mbid": "873c89a4-3032-4211-9cbf-dce2a8cab2f4",
+  "names": [
+   "ABM",
+   "AnythingBecomeMoe",
+   "CUPIECES",
+   "KoreanKimTeTo",
+   "SAKURAM",
+   "Saku Ram",
+   "Tekokito",
+   "김테토",
+   "뭐든지모에화"
+  ],
   "songkick": "10407589-anythingbecomemoe",
   "vocadb": 131886
  },
  "Aoris": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "aoris"
+  ],
   "songkick": null,
   "vocadb": 101146
  },
@@ -158,18 +224,31 @@
  "Atena": {
   "checked": "2026-10-09",
   "mbid": "1f4f8061-1aba-42ef-8345-ea1e14827960",
+  "names": [
+   "Atena",
+   "Atena Fumei",
+   "アテナ",
+   "아테나"
+  ],
   "songkick": "6813574-atena",
   "vocadb": 147345
  },
  "Ayase": {
   "checked": "2026-10-09",
   "mbid": "4173073b-ae68-476a-a715-e22f1f43046d",
+  "names": [
+   "ayase"
+  ],
   "songkick": "10296972-ayase",
   "vocadb": 69142
  },
  "Azari": {
   "checked": "2026-10-09",
   "mbid": "a538e5cb-e269-493a-82a8-166759112b40",
+  "names": [
+   "Azari",
+   "xxxazari"
+  ],
   "songkick": "3182946-azari",
   "vocadb": 91982
  },
@@ -195,6 +274,9 @@
  "BilliumMoto": {
   "checked": "2026-10-09",
   "mbid": "fa858237-0644-4350-a68f-e2147d58b498",
+  "names": [
+   "BilliumMoto"
+  ],
   "songkick": null,
   "vocadb": 133697
  },
@@ -233,6 +315,10 @@
  "Camellia": {
   "checked": "2026-10-09",
   "mbid": "010a57ab-fa4a-4ac1-b233-35333c71601a",
+  "names": [
+   "Camellia",
+   "Lia Camellia"
+  ],
   "songkick": "1347188-camellia",
   "vocadb": 154407
  },
@@ -243,6 +329,14 @@
  "Capchii": {
   "checked": "2026-10-09",
   "mbid": "9ac020fe-221f-4034-9e7b-d8d0b7ef0cdf",
+  "names": [
+   "Capchii",
+   "Masshiro",
+   "Massy",
+   "まっしろ",
+   "まっしー",
+   "四月病P"
+  ],
   "songkick": null,
   "vocadb": 34291
  },
@@ -256,12 +350,23 @@
  "Cassie Wei": {
   "checked": "2026-10-09",
   "mbid": "44fff26f-8536-4604-9750-fe2cc3326207",
+  "names": [
+   "Cassie Wei",
+   "Momoka",
+   "momocashew",
+   "モモカシュー"
+  ],
   "songkick": null,
   "vocadb": 7368
  },
  "Chinozo": {
   "checked": "2026-10-09",
   "mbid": "cb10652f-7737-423a-be59-d4706919729c",
+  "names": [
+   "Chinozo",
+   "ちのぞー",
+   "치노조"
+  ],
   "songkick": null,
   "vocadb": 67910
  },
@@ -280,6 +385,11 @@
  "D.watt": {
   "checked": "2026-10-09",
   "mbid": "50e08ce1-5969-497b-ba88-04cf2809619a",
+  "names": [
+   "D.watt",
+   "Shichijou Retasu",
+   "七条レタス"
+  ],
   "songkick": null,
   "vocadb": 2084
  },
@@ -292,6 +402,12 @@
  "DECO*27": {
   "checked": "2026-10-09",
   "mbid": "bd247ab3-c22d-4b5d-a6fd-437771cacbbe",
+  "names": [
+   "DECO*27",
+   "DECO＊27",
+   "Deco Niina",
+   "デコニーナ"
+  ],
   "songkick": null,
   "vocadb": 45
  },
@@ -310,6 +426,12 @@
  "DIVELA": {
   "checked": "2026-10-09",
   "mbid": "a8846643-2e50-4a54-ad40-e184b79bbcb8",
+  "names": [
+   "DIVELA",
+   "Mix_Destroy ディヴェラ",
+   "ディヴェラ",
+   "디벨라"
+  ],
   "songkick": null,
   "vocadb": 10216
  },
@@ -322,12 +444,21 @@
  "DJ SHARPNEL": {
   "checked": "2026-10-09",
   "mbid": "196eb856-9b51-44c4-a188-e6ac244e77fe",
+  "names": [
+   "DJ SHARPNEL",
+   "Ryuta Sharpnel"
+  ],
   "songkick": "8502553-dj-sharpnel",
   "vocadb": 188594
  },
  "DYES IWASAKI": {
   "checked": "2026-10-09",
   "mbid": "c7d237fe-0422-4d2c-b579-e60c536870af",
+  "names": [
+   "DYES IWASAKI",
+   "daicon",
+   "ダイスイワサキ"
+  ],
   "songkick": null,
   "vocadb": 3259
  },
@@ -335,6 +466,10 @@
   "bandsintown": "https://www.bandsintown.com/a/57963",
   "checked": "2026-10-09",
   "mbid": "5b3cc848-942f-4363-8e89-b63a13c3fd0e",
+  "names": [
+   "DADA",
+   "GARDMAN"
+  ],
   "songkick": "61815-dada",
   "vocadb": 5813
  },
@@ -386,12 +521,20 @@
  "EMIRI": {
   "checked": "2026-10-09",
   "mbid": "c5efc74d-9315-4138-a2e0-163ed74937e4",
+  "names": [
+   "EMIRI"
+  ],
   "songkick": null,
   "vocadb": 83214
  },
  "Eipu": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Eipu",
+   "えいぷ",
+   "에이푸"
+  ],
   "songkick": null,
   "vocadb": 127103
  },
@@ -412,6 +555,11 @@
  "EmoCosine": {
   "checked": "2026-10-09",
   "mbid": "db2630da-4c16-4de9-b8ae-38d71d66e2ac",
+  "names": [
+   "EmoCo.",
+   "EmoCosine",
+   "エモコサイン"
+  ],
   "songkick": "10351158-emocosine",
   "vocadb": 74531
  },
@@ -425,18 +573,31 @@
   "checked": "2026-10-09",
   "lock": true,
   "mbid": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
+  "names": [
+   "Eve"
+  ],
   "songkick": null,
   "vocadb": 10233
  },
  "FARUCO": {
   "checked": "2026-10-09",
   "mbid": "2c46023d-a4a5-4537-8dfb-1e5db26e31a8",
+  "names": [
+   "FARUCO",
+   "faruko",
+   "ファル公"
+  ],
   "songkick": null,
   "vocadb": 165706
  },
  "FLAVOR FOLEY": {
   "checked": "2026-10-09",
   "mbid": "580ba484-525b-408c-8aff-e63dbfea86a2",
+  "names": [
+   "FLAVOR FOLEY",
+   "フレーヴァー・フォリィ",
+   "フレーヴァー・フォーリィ"
+  ],
   "songkick": null,
   "vocadb": 136284
  },
@@ -478,6 +639,11 @@
  "Getty": {
   "checked": "2026-10-09",
   "mbid": "9385a591-8c13-4afc-b9b0-500e2d841a38",
+  "names": [
+   "Getty",
+   "Mamoru Izuki",
+   "伊月衛"
+  ],
   "songkick": null,
   "vocadb": 16870
  },
@@ -491,6 +657,9 @@
   "bandsintown": "https://www.bandsintown.com/a/627925",
   "checked": "2026-10-09",
   "mbid": "eb0cf932-29f0-4e42-a866-2440b18dc182",
+  "names": [
+   "goreshit"
+  ],
   "songkick": "9029364",
   "vocadb": 23408
  },
@@ -504,24 +673,40 @@
  "Grace (Vo.Hikari Kodama)": {
   "checked": "2026-10-09",
   "mbid": "b1c124b3-cf60-41a6-8699-92728c8a3fe0",
+  "names": [
+   "Grace-P"
+  ],
   "songkick": "370226",
   "vocadb": 138930
  },
  "Guitarheropianozero": {
   "checked": "2026-10-09",
   "mbid": "cbcec72c-5261-4fd0-9c68-11a8a14b850e",
+  "names": [
+   "GHPZ",
+   "Guitar Hero Piano Zero",
+   "GuitarHeroPianoZero",
+   "SuperRookie721"
+  ],
   "songkick": null,
   "vocadb": 9516
  },
  "HANABIE.": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "HANABIE.",
+   "花冷え。"
+  ],
   "songkick": "10277090-hanabie",
   "vocadb": 157088
  },
  "HARDCORE TANO*C (dowolny artysta)": {
   "checked": "2026-10-09",
   "mbid": "a759a626-0300-41b8-b56b-0b7b63f12f99",
+  "names": [
+   "HARDCORE TANO*C"
+  ],
   "songkick": null,
   "vocadb": 2350
  },
@@ -534,12 +719,20 @@
  "HIDEYA KOJIMA": {
   "checked": "2026-10-09",
   "mbid": "bf518989-73c6-4751-8f9a-00535607d32f",
+  "names": [
+   "HIDEYA KOJIMA",
+   "Kojima Hideya",
+   "小島英也"
+  ],
   "songkick": null,
   "vocadb": 191889
  },
  "HIMEHINA": {
   "checked": "2026-10-09",
   "mbid": "c2deade3-c5e4-4061-8c13-9bd8f53a143b",
+  "names": [
+   "HIMEHINA"
+  ],
   "songkick": "10322528-himehina",
   "vocadb": 110827
  },
@@ -558,12 +751,25 @@
  "Haraguchi Sasuke": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Haraguchi Sasuke",
+   "SASUKE",
+   "原口沙輔",
+   "하라구치 사스케"
+  ],
   "songkick": null,
   "vocadb": 123316
  },
  "Harumakigohan": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Harumaki Gohan",
+   "Harumakigohan",
+   "はるまきごはん",
+   "春卷饭",
+   "하루마키고항"
+  ],
   "songkick": null,
   "vocadb": 28208
  },
@@ -582,6 +788,10 @@
  "Hiiragi Magnetite": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Hiiragi Magnetite",
+   "柊マグネタイト"
+  ],
   "songkick": null,
   "vocadb": 83243
  },
@@ -604,6 +814,12 @@
  "HoneyWorks": {
   "checked": "2026-10-09",
   "mbid": "1dc670f7-1a43-4a71-973a-2ad181f4edd4",
+  "names": [
+   "Haniwa",
+   "HoneyWorks",
+   "ハニワ",
+   "ハニーワークス"
+  ],
   "songkick": "10297984-honeyworks",
   "vocadb": 855
  },
@@ -622,6 +838,9 @@
  "IDONO KAWAZU": {
   "checked": "2026-10-09",
   "mbid": "89fdaa9f-7adb-49bb-b840-e4f3bd01a86c",
+  "names": [
+   "IDONO KAWAZU"
+  ],
   "songkick": null,
   "vocadb": 75224
  },
@@ -640,6 +859,9 @@
  "IOSYS": {
   "checked": "2026-10-09",
   "mbid": "9a4cafe7-3349-404b-a268-780e911d1801",
+  "names": [
+   "IOSYS"
+  ],
   "songkick": null,
   "vocadb": 1726
  },
@@ -653,6 +875,11 @@
  "Iyowa": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "iyowa",
+   "いよわ",
+   "이요와"
+  ],
   "songkick": "10301061-iyowa",
   "vocadb": 65229
  },
@@ -671,6 +898,14 @@
  "Jamie Paige": {
   "checked": "2026-10-09",
   "mbid": "de2c3324-30c6-45f7-9136-08a5bb66bc2c",
+  "names": [
+   "Jamie Paige",
+   "Jamie Paige Stanley",
+   "Melanie Stanley",
+   "Olive Reece",
+   "polyromantic",
+   "ジェイミー・ペイジュ"
+  ],
   "songkick": null,
   "vocadb": 23155
  },
@@ -683,6 +918,9 @@
  "Jin (Shizen no Teki-P)": {
   "checked": "2026-10-09",
   "mbid": "ad36c347-876d-47c3-9e05-98131d41faf4",
+  "names": [
+   "Jin"
+  ],
   "songkick": null,
   "vocadb": 72204
  },
@@ -700,6 +938,11 @@
   "checked": "2026-10-09",
   "lock": true,
   "mbid": "43b658ff-e3e4-4928-9685-b1b7224d61d4",
+  "names": [
+   "KAFKA",
+   "K△FKA",
+   "oofy"
+  ],
   "songkick": null,
   "vocadb": 122453
  },
@@ -712,6 +955,9 @@
  "KOTOKO": {
   "checked": "2026-10-09",
   "mbid": "b71abaa0-dd97-4e85-943d-3ffa2d3278a5",
+  "names": [
+   "KOTOKO"
+  ],
   "songkick": "45369-kotoko",
   "vocadb": 89357
  },
@@ -730,6 +976,10 @@
  "Kairiki Bear": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Kairiki bear",
+   "かいりきベア"
+  ],
   "songkick": "10298001-kairiki-bear",
   "vocadb": 885
  },
@@ -742,6 +992,10 @@
  "Kanaria": {
   "checked": "2026-10-09",
   "mbid": "1c9e6e0e-b05a-447d-b1ad-ded2aa6d0b6b",
+  "names": [
+   "KANA-RiA",
+   "Kanaria"
+  ],
   "songkick": "10296957-kanaria",
   "vocadb": 80976
  },
@@ -776,12 +1030,30 @@
  "Kijibato": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Kijibato",
+   "キジバト"
+  ],
   "songkick": null,
   "vocadb": 62115
  },
  "Kikuo": {
   "checked": "2026-10-09",
   "mbid": "2feabd45-4cb0-4dd2-a647-24b37f9f3988",
+  "names": [
+   "Asian melancholic",
+   "Bottom of Hell",
+   "Hell Bottom",
+   "Jigoku Teihen",
+   "Kikuo",
+   "kikk",
+   "pedo-o",
+   "きくお",
+   "きくおとーん",
+   "きっく",
+   "きっくのショウ・タイム！",
+   "地獄底辺"
+  ],
   "songkick": "10300921-kikuo",
   "vocadb": 470
  },
@@ -792,6 +1064,22 @@
  "Kobaryo": {
   "checked": "2026-10-09",
   "mbid": "2ac4d851-c5d9-48f7-8164-699cc5ce02d1",
+  "names": [
+   "DJ NECOJITA",
+   "Kobaryo",
+   "MADOKABEKSINSKI",
+   "Matatabi Sound System",
+   "Nyankovsky",
+   "Persian Groovies",
+   "Rei Furuba",
+   "Shinonome Interface",
+   "Srezcat",
+   "Toka Hebizuka",
+   "blaxervant",
+   "古葉玲",
+   "窓壁九真好キ",
+   "蛇塚 透花"
+  ],
   "songkick": "10329329-kobaryo",
   "vocadb": 65298
  },
@@ -804,6 +1092,9 @@
  "Kotoha": {
   "checked": "2026-10-09",
   "mbid": "c2fbffd8-2e2b-49b6-94dd-ba953ac12ebe",
+  "names": [
+   "Kotoha"
+  ],
   "songkick": null,
   "vocadb": 150726
  },
@@ -835,12 +1126,23 @@
  "Last Note.": {
   "checked": "2026-10-09",
   "mbid": "2389a6c5-09bc-4fb2-8c1d-97f63115d2ed",
+  "names": [
+   "Last Note."
+  ],
   "songkick": "6239584-last-note",
   "vocadb": 30
  },
  "LiSA": {
   "checked": "2026-10-09",
   "mbid": "85d76093-9865-4605-97fa-8c910929d366",
+  "names": [
+   "Adriana",
+   "Bl0ssom83",
+   "Blossom",
+   "DoodleSelf.z ",
+   "Lis4_bl0ssoM83",
+   "Lisa"
+  ],
   "songkick": "1225989",
   "vocadb": 190774
  },
@@ -853,18 +1155,40 @@
  "LindaAI-CUE": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Ishikawa Akihiko",
+   "LindaAI-CUE",
+   "石川哲彦"
+  ],
   "songkick": null,
   "vocadb": 180675
  },
  "LonePi": {
   "checked": "2026-10-09",
   "mbid": "d64aac47-b2d9-401f-b71e-ae663fc5f1a6",
+  "names": [
+   "LonePi",
+   "Lone_",
+   "SuzuneP",
+   "YZLone_",
+   "すずねP",
+   "りょ音",
+   "ろねぴ",
+   "ろねぴぴ",
+   "弋ネ_",
+   "柚乃ロネ",
+   "柚崎",
+   "로네피"
+  ],
   "songkick": null,
   "vocadb": 69511
  },
  "Lotus Juice": {
   "checked": "2026-10-09",
   "mbid": "c731e592-2620-4f4c-859d-39e294b06b35",
+  "names": [
+   "Lotus Juice"
+  ],
   "songkick": "10380522-lotus-juice",
   "vocadb": 172603
  },
@@ -877,24 +1201,44 @@
  "MAISONdes": {
   "checked": "2026-10-09",
   "mbid": "5005beb6-9da2-48ba-bfd9-aa8ddc6d0117",
+  "names": [
+   "MAISONdes",
+   "メゾン・デ"
+  ],
   "songkick": "10296966-maisondes",
   "vocadb": 170031
  },
  "MAMEKAKAO": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Mame Kakao",
+   "Mamekakao",
+   "豆カカオ"
+  ],
   "songkick": null,
   "vocadb": 114184
  },
  "MARETU": {
   "checked": "2026-10-09",
   "mbid": "cda1d655-a98c-42ae-8de3-a0a78000741e",
+  "names": [
+   "EvilP",
+   "GokuakuP",
+   "MARETU",
+   "maruetsu",
+   "まれつ",
+   "極悪P"
+  ],
   "songkick": "10297989-maretu",
   "vocadb": 1665
  },
  "MARON": {
   "checked": "2026-10-09",
   "mbid": "ddba7745-3e0a-4b56-af55-2a12e1acf6c5",
+  "names": [
+   "maron"
+  ],
   "songkick": "556877-maron",
   "vocadb": 74361
  },
@@ -938,12 +1282,20 @@
  "MORE MORE JUMP!": {
   "checked": "2026-10-09",
   "mbid": "3c266653-0bdb-4699-a6ec-a42f1d5ded54",
+  "names": [
+   "MORE MORE JUMP!",
+   "MORE MORE JUMP！"
+  ],
   "songkick": null,
   "vocadb": 83923
  },
  "MORE MORE JUMP! / Project SEKAI": {
   "checked": "2026-10-09",
   "mbid": "3c266653-0bdb-4699-a6ec-a42f1d5ded54",
+  "names": [
+   "MORE MORE JUMP!",
+   "MORE MORE JUMP！"
+  ],
   "songkick": null,
   "vocadb": 83923
  },
@@ -962,12 +1314,19 @@
  "Mafumafu": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Mafumafu",
+   "まふまふ"
+  ],
   "songkick": null,
   "vocadb": 1459
  },
  "Mage-P": {
   "checked": "2026-10-09",
   "mbid": "0e14e17b-d75e-4046-8d45-0bec9db2f9c1",
+  "names": [
+   "Mage"
+  ],
   "songkick": null,
   "vocadb": 167161
  },
@@ -980,12 +1339,24 @@
  "Marasy": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "marasy",
+   "marasy8",
+   "まらお",
+   "まらしぃ",
+   "触手猴",
+   "마라시"
+  ],
   "songkick": null,
   "vocadb": 494
  },
  "Massive New Krew": {
   "checked": "2026-11-03",
   "mbid": "9aed24f5-4293-4c5b-a7c9-1027c8d9d608",
+  "names": [
+   "MNK",
+   "Massive New Krew"
+  ],
   "songkick": null,
   "vocadb": 168263
  },
@@ -998,6 +1369,10 @@
  "MendoZID": {
   "checked": "2026-10-09",
   "mbid": "3c6e6d84-8107-4d22-8754-ea3246a81355",
+  "names": [
+   "MendoZID",
+   "ジッドP"
+  ],
   "songkick": null,
   "vocadb": 85172
  },
@@ -1028,6 +1403,10 @@
  "Mili": {
   "checked": "2026-10-09",
   "mbid": "d2a92ee2-27ce-4e71-bfc5-12e34fe8ef56",
+  "names": [
+   "Mili",
+   "Project Mili"
+  ],
   "songkick": "9843959-mili",
   "vocadb": 49967
  },
@@ -1040,30 +1419,58 @@
  "Mitchie M": {
   "checked": "2026-10-09",
   "mbid": "e447a971-e4e2-4ea7-9330-472deb070e90",
+  "names": [
+   "Mitchie M",
+   "Mitchie Mitchell",
+   "Tucada"
+  ],
   "songkick": null,
   "vocadb": 624
  },
  "Mitsukiyo": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Mitsukiyo",
+   "ミツキヨ"
+  ],
   "songkick": null,
   "vocadb": 56612
  },
  "Momone Chinoi": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Chinoi",
+   "Chinoi Momone",
+   "Togenkyoyasan",
+   "momone chinoi",
+   "momosepu",
+   "ul0ux",
+   "ちのい",
+   "桃寝ちのい"
+  ],
   "songkick": null,
   "vocadb": 95009
  },
  "MonochroMenace": {
   "checked": "2026-10-09",
   "mbid": "1fc77484-18a1-4d4c-8643-14114ab2ce7c",
+  "names": [
+   "Menaceloid",
+   "MonochroMenace"
+  ],
   "songkick": null,
   "vocadb": 85104
  },
  "Monochrome Media": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "MediaMonochrome",
+   "Monochrome",
+   "Monochrome Media"
+  ],
   "songkick": null,
   "vocadb": 143881
  },
@@ -1080,6 +1487,9 @@
  "Mosaic.Wav": {
   "checked": "2026-10-09",
   "mbid": "b75c2432-6a6f-489b-83d2-05f55631cf09",
+  "names": [
+   "MOSAIC.WAV"
+  ],
   "songkick": null,
   "vocadb": 1452
  },
@@ -1099,6 +1509,17 @@
  "NAKISO": {
   "checked": "2026-10-09",
   "mbid": "d83f0015-ac34-4916-8449-eb315bead6ba",
+  "names": [
+   "Kose",
+   "NAKISO",
+   "n/a archive",
+   "なきそ",
+   "ななきそなきそ",
+   "輝星",
+   "나나키소나키소",
+   "나키소",
+   "키세이"
+  ],
   "songkick": "10382391-nakiso",
   "vocadb": 64141
  },
@@ -1141,6 +1562,24 @@
  "Nanahoshi Orchestra": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Fujun Isei KouyuuP",
+   "HujuniseikouyuuP",
+   "Iwami Takashi",
+   "Monaka",
+   "Nanahoshi Kangengakudan",
+   "Nanahoshi Orchestra",
+   "Nanahoshikanngenngakudan",
+   "Riku Iwami",
+   "monaka927",
+   "sosite_iwamikun",
+   "ナナホシ管弦楽団",
+   "不純異性交遊P",
+   "岩見陸",
+   "나나호시 관현악단",
+   "불순이성교제P",
+   "이와미 타카시"
+  ],
   "songkick": null,
   "vocadb": 21
  },
@@ -1153,6 +1592,24 @@
  "Nanahoshikanngenngakudan": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Fujun Isei KouyuuP",
+   "HujuniseikouyuuP",
+   "Iwami Takashi",
+   "Monaka",
+   "Nanahoshi Kangengakudan",
+   "Nanahoshi Orchestra",
+   "Nanahoshikanngenngakudan",
+   "Riku Iwami",
+   "monaka927",
+   "sosite_iwamikun",
+   "ナナホシ管弦楽団",
+   "不純異性交遊P",
+   "岩見陸",
+   "나나호시 관현악단",
+   "불순이성교제P",
+   "이와미 타카시"
+  ],
   "songkick": null,
   "vocadb": 21
  },
@@ -1165,12 +1622,25 @@
  "Nayutalien": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Nayuta Seiji",
+   "NayutalieN",
+   "Nayutan Alien",
+   "Nayutan Seijin",
+   "ナユタ セイジ",
+   "ナユタン星人",
+   "奶油糖星人",
+   "나유탄 성인"
+  ],
   "songkick": null,
   "vocadb": 36280
  },
  "Neko Hacker": {
   "checked": "2026-10-09",
   "mbid": "5a4e1091-6bee-4be1-9891-314c13efe575",
+  "names": [
+   "Neko Hacker"
+  ],
   "songkick": "10121375-neko-hacker",
   "vocadb": 120767
  },
@@ -1185,6 +1655,12 @@
  "Nilfruits": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "NILFRUITS",
+   "Niru Kajitsu",
+   "煮ル果実",
+   "니루 카지츠"
+  ],
   "songkick": null,
   "vocadb": 64434
  },
@@ -1207,12 +1683,20 @@
  "ODDEEO": {
   "checked": "2026-10-09",
   "mbid": "20447fd3-7960-469b-beb2-d7a31d377427",
+  "names": [
+   "=ODDEEO=",
+   "ODDEEO",
+   "オデオ"
+  ],
   "songkick": null,
   "vocadb": 32642
  },
  "OK Glass": {
   "checked": "2026-10-09",
   "mbid": "2e4fe13f-6c9d-4a7d-a3a7-8694167b83b3",
+  "names": [
+   "OK GLASS"
+  ],
   "songkick": null,
   "vocadb": 163982
  },
@@ -1238,6 +1722,14 @@
  "Otonashi AF": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Otonashi AF",
+   "Otonashi Afu",
+   "afterifk",
+   "asterisk07281",
+   "あふたりふく",
+   "音無あふ"
+  ],
   "songkick": null,
   "vocadb": 91914
  },
@@ -1250,6 +1742,13 @@
  "PEPOYO": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "PEPOYO",
+   "ぺぽよ",
+   "ペポヨ",
+   "低頭身P",
+   "페포요"
+  ],
   "songkick": null,
   "vocadb": 90014
  },
@@ -1268,6 +1767,16 @@
  "Parang": {
   "checked": "2026-10-09",
   "mbid": "8475b2b4-2074-4ad2-b88b-599a2d7d28ea",
+  "names": [
+   "Parang",
+   "arecore",
+   "jin",
+   "ぱらん",
+   "アレコレ",
+   "パラング",
+   "진",
+   "파랑"
+  ],
   "songkick": "10399744-parang",
   "vocadb": 87353
  },
@@ -1303,18 +1812,37 @@
  "PinocchioP": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "DAIHAKKEN",
+   "Konbu",
+   "Kudou Daihakken",
+   "PinocchioP",
+   "ピノキオP",
+   "ピノキオピー",
+   "匹诺曹P",
+   "工藤大発見",
+   "昆布",
+   "피노키오피"
+  ],
   "songkick": "10297988-pinocchiop",
   "vocadb": 28
  },
  "Pips": {
   "checked": "2026-10-09",
   "mbid": "ca825016-f7fd-4ccf-a523-6ee36ea88828",
+  "names": [
+   "Akipip0",
+   "pips"
+  ],
   "songkick": "151741",
   "vocadb": 146357
  },
  "Pizza-P!": {
   "checked": "2026-10-09",
   "mbid": "ae9ce750-5926-49d0-8d76-0b180d7254d9",
+  "names": [
+   "Pizza-P!"
+  ],
   "songkick": null,
   "vocadb": 182669
  },
@@ -1337,18 +1865,42 @@
  "PolyphonicBranch": {
   "checked": "2026-10-09",
   "mbid": "2a2820e3-b936-4c1d-9150-b5774aab1030",
+  "names": [
+   "PB",
+   "Polypho",
+   "PolyphonicBranch",
+   "Yamaue Tomoya",
+   "ぽりふぉ",
+   "山上智矢",
+   "폴리포"
+  ],
   "songkick": null,
   "vocadb": 311
  },
  "Ponchi♪": {
   "checked": "2026-10-09",
   "mbid": "bcee3691-b2e7-4c4f-83fa-21c62bae0bfd",
+  "names": [
+   "Ponchi♪"
+  ],
   "songkick": null,
   "vocadb": 61538
  },
  "Porter Robinson": {
   "checked": "2026-10-09",
   "mbid": "4ae36ade-1798-48c4-b06b-cc68b7d3d83f",
+  "names": [
+   "Air2Earth",
+   "Antigon Moore",
+   "Audiomission",
+   "Bloodsphere",
+   "DJ Not Porter Robinson",
+   "Ekowraith",
+   "Porter Robinson",
+   "Porter Weston Robinson",
+   "Porter-P",
+   "Virtual Self"
+  ],
   "songkick": "3821916",
   "vocadb": 21483
  },
@@ -1379,6 +1931,12 @@
  "Queen": {
   "checked": "2026-10-09",
   "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+  "names": [
+   "Queen",
+   "Yasai-Chan",
+   "くいーん",
+   "野菜ちゃん"
+  ],
   "songkick": "469904",
   "vocadb": 96763
  },
@@ -1398,12 +1956,29 @@
  "REDALiCE": {
   "checked": "2026-10-09",
   "mbid": "0f26f5d0-488a-4952-ab27-b6c68501d04b",
+  "names": [
+   "Akai Hito",
+   "DJ Nagai",
+   "REDALiCE",
+   "赤いひと"
+  ],
   "songkick": "142567-redalice",
   "vocadb": 1470
  },
  "RISH": {
   "checked": "2026-10-09",
   "mbid": "89f059c7-660c-4547-b3df-19528d93e610",
+  "names": [
+   "Kotono Harukana",
+   "Neko ni Tamanegi wo",
+   "Rish",
+   "Risshuu",
+   "rissyuu",
+   "コトノハルカナ",
+   "桜庭 紫春",
+   "猫に玉ネギを",
+   "立秋"
+  ],
   "songkick": "8678919-rish",
   "vocadb": 998
  },
@@ -1428,12 +2003,20 @@
  "Riproducer": {
   "checked": "2026-10-09",
   "mbid": "1203d8cd-fe94-4551-b297-c3e5b6bce8f8",
+  "names": [
+   "R.I.P",
+   "Really Introverted Producer",
+   "Riproducer"
+  ],
   "songkick": null,
   "vocadb": 61134
  },
  "RiraN": {
   "checked": "2026-10-09",
   "mbid": "7b2432a2-3472-491f-b082-9225937496db",
+  "names": [
+   "RiraN"
+  ],
   "songkick": "10401855-riran",
   "vocadb": 123153
  },
@@ -1446,24 +2029,57 @@
  "RoughSketch": {
   "checked": "2026-10-09",
   "mbid": "c62f034f-54dd-4435-8fea-d94268d6d9b8",
+  "names": [
+   "DJ Laugh",
+   "RoughSketch",
+   "Shouhei Uno",
+   "uno",
+   "宇野将平"
+  ],
   "songkick": null,
   "vocadb": 2085
  },
  "Ryu*": {
   "checked": "2026-10-09",
   "mbid": "1691c4a6-30c0-45f5-a438-281440aded59",
+  "names": [
+   "255",
+   "DJ DOALA",
+   "DJ KYO-TO",
+   "KONEKO PROJECT",
+   "Kraken",
+   "Levaslater",
+   "Nakahara Ryutarou",
+   "Nogard*",
+   "Ryu*",
+   "Ryu☆",
+   "Seiryuu",
+   "tūmahaB",
+   "なかはら りゅたろ",
+   "中原龍太郎",
+   "刘高兴",
+   "青龍"
+  ],
   "songkick": "83812-ryu",
   "vocadb": 540
  },
  "SAKURAmoti": {
   "checked": "2026-10-09",
   "mbid": "743615f5-16b5-4e8d-a8ab-5cdc74adea4d",
+  "names": [
+   "SAKURAmoti",
+   "SKR_motimoti"
+  ],
   "songkick": null,
   "vocadb": 80539
  },
  "SAWTOWNE": {
   "checked": "2026-10-09",
   "mbid": "31b60257-e0ab-42c6-97ee-3458b741c81e",
+  "names": [
+   "SAW",
+   "SAWTOWNE"
+  ],
   "songkick": null,
   "vocadb": 79721
  },
@@ -1476,12 +2092,23 @@
  "STEAKA": {
   "checked": "2026-10-09",
   "mbid": "7b966cbf-ffd4-4d4c-b563-b8a48a6b0705",
+  "names": [
+   "STEAKA",
+   "捨て垢"
+  ],
   "songkick": null,
   "vocadb": 97975
  },
  "STM": {
   "checked": "2026-10-09",
   "mbid": "88732aa1-50a8-4f36-9277-03d6761afad1",
+  "names": [
+   "DJ Sky",
+   "STM",
+   "STMOfficialPH",
+   "SVILLAXE",
+   "SVLLX"
+  ],
   "songkick": "818042-stm",
   "vocadb": 194794
  },
@@ -1500,6 +2127,13 @@
  "Sakuzyo": {
   "checked": "2026-10-09",
   "mbid": "f55e711b-482e-4516-88d6-e9d6ffcd48f1",
+  "names": [
+   "Is Kingdom",
+   "SKz",
+   "Sakuzyo",
+   "reayfia",
+   "削除"
+  ],
   "songkick": null,
   "vocadb": 2220
  },
@@ -1512,12 +2146,23 @@
  "Sasuke Haraguchi": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Haraguchi Sasuke",
+   "SASUKE",
+   "原口沙輔",
+   "하라구치 사스케"
+  ],
   "songkick": "10311341-sasuke-haraguchi",
   "vocadb": 123316
  },
  "Satsuki ga Tenkomori": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Satsuki ga Tenkomori",
+   "TENKOMORI",
+   "さつき が てんこもり"
+  ],
   "songkick": null,
   "vocadb": 95
  },
@@ -1536,6 +2181,10 @@
  "ShibayanRecords": {
   "checked": "2026-10-09",
   "mbid": "b2ef6a85-5a8f-47cb-b720-7412ff7150a7",
+  "names": [
+   "Shibayan Records",
+   "ShibayanRecords"
+  ],
   "songkick": null,
   "vocadb": 3163
  },
@@ -1560,18 +2209,38 @@
  "Shogo Nomura": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Shogo Nomura"
+  ],
   "songkick": null,
   "vocadb": 121440
  },
  "Sobrem": {
   "checked": "2026-10-09",
   "mbid": "2b9069f5-966c-4ad4-8392-4a9ce8f6327a",
+  "names": [
+   "Sobrem",
+   "Widowmaker",
+   "innkeeper",
+   "w_tre"
+  ],
   "songkick": null,
   "vocadb": 130611
  },
  "Something's off with my Vocaloid": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Ishikawa Uchino",
+   "OddSynthGirl",
+   "Something's off with my Vocaloid",
+   "Uchi no Vocalo wa Yousu ga Okashii",
+   "うちのボカロは様子がおかしい",
+   "我的VOCALOID有点奇怪",
+   "石川うちの",
+   "우리 보카로가 뭔가 이상해",
+   "이시카와 우치노"
+  ],
   "songkick": null,
   "vocadb": 190849
  },
@@ -1590,6 +2259,10 @@
  "Staircatte": {
   "checked": "2026-10-09",
   "mbid": "39d42ff7-50cd-4daf-b2f0-a4ecd517c528",
+  "names": [
+   "Staircat",
+   "Staircatte"
+  ],
   "songkick": null,
   "vocadb": 82924
  },
@@ -1607,6 +2280,16 @@
   "checked": "2026-10-09",
   "lock": true,
   "mbid": null,
+  "names": [
+   "DJ Tak",
+   "DORIDORI",
+   "Han Wontak",
+   "TAK",
+   "Tak",
+   "Wontak Han",
+   "탁",
+   "한원탁"
+  ],
   "note": "koreański producent Vocaloid (탁, Han Wontak); Songkick/MB niepewne",
   "songkick": null,
   "vocadb": 144288
@@ -1626,6 +2309,10 @@
  "THØRNS": {
   "checked": "2026-10-09",
   "mbid": "8e38cc05-883a-456c-ab47-73082a999370",
+  "names": [
+   "THORNS",
+   "THØRNS"
+  ],
   "songkick": null,
   "vocadb": 123443
  },
@@ -1638,12 +2325,20 @@
  "TOOBOE": {
   "checked": "2026-10-09",
   "mbid": "8b157ad6-58fe-4536-9c81-39f6f7914280",
+  "names": [
+   "TOOBOE",
+   "john"
+  ],
   "songkick": null,
   "vocadb": 72348
  },
  "TRAP CHICK": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "TRAP CHICK",
+   "트랩칙"
+  ],
   "songkick": null,
   "vocadb": 162006
  },
@@ -1656,12 +2351,23 @@
  "TUYU": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "tuyu",
+   "かしまチュリ",
+   "つゆり"
+  ],
   "songkick": null,
   "vocadb": 194100
  },
  "Takafumi Sato": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "BNSI（佐藤貴文）",
+   "Takafumi Sato",
+   "Takafumi Satou",
+   "佐藤貴文"
+  ],
   "songkick": null,
   "vocadb": 66892
  },
@@ -1672,18 +2378,31 @@
  "Toby Fox": {
   "checked": "2026-10-09",
   "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+  "names": [
+   "Toby \"Radiation\" Fox",
+   "Toby Fox",
+   "U.Z. INU"
+  ],
   "songkick": "9235669-toby-fox",
   "vocadb": 23205
  },
  "Toccoyaki": {
   "checked": "2026-10-09",
   "mbid": "94fd891f-2945-47bb-8b4a-788f89ab259c",
+  "names": [
+   "Toccoyaki"
+  ],
   "songkick": null,
   "vocadb": 126034
  },
  "Tokyo Manaka": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Tokyo Late Night Pop",
+   "Tokyo Manaka",
+   "東京真中"
+  ],
   "songkick": null,
   "vocadb": 144555
  },
@@ -1702,6 +2421,10 @@
  "U-ske": {
   "checked": "2026-10-09",
   "mbid": "69f5b831-0da3-4f03-88ea-b327e64bc26f",
+  "names": [
+   "U-ske",
+   "oga"
+  ],
   "songkick": null,
   "vocadb": 329
  },
@@ -1737,18 +2460,34 @@
  "UtataP": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "UtataP",
+   "t.Komine",
+   "うたたP"
+  ],
   "songkick": null,
   "vocadb": 295
  },
  "VISUAL ARTS / Key": {
   "checked": "2026-10-09",
   "mbid": "b8fec83f-5e7d-4efe-955c-0958f528774b",
+  "names": [
+   "keY"
+  ],
   "songkick": "519146-visual-arts",
   "vocadb": 48828
  },
  "Vane Lily": {
   "checked": "2026-10-09",
   "mbid": "ebdc2124-09ef-4540-803e-a30d059eac5e",
+  "names": [
+   "I0LITE",
+   "Magi",
+   "Nessa",
+   "Vane",
+   "Vane Lily",
+   "Vanelily"
+  ],
   "songkick": null,
   "vocadb": 57128
  },
@@ -1759,6 +2498,11 @@
  "VocaloKAT": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "KAT",
+   "Katachi P",
+   "VocaloKAT"
+  ],
   "songkick": null,
   "vocadb": 82200
  },
@@ -1771,6 +2515,20 @@
  "Wonderful★opportunity!": {
   "checked": "2026-10-09",
   "mbid": "67790b55-7e62-432a-9059-24c6bc7e385d",
+  "names": [
+   "WAN☆OPO!",
+   "WONDERFUL★OPPORTUNITY!",
+   "WON☆OPO!",
+   "wanopo",
+   "ワン★オポ！",
+   "ワン☆オポ！",
+   "ワンオポ",
+   "ワンダフル★オポチュニティ！",
+   "ワンダフル☆オポチュニティ！",
+   "원더풀★오퍼츄니티!",
+   "원더풀★오퍼튜니티!",
+   "원오퍼"
+  ],
   "songkick": null,
   "vocadb": 675
  },
@@ -1790,6 +2548,10 @@
  "YACA IN DA HOUSE": {
   "checked": "2026-10-09",
   "mbid": "fa470a1d-b147-412e-aa1e-af470efdc9b4",
+  "names": [
+   "YACA IN DA HOUSE",
+   "Yaca"
+  ],
   "songkick": null,
   "vocadb": 131059
  },
@@ -1797,18 +2559,27 @@
   "bandsintown": "https://www.bandsintown.com/a/15532499",
   "checked": "2026-10-09",
   "mbid": "df6c619f-4334-43e2-8b6a-4a32af1e4f85",
+  "names": [
+   "YOASOBI"
+  ],
   "songkick": "8167118-yoasobi",
   "vocadb": 81794
  },
  "YUKIYANAGI": {
   "checked": "2026-10-09",
   "mbid": "761b81b4-76af-4f0a-8157-d9518caa183e",
+  "names": [
+   "YUKIYANAGI"
+  ],
   "songkick": "10124961-yukiyanagi",
   "vocadb": 102146
  },
  "Yakui The Maid": {
   "checked": "2026-10-09",
   "mbid": "fbe5a7e6-51e0-4306-ae69-146a1645b66c",
+  "names": [
+   "Yakui The Maid"
+  ],
   "songkick": null,
   "vocadb": 58768
  },
@@ -1825,30 +2596,64 @@
  "Yoshida Yasei": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Yasson",
+   "Yoruyo",
+   "Yoshida Yasei",
+   "Yoshida Yassei",
+   "otgys",
+   "ヨシダヤセイ",
+   "吉田夜世",
+   "요시다 야세이"
+  ],
   "songkick": "10330861-yoshida-yasei",
   "vocadb": 77950
  },
  "Yunomi": {
   "checked": "2026-10-09",
   "mbid": "582beb32-3cfe-4ba7-9f69-846fac7e7ec7",
+  "names": [
+   "EMERGENCY",
+   "Yunomi",
+   "tkrism",
+   "ゆのみ"
+  ],
   "songkick": "10121376-yunomi",
   "vocadb": 53389
  },
  "Yunosuke": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Yunosuke",
+   "雄之助",
+   "유노스케"
+  ],
   "songkick": null,
   "vocadb": 23981
  },
  "Yuuyu": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Yuuna Sasara",
+   "Yuuyu",
+   "ゆうゆ",
+   "カガリ鳥",
+   "仮乃スガタ",
+   "篠螺悠那",
+   "美月正",
+   "유우유"
+  ],
   "songkick": null,
   "vocadb": 66
  },
  "ZAQ": {
   "checked": "2026-10-09",
   "mbid": "5b7f97ee-1e50-4764-9704-7450eda4fd16",
+  "names": [
+   "zaq"
+  ],
   "songkick": "9782704-zaq",
   "vocadb": 61369
  },
@@ -1861,18 +2666,49 @@
  "beatMARIO / COOL&CREATE": {
   "checked": "2026-10-09",
   "mbid": "bdcab79b-b4f8-4040-9546-7aca2ee0378e",
+  "names": [
+   "beatMARIO",
+   "ビートまりお",
+   "비트마리오"
+  ],
   "songkick": null,
   "vocadb": 13083
  },
  "blaxervant": {
   "checked": "2026-10-09",
   "mbid": "2366b1fc-930c-46d0-adfa-8dd9ce6417b6",
+  "names": [
+   "DJ NECOJITA",
+   "Kobaryo",
+   "MADOKABEKSINSKI",
+   "Matatabi Sound System",
+   "Nyankovsky",
+   "Persian Groovies",
+   "Rei Furuba",
+   "Shinonome Interface",
+   "Srezcat",
+   "Toka Hebizuka",
+   "blaxervant",
+   "古葉玲",
+   "窓壁九真好キ",
+   "蛇塚 透花"
+  ],
   "songkick": null,
   "vocadb": 65298
  },
  "chinoi momone": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Chinoi",
+   "Chinoi Momone",
+   "Togenkyoyasan",
+   "momone chinoi",
+   "momosepu",
+   "ul0ux",
+   "ちのい",
+   "桃寝ちのい"
+  ],
   "songkick": null,
   "vocadb": 95009
  },
@@ -1880,30 +2716,59 @@
   "checked": "2026-10-09",
   "lock": true,
   "mbid": "6f70644a-87e4-47dd-980a-4fde3a65f819",
+  "names": [
+   "Choko"
+  ],
   "songkick": null,
   "vocadb": 136599
  },
  "cosMo@Bousou-P": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "BousouP",
+   "Kuroneko Antique",
+   "cosMo",
+   "cosMo@BousouP",
+   "cosMo@暴走P",
+   "cosMo@폭주P",
+   "こすも",
+   "コスモ",
+   "暴走P",
+   "魔法少女P",
+   "黒猫アンティーク"
+  ],
   "songkick": null,
   "vocadb": 85
  },
  "d0tc0mmie": {
   "checked": "2026-10-20",
   "mbid": "fb7242e9-180d-4c6c-8121-43428fc591a2",
+  "names": [
+   "Commie",
+   "Dotchan",
+   "Dotcommie",
+   "d0tc0mmie",
+   "ドットコミ"
+  ],
   "songkick": null,
   "vocadb": 124484
  },
  "electrovoid": {
   "checked": "2026-10-09",
   "mbid": "daef0432-d234-4eac-8f21-d74a4adf93e7",
+  "names": [
+   "electrovoid"
+  ],
   "songkick": null,
   "vocadb": 128267
  },
  "fhána": {
   "checked": "2026-10-09",
   "mbid": "0879ca44-f3eb-4553-a689-4ec10354bed2",
+  "names": [
+   "fhána"
+  ],
   "songkick": "10081120-fhana",
   "vocadb": 1259
  },
@@ -1922,18 +2787,30 @@
  "gaburyu": {
   "checked": "2026-10-09",
   "mbid": "11c14cc0-595c-4bef-bc26-728df419698e",
+  "names": [
+   "NothingYet",
+   "gaburyu",
+   "ぷぐ"
+  ],
   "songkick": "10254179-gaburyu",
   "vocadb": 51653
  },
  "higma": {
   "checked": "2026-10-09",
   "mbid": "139e3035-e39a-45f4-8d9e-8f459e518356",
+  "names": [
+   "higma",
+   "pai"
+  ],
   "songkick": null,
   "vocadb": 72270
  },
  "hiroki.": {
   "checked": "2026-10-09",
   "mbid": "e44840b9-574f-4c24-9fe5-162abe86cf5d",
+  "names": [
+   "hiroki."
+  ],
   "songkick": "569631-hiroki",
   "vocadb": 91440
  },
@@ -1946,30 +2823,56 @@
  "hya": {
   "checked": "2026-10-09",
   "mbid": "65b30995-33ba-4145-97c7-f521eec1905e",
+  "names": [
+   "hyA",
+   "hya"
+  ],
   "songkick": null,
   "vocadb": 124590
  },
  "iroha(sasaki)": {
   "checked": "2026-10-09",
   "mbid": "2e50697d-e1fd-460c-86e5-eb6f58b57443",
+  "names": [
+   "IRoHa",
+   "tsu.iroha",
+   "tsu_iroha",
+   "いろは"
+  ],
   "songkick": "2779226-iroha",
   "vocadb": 112192
  },
  "irucaice": {
   "checked": "2026-10-09",
   "mbid": "45a4d098-164f-4026-a4bb-2dc9eb56b2e9",
+  "names": [
+   "dolphin ice cream",
+   "irucaice",
+   "いるかアイス",
+   "이루카아이스"
+  ],
   "songkick": null,
   "vocadb": 43375
  },
  "jon-YAKITORY": {
   "checked": "2026-10-10",
   "mbid": "af1b35f6-7cfa-4f2f-a57b-364b7406de89",
+  "names": [
+   "jon",
+   "jon-YAKITORY",
+   "jon_408"
+  ],
   "songkick": null,
   "vocadb": 9917
  },
  "kinoshita": {
   "checked": "2026-10-09",
   "mbid": "060ec49d-ba3b-4ce8-b120-7a113a9ecb50",
+  "names": [
+   "kinoshita",
+   "キノシタ",
+   "키노시타"
+  ],
   "songkick": null,
   "vocadb": 49740
  },
@@ -1982,18 +2885,34 @@
  "kors k": {
   "checked": "2026-10-09",
   "mbid": "e510ca2c-0f26-4b02-9050-d4a07fd3e46c",
+  "names": [
+   "Saitou Kousuke",
+   "kors K",
+   "斎藤広祐"
+  ],
   "songkick": "198986-kors-k",
   "vocadb": 606
  },
  "lapix": {
   "checked": "2026-11-03",
   "mbid": "790514fd-422b-4d8e-b85e-ba1fb56e6c5b",
+  "names": [
+   "HiTECH NINJA",
+   "lapix"
+  ],
   "songkick": null,
   "vocadb": 13345
  },
  "maoneko": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "MA-ON",
+   "Maoneko",
+   "NEKOZUME",
+   "まお猫",
+   "猫猫"
+  ],
   "songkick": null,
   "vocadb": 72029
  },
@@ -2019,6 +2938,13 @@
  "mochiutsune": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "mochiutsune",
+   "もちうつね",
+   "もちピ",
+   "饼郁寝",
+   "모치우츠네"
+  ],
   "songkick": null,
   "vocadb": 106833
  },
@@ -2031,24 +2957,42 @@
  "munina": {
   "checked": "2026-10-09",
   "mbid": "6a07712f-4668-4a5a-9fae-c3d0cb3d7ae6",
+  "names": [
+   "munina"
+  ],
   "songkick": null,
   "vocadb": 130185
  },
  "nekozume": {
   "checked": "2026-10-09",
   "mbid": "4a88066b-5213-48fd-85f0-289bdba95e58",
+  "names": [
+   "MA-ON",
+   "Maoneko",
+   "NEKOZUME",
+   "まお猫",
+   "猫猫"
+  ],
   "songkick": null,
   "vocadb": 72029
  },
  "nora2r": {
   "checked": "2026-10-09",
   "mbid": "b311e4b3-69bf-49cb-8a3c-d27d0405c503",
+  "names": [
+   "nora2r"
+  ],
   "songkick": null,
   "vocadb": 145725
  },
  "nyankobrq": {
   "checked": "2026-10-09",
   "mbid": "b7a894b7-c9c6-49c8-aed1-eb166b537610",
+  "names": [
+   "Bread",
+   "nyankobrq",
+   "ブレッド"
+  ],
   "songkick": null,
   "vocadb": 35943
  },
@@ -2061,42 +3005,94 @@
  "picco": {
   "checked": "2026-10-09",
   "mbid": "9261d48b-56f1-4c99-a751-29b4233b879f",
+  "names": [
+   "picco"
+  ],
   "songkick": "875119-picco",
   "vocadb": 58987
  },
  "r-906": {
   "checked": "2026-10-09",
   "mbid": "3d00a629-1faa-44b2-9d52-eabc45ff8395",
+  "names": [
+   "arukuremu",
+   "r-906",
+   "あるくれむ",
+   "あーるきゅうぜろろく",
+   "あーるきゅうまるろく",
+   "あーるきゅうれいろく",
+   "きゅーまる"
+  ],
   "songkick": null,
   "vocadb": 66139
  },
  "rerulili": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Sasaki Kouhei",
+   "ToushahiP",
+   "rerulili",
+   "れるりり",
+   "ゴールデン銀閣寺",
+   "佐々木貢平",
+   "当社比P",
+   "레루리리"
+  ],
   "songkick": null,
   "vocadb": 712
  },
  "rissyuu": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Kotono Harukana",
+   "Neko ni Tamanegi wo",
+   "Rish",
+   "Risshuu",
+   "rissyuu",
+   "コトノハルカナ",
+   "桜庭 紫春",
+   "猫に玉ネギを",
+   "立秋"
+  ],
   "songkick": null,
   "vocadb": 998
  },
  "rumaki": {
   "checked": "2026-10-09",
   "mbid": "37a44d2f-34b1-447d-a257-5e8950aeb4d1",
+  "names": [
+   "good_morninged",
+   "rumaki",
+   "trash_chang",
+   "るまき"
+  ],
   "songkick": null,
   "vocadb": 139871
  },
  "rusino": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Hyoudou",
+   "icyeast",
+   "rusino",
+   "ルシノ",
+   "氷東",
+   "루시노"
+  ],
   "songkick": null,
   "vocadb": 80974
  },
  "ryo (supercell)": {
   "checked": "2026-10-09",
   "mbid": "9b15ff5e-5bd1-43c2-821d-e31240aad334",
+  "names": [
+   "B/3",
+   "Ryo",
+   "さんぶんのびー"
+  ],
   "songkick": "461237-ryo",
   "vocadb": 67067
  },
@@ -2109,6 +3105,13 @@
  "sasakure.UK": {
   "checked": "2026-10-09",
   "mbid": "a2c9ccdc-bf05-4ffb-8201-57f81322852e",
+  "names": [
+   "TJ.Hangneil",
+   "sasakure.UK",
+   "ささくれP",
+   "ささくれUK",
+   "ササクレ・ユーケイ"
+  ],
   "songkick": null,
   "vocadb": 51
  },
@@ -2121,18 +3124,41 @@
  "suzie": {
   "checked": "2026-10-09",
   "mbid": "180fc11e-f280-4a7d-a0dd-79870acb791f",
+  "names": [
+   "chinjireta",
+   "fartbottler99",
+   "suzie",
+   "tidiku",
+   "スーズィー"
+  ],
   "songkick": "11786-suzie",
   "vocadb": 72821
  },
  "t+pazolite": {
   "checked": "2026-10-09",
   "mbid": "d72ae77d-ca32-498d-870e-8204165b8ee4",
+  "names": [
+   "DJ Pixie",
+   "Edamame",
+   "Infinity Lovewn☆",
+   "Saisoku",
+   "t+pazolite",
+   "tpa:pbr",
+   "tpz",
+   "とぱぞらいと",
+   "最速"
+  ],
   "songkick": null,
   "vocadb": 1426
  },
  "tamaki": {
   "checked": "2026-10-09",
   "mbid": "ec34067b-b3a8-4580-9f76-577d6e5e4e00",
+  "names": [
+   "SaneRuiSimp",
+   "Tamaki-P",
+   "TenmaRouvas"
+  ],
   "songkick": null,
   "vocadb": 145962
  },
@@ -2151,24 +3177,45 @@
  "tofubeats": {
   "checked": "2026-10-10",
   "mbid": "6c6869ac-cd89-4740-b808-949bff1652fa",
+  "names": [
+   "Kawai Yuusuke",
+   "The Best Vacation Resort Hotels",
+   "blu-ra¥",
+   "dj newtown",
+   "tofubeats",
+   "河合佑亮"
+  ],
   "songkick": "5638979",
   "vocadb": 9571
  },
  "vally.exe": {
   "checked": "2026-10-09",
   "mbid": "47c2ec53-b946-4a91-a05e-ce04a5706eb1",
+  "names": [
+   "Vally",
+   "valley.exe",
+   "vally.exe"
+  ],
   "songkick": null,
   "vocadb": 83931
  },
  "wotaku": {
   "checked": "2026-10-09",
   "mbid": "9363e137-212a-4d0c-8a05-53fba20c72c9",
+  "names": [
+   "wotaku"
+  ],
   "songkick": null,
   "vocadb": 60331
  },
  "wowaka": {
   "checked": "2026-10-09",
   "mbid": "85642e3c-8e39-437c-8b4f-ae4a16d19d21",
+  "names": [
+   "GenjitsutouhiP",
+   "wowaka",
+   "現実逃避P"
+  ],
   "songkick": null,
   "vocadb": 53
  },
@@ -2181,18 +3228,34 @@
  "yoshimoto ojisan": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "Yoshimoto Ojisan",
+   "吉本おじさん"
+  ],
   "songkick": "10377431-yoshimoto-ojisan",
   "vocadb": 159399
  },
  "youman": {
   "checked": "2026-10-09",
   "mbid": "68e3694c-6100-4d71-9c98-d0281bf30a60",
+  "names": [
+   "You",
+   "youman",
+   "youまん",
+   "you맨"
+  ],
   "songkick": null,
   "vocadb": 66304
  },
  "youまん": {
   "checked": "2026-10-09",
   "mbid": "60981052-9486-4af0-af1a-c4f1e19ac390",
+  "names": [
+   "You",
+   "youman",
+   "youまん",
+   "you맨"
+  ],
   "songkick": null,
   "vocadb": 66304
  },
@@ -2217,18 +3280,39 @@
  "いのうつはSA": {
   "checked": "2026-10-09",
   "mbid": "29710f5f-01eb-4361-b7c6-6218722d02d3",
+  "names": [
+   "Inou TsuhaSA",
+   "InoutsuhaSA",
+   "Inoutuha Service Area",
+   "inoutsuhaSA",
+   "inoutuhaSA",
+   "nantoka_SA",
+   "いのうつはSA",
+   "いのうつはサービスエリア"
+  ],
   "songkick": null,
   "vocadb": 144167
  },
  "いめ44": {
   "checked": "2026-10-09",
   "mbid": "dd526048-b8d8-4f77-aa94-b9a0589d3fcd",
+  "names": [
+   "image44",
+   "ime44",
+   "motijan",
+   "いめ44"
+  ],
   "songkick": null,
   "vocadb": 106996
  },
  "いよわ": {
   "checked": "2026-10-09",
   "mbid": "44449473-2e78-42ba-b510-7124c1bc796c",
+  "names": [
+   "iyowa",
+   "いよわ",
+   "이요와"
+  ],
   "songkick": null,
   "vocadb": 65229
  },
@@ -2241,12 +3325,22 @@
  "えいぷ": {
   "checked": "2026-10-09",
   "mbid": "f998e008-97d9-4dec-a5f3-961f0124b956",
+  "names": [
+   "Eipu",
+   "えいぷ",
+   "에이푸"
+  ],
   "songkick": null,
   "vocadb": 127103
  },
  "えいぷ (eip)": {
   "checked": "2026-10-09",
   "mbid": "f998e008-97d9-4dec-a5f3-961f0124b956",
+  "names": [
+   "Eipu",
+   "えいぷ",
+   "에이푸"
+  ],
   "songkick": null,
   "vocadb": 127103
  },
@@ -2259,18 +3353,43 @@
  "きくお": {
   "checked": "2026-10-09",
   "mbid": "23987750-a64d-4241-a147-2213890464a2",
+  "names": [
+   "Asian melancholic",
+   "Bottom of Hell",
+   "Hell Bottom",
+   "Jigoku Teihen",
+   "Kikuo",
+   "kikk",
+   "pedo-o",
+   "きくお",
+   "きくおとーん",
+   "きっく",
+   "きっくのショウ・タイム！",
+   "地獄底辺"
+  ],
   "songkick": null,
   "vocadb": 470
  },
  "きくおはな": {
   "checked": "2026-10-09",
   "mbid": "5a4e9791-0d15-4d76-955e-2cf0f5dd2ce7",
+  "names": [
+   "Kikuo to Hanatan",
+   "KikuoHana",
+   "きくおはな"
+  ],
   "songkick": null,
   "vocadb": 150437
  },
  "きさら": {
   "checked": "2026-10-09",
   "mbid": "6584323f-cbeb-48ec-b1fd-e7842f6a15a4",
+  "names": [
+   "KISARA",
+   "kisalaundry",
+   "きさら",
+   "키사라"
+  ],
   "songkick": null,
   "vocadb": 64819
  },
@@ -2283,6 +3402,13 @@
  "さたぱんP": {
   "checked": "2026-10-09",
   "mbid": "6933440a-eff2-4264-a3de-46be1db4fce3",
+  "names": [
+   "Sata",
+   "SatapanP",
+   "satapanpi",
+   "さたぱんP",
+   "사타팡P"
+  ],
   "songkick": null,
   "vocadb": 106047
  },
@@ -2295,6 +3421,15 @@
  "すりぃ": {
   "checked": "2026-10-09",
   "mbid": "feca77ec-288d-4560-b45d-b2406553fd9b",
+  "names": [
+   "3",
+   "Surii",
+   "THREEE",
+   "Three",
+   "iii0303_8",
+   "すりぃ",
+   "스리이"
+  ],
   "songkick": null,
   "vocadb": 64856
  },
@@ -2325,6 +3460,12 @@
  "なみぐる": {
   "checked": "2026-10-09",
   "mbid": "472bed10-2e17-4841-b490-9a5f111b41d3",
+  "names": [
+   "Namiguru",
+   "namigroove",
+   "なみぐる",
+   "나미구루"
+  ],
   "songkick": null,
   "vocadb": 92891
  },
@@ -2337,18 +3478,48 @@
  "はろける": {
   "checked": "2026-10-09",
   "mbid": "0ca7a71f-f6ca-4436-b7a0-459972b4d2d7",
+  "names": [
+   "BPB",
+   "HALLO CEL",
+   "ODD EYE",
+   "eikokoro",
+   "はろける",
+   "하로케루",
+   "할로 켈"
+  ],
   "songkick": null,
   "vocadb": 119157
  },
  "ぽて": {
   "checked": "2026-10-09",
   "mbid": "d0033355-b340-4682-9a8e-8213acc541de",
+  "names": [
+   "pote",
+   "ぽて"
+  ],
   "songkick": null,
   "vocadb": 30828
  },
  "みつあくま": {
   "checked": "2026-10-09",
   "mbid": "804b0918-34a1-42a2-81f0-e1bf7ee22633",
+  "names": [
+   "Acid=Stone Valley",
+   "DJ NIT-CHOCK",
+   "DJ东海",
+   "HiZuMi",
+   "M.I.O",
+   "Mitsuaki Ishitani",
+   "Native Flog",
+   "Sofi",
+   "kamase-tora",
+   "mitsu",
+   "mitsu_akuma",
+   "かませ虎",
+   "みつあくま",
+   "みつてんし",
+   "石谷光章"
+  ],
   "songkick": null,
   "vocadb": 1159
  },
@@ -2379,12 +3550,21 @@
  "オゾン": {
   "checked": "2026-10-09",
   "mbid": "2a185ca9-6241-4c84-b744-3ec7f44f6ba6",
+  "names": [
+   "O-Zone",
+   "OZON",
+   "オゾン"
+  ],
   "songkick": null,
   "vocadb": 63138
  },
  "カミるれ": {
   "checked": "2026-11-03",
   "mbid": "33824e18-e37c-4b3f-a92e-b01ee4610130",
+  "names": [
+   "KARUmire",
+   "カミるれ"
+  ],
   "songkick": null,
   "vocadb": 120843
  },
@@ -2397,6 +3577,13 @@
  "タケノコ少年": {
   "checked": "2026-10-09",
   "mbid": "fb1a6457-dd92-4fcd-a448-b3b69be70e26",
+  "names": [
+   "Bamboo Shoot Boy",
+   "Takenoko Boy",
+   "Takenoko Shonen",
+   "Takenoko Shounen",
+   "タケノコ少年"
+  ],
   "songkick": null,
   "vocadb": 46466
  },
@@ -2409,6 +3596,12 @@
  "ツミキ": {
   "checked": "2026-10-09",
   "mbid": "31ee7f64-3057-4eb5-93a4-7e8e7bc2f4d5",
+  "names": [
+   "23ki",
+   "Tsumiki",
+   "ツミキ",
+   "츠미키"
+  ],
   "songkick": null,
   "vocadb": 63248
  },
@@ -2421,12 +3614,40 @@
  "ナナホシ管弦楽団 (Nanahoshi Orchestra)": {
   "checked": "2026-10-09",
   "mbid": "bb997afe-d3b4-4a25-be80-cf48e9fd7a76",
+  "names": [
+   "Fujun Isei KouyuuP",
+   "HujuniseikouyuuP",
+   "Iwami Takashi",
+   "Monaka",
+   "Nanahoshi Kangengakudan",
+   "Nanahoshi Orchestra",
+   "Nanahoshikanngenngakudan",
+   "Riku Iwami",
+   "monaka927",
+   "sosite_iwamikun",
+   "ナナホシ管弦楽団",
+   "不純異性交遊P",
+   "岩見陸",
+   "나나호시 관현악단",
+   "불순이성교제P",
+   "이와미 타카시"
+  ],
   "songkick": null,
   "vocadb": 21
  },
  "ナユタン星人": {
   "checked": "2026-10-09",
   "mbid": "dacc1893-3dc2-4620-b588-40c5e69373bc",
+  "names": [
+   "Nayuta Seiji",
+   "NayutalieN",
+   "Nayutan Alien",
+   "Nayutan Seijin",
+   "ナユタ セイジ",
+   "ナユタン星人",
+   "奶油糖星人",
+   "나유탄 성인"
+  ],
   "songkick": null,
   "vocadb": 36280
  },
@@ -2445,30 +3666,51 @@
  "ハセガワダイスケ": {
   "checked": "2026-10-09",
   "mbid": "0c4c5644-46ed-4b27-8b04-dce7aa75c57c",
+  "names": [
+   "ハセガワダイスケ"
+  ],
   "songkick": null,
   "vocadb": 7607
  },
  "ヒゲドライバー": {
   "checked": "2026-10-09",
   "mbid": "80eed3c7-a2cd-4735-b05e-625283e44218",
+  "names": [
+   "Hige Driver",
+   "ヒゲドライバー"
+  ],
   "songkick": null,
   "vocadb": 1189
  },
  "ヒゲドライバー (Hige Driver)": {
   "checked": "2026-10-09",
   "mbid": "80eed3c7-a2cd-4735-b05e-625283e44218",
+  "names": [
+   "Hige Driver",
+   "ヒゲドライバー"
+  ],
   "songkick": "6160654-hige-driver",
   "vocadb": 1189
  },
  "ビートまりお": {
   "checked": "2026-10-09",
   "mbid": "c9e79a55-4a23-42b1-af70-d89d29a7e1ad",
+  "names": [
+   "beatMARIO",
+   "ビートまりお",
+   "비트마리오"
+  ],
   "songkick": null,
   "vocadb": 13083
  },
  "ファル公": {
   "checked": "2026-10-09",
   "mbid": null,
+  "names": [
+   "FARUCO",
+   "faruko",
+   "ファル公"
+  ],
   "songkick": null,
   "vocadb": 165706
  },
@@ -2481,30 +3723,59 @@
  "ポリスピカデリー": {
   "checked": "2026-10-09",
   "mbid": "137a8260-0813-42cb-9248-363a74539b00",
+  "names": [
+   "Police Piccadilly",
+   "ポリスピカデリー",
+   "폴리스 피카딜리"
+  ],
   "songkick": null,
   "vocadb": 41371
  },
  "マサラダ": {
   "checked": "2026-10-09",
   "mbid": "feb1930e-4d98-4e7c-8771-58f70edc73d2",
+  "names": [
+   "Masarada",
+   "sisterofoira",
+   "マサラダ",
+   "玛莎拉达",
+   "마사라다"
+  ],
   "songkick": null,
   "vocadb": 121038
  },
  "マサラダ (Masarada)": {
   "checked": "2026-10-09",
   "mbid": "feb1930e-4d98-4e7c-8771-58f70edc73d2",
+  "names": [
+   "Masarada",
+   "sisterofoira",
+   "マサラダ",
+   "玛莎拉达",
+   "마사라다"
+  ],
   "songkick": null,
   "vocadb": 121038
  },
  "ミ瑞": {
   "checked": "2026-10-09",
   "mbid": "8222b506-6eaa-47fe-a73c-639c6600000b",
+  "names": [
+   "Mimizu",
+   "Rirudö",
+   "りーるど",
+   "ミ瑞",
+   "미미즈"
+  ],
   "songkick": null,
   "vocadb": 134807
  },
  "メイプル(伊藤美来)": {
   "checked": "2026-10-09",
   "mbid": "c16f8e30-0476-4d07-971d-f3b96adb1753",
+  "names": [
+   "メイプル"
+  ],
   "songkick": null,
   "vocadb": 94508
  },
@@ -2517,12 +3788,25 @@
  "ワンダーランズ×ショウタイム": {
   "checked": "2026-10-09",
   "mbid": "67d14c7f-310c-4ed9-97de-2f81cf51ce16",
+  "names": [
+   "Wonderlands x Showtime",
+   "Wonderlands×Showtime",
+   "ワンダーランズ×ショウタイム",
+   "원더랜즈x쇼타임",
+   "원더랜즈×쇼타임"
+  ],
   "songkick": null,
   "vocadb": 84505
  },
  "ヴィヴィ(Vo.八木海莉)": {
   "checked": "2026-10-09",
   "mbid": "05fd46fd-3b74-4c9c-b252-ee0587de0a65",
+  "names": [
+   "666",
+   "666 Music Works",
+   "VIVI",
+   "ヴィヴィ"
+  ],
   "songkick": null,
   "vocadb": 11524
  },
@@ -2535,12 +3819,23 @@
  "佐藤ちなみに": {
   "checked": "2026-10-09",
   "mbid": "55e0ea2d-5a60-4cd8-9e20-490bf3a68f0a",
+  "names": [
+   "ByTheWay Sato",
+   "Sato Chinamini",
+   "佐藤ちなみに"
+  ],
   "songkick": null,
   "vocadb": 131303
  },
  "佐藤貴文": {
   "checked": "2026-10-09",
   "mbid": "aa60a912-bb9d-4ffd-9d5a-9445f01f367f",
+  "names": [
+   "BNSI（佐藤貴文）",
+   "Takafumi Sato",
+   "Takafumi Satou",
+   "佐藤貴文"
+  ],
   "songkick": null,
   "vocadb": 66892
  },
@@ -2577,6 +3872,11 @@
  "勇魚": {
   "checked": "2026-10-09",
   "mbid": "ac8f4734-51e6-4f2c-8c9c-3e8f6e16af3e",
+  "names": [
+   "1202Isana",
+   "Isana",
+   "勇魚"
+  ],
   "songkick": null,
   "vocadb": 75138
  },
@@ -2589,6 +3889,13 @@
  "南ノ南": {
   "checked": "2026-10-09",
   "mbid": "0b53914f-b296-437d-85df-1480db5f6399",
+  "names": [
+   "MMCo",
+   "Minami no Minami",
+   "Minami-no-Minami",
+   "南ノ南",
+   "미나미노미나미"
+  ],
   "songkick": null,
   "vocadb": 75330
  },
@@ -2607,6 +3914,16 @@
  "吉田夜世": {
   "checked": "2026-10-09",
   "mbid": "25428ac3-d4be-49e4-98fe-6a131218c153",
+  "names": [
+   "Yasson",
+   "Yoruyo",
+   "Yoshida Yasei",
+   "Yoshida Yassei",
+   "otgys",
+   "ヨシダヤセイ",
+   "吉田夜世",
+   "요시다 야세이"
+  ],
   "songkick": null,
   "vocadb": 77950
  },
@@ -2649,6 +3966,12 @@
  "天音かなた": {
   "checked": "2026-10-09",
   "mbid": "b190e1cd-e924-4f6c-89e9-b30c0d942df3",
+  "names": [
+   "Amane Kanata",
+   "PP天使P",
+   "天音 かなた",
+   "天音かなた"
+  ],
   "songkick": null,
   "vocadb": 118504
  },
@@ -2703,6 +4026,10 @@
  "早川博隆": {
   "checked": "2026-10-09",
   "mbid": "c7ea1d8f-8c0f-4d5b-8c1d-438eb388e608",
+  "names": [
+   "Hayakawa Hirotaka",
+   "早川博隆"
+  ],
   "songkick": null,
   "vocadb": 145718
  },
@@ -2721,30 +4048,53 @@
  "東京真中": {
   "checked": "2026-10-09",
   "mbid": "43f59b24-b355-4c59-ad34-b0044289bf27",
+  "names": [
+   "Tokyo Late Night Pop",
+   "Tokyo Manaka",
+   "東京真中"
+  ],
   "songkick": null,
   "vocadb": 144555
  },
  "東京真中 (Tokyo Manaka)": {
   "checked": "2026-10-09",
   "mbid": "43f59b24-b355-4c59-ad34-b0044289bf27",
+  "names": [
+   "Tokyo Late Night Pop",
+   "Tokyo Manaka",
+   "東京真中"
+  ],
   "songkick": null,
   "vocadb": 144555
  },
  "柊マグネタイト": {
   "checked": "2026-10-09",
   "mbid": "4593be8b-7cf6-4a5e-bc01-c36a1d3bea69",
+  "names": [
+   "Hiiragi Magnetite",
+   "柊マグネタイト"
+  ],
   "songkick": null,
   "vocadb": 83243
  },
  "柊マグネタイト (Hiiragi Magnetite)": {
   "checked": "2026-10-09",
   "mbid": "4593be8b-7cf6-4a5e-bc01-c36a1d3bea69",
+  "names": [
+   "Hiiragi Magnetite",
+   "柊マグネタイト"
+  ],
   "songkick": null,
   "vocadb": 83243
  },
  "柏木カレキ": {
   "checked": "2026-10-09",
   "mbid": "22bd5dbf-924a-4c39-a761-d9d414580269",
+  "names": [
+   "Kareki Kashiwagi",
+   "Kashiwagi Kareki",
+   "柏木カレキ"
+  ],
   "songkick": null,
   "vocadb": 102272
  },
@@ -2781,12 +4131,27 @@
  "烏屋茶房": {
   "checked": "2026-10-09",
   "mbid": "d9e1c1a4-496d-44d6-8efa-aba1654ea785",
+  "names": [
+   "Karasu Yasabou",
+   "Karasuya Sabou",
+   "Karasuya-sabou",
+   "Karasuyasabou",
+   "どっどめ",
+   "カラスヤサボウ",
+   "烏屋茶房"
+  ],
   "songkick": null,
   "vocadb": 849
  },
  "煮ル果実": {
   "checked": "2026-10-09",
   "mbid": "de18cbae-1f60-4318-9687-357005bffc47",
+  "names": [
+   "NILFRUITS",
+   "Niru Kajitsu",
+   "煮ル果実",
+   "니루 카지츠"
+  ],
   "songkick": null,
   "vocadb": 64434
  },
@@ -2829,12 +4194,34 @@
  "稲葉曇": {
   "checked": "2026-10-09",
   "mbid": "46196b9c-affa-4616-b53b-e967c8bd70e0",
+  "names": [
+   "INABAKUMORI",
+   "inabakumori",
+   "稲葉曇",
+   "稻叶昙",
+   "이나바쿠모리"
+  ],
   "songkick": null,
   "vocadb": 46824
  },
  "笹川真生": {
   "checked": "2026-10-09",
   "mbid": "b8d90626-a18a-4b7d-8c62-62e85f914b94",
+  "names": [
+   "Sasagawa Mao",
+   "Touhuya",
+   "mao sasagawa",
+   "mercredi",
+   "nagisa",
+   "なぎさ",
+   "渚mao笹川水曜日",
+   "笹川真央",
+   "笹川真生",
+   "豆腐屋",
+   "나기사",
+   "마오 사사가와",
+   "사사가와 마오"
+  ],
   "songkick": null,
   "vocadb": 10257
  },
@@ -2865,12 +4252,26 @@
  "美波 (Minami)": {
   "checked": "2026-10-09",
   "mbid": "be5ae183-78b6-4564-93e1-553d752d3b84",
+  "names": [
+   "373",
+   "373_ui",
+   "Aiz 373 ui",
+   "Minami",
+   "Minami RoKo",
+   "RoKo",
+   "RoKo373",
+   "みなみ"
+  ],
   "songkick": "10128452-minami",
   "vocadb": 80686
  },
  "花冷え。": {
   "checked": "2026-10-09",
   "mbid": "ce2703e5-34f4-4389-883f-00f8ca2662c2",
+  "names": [
+   "HANABIE.",
+   "花冷え。"
+  ],
   "songkick": null,
   "vocadb": 157088
  },
@@ -2895,6 +4296,10 @@
  "藍川": {
   "checked": "2026-10-09",
   "mbid": "4790a5df-529b-45c5-8e1b-2acfcacd23da",
+  "names": [
+   "Aikawa",
+   "藍川"
+  ],
   "songkick": null,
   "vocadb": 82583
  },
@@ -2907,6 +4312,28 @@
  "藤原ハガネ": {
   "checked": "2026-10-09",
   "mbid": "c7343104-0117-4d14-b5d6-9d661e1aeea5",
+  "names": [
+   "AesoP",
+   "Fujiwara Hagane",
+   "Fujiwara Tetsudo",
+   "IMOKEN",
+   "Imoinu Potato",
+   "Mokake",
+   "Tsutomu",
+   "imokenpotato",
+   "karintoimokenp",
+   "いもけんP",
+   "いもけんポテト",
+   "もかけ",
+   "イソッピー",
+   "ツトム",
+   "フジワラテツドウ",
+   "日進電工",
+   "芋犬P",
+   "芋犬ポテト",
+   "藤原ハガネ",
+   "후지와라 하가네"
+  ],
   "songkick": null,
   "vocadb": 3471
  },
@@ -2967,12 +4394,21 @@
  "麻婆豆腐": {
   "checked": "2026-10-09",
   "mbid": "a29281f9-f820-4eb1-8498-5e7ede9c4b09",
+  "names": [
+   "菜島群情",
+   "麻婆豆腐P"
+  ],
   "songkick": null,
   "vocadb": 103929
  },
  "黒皇帝": {
   "checked": "2026-10-09",
   "mbid": "a2210246-131f-4867-8b68-14740cb25956",
+  "names": [
+   "Kurokotei",
+   "dialgadu77",
+   "黒皇帝"
+  ],
   "songkick": null,
   "vocadb": 115380
  }
