@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:41:59Z",
+ "updated": "2026-11-09T05:42:46Z",
  "events": [
   {
    "id": "2026-11-inba-style-zettai-hardcore-territory",
@@ -28,6 +28,36 @@
     "VJ Yuu"
    ],
    "url": "https://www.facebook.com/inbastyle/"
+  },
+  {
+   "id": "2026-11-jimmy-gnecco-france-spain",
+   "artist": "Jimmy Gnecco (Ours)",
+   "title": "Jimmy Gnecco — wybrane daty w Hiszpanii i Francji",
+   "kind": "trasa",
+   "tier": 3,
+   "dateStart": "2026-11-01",
+   "dateEnd": "2026-11-08",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-11-01",
+     "venue": "Café la Palma"
+    },
+    {
+     "cc": "FR",
+     "city": "Barberaz",
+     "date": "2026-11-07",
+     "venue": "Brin de Zinc"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-08",
+     "venue": "Le Klub"
+    }
+   ],
+   "url": "https://www.songkick.com/concerts/43268147-ours-at-cafe-la-palma"
   },
   {
    "id": "2026-10-vocafest-spookyfest-2-london",
@@ -155,6 +185,59 @@
     "DJ Shiru"
    ],
    "url": "https://www.yunicon.at/programm-2025/"
+  },
+  {
+   "id": "2026-10-spyair-europe",
+   "artist": "SPYAIR",
+   "title": "Europe Tour 2026",
+   "kind": "trasa",
+   "tier": 1,
+   "dateStart": "2026-10-30",
+   "dateEnd": "2026-11-08",
+   "stops": [
+    {
+     "cc": "AT",
+     "city": "Wiedeń",
+     "date": "2026-10-30",
+     "venue": "Multiversum Schwechat (YuniCon)"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-02",
+     "venue": "Cabaret Sauvage"
+    },
+    {
+     "cc": "NL",
+     "city": "Eindhoven",
+     "date": "2026-11-04",
+     "venue": "Effenaar"
+    },
+    {
+     "cc": "DE",
+     "city": "Frankfurt",
+     "date": "2026-11-05",
+     "venue": "Batschkapp"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-11-07",
+     "venue": "Scala"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2026-11-08",
+     "venue": "Magazzini Generali"
+    }
+   ],
+   "lineup": [
+    "SPYAIR",
+    "Nanowar Of Steel (YuniCon)",
+    "Kontrollverlust (YuniCon)"
+   ],
+   "url": "https://www.cdjapan.co.jp/feature/J-POP-Goes-Global-2026"
   },
   {
    "id": "2026-10-lucca-comics-and-games",

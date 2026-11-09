@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:41:59Z",
+ "updated": "2026-11-09T05:42:46Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -26,6 +26,78 @@
    "id": "idono-kawazu-adachi-rei-no-action"
   },
   {
+   "about": "Idolki z gry Gakuen iDOLM@STER (Gakumas).",
+   "artist": "初星学園, 花海咲季 & 花海佑芽",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-09",
+   "songAbout": "Singiel sióstr Hanami z gry Gakumas.",
+   "title": "Crossfire",
+   "url": "https://music.apple.com/jp/album/crossfire-single/6829640973?uo=4",
+   "id": "hatsuboshi-gakuen-crossfire"
+  },
+  {
+   "about": "Idolki z gry Gakuen iDOLM@STER (Gakumas).",
+   "artist": "初星学園, 藤田ことね & 十王星南",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-09",
+   "songAbout": "Singiel duetowy z gry Gakumas.",
+   "title": "Fantastic Gathering!",
+   "url": "https://music.apple.com/jp/album/fantastic-gathering-single/6828257360?uo=4",
+   "id": "hatsuboshi-gakuen-fantastic-gathering"
+  },
+  {
+   "about": "Idolki z gry Gakuen iDOLM@STER (Gakumas).",
+   "artist": "初星学園 & 雨夜 燕",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-09",
+   "songAbout": "Singiel z serii wydawnictw Gakumas.",
+   "title": "Lustrous Twilight",
+   "url": "https://music.apple.com/jp/album/lustrous-twilight-single/6829641406?uo=4",
+   "id": "hatsuboshi-gakuen-lustrous-twilight"
+  },
+  {
+   "about": "Wokalistka z kręgu J-pop/dance (pozycja *Luna na liście).",
+   "artist": "LU-NA",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-09",
+   "songAbout": "Nowy singiel LU-NA.",
+   "title": "Where is Love ?",
+   "url": "https://music.apple.com/jp/album/where-is-love-single/6831495722?uo=4",
+   "id": "lu-na-where-is-love"
+  },
+  {
+   "about": "Koreański producent Vocaloid, znany z Project SEKAI i „Lemon Melon Cookie”.",
+   "artist": "TAK",
+   "foundAt": "2026-11-09",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-09",
+   "songAbout": "Druga część EP Stillness, kontynuacja Pt. 1.",
+   "title": "Stillness - Part2",
+   "url": "https://music.apple.com/jp/album/stillness-part2-ep/6829377892?uo=4",
+   "id": "tak-stillness-part2"
+  },
+  {
+   "about": "Producent Vocaloid znany z hiperpopowo-vocaloidowych utworów.",
+   "artist": "原口沙輔 feat. 初音ミク",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-08",
+   "songAbout": "Nowy utwór z Hatsune Miku.",
+   "title": "星を探して♭♭",
+   "url": "https://vocadb.net/S/1059033",
+   "id": "haraguchi-sasuke-hoshi-o-sagashite"
+  },
+  {
    "about": "Gakuen iDOLM@STER (Gakumas) to idolowa gra Bandai Namco z serii THE iDOLM@STER.",
    "artist": "初星学園, 月村手毬 & 秦谷美鈴",
    "foundAt": "2026-11-08",
@@ -36,6 +108,18 @@
    "title": "Lament Concerto",
    "url": "https://music.apple.com/jp/album/lament-concerto-single/6828762268?uo=4",
    "id": "hatsuboshi-gakuen-lament-concerto"
+  },
+  {
+   "about": "Producent z kręgu hyperpop/Vocaloid.",
+   "artist": "Monochrome Media & various",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-08",
+   "songAbout": "Nowy utwór wspólny z udziałem gościnnych wokali.",
+   "title": "DOGGONE",
+   "url": "https://youtu.be/yUplDRop0vs",
+   "id": "monochrome-media-doggone"
   },
   {
    "about": "TAK (탁) to koreański producent Vocaloid, znany z Project SEKAI i „Lemon Melon Cookie”.",
@@ -62,6 +146,18 @@
    "id": "dj-myosuke-joe-fight-good-it-all"
   },
   {
+   "about": "suzie to producent z kręgu Vocaloid/hyperpop.",
+   "artist": "Ferst, suzie feat. 韵泉",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-07",
+   "songAbout": "Współpraca z wokalem syntezatorowym 韵泉.",
+   "title": "What Now",
+   "url": "https://youtu.be/hDBa11Mhp-M",
+   "id": "ferst-suzie-what-now"
+  },
+  {
    "about": "Ado to japońska wokalistka, głos „Usseewa” i piosenek z filmu One Piece Film: Red.",
    "artist": "Ado",
    "foundAt": "2026-11-07",
@@ -84,6 +180,18 @@
    "title": "好きな隙間",
    "url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%AA%E9%9A%99%E9%96%93-single/6827068754?uo=4",
    "id": "anythingbecomemoe-otonomachi-una-suki-na-sukima"
+  },
+  {
+   "about": "Denonbu – projekt idolek z DJ-ami/producentami EDM.",
+   "artist": "電音部, Reno & picco",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-06",
+   "songAbout": "Słodki, taneczny singiel z Reno i picco.",
+   "title": "Dear My Cutest Girl",
+   "url": "https://music.apple.com/jp/album/dear-my-cutest-girl-single/6828699822?uo=4",
+   "id": "denonbu-dear-my-cutest-girl"
   },
   {
    "about": "Kotoha to japońska wokalistka i twórczyni z kręgu Vocaloid / elektroniki.",
@@ -204,6 +312,18 @@
    "title": "Watashiwo Misutenaidene",
    "url": "https://music.apple.com/jp/album/watashiwo-misutenaidene-single/6830687235?uo=4",
    "id": "ryo-supercell-watashiwo-misutenaidene"
+  },
+  {
+   "about": "Tuziy – producent elektroniczny, tu z głosem Vocaloid 雨衣.",
+   "artist": "Tuziy & 雨衣",
+   "foundAt": "2026-11-09",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-06",
+   "songAbout": "Nowy singiel ze śpiewem 雨衣.",
+   "title": "Trainegosengen",
+   "url": "https://music.apple.com/jp/album/trainegosengen-single/6831497999?uo=4",
+   "id": "tuziy-ame-trainegosengen"
   },
   {
    "about": "Producent vocaloidowy z głosem Hatsune Miku V4X.",
