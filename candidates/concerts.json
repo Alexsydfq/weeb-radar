@@ -1,19 +1,8 @@
 {
- "generated": "2026-11-08T01:04:36Z",
+ "generated": "2026-11-09T01:29:24Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 21,
+ "count": 12,
  "items": [
-  {
-   "watch": "Jimmy Gnecco",
-   "name": "Jimmy Gnecco @ Le Klub",
-   "date": "2026-11-08",
-   "dateEnd": "2026-11-08",
-   "city": "Paris",
-   "cc": "FR",
-   "venue": "Le Klub",
-   "url": "https://www.songkick.com/concerts/43186498-ours-at-le-klub",
-   "source": "songkick"
-  },
   {
    "watch": "Aiobahn",
    "name": "Aiobahn @ Atlantic Sound BCN",
@@ -146,94 +135,6 @@
    "cc": "SE",
    "venue": "Sweden Rock Festival Grounds",
    "url": "https://www.songkick.com/festivals/33046-sweden-rock/id/43259776-sweden-rock-festival-2027",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Gilde Parkbühne",
-   "date": "2027-06-13",
-   "dateEnd": "2027-06-13",
-   "city": "Hannover",
-   "cc": "DE",
-   "venue": "Gilde Parkbühne",
-   "url": "https://www.songkick.com/concerts/43494942-queens-of-the-stone-age-at-gilde-parkbuhne",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Arkea Arena",
-   "date": "2027-06-15",
-   "dateEnd": "2027-06-15",
-   "city": "Floirac",
-   "cc": "FR",
-   "venue": "Arkea Arena",
-   "url": "https://www.songkick.com/concerts/43494944-queens-of-the-stone-age-at-arkea-arena",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Bilbao Arena",
-   "date": "2027-06-16",
-   "dateEnd": "2027-06-16",
-   "city": "Bilbao",
-   "cc": "ES",
-   "venue": "Bilbao Arena",
-   "url": "https://www.songkick.com/concerts/43494945-queens-of-the-stone-age-at-bilbao-arena",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Roig Arena",
-   "date": "2027-06-21",
-   "dateEnd": "2027-06-21",
-   "city": "Valencia",
-   "cc": "ES",
-   "venue": "Roig Arena",
-   "url": "https://www.songkick.com/concerts/43494947-queens-of-the-stone-age-at-roig-arena",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Arènes de Nîmes",
-   "date": "2027-06-23",
-   "dateEnd": "2027-06-23",
-   "city": "Nîmes",
-   "cc": "FR",
-   "venue": "Arènes de Nîmes",
-   "url": "https://www.songkick.com/concerts/43504130-queens-of-the-stone-age-at-arenes-de-nimes",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Parco San Valentino",
-   "date": "2027-06-27",
-   "dateEnd": "2027-06-27",
-   "city": "Pordenone",
-   "cc": "IT",
-   "venue": "Parco San Valentino",
-   "url": "https://www.songkick.com/concerts/43494949-queens-of-the-stone-age-at-parco-san-valentino",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Tollwood",
-   "date": "2027-06-28",
-   "dateEnd": "2027-06-28",
-   "city": "Munich",
-   "cc": "DE",
-   "venue": "Tollwood",
-   "url": "https://www.songkick.com/concerts/43494950-queens-of-the-stone-age-at-tollwood",
-   "source": "songkick"
-  },
-  {
-   "watch": "Queens of the Stone Age",
-   "name": "Queens of the Stone Age @ Pula Arena",
-   "date": "2027-06-30",
-   "dateEnd": "2027-06-30",
-   "city": "Pula",
-   "cc": "HR",
-   "venue": "Pula Arena",
-   "url": "https://www.songkick.com/concerts/43494951-queens-of-the-stone-age-at-pula-arena",
    "source": "songkick"
   }
  ]

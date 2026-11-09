@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-08T01:04:34Z",
- "about": "Premiery 2026-10-25..2026-12-08 artystów z watch.json, których nie ma w music.json",
+ "generated": "2026-11-09T01:29:22Z",
+ "about": "Premiery 2026-10-26..2026-12-09 artystów z watch.json, których nie ma w music.json",
  "count": 43,
  "items": [
   {
@@ -24,28 +24,127 @@
   {
    "watch": "TAK",
    "artist": "TAK",
-   "title": "Stillness - Pt. 1 - EP",
-   "released": "2026-11-08",
+   "title": "Stillness - Part2 - EP",
+   "released": "2026-11-09",
    "kind": "EP",
-   "url": "https://music.apple.com/jp/album/stillness-pt-1-ep/6828820035?uo=4",
+   "url": "https://music.apple.com/jp/album/stillness-part2-ep/6829377892?uo=4",
    "source": "itunes"
   },
   {
    "watch": "初星学園 (Gakuen iDOLM@STER)",
-   "artist": "初星学園, 月村手毬 & 秦谷美鈴",
-   "title": "Lament Concerto - Single",
-   "released": "2026-11-08",
+   "artist": "初星学園 & 雨夜 燕",
+   "title": "Lustrous Twilight - Single",
+   "released": "2026-11-09",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/lament-concerto-single/6828762268?uo=4",
+   "url": "https://music.apple.com/jp/album/lustrous-twilight-single/6829641406?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "DJ Myosuke",
-   "artist": "DJ Myosuke & Joe Fight",
-   "title": "Good It All - Single",
+   "watch": "初星学園 (Gakuen iDOLM@STER)",
+   "artist": "初星学園, 藤田ことね & 十王星南",
+   "title": "Fantastic Gathering! - Single",
+   "released": "2026-11-09",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/fantastic-gathering-single/6828257360?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "初星学園 (Gakuen iDOLM@STER)",
+   "artist": "初星学園, 花海咲季 & 花海佑芽",
+   "title": "Crossfire - Single",
+   "released": "2026-11-09",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/crossfire-single/6829640973?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "*Luna",
+   "artist": "LU-NA",
+   "title": "Where is Love ? - Single",
+   "released": "2026-11-09",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/where-is-love-single/6831495722?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "藤田ことね",
+   "artist": "初星学園、藤田ことね、十王星南",
+   "title": "FANTASTIC GATHERING!",
+   "released": "2026-11-09",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/934c928d-bc52-458c-bec3-7f822bf19bbd",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "花海佑芽",
+   "artist": "初星学園、花海咲季、花海佑芽",
+   "title": "クロスファイア",
+   "released": "2026-11-09",
+   "kind": "album",
+   "url": "https://musicbrainz.org/release-group/865edf45-5afa-4aee-b00c-1eee9df2ee71",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "秦谷美鈴",
+   "artist": "初星学園、月村手毬、秦谷美鈴",
+   "title": "慟哭のコンチェルト",
+   "released": "2026-11-08",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/12d6f080-1e44-4e7f-911a-a3fb60e5a0dd",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "Sasuke Haraguchi",
+   "artist": "原口沙輔 feat. various",
+   "title": "星を探して♭♭",
+   "released": "2026-11-08",
+   "kind": "cover",
+   "url": "https://youtu.be/931lT5zGBy8",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Sasuke Haraguchi",
+   "artist": "原口沙輔 feat. 初音ミク",
+   "title": "星を探して♭♭",
+   "released": "2026-11-08",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1059033",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Monochrome Media",
+   "artist": "Various artists",
+   "title": "DOGGONE",
+   "released": "2026-11-08",
+   "kind": "singiel",
+   "url": "https://youtu.be/yUplDRop0vs",
+   "source": "vocadb"
+  },
+  {
+   "watch": "suzie",
+   "artist": "Ferst, suzie feat. 韵泉",
+   "title": "What Now",
    "released": "2026-11-07",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/good-it-all-single/6831494962?uo=4",
+   "url": "https://youtu.be/hDBa11Mhp-M",
+   "source": "vocadb"
+  },
+  {
+   "watch": "雨衣",
+   "artist": "Tuziy & 雨衣",
+   "title": "Trainegosengen - Single",
+   "released": "2026-11-06",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/trainegosengen-single/6831497999?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "電音部",
+   "artist": "電音部, Reno & picco",
+   "title": "Dear My Cutest Girl - Single",
+   "released": "2026-11-06",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/dear-my-cutest-girl-single/6828699822?uo=4",
    "source": "itunes"
   },
   {
@@ -67,15 +166,6 @@
    "source": "itunes+musicbrainz+vocadb"
   },
   {
-   "watch": "Kotoha",
-   "artist": "Kotoha",
-   "title": "Between Commas and Full Stops - Single",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/between-commas-and-full-stops-single/6826124589?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "ryo (supercell)",
    "artist": "RYO",
    "title": "Watashiwo Misutenaidene - Single",
@@ -91,51 +181,6 @@
    "released": "2026-11-06",
    "kind": "singiel",
    "url": "https://youtu.be/8oiyutRI3nI",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Porter Robinson",
-   "artist": "Porter Robinson",
-   "title": "Cheerleader (DJ NOT PORTER ROBINSON Remix)",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://youtu.be/T-BIHAvY2kg",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Porter Robinson",
-   "artist": "Porter Robinson feat. EJEAN",
-   "title": "Year of the Cup (Ejean Remix)",
-   "released": "2026-11-06",
-   "kind": "cover",
-   "url": "https://youtu.be/qfhc1xWYQag",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Porter Robinson",
-   "artist": "Frost Children feat. Porter Robinson",
-   "title": "Is There Really No Happiness? (Frost Children Remix)",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://youtu.be/kss2zXoUM3Q",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Porter Robinson",
-   "artist": "Control Freak feat. Porter Robinson",
-   "title": "Cheerleader (Control Freak Remix)",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://youtu.be/kTBP5wlUSDw",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Porter Robinson",
-   "artist": "Atura feat. Porter Robinson",
-   "title": "Is There Really No Happiness? (Atura Remix)",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://youtu.be/jzGqfEh-oo4",
    "source": "vocadb"
   },
   {
@@ -229,15 +274,6 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "TOOBOE",
-   "artist": "TOOBOE",
-   "title": "Feeling Good",
-   "released": "2026-11-04",
-   "kind": "EP",
-   "url": "https://musicbrainz.org/release-group/e9e4d983-fd54-4826-a764-4d7578ca976e",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "RiraN",
    "artist": "RiraN",
    "title": "Signal (feat. ひやむぎこむぎ。) - Single",
@@ -257,7 +293,7 @@
   },
   {
    "watch": "TAK",
-   "artist": "TAK feat. 初音ミク, 重音テトSV2",
+   "artist": "TAK feat. 初音ミク V4X (Original), 重音テトSV2",
    "title": "ミラーミラー",
    "released": "2026-11-03",
    "kind": "singiel",
@@ -281,15 +317,6 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/oshitara-hikenai-koideshita-single/6828274937?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "IDONO KAWAZU",
-   "artist": "IDONO KAWAZU feat. 足立レイ AI",
-   "title": "無為",
-   "released": "2026-10-31",
-   "kind": "cover",
-   "url": "https://youtu.be/EkAxIZiIQwA",
-   "source": "vocadb"
   },
   {
    "watch": "MonochroMenace",
@@ -346,7 +373,7 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Kotoha",
+   "watch": "picco",
    "artist": "シンクロプロジェクト, picco & Kotoha",
    "title": "Infinite ∞ Imagination - Single",
    "released": "2026-10-28",
@@ -362,33 +389,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/C7rJQemxzyk",
    "source": "vocadb"
-  },
-  {
-   "watch": "HARDCORE TANO*C (dowolny artysta)",
-   "artist": "HARDCORE TANO*C",
-   "title": "HARDCORE SYNDROME 20",
-   "released": "2026-10-25",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/27efc1e8-0003-4f0b-bb00-d8e6c8436e08",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "ななひら",
-   "artist": "ななひら & 七柊",
-   "title": "シュガーランデヴー",
-   "released": "2026-10-25",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/c19fd164-398a-4829-be52-f09f953d53da",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "藍月なくる",
-   "artist": "藍月なくる",
-   "title": "別解",
-   "released": "2026-10-25",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/e777d523-5b93-49fd-8ee1-7b1311e5ab2d",
-   "source": "musicbrainz"
   }
  ]
 }

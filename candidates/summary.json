@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-08T01:04:34Z",
+ "generated": "2026-11-09T01:29:21Z",
  "artists": 476,
- "seconds": 1407,
+ "seconds": 1969,
  "music": {
-  "found": 94,
+  "found": 96,
   "new": 43
  },
  "concerts": {
-  "found": 73,
-  "new": 21
+  "found": 71,
+  "new": 12
  },
  "japan": {
-  "found": 14,
-  "new": 10
+  "found": 13,
+  "new": 9
  },
  "calls": {
-  "vocadb_calls": 478,
+  "vocadb_calls": 241,
+  "mb_calls": 920,
   "itunes_calls": 455,
-  "mb_calls": 455,
-  "songkick_calls": 146
+  "songkick_calls": 461
  },
  "errors": []
 }
