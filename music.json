@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:42:46Z",
+ "updated": "2026-11-10T05:42:30Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -24,6 +24,30 @@
    "title": "No-Action",
    "url": "https://music.apple.com/jp/album/no-action-single/6830514270?uo=4",
    "id": "idono-kawazu-adachi-rei-no-action"
+  },
+  {
+   "about": "*Luna to producent muzyki elektronicznej związany ze sceną Vocaloid/bass music.",
+   "artist": "*Luna",
+   "foundAt": "2026-11-10",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-11-10",
+   "songAbout": "Kolekcja utworów w klimacie bass music.",
+   "title": "Luna - Bass Collection",
+   "url": "https://music.apple.com/jp/album/luna-bass-collection/6832464525?uo=4",
+   "id": "luna-bass-collection"
+  },
+  {
+   "about": "TAK (탁) to koreański producent Vocaloid, znany z Project SEKAI i kawałka „Lemon Melon Cookie”.",
+   "artist": "TAK",
+   "foundAt": "2026-11-10",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-10",
+   "songAbout": "Nowa EP-ka producenta, elektroniczny, tanecznie psychodeliczny klimat.",
+   "title": "Psychedelic Drive",
+   "url": "https://music.apple.com/jp/album/psychedelic-drive-ep/6829380910?uo=4",
+   "id": "tak-psychedelic-drive"
   },
   {
    "about": "Idolki z gry Gakuen iDOLM@STER (Gakumas).",
@@ -84,6 +108,18 @@
    "title": "Stillness - Part2",
    "url": "https://music.apple.com/jp/album/stillness-part2-ep/6829377892?uo=4",
    "id": "tak-stillness-part2"
+  },
+  {
+   "about": "電音部 (Denonbu) to multimedialny projekt łączący postacie idol z muzyką klubową EDM.",
+   "artist": "Bellemule & 電音部",
+   "foundAt": "2026-11-10",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-08",
+   "songAbout": "Klubowy singiel w ramach projektu Denonbu.",
+   "title": "My Nike",
+   "url": "https://music.apple.com/jp/album/my-nike-single/6825251569?uo=4",
+   "id": "bellemule-denonbu-my-nike"
   },
   {
    "about": "Producent Vocaloid znany z hiperpopowo-vocaloidowych utworów.",
@@ -528,6 +564,18 @@
    "title": "Even When You Grow Up, the Night Is Still Dark",
    "url": "https://music.apple.com/jp/album/even-when-you-grow-up-the-night-is-still-dark/6829217848?uo=4",
    "id": "uchu-nekoko-otona-ni-natte-mo"
+  },
+  {
+   "about": "YOASOBI to duo (Ayase i ikura) znany z „Yoru ni Kakeru” i openingu Oshi no Ko „Idol”.",
+   "artist": "YOASOBI",
+   "foundAt": "2026-11-10",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-11-04",
+   "songAbout": "Album koncertowy z występu na Tokyo Dome z okazji 5-lecia zespołu.",
+   "title": "YOASOBI 5th ANNIVERSARY DOME LIVE 2024 “超現実” at TOKYO DOME",
+   "url": "https://music.apple.com/jp/album/yoasobi-5th-anniversary-dome-live-2024-%E8%B6%85%E7%8F%BE%E5%AE%9F-at-tokyo-dome/6826993131?uo=4",
+   "id": "yoasobi-5th-anniversary-dome-live-2024"
   },
   {
    "about": "RiraN to koreański producent rytmicznych gier muzycznych.",
