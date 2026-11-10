@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-09T01:29:22Z",
- "about": "Premiery 2026-10-26..2026-12-09 artystów z watch.json, których nie ma w music.json",
- "count": 43,
+ "generated": "2026-11-10T03:59:59Z",
+ "about": "Premiery 2026-10-27..2026-12-10 artystów z watch.json, których nie ma w music.json",
+ "count": 39,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -24,46 +24,19 @@
   {
    "watch": "TAK",
    "artist": "TAK",
-   "title": "Stillness - Part2 - EP",
-   "released": "2026-11-09",
+   "title": "Psychedelic Drive - EP",
+   "released": "2026-11-10",
    "kind": "EP",
-   "url": "https://music.apple.com/jp/album/stillness-part2-ep/6829377892?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初星学園 (Gakuen iDOLM@STER)",
-   "artist": "初星学園 & 雨夜 燕",
-   "title": "Lustrous Twilight - Single",
-   "released": "2026-11-09",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/lustrous-twilight-single/6829641406?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初星学園 (Gakuen iDOLM@STER)",
-   "artist": "初星学園, 藤田ことね & 十王星南",
-   "title": "Fantastic Gathering! - Single",
-   "released": "2026-11-09",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/fantastic-gathering-single/6828257360?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初星学園 (Gakuen iDOLM@STER)",
-   "artist": "初星学園, 花海咲季 & 花海佑芽",
-   "title": "Crossfire - Single",
-   "released": "2026-11-09",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/crossfire-single/6829640973?uo=4",
+   "url": "https://music.apple.com/jp/album/psychedelic-drive-ep/6829380910?uo=4",
    "source": "itunes"
   },
   {
    "watch": "*Luna",
-   "artist": "LU-NA",
-   "title": "Where is Love ? - Single",
-   "released": "2026-11-09",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/where-is-love-single/6831495722?uo=4",
+   "artist": "Luna",
+   "title": "Luna - Bass Collection",
+   "released": "2026-11-10",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/luna-bass-collection/6832464525?uo=4",
    "source": "itunes"
   },
   {
@@ -80,9 +53,18 @@
    "artist": "初星学園、花海咲季、花海佑芽",
    "title": "クロスファイア",
    "released": "2026-11-09",
-   "kind": "album",
+   "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/865edf45-5afa-4aee-b00c-1eee9df2ee71",
    "source": "musicbrainz"
+  },
+  {
+   "watch": "電音部",
+   "artist": "Bellemule & 電音部",
+   "title": "My Nike - Single",
+   "released": "2026-11-08",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/my-nike-single/6825251569?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "秦谷美鈴",
@@ -103,12 +85,12 @@
    "source": "vocadb"
   },
   {
-   "watch": "Sasuke Haraguchi",
-   "artist": "原口沙輔 feat. 初音ミク",
+   "watch": "25時、ナイトコードで。",
+   "artist": "Colorful Palette feat. various",
    "title": "星を探して♭♭",
    "released": "2026-11-08",
    "kind": "singiel",
-   "url": "https://vocadb.net/S/1059033",
+   "url": "https://youtu.be/t35wDTAewDs",
    "source": "vocadb"
   },
   {
@@ -119,33 +101,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/yUplDRop0vs",
    "source": "vocadb"
-  },
-  {
-   "watch": "suzie",
-   "artist": "Ferst, suzie feat. 韵泉",
-   "title": "What Now",
-   "released": "2026-11-07",
-   "kind": "singiel",
-   "url": "https://youtu.be/hDBa11Mhp-M",
-   "source": "vocadb"
-  },
-  {
-   "watch": "雨衣",
-   "artist": "Tuziy & 雨衣",
-   "title": "Trainegosengen - Single",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/trainegosengen-single/6831497999?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "電音部",
-   "artist": "電音部, Reno & picco",
-   "title": "Dear My Cutest Girl - Single",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/dear-my-cutest-girl-single/6828699822?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "P丸様。",
@@ -173,6 +128,15 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/watashiwo-misutenaidene-single/6830687235?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "Jamie Paige",
+   "artist": "Tiphyloid feat. るるらら",
+   "title": "ROT FOR CLOUT ",
+   "released": "2026-11-06",
+   "kind": "cover",
+   "url": "https://vocadb.net/S/1057933",
+   "source": "vocadb"
   },
   {
    "watch": "Something's off with my Vocaloid",

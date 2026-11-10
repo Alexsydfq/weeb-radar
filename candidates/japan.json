@@ -1,19 +1,8 @@
 {
- "generated": "2026-11-09T01:29:24Z",
+ "generated": "2026-11-10T04:00:00Z",
  "about": "Lajwy w Japonii i Korei (Songkick, VocaDB), których nie ma w events.json",
- "count": 9,
+ "count": 8,
  "items": [
-  {
-   "watch": null,
-   "name": "UTAU男祭り2026",
-   "date": "2026-11-09",
-   "dateEnd": "2026-11-23",
-   "city": "ニコニコ動画",
-   "cc": "JP",
-   "category": "Festival",
-   "url": "https://x.com/utau_otoko_fest",
-   "source": "vocadb"
-  },
   {
    "watch": null,
    "name": "PaintVoice投稿祭 2026",
