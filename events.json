@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T05:42:30Z",
+ "updated": "2026-11-11T21:47:23Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -2402,8 +2402,9 @@
    "id": "2026-12-japan-sound-quest-valencia"
   },
   {
-   "about": "Zimowa edycja krakowskiego konwentu Magnificon, z cosplayem, panelami i strefą anime.",
+   "about": "Zimowa edycja krakowskiego konwentu Magnificon, z cosplayem, panelami i strefą anime. Gwiazdą muzyczną jest Aiobahn +81, japoński producent i DJ znany z muzyki do NEEDY GIRL OVERDOSE, współpracy z Mori Calliope i Nanahirą oraz utworów do Zenless Zone Zero.",
    "artist": "Magnificon Winter EXPO 2026",
+   "changeNote": "Ogłoszono koncert: Aiobahn +81 (sobota wieczór)",
    "dateEnd": "2026-12-13",
    "dateStart": "2026-12-12",
    "facts": [
@@ -2425,8 +2426,19 @@
     }
    ],
    "foundAt": "2026-10-03",
+   "hits": [
+    "INTERNET OVERDOSE",
+    "INTERNET YAMERO",
+    "INTERNET ANGEL"
+   ],
    "kind": "konwent",
-   "note": "Zimowa edycja krakowskiego konwentu mangi i anime. Gości ani koncertów jeszcze nie podano; terminu głównej edycji 2027 organizator też nie ogłosił.",
+   "lineup": [
+    "Aiobahn +81"
+   ],
+   "note": "Zimowa edycja krakowskiego konwentu mangi i anime. W sobotę wieczorem koncert Aiobahn +81 (ogłoszony na Instagramie organizatora 23.10); dokładnej godziny jeszcze nie podano.",
+   "setTimes": {
+    "Aiobahn +81": "sob. wieczór (koncert)"
+   },
    "stops": [
     {
      "cc": "PL",
@@ -2437,8 +2449,9 @@
    ],
    "tickets": "https://miohi.tixx.pl/bilety/2948/magnificon-expo-winter-2026.html",
    "tier": 3,
-   "title": "Zimowa edycja",
-   "url": "https://konwenty-poludniowe.pl/konwenty/kalendarz/2260-magnificon-winter-expo-2026",
+   "title": "Zimowa edycja · koncert Aiobahn +81",
+   "updatedAt": "2026-11-11",
+   "url": "https://www.instagram.com/magnificon_expo/",
    "id": "2026-12-magnificon-winter-expo"
   },
   {
