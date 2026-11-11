@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-10T03:59:59Z",
- "about": "Premiery 2026-10-27..2026-12-10 artystów z watch.json, których nie ma w music.json",
- "count": 39,
+ "generated": "2026-11-11T01:39:13Z",
+ "about": "Premiery 2026-10-28..2026-12-11 artystów z watch.json, których nie ma w music.json",
+ "count": 40,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -22,22 +22,49 @@
    "source": "itunes"
   },
   {
-   "watch": "TAK",
-   "artist": "TAK",
-   "title": "Psychedelic Drive - EP",
-   "released": "2026-11-10",
-   "kind": "EP",
-   "url": "https://music.apple.com/jp/album/psychedelic-drive-ep/6829380910?uo=4",
+   "watch": "YOASOBI",
+   "artist": "YOASOBI",
+   "title": "KILLA - Single",
+   "released": "2026-11-11",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/killa-single/6831510043?uo=4",
+   "source": "itunes+musicbrainz"
+  },
+  {
+   "watch": "ALT BLK ERA",
+   "artist": "ALT BLK ERA & Novel Core",
+   "title": "OKAY! OKAY! - Single",
+   "released": "2026-11-11",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/okay-okay-single/6823220486?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "ryo (supercell)",
+   "artist": "RYO",
+   "title": "Tabakaru - Single",
+   "released": "2026-11-11",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/tabakaru-single/6832473333?uo=4",
    "source": "itunes"
   },
   {
    "watch": "*Luna",
-   "artist": "Luna",
-   "title": "Luna - Bass Collection",
-   "released": "2026-11-10",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/luna-bass-collection/6832464525?uo=4",
+   "artist": "LU-NA",
+   "title": "Snow Kiss - Single",
+   "released": "2026-11-11",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/snow-kiss-single/6832875101?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "東京真中 (Tokyo Manaka)",
+   "artist": "東京真中, 是 feat. 初音ミク",
+   "title": "メモリ",
+   "released": "2026-11-11",
+   "kind": "singiel",
+   "url": "https://youtu.be/pjZYa4y-J5k",
+   "source": "vocadb"
   },
   {
    "watch": "藤田ことね",
@@ -56,15 +83,6 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/865edf45-5afa-4aee-b00c-1eee9df2ee71",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "電音部",
-   "artist": "Bellemule & 電音部",
-   "title": "My Nike - Single",
-   "released": "2026-11-08",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/my-nike-single/6825251569?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "秦谷美鈴",
@@ -130,6 +148,15 @@
    "source": "itunes"
   },
   {
+   "watch": "*Luna",
+   "artist": "LUNA",
+   "title": "Allein auf dieser Welt",
+   "released": "2026-11-06",
+   "kind": "EP",
+   "url": "https://musicbrainz.org/release-group/ead9c64c-f86a-4d26-828a-e9b0bfb5048c",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "Jamie Paige",
    "artist": "Tiphyloid feat. るるらら",
    "title": "ROT FOR CLOUT ",
@@ -193,15 +220,6 @@
    "source": "vocadb"
   },
   {
-   "watch": "YOASOBI",
-   "artist": "YOASOBI",
-   "title": "YOASOBI 5th ANNIVERSARY DOME LIVE 2024 “超現実” at TOKYO DOME",
-   "released": "2026-11-04",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/yoasobi-5th-anniversary-dome-live-2024-%E8%B6%85%E7%8F%BE%E5%AE%9F-at-tokyo-dome/6826993131?uo=4",
-   "source": "itunes+musicbrainz"
-  },
-  {
    "watch": "電音部",
    "artist": "電音部, 池袋電音部, MY NEW GEAR & Moe Shop",
    "title": "Good Night Baby (Asanagi Obi Version) - Single",
@@ -257,7 +275,7 @@
   },
   {
    "watch": "TAK",
-   "artist": "TAK feat. 初音ミク V4X (Original), 重音テトSV2",
+   "artist": "TAK feat. 初音ミク, 重音テトSV2",
    "title": "ミラーミラー",
    "released": "2026-11-03",
    "kind": "singiel",
@@ -337,22 +355,13 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "picco",
+   "watch": "Kotoha",
    "artist": "シンクロプロジェクト, picco & Kotoha",
    "title": "Infinite ∞ Imagination - Single",
    "released": "2026-10-28",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/infinite-imagination-single/6817687749?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "Toby Fox",
-   "artist": "Toby Fox, Dylan Browne feat. Jess Elkins",
-   "title": "Pacifying Nurse Ralsei Plush Instructional Song",
-   "released": "2026-10-27",
-   "kind": "singiel",
-   "url": "https://youtu.be/C7rJQemxzyk",
-   "source": "vocadb"
   }
  ]
 }

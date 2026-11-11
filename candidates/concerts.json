@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-10T04:00:00Z",
+ "generated": "2026-11-11T01:39:19Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 12,
+ "count": 7,
  "items": [
   {
    "watch": "Aiobahn",
@@ -37,61 +37,6 @@
    "url": "https://www.songkick.com/concerts/43197665-anime-symphony-at-palais-des-congres",
    "source": "songkick",
    "kind": "symfoniczny"
-  },
-  {
-   "watch": "Gilla Band",
-   "name": "Gilla Band @ Savoy",
-   "date": "2027-04-17",
-   "dateEnd": "2027-04-17",
-   "city": "Cork",
-   "cc": "IE",
-   "venue": "Savoy",
-   "url": "https://www.songkick.com/concerts/43497888-gilla-band-at-savoy",
-   "source": "songkick"
-  },
-  {
-   "watch": "Gilla Band",
-   "name": "Gilla Band @ Dolans Warehouse",
-   "date": "2027-04-23",
-   "dateEnd": "2027-04-23",
-   "city": "Limerick",
-   "cc": "IE",
-   "venue": "Dolans Warehouse",
-   "url": "https://www.songkick.com/concerts/43497893-gilla-band-at-dolans-warehouse",
-   "source": "songkick"
-  },
-  {
-   "watch": "Gilla Band",
-   "name": "Gilla Band @ Roisin Dubh",
-   "date": "2027-04-24",
-   "dateEnd": "2027-04-24",
-   "city": "Galway",
-   "cc": "IE",
-   "venue": "Roisin Dubh",
-   "url": "https://www.songkick.com/concerts/43497895-gilla-band-at-roisin-dubh",
-   "source": "songkick"
-  },
-  {
-   "watch": "Gilla Band",
-   "name": "Gilla Band @ Empire Music Hall",
-   "date": "2027-05-06",
-   "dateEnd": "2027-05-06",
-   "city": "Belfast",
-   "cc": "UK",
-   "venue": "Empire Music Hall",
-   "url": "https://www.songkick.com/concerts/43497896-gilla-band-at-empire-music-hall",
-   "source": "songkick"
-  },
-  {
-   "watch": "Gilla Band",
-   "name": "Gilla Band @ Set Theatre",
-   "date": "2027-05-07",
-   "dateEnd": "2027-05-07",
-   "city": "Kilkenny",
-   "cc": "IE",
-   "venue": "Set Theatre",
-   "url": "https://www.songkick.com/concerts/43497898-gilla-band-at-set-theatre",
-   "source": "songkick"
   },
   {
    "watch": "ALT BLK ERA",
