@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-09T05:42:46Z",
+ "updated": "2026-11-11T05:42:28Z",
  "events": [
+  {
+   "id": "2026-11-kawaii-beats-anime-night-warszawa",
+   "artist": "Kawaii Beats: Anime Night (DJ Baker Party Maker)",
+   "title": "Anime Night w VooDoo Club — J-rock, soundtracki z anime, city pop",
+   "kind": "rave",
+   "tier": 2,
+   "dateStart": "2026-11-10",
+   "dateEnd": "2026-11-10",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-11-10",
+     "venue": "VooDoo Club (scena 2)"
+    }
+   ],
+   "lineup": [
+    "DJ Baker Party Maker"
+   ],
+   "url": "https://www.voodooclub.pl/event/kawaii-beats-anime-night-dj-baker-party-maker-3/"
+  },
   {
    "id": "2026-11-inba-style-zettai-hardcore-territory",
    "artist": "inba☆style",

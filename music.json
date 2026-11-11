@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T05:42:30Z",
+ "updated": "2026-11-11T05:42:28Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -24,6 +24,66 @@
    "title": "No-Action",
    "url": "https://music.apple.com/jp/album/no-action-single/6830514270?uo=4",
    "id": "idono-kawazu-adachi-rei-no-action"
+  },
+  {
+   "about": "ALT BLK ERA to japoński zespół/projekt z kręgu alt-popu i elektroniki; Novel Core to wokalistka znana z kolaboracji z producentami.",
+   "artist": "ALT BLK ERA & Novel Core",
+   "foundAt": "2026-11-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Kolaboracyjny singiel z 11 listopada 2026, energiczny pop elektroniczny.",
+   "title": "OKAY! OKAY!",
+   "url": "https://music.apple.com/jp/album/okay-okay-single/6823220486?uo=4",
+   "id": "alt-blk-era-novel-core-okay-okay"
+  },
+  {
+   "about": "*Luna (LU-NA) to wokalistka i producentka z sceny eurobeat/j-pop dance, znana z remiksów i piosenek w stylu anime.",
+   "artist": "*Luna",
+   "foundAt": "2026-11-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Zimowy singiel dance-pop z 11 listopada 2026.",
+   "title": "Snow Kiss",
+   "url": "https://music.apple.com/jp/album/snow-kiss-single/6832875101?uo=4",
+   "id": "lu-na-snow-kiss"
+  },
+  {
+   "about": "Ryo to założyciel supercell i twórca „World is Mine” oraz „Melt”, pionier muzyki Vocaloid; później pracował też przy Gakuen iDOLM@STER i anime.",
+   "artist": "ryo (supercell)",
+   "foundAt": "2026-11-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Nowy singiel z 11 listopada 2026.",
+   "title": "Tabakaru",
+   "url": "https://music.apple.com/jp/album/tabakaru-single/6832473333?uo=4",
+   "id": "ryo-supercell-tabakaru"
+  },
+  {
+   "about": "Producent vocaloidowy z kręgu współczesnej sceny Hatsune Miku.",
+   "artist": "東京真中, 是 feat. 初音ミク",
+   "foundAt": "2026-11-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Nowa piosenka z Hatsune Miku, premiera 11 listopada 2026 na YouTube.",
+   "title": "メモリ",
+   "url": "https://youtu.be/pjZYa4y-J5k",
+   "id": "tokyo-manaka-ze-hatsune-miku-memory"
+  },
+  {
+   "about": "Japoński duet Ayase (producent) i ikura (wokal), znany z hitów „Idol” (opening Oshi no Ko) i „Yoru ni Kakeru”.",
+   "artist": "YOASOBI",
+   "foundAt": "2026-11-11",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Nowy singiel duetu z 11 listopada 2026; w iTunes JP wydany jako single.",
+   "title": "KILLA",
+   "url": "https://music.apple.com/jp/album/killa-single/6831510043?uo=4",
+   "id": "yoasobi-killa"
   },
   {
    "about": "*Luna to producent muzyki elektronicznej związany ze sceną Vocaloid/bass music.",
@@ -240,6 +300,18 @@
    "title": "Between Commas and Full Stops",
    "url": "https://music.apple.com/jp/album/between-commas-and-full-stops-single/6826124589?uo=4",
    "id": "kotoha-between-commas-and-full-stops"
+  },
+  {
+   "about": "*Luna to wokalistka i producentka z sceny eurobeat/j-pop dance, znana z remiksów i piosenek w stylu anime.",
+   "artist": "*Luna",
+   "foundAt": "2026-11-11",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-06",
+   "songAbout": "EP wydane 6 listopada 2026 (dane z MusicBrainz).",
+   "title": "Allein auf dieser Welt",
+   "url": "https://musicbrainz.org/release-group/ead9c64c-f86a-4d26-828a-e9b0bfb5048c",
+   "id": "luna-allein-auf-dieser-welt"
   },
   {
    "about": "Andrew Baena to producent elektroniczny.",
