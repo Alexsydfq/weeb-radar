@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-11T01:39:13Z",
- "about": "Premiery 2026-10-28..2026-12-11 artystów z watch.json, których nie ma w music.json",
- "count": 40,
+ "generated": "2026-11-12T02:40:53Z",
+ "about": "Premiery 2026-10-29..2026-12-12 artystów z watch.json, których nie ma w music.json",
+ "count": 41,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -22,21 +22,39 @@
    "source": "itunes"
   },
   {
-   "watch": "YOASOBI",
-   "artist": "YOASOBI",
-   "title": "KILLA - Single",
-   "released": "2026-11-11",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/killa-single/6831510043?uo=4",
-   "source": "itunes+musicbrainz"
+   "watch": "アトラスサウンドチーム",
+   "artist": "ATLUS GAME MUSIC, アトラスサウンドチーム & ユークロニア王立交響楽団",
+   "title": "Metaphor: Refantazio Orchestral Album",
+   "released": "2026-11-12",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/metaphor-refantazio-orchestral-album/6819527207?uo=4",
+   "source": "itunes"
   },
   {
-   "watch": "ALT BLK ERA",
-   "artist": "ALT BLK ERA & Novel Core",
-   "title": "OKAY! OKAY! - Single",
+   "watch": "東京真中 (Tokyo Manaka)",
+   "artist": "東京真中 & 初音ミク",
+   "title": "Memory - Single",
    "released": "2026-11-11",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/okay-okay-single/6823220486?uo=4",
+   "url": "https://music.apple.com/jp/album/memory-single/6828710387?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "電音部",
+   "artist": "東京電脳, 電音部, ☆Taku Takahashi & Yackle",
+   "title": "Neo Future (feat. Neneruneru (CV:ICHIGORINAHAMU), Yanami Rain & Yumeno Mia) - Single",
+   "released": "2026-11-11",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/neo-future-feat-neneruneru-cv-ichigorinahamu-yanami/6830056697?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "麻婆豆腐",
+   "artist": "麻婆豆腐",
+   "title": "Alien Alien - Single",
+   "released": "2026-11-11",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/alien-alien-single/6826041131?uo=4",
    "source": "itunes"
   },
   {
@@ -49,22 +67,31 @@
    "source": "itunes"
   },
   {
-   "watch": "*Luna",
-   "artist": "LU-NA",
-   "title": "Snow Kiss - Single",
+   "watch": "DECO*27",
+   "artist": "ファントム P feat. V7 AI Megpoid",
+   "title": "弱虫モンブラン",
    "released": "2026-11-11",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/snow-kiss-single/6832875101?uo=4",
-   "source": "itunes"
+   "kind": "cover",
+   "url": "https://youtu.be/cno2Kp5R6To",
+   "source": "vocadb"
   },
   {
-   "watch": "東京真中 (Tokyo Manaka)",
-   "artist": "東京真中, 是 feat. 初音ミク",
-   "title": "メモリ",
+   "watch": "MORE MORE JUMP! / Project SEKAI",
+   "artist": "晴いちばん feat. various",
+   "title": "ノーモアフィクション",
    "released": "2026-11-11",
-   "kind": "singiel",
-   "url": "https://youtu.be/pjZYa4y-J5k",
+   "kind": "cover",
+   "url": "https://vocadb.net/S/1059981",
    "source": "vocadb"
+  },
+  {
+   "watch": "RiraN",
+   "artist": "RiraN",
+   "title": "Delicious Labyrinth (feat. まるもこ) - Single",
+   "released": "2026-11-10",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/delicious-labyrinth-feat-%E3%81%BE%E3%82%8B%E3%82%82%E3%81%93-single/6831723114?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "藤田ことね",
@@ -146,15 +173,6 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/watashiwo-misutenaidene-single/6830687235?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "*Luna",
-   "artist": "LUNA",
-   "title": "Allein auf dieser Welt",
-   "released": "2026-11-06",
-   "kind": "EP",
-   "url": "https://musicbrainz.org/release-group/ead9c64c-f86a-4d26-828a-e9b0bfb5048c",
-   "source": "musicbrainz"
   },
   {
    "watch": "Jamie Paige",
@@ -275,7 +293,7 @@
   },
   {
    "watch": "TAK",
-   "artist": "TAK feat. 初音ミク, 重音テトSV2",
+   "artist": "TAK feat. 初音ミク V4X (Original), 重音テトSV2",
    "title": "ミラーミラー",
    "released": "2026-11-03",
    "kind": "singiel",
@@ -353,15 +371,6 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/960495b5-c702-47a7-93a4-618e9013f3bd",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "Kotoha",
-   "artist": "シンクロプロジェクト, picco & Kotoha",
-   "title": "Infinite ∞ Imagination - Single",
-   "released": "2026-10-28",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/infinite-imagination-single/6817687749?uo=4",
-   "source": "itunes"
   }
  ]
 }

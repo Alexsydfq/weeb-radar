@@ -1,8 +1,30 @@
 {
- "generated": "2026-11-11T01:39:19Z",
+ "generated": "2026-11-12T02:40:55Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 7,
+ "count": 9,
  "items": [
+  {
+   "watch": "LiSA",
+   "name": "LiSA (JP) @ Stadtteilzentrum Lisa",
+   "date": "2026-11-15",
+   "dateEnd": "2026-11-15",
+   "city": "Jena",
+   "cc": "DE",
+   "venue": "Stadtteilzentrum Lisa",
+   "url": "https://www.songkick.com/concerts/43510827-lisa-jp-at-stadtteilzentrum-lisa",
+   "source": "songkick"
+  },
+  {
+   "watch": "LiSA",
+   "name": "LiSA (JP) @ Stadtteilzentrum Lisa",
+   "date": "2026-11-29",
+   "dateEnd": "2026-11-29",
+   "city": "Jena",
+   "cc": "DE",
+   "venue": "Stadtteilzentrum Lisa",
+   "url": "https://www.songkick.com/concerts/43510847-lisa-jp-at-stadtteilzentrum-lisa",
+   "source": "songkick"
+  },
   {
    "watch": "Aiobahn",
    "name": "Aiobahn @ Atlantic Sound BCN",
@@ -41,7 +63,7 @@
   {
    "watch": "ALT BLK ERA",
    "name": "ALT BLK ERA @ Catton Hall",
-   "date": "2027-05-26",
+   "date": "2027-05-25",
    "dateEnd": "2027-05-30",
    "city": "Walton-on-trent",
    "cc": "UK",
