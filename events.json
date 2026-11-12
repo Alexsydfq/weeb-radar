@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:47:23Z",
+ "updated": "2026-11-12T05:42:12Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -3311,6 +3311,78 @@
    "id": "2027-02-music-of-square-enix-paris-lyon"
   },
   {
+   "about": "Japoński zespół visual kei z elementami rocka i metalu, występujący w Europie w 2027 roku.",
+   "artist": "NETH PRIERE CAIN",
+   "dateEnd": "2027-02-20",
+   "dateStart": "2027-02-06",
+   "foundAt": "2026-11-12",
+   "hits": [],
+   "kind": "trasa",
+   "lineup": [],
+   "note": "Trasa wg zestawienia Tokyo Noizu (aktualizacja 6.11.2026); szczegółów biletów i cen nie potwierdzono na oficjalnej stronie w tym skanie.",
+   "stops": [
+    {
+     "cc": "SK",
+     "city": "Bratysława",
+     "date": "2027-02-06",
+     "venue": "Randal Club"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2027-02-08",
+     "venue": "Hydrozagadka"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-02-09",
+     "venue": "Bi Nuu"
+    },
+    {
+     "cc": "DE",
+     "city": "Kolonia",
+     "date": "2027-02-11",
+     "venue": "Artheater"
+    },
+    {
+     "cc": "NL",
+     "city": "Utrecht",
+     "date": "2027-02-14",
+     "venue": "EKKO"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-02-15",
+     "venue": "La Bellevilloise"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-02-17",
+     "venue": "The Underworld"
+    },
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2027-02-19",
+     "venue": "Revi Live"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2027-02-20",
+     "venue": "Lennon's Club"
+    }
+   ],
+   "tickets": "https://n-p-cain.com/",
+   "tier": 1,
+   "title": "World Tour 2027 Europe",
+   "url": "https://tokyonoizu.com/japanese-band-tours",
+   "id": "2027-02-neth-priere-cain-europe"
+  },
+  {
    "about": "Legenda mrocznego, industrialnego visual kei z Tokio, znana z albumów „Coll:set”, „MIRROR” i „REDEEMER” oraz z europejskich tras w latach 2000. Zespół rozwiązał się w 2011 r., wrócił w 2025 r., a w maju 2026 wydał „RAPTURE”, pierwszy singiel od 16 lat.",
    "artist": "D'ESPAIRSRAY",
    "changeNote": "Warszawa 10.03: w sklepie organizatora wszystkie pule biletów (zwykłe, rodzinne, VIP) mają status „Pula wyprzedana”; godziny wg sklepu: 18:30 klub, 20:00 start",
@@ -4365,25 +4437,37 @@
   {
    "about": "Największy słowacki festiwal wielogatunkowy (muzyka, teatr, literatura, debaty) na lotnisku w Trenczynie, znany z kameralnej atmosfery. W wyprzedanej edycji 2026 grali m.in. The Cure i Gorillaz.",
    "artist": "Pohoda 2027",
+   "changeNote": "Ogłoszono pierwszy line-up: Massive Attack, The Chemical Brothers, Patti Smith Quartet i inni",
    "dateEnd": "2027-07-10",
    "dateStart": "2027-07-08",
    "facts": [
     {
      "k": "Termin",
-     "v": "8–10.07.2027, Letisko Trenčín"
-    },
-    {
-     "k": "Line-up",
-     "v": "brak ogłoszonych nazwisk; organizatorzy negocjują z agentami (IFF Londyn), pierwsze nazwiska wkrótce"
+     "v": "8–10 lipca 2027 (czw.–sob.), Letisko Trenčín"
     },
     {
      "k": "Bilety",
-     "v": "sekcja Tickets 2027 w sklepie festiwalu, ceny niepodane w źródle"
+     "v": "karnet 3-dniowy: 149 € do 2 XI 2026, potem 159 € (obecna cena w sklepie festiwalu); do 4 XI sprzedano ok. połowy z 30 tys."
+    },
+    {
+     "k": "Program",
+     "v": "Massive Attack w czwartek 8.07; The Chemical Brothers w sobotę 10.07 o północy (90 min, Zlatý Bažant Stage)"
     }
    ],
    "foundAt": "2026-10-04",
    "kind": "festiwal",
-   "note": "Żadnego artysty na 2027 jeszcze nie ogłoszono; 10.09.2026 organizatorzy napisali, że dopiero zaczynają składać line-up (spotkania z agentami w Londynie). Bilety są już w sprzedaży. Lista wykonawców na oficjalnej stronie (The Cure, Gorillaz, The Prodigy, Yuki Chiba…) to wciąż skład edycji 2026.",
+   "lineup": [
+    "Massive Attack",
+    "The Chemical Brothers",
+    "Patti Smith Quartet",
+    "Unknown Mortal Orchestra",
+    "Joshua Idehen",
+    "Moonchild Sanelly",
+    "Cruz Beckham and The Breakers",
+    "Sailor Honeymoon",
+    "Cowboy Hunters"
+   ],
+   "note": "Pierwsze fale line-upu (listopad 2026): nikogo z japońskiej sceny ani z listy ulubionych, ogłoszenia będą kolejne.",
    "stops": [
     {
      "cc": "SK",
@@ -4395,6 +4479,7 @@
    "tickets": "https://shop.pohodafestival.sk/en/tickets-2027",
    "tier": 3,
    "title": "Festiwal na lotnisku w Trenczynie — line-up jeszcze nieogłoszony",
+   "updatedAt": "2026-11-12",
    "url": "https://www.pohodafestival.sk/en/news",
    "id": "2027-07-pohoda"
   },
@@ -5261,6 +5346,44 @@
    "title": "1st Concert „REGALIA” — Kanadevia Hall, Tokio",
    "url": "https://regalia.hololivepro.com",
    "id": "jp-2026-12-hakos-baelz-regalia"
+  },
+  {
+   "about": "COUNTDOWN JAPAN to wielki sylwestrowy festiwal rockowy organizowany przez rockin'on w Makuhari Messe; w tej edycji gra 179 artystów, a Hatsune Miku debiutuje na nim jako gwiazda wirtualna.",
+   "artist": "Hatsune Miku @ COUNTDOWN JAPAN 26/27",
+   "dateEnd": "2026-12-29",
+   "dateStart": "2026-12-29",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "drzwi 9:30, występy 12:00–20:40 (harmonogram wstępny)"
+    },
+    {
+     "k": "Miejsce",
+     "v": "Makuhari Messe, hale 1–11 i Event Hall"
+    }
+   ],
+   "foundAt": "2026-11-12",
+   "hits": [
+    "Hatsune Miku – Senbonzakura",
+    "Hatsune Miku – World is Mine",
+    "Hatsune Miku – Tell Your World"
+   ],
+   "kind": "festiwal",
+   "note": "Miku wystąpi tylko 29.12 (festiwal trwa 26, 27, 29, 30 i 31.12). Scena i bilety: oficjalna strona CDJ26/27; stream niepotwierdzony.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Chiba (Makuhari)",
+     "date": "2026-12-29",
+     "venue": "Makuhari Messe"
+    }
+   ],
+   "tickets": "https://countdownjapan.jp/",
+   "tier": 3,
+   "title": "Pierwszy występ Miku na festiwalu rockin'on, 29 grudnia",
+   "url": "https://www.haveagood-holiday.com/en/articles/hatsune-miku-countdown-japan-26-27-dec-29",
+   "id": "jp-2026-12-hatsune-miku-countdown-japan-26-27"
   },
   {
    "about": "Wieczory artystów KAMITSUBAKI STUDIO, wytwórni VTuberów i Vocaloidów.",

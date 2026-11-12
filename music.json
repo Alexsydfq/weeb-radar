@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:42:28Z",
+ "updated": "2026-11-12T05:42:12Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -26,6 +26,18 @@
    "id": "idono-kawazu-adachi-rei-no-action"
   },
   {
+   "about": "Atlus Sound Team to zespół kompozytorów Persony i Shin Megami Tensei, m.in. Shoji Meguro.",
+   "artist": "ATLUS GAME MUSIC × ユークロニア王立交響楽団",
+   "foundAt": "2026-11-12",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-11-12",
+   "songAbout": "Orkiestrowe aranżacje muzyki z gry Metaphor: ReFantazio – chóry i symfonika w stylu fantasy.",
+   "title": "Metaphor: Refantazio Orchestral Album",
+   "url": "https://music.apple.com/jp/album/metaphor-refantazio-orchestral-album/6819527207?uo=4",
+   "id": "atlus-metaphor-refantazio-orchestral-album"
+  },
+  {
    "about": "ALT BLK ERA to japoński zespół/projekt z kręgu alt-popu i elektroniki; Novel Core to wokalistka znana z kolaboracji z producentami.",
    "artist": "ALT BLK ERA & Novel Core",
    "foundAt": "2026-11-11",
@@ -38,6 +50,30 @@
    "id": "alt-blk-era-novel-core-okay-okay"
   },
   {
+   "about": "Denonbu to multimedialny projekt muzyki klubowej z postaciami-DJ-kami, z udziałem znanych producentów.",
+   "artist": "東京電脳 × 電音部 × ☆Taku Takahashi & Yackle",
+   "foundAt": "2026-11-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Elektroniczny, taneczny singiel z gościnnym udziałem Taku Takahashi (m-flo) w klimacie club/house.",
+   "title": "Neo Future (feat. Neneruneru, Yanami Rain & Yumeno Mia)",
+   "url": "https://music.apple.com/jp/album/neo-future-feat-neneruneru-cv-ichigorinahamu-yanami/6830056697?uo=4",
+   "id": "denonbu-neo-future"
+  },
+  {
+   "about": "晴いちばん to producent związany z Project SEKAI; MORE MORE JUMP! to jedna z grup w grze.",
+   "artist": "晴いちばん feat. MORE MORE JUMP! / Project SEKAI",
+   "foundAt": "2026-11-12",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Piosenka z wokalami Vocaloid/Project SEKAI, wpis z VocaDB.",
+   "title": "ノーモアフィクション (No More Fiction)",
+   "url": "https://vocadb.net/S/1059981",
+   "id": "haruichiban-no-more-fiction"
+  },
+  {
    "about": "*Luna (LU-NA) to wokalistka i producentka z sceny eurobeat/j-pop dance, znana z remiksów i piosenek w stylu anime.",
    "artist": "*Luna",
    "foundAt": "2026-11-11",
@@ -48,6 +84,42 @@
    "title": "Snow Kiss",
    "url": "https://music.apple.com/jp/album/snow-kiss-single/6832875101?uo=4",
    "id": "lu-na-snow-kiss"
+  },
+  {
+   "about": "麻婆豆腐 (Mapo Tofu) to producent Vocaloid/denpa znany z energetycznych utworów.",
+   "artist": "麻婆豆腐",
+   "foundAt": "2026-11-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Nowy singiel w stylu pop-denpa, dostępny w serwisach streamingowych.",
+   "title": "Alien Alien",
+   "url": "https://music.apple.com/jp/album/alien-alien-single/6826041131?uo=4",
+   "id": "mapo-tofu-alien-alien"
+  },
+  {
+   "about": "Phantom P to producent publikujący covery i własne utwory z głosem Megpoid; oryginał jest autorstwa DECO*27.",
+   "artist": "ファントム P feat. V7 AI Megpoid (oryg. DECO*27)",
+   "foundAt": "2026-11-12",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Cover utworu DECO*27 „Yowamushi Montblanc” z wokalem syntezatora V7 AI Megpoid.",
+   "title": "弱虫モンブラン (cover)",
+   "url": "https://youtu.be/cno2Kp5R6To",
+   "id": "phantom-p-yowamushi-montblanc-cover"
+  },
+  {
+   "about": "RiraN to koreański producent Vocaloid/DJ ze sceny gier rytmicznych (DJMAX, Inspion).",
+   "artist": "RiraN",
+   "foundAt": "2026-11-12",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Taneczny singiel z gościnnym wokalem まるもこ, w klimacie electro-pop.",
+   "title": "Delicious Labyrinth (feat. まるもこ)",
+   "url": "https://music.apple.com/jp/album/delicious-labyrinth-feat-%E3%81%BE%E3%82%8B%E3%82%82%E3%81%93-single/6831723114?uo=4",
+   "id": "riran-delicious-labyrinth"
   },
   {
    "about": "Ryo to założyciel supercell i twórca „World is Mine” oraz „Melt”, pionier muzyki Vocaloid; później pracował też przy Gakuen iDOLM@STER i anime.",
