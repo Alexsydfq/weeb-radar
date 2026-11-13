@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:42:28Z",
+ "updated": "2026-11-13T05:42:40Z",
  "events": [
   {
    "id": "2026-11-kawaii-beats-anime-night-warszawa",
@@ -421,6 +421,37 @@
     }
    ],
    "url": "https://www.jame-world.com/en/event/pl"
+  },
+  {
+   "id": "jp-2026-11-hoshimachi-suisei-arena-tour",
+   "artist": "Hoshimachi Suisei",
+   "title": "ARENA TOUR 2026 Once Upon a Stellar",
+   "kind": "trasa",
+   "region": "JP",
+   "tier": 3,
+   "dateStart": "2026-10-21",
+   "dateEnd": "2026-11-12",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Kobe",
+     "date": "2026-10-21",
+     "venue": "Glion Arena Kobe"
+    },
+    {
+     "cc": "JP",
+     "city": "Nagoya",
+     "date": "2026-11-07",
+     "venue": "IG Arena"
+    },
+    {
+     "cc": "JP",
+     "city": "Fukuoka",
+     "date": "2026-11-12",
+     "venue": "Marine Messe Fukuoka A"
+    }
+   ],
+   "url": "https://animatetimes.com/news/details.php?id=1774251077"
   },
   {
    "id": "jp-2026-10-vocaloid-maniax-vol58-mogra",
