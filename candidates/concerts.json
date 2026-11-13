@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-12T02:40:55Z",
+ "generated": "2026-11-13T02:22:31Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 9,
+ "count": 12,
  "items": [
   {
    "watch": "LiSA",
@@ -94,6 +94,17 @@
    "source": "songkick"
   },
   {
+   "watch": "HANABIE.",
+   "name": "HANABIE @ Donington Park",
+   "date": "2027-06-09",
+   "dateEnd": "2027-06-13",
+   "city": "Derby",
+   "cc": "UK",
+   "venue": "Donington Park",
+   "url": "https://www.songkick.com/festivals/1948-download/id/43275076-download-festival-2027",
+   "source": "songkick"
+  },
+  {
    "watch": "Queens of the Stone Age",
    "name": "Queens of the Stone Age @ Sweden Rock Festival Grounds",
    "date": "2027-06-09",
@@ -102,6 +113,28 @@
    "cc": "SE",
    "venue": "Sweden Rock Festival Grounds",
    "url": "https://www.songkick.com/festivals/33046-sweden-rock/id/43259776-sweden-rock-festival-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "Pierce The Veil",
+   "name": "Pierce the Veil @ Donington Park",
+   "date": "2027-06-09",
+   "dateEnd": "2027-06-13",
+   "city": "Derby",
+   "cc": "UK",
+   "venue": "Donington Park",
+   "url": "https://www.songkick.com/festivals/1948-download/id/43275076-download-festival-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "LiSA",
+   "name": "LiSA (JP) @ Stadtteilzentrum Lisa",
+   "date": "2027-11-28",
+   "dateEnd": "2027-11-28",
+   "city": "Jena",
+   "cc": "DE",
+   "venue": "Stadtteilzentrum Lisa",
+   "url": "https://www.songkick.com/concerts/43513245-lisa-jp-at-stadtteilzentrum-lisa",
    "source": "songkick"
   }
  ]

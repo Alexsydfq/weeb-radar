@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-12T02:40:53Z",
- "about": "Premiery 2026-10-29..2026-12-12 artystów z watch.json, których nie ma w music.json",
- "count": 41,
+ "generated": "2026-11-13T02:22:29Z",
+ "about": "Premiery 2026-10-30..2026-12-13 artystów z watch.json, których nie ma w music.json",
+ "count": 40,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -22,6 +22,15 @@
    "source": "itunes"
   },
   {
+   "watch": "Steve Aoki",
+   "artist": "Death From Above 1979 & Steve Aoki",
+   "title": "Private Lives (Steve Aoki 3LKTR0 remix)",
+   "released": "2026-11-13",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/e420b6db-a938-49a4-a769-53d88944a425",
+   "source": "musicbrainz"
+  },
+  {
    "watch": "アトラスサウンドチーム",
    "artist": "ATLUS GAME MUSIC, アトラスサウンドチーム & ユークロニア王立交響楽団",
    "title": "Metaphor: Refantazio Orchestral Album",
@@ -29,6 +38,15 @@
    "kind": "album",
    "url": "https://music.apple.com/jp/album/metaphor-refantazio-orchestral-album/6819527207?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "Eminem",
+   "artist": "Eminem",
+   "title": "Infinite EP",
+   "released": "2026-11-12",
+   "kind": "EP",
+   "url": "https://musicbrainz.org/release-group/2133f99e-22e7-48c9-a818-914265089e51",
+   "source": "musicbrainz"
   },
   {
    "watch": "東京真中 (Tokyo Manaka)",
@@ -46,15 +64,6 @@
    "released": "2026-11-11",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/neo-future-feat-neneruneru-cv-ichigorinahamu-yanami/6830056697?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "麻婆豆腐",
-   "artist": "麻婆豆腐",
-   "title": "Alien Alien - Single",
-   "released": "2026-11-11",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/alien-alien-single/6826041131?uo=4",
    "source": "itunes"
   },
   {
@@ -83,15 +92,6 @@
    "kind": "cover",
    "url": "https://vocadb.net/S/1059981",
    "source": "vocadb"
-  },
-  {
-   "watch": "RiraN",
-   "artist": "RiraN",
-   "title": "Delicious Labyrinth (feat. まるもこ) - Single",
-   "released": "2026-11-10",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/delicious-labyrinth-feat-%E3%81%BE%E3%82%8B%E3%82%82%E3%81%93-single/6831723114?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "藤田ことね",
@@ -362,15 +362,6 @@
    "kind": "cover",
    "url": "https://youtu.be/k5BH4gdSnYo",
    "source": "vocadb"
-  },
-  {
-   "watch": "Brutalismus 3000",
-   "artist": "Boys Noize & Brutalismus 3000",
-   "title": "Nächstenliebe",
-   "released": "2026-10-29",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/960495b5-c702-47a7-93a4-618e9013f3bd",
-   "source": "musicbrainz"
   }
  ]
 }
