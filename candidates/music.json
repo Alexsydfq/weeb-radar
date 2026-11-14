@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-13T02:22:29Z",
- "about": "Premiery 2026-10-30..2026-12-13 artystów z watch.json, których nie ma w music.json",
- "count": 40,
+ "generated": "2026-11-14T01:57:47Z",
+ "about": "Premiery 2026-10-31..2026-12-14 artystów z watch.json, których nie ma w music.json",
+ "count": 41,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -10,6 +10,24 @@
    "released": "2026-12-06",
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/d9271379-4fae-4be3-a1a7-354cd3d357f7",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "d0tc0mmie",
+   "artist": "d0tc0mmie feat. Synthesizer V AI Megpoid",
+   "title": "Trending Topic",
+   "released": "2026-11-28",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1060748",
+   "source": "vocadb"
+  },
+  {
+   "watch": "いろはにほへっと あやふぶみ",
+   "artist": "いろはにほへっと あやふぶみ",
+   "title": "極楽ごきげん縁日和",
+   "released": "2026-11-14",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/aacf54d5-69d4-45e4-a646-9682cfe861e4",
    "source": "musicbrainz"
   },
   {
@@ -22,6 +40,15 @@
    "source": "itunes"
   },
   {
+   "watch": "Kobaryo",
+   "artist": "Kobaryo",
+   "title": "Heat and Haste - Single",
+   "released": "2026-11-13",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/heat-and-haste-single/6831409514?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "Steve Aoki",
    "artist": "Death From Above 1979 & Steve Aoki",
    "title": "Private Lives (Steve Aoki 3LKTR0 remix)",
@@ -29,6 +56,15 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/e420b6db-a938-49a4-a769-53d88944a425",
    "source": "musicbrainz"
+  },
+  {
+   "watch": "AnythingBecomeMoe",
+   "artist": "color feat. Fukase (Soft)",
+   "title": "好きな隙間",
+   "released": "2026-11-13",
+   "kind": "cover",
+   "url": "https://youtu.be/gb0VJ99G-ZI",
+   "source": "vocadb"
   },
   {
    "watch": "アトラスサウンドチーム",
@@ -91,6 +127,15 @@
    "released": "2026-11-11",
    "kind": "cover",
    "url": "https://vocadb.net/S/1059981",
+   "source": "vocadb"
+  },
+  {
+   "watch": "VocaloKAT",
+   "artist": "MAIDDOM feat. LUCI (VOCALOID7)",
+   "title": "Self Proclaimed Angel",
+   "released": "2026-11-11",
+   "kind": "cover",
+   "url": "https://youtu.be/djZF7xcschg",
    "source": "vocadb"
   },
   {
@@ -325,42 +370,6 @@
    "released": "2026-10-31",
    "kind": "singiel",
    "url": "https://youtu.be/hXFSYnX_4zM",
-   "source": "vocadb"
-  },
-  {
-   "watch": "mona（CV：夏川椎菜）",
-   "artist": "mona(CV:夏川椎菜) & CHiCO with HoneyWorks",
-   "title": "原宿deいちご☆オレ - Single",
-   "released": "2026-10-30",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E5%8E%9F%E5%AE%BFde%E3%81%84%E3%81%A1%E3%81%94-%E3%82%AA%E3%83%AC-single/6823532275?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "d0tc0mmie",
-   "artist": "d0tc0mmie, 重音テト & 初音ミク",
-   "title": "Dream - EP",
-   "released": "2026-10-30",
-   "kind": "EP",
-   "url": "https://music.apple.com/jp/album/dream-ep/6822981634?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "HoneyWorks",
-   "artist": "mona夏川椎菜 & CHiCO with HoneyWorks",
-   "title": "原宿deいちご☆オレ",
-   "released": "2026-10-30",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/e3f3d4b2-8b3c-48bc-864b-d69c7850a6e9",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "AnythingBecomeMoe",
-   "artist": "오드아이, AnythingBecomeMoe, Harry Hz feat. SeeU Re:Voice",
-   "title": "야라라라",
-   "released": "2026-10-30",
-   "kind": "cover",
-   "url": "https://youtu.be/k5BH4gdSnYo",
    "source": "vocadb"
   }
  ]

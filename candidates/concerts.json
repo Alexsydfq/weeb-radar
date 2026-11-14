@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-13T02:22:31Z",
+ "generated": "2026-11-14T01:58:04Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 12,
+ "count": 14,
  "items": [
   {
    "watch": "LiSA",
@@ -91,6 +91,28 @@
    "cc": "ES",
    "venue": "Parc del Fòrum",
    "url": "https://www.songkick.com/festivals/618-primavera-sound/id/43448637-primavera-sound-festival-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "HANABIE.",
+   "name": "HANABIE @ Zeppelinfeld Nürnberg",
+   "date": "2027-06-04",
+   "dateEnd": "2027-06-06",
+   "city": "Nuremberg",
+   "cc": "DE",
+   "venue": "Zeppelinfeld Nürnberg",
+   "url": "https://www.songkick.com/festivals/19-rock-im-park/id/43258362-rock-im-park-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "HANABIE.",
+   "name": "HANABIE @ Nürburgring",
+   "date": "2027-06-04",
+   "dateEnd": "2027-06-06",
+   "city": "Nürburg",
+   "cc": "DE",
+   "venue": "Nürburgring",
+   "url": "https://www.songkick.com/festivals/1237-rock-am-ring/id/43258361-rock-am-ring-2027",
    "source": "songkick"
   },
   {
