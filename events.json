@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:42:12Z",
+ "updated": "2026-11-14T05:42:26Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -3693,17 +3693,17 @@
   {
    "about": "Orkiestrowa trasa z okazji 40-lecia serii The Legend of Zelda, z muzyką z gier Nintendo w wykonaniu lokalnych orkiestr.",
    "artist": "The Legend of Zelda 40th Anniversary Concert",
-   "changeNote": "Doszły daty: Sztokholm 18–19.06, Edynburg 17.09, Glasgow 18.09.2027 (+ drugi koncert w Londynie 4.04)",
-   "dateEnd": "2027-09-18",
+   "changeNote": "Nowe daty: Rzym, Amsterdam, Frankfurt, Paryż i dodatkowy koncert w Londynie (6.04); Hiszpania ma być ogłoszona",
+   "dateEnd": "2027-11-14",
    "dateStart": "2027-04-03",
    "facts": [
     {
      "k": "Sprzedaż",
-     "v": "od 30.09.2026 12:00 BST (UK); ceny niepodane w źródle"
+     "v": "od 30.09.2026 12:00 BST (UK); Rzym, Amsterdam, Frankfurt, dodatkowe dni od 13.11.2026 12:00; Paryż później"
     },
     {
      "k": "Kolejne kraje",
-     "v": "FR, DE, IT, ES – daty do ogłoszenia"
+     "v": "Hiszpania – daty wkrótce; ceny niepodane w źródle"
     }
    ],
    "foundAt": "2026-10-15",
@@ -3732,6 +3732,24 @@
      "venue": "Royal Albert Hall"
     },
     {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-04-06",
+     "venue": "Royal Albert Hall"
+    },
+    {
+     "cc": "IT",
+     "city": "Rzym",
+     "date": "2027-04-17",
+     "venue": "Auditorium Conciliazione"
+    },
+    {
+     "cc": "IT",
+     "city": "Rzym",
+     "date": "2027-04-18",
+     "venue": "Auditorium Conciliazione"
+    },
+    {
      "cc": "SE",
      "city": "Sztokholm",
      "date": "2027-06-18",
@@ -3744,6 +3762,30 @@
      "venue": "Konserthuset Stockholm"
     },
     {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2027-09-06",
+     "venue": "Concertgebouw"
+    },
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2027-09-07",
+     "venue": "Concertgebouw"
+    },
+    {
+     "cc": "DE",
+     "city": "Frankfurt",
+     "date": "2027-09-10",
+     "venue": "Alte Oper (Frankfurt Radio Symphony)"
+    },
+    {
+     "cc": "DE",
+     "city": "Frankfurt",
+     "date": "2027-09-11",
+     "venue": "Alte Oper (Frankfurt Radio Symphony)"
+    },
+    {
      "cc": "UK",
      "city": "Edynburg",
      "date": "2027-09-17",
@@ -3754,12 +3796,24 @@
      "city": "Glasgow",
      "date": "2027-09-18",
      "venue": "Glasgow Royal Concert Hall"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-11-13",
+     "venue": "Philharmonie de Paris"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-11-14",
+     "venue": "Philharmonie de Paris"
     }
    ],
    "tickets": "https://zelda.gameconcerts.com/",
    "tier": 2,
    "title": "Trasa z okazji 40-lecia Zeldy: Londyn, Sztokholm, Edynburg, Glasgow",
-   "updatedAt": "2026-10-21",
+   "updatedAt": "2026-11-14",
    "url": "https://consolepulse.com/nintendo/zelda/news/zelda-40th-anniversary-concert-tour-2027-announced",
    "id": "2027-04-zelda-40th-anniversary-concert-london"
   },
@@ -3827,6 +3881,36 @@
    "title": "Koncerty w Niemczech: Heilbronn i Stuttgart",
    "url": "https://www.songkick.com/concerts/43435382-jeff-lynnes-elo-at-konzert-and-kongresszentrum-harmonie",
    "id": "2027-05-jeff-lynnes-elo-germany"
+  },
+  {
+   "about": "Największy brytyjski festiwal rocka i metalu w Donington Park. HANABIE. to japoński zespół łączący metalcore z kawaii i J-popem, znany z nowoczesnej sceny idol-metal.",
+   "artist": "Download Festival 2027",
+   "dateEnd": "2027-06-13",
+   "dateStart": "2027-06-09",
+   "foundAt": "2026-11-14",
+   "hits": [
+    "HANABIE. – Hanabie.",
+    "HANABIE. – Kyuun",
+    "Pierce The Veil – King for a Day",
+    "Pierce The Veil – Caraphernelia"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "HANABIE.",
+    "Pierce The Veil"
+   ],
+   "note": "Według Songkick w line-upie HANABIE. (japoński hardcore/kawaii metal) i Pierce The Veil; pełny line-up i godziny jeszcze nieznane.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Derby (Donington Park)",
+     "venue": "Donington Park"
+    }
+   ],
+   "tier": 3,
+   "title": "Download Festival (Donington Park) – gra m.in. HANABIE. i Pierce The Veil",
+   "url": "https://www.songkick.com/festivals/1948-download/id/43275076-download-festival-2027",
+   "id": "2027-06-download-festival-hanabie-pierce-the-veil"
   },
   {
    "about": "Koncert z serii NieR:Orchestra: pełna orkiestra i chór, wokalistki J'Nique Nicole i Emi Evans, wizualizacje na wielkim ekranie i narracja opowiadająca historię prequelu NieR:Automata (Pearl Harbor Descent Operation).",

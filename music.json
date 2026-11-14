@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:42:12Z",
+ "updated": "2026-11-14T05:42:26Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -14,6 +14,42 @@
    "id": "eve-pol-under"
   },
   {
+   "about": "d0tc0mmie to producent z kręgu internetowej sceny vocaloidowej i hyperpopu, tworzący na Synthesizer V i Vocaloid.",
+   "artist": "d0tc0mmie feat. Synthesizer V AI Megpoid",
+   "foundAt": "2026-11-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Premiera zapowiedziana na 28 listopada; elektroniczny, hyperpopowy kawałek z wokalem Megpoid.",
+   "title": "Trending Topic",
+   "url": "https://vocadb.net/S/1060748",
+   "id": "d0tc0mmie-trending-topic"
+  },
+  {
+   "about": "いろはにほへっと to producentka muzyki vocaloidowej i anime-popowej, współpracująca z wokalistką Ayafubumi.",
+   "artist": "いろはにほへっと あやふぶみ",
+   "foundAt": "2026-11-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-14",
+   "songAbout": "Świąteczno-festiwalowy, energiczny kawałek w stylu japońskiego matsuri.",
+   "title": "極楽ごきげん縁日和",
+   "url": "https://musicbrainz.org/release-group/aacf54d5-69d4-45e4-a646-9682cfe861e4",
+   "id": "irohanihohet-gokuraku-gokigen-enniti-ori"
+  },
+  {
+   "about": "Steve Aoki to amerykański DJ i producent EDM, znany z kolaboracji i wspólnych projektów z artystami z Japonii.",
+   "artist": "Death From Above 1979 & Steve Aoki",
+   "foundAt": "2026-11-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-13",
+   "songAbout": "Elektroniczny remiks rockowego duetu DFA1979 w stylu big-room.",
+   "title": "Private Lives (Steve Aoki 3LKTR0 remix)",
+   "url": "https://musicbrainz.org/release-group/e420b6db-a938-49a4-a769-53d88944a425",
+   "id": "death-from-above-1979-steve-aoki-private-lives-remix"
+  },
+  {
    "about": "IDONO KAWAZU to producent vocaloidowy tworzący z użyciem głosu Adachi Rei.",
    "artist": "IDONO KAWAZU & Adachi Rei",
    "foundAt": "2026-11-07",
@@ -26,6 +62,18 @@
    "id": "idono-kawazu-adachi-rei-no-action"
   },
   {
+   "about": "Kobaryo to japoński producent hardcore/speedcore ze sceny gier rytmicznych, znany z utworów w Beatmanii i Sound Voltex.",
+   "artist": "Kobaryo",
+   "foundAt": "2026-11-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-13",
+   "songAbout": "Szybki, agresywny hardcore z zacięciem gier rytmicznych.",
+   "title": "Heat and Haste",
+   "url": "https://music.apple.com/jp/album/heat-and-haste-single/6831409514?uo=4",
+   "id": "kobaryo-heat-and-haste"
+  },
+  {
    "about": "Atlus Sound Team to zespół kompozytorów Persony i Shin Megami Tensei, m.in. Shoji Meguro.",
    "artist": "ATLUS GAME MUSIC × ユークロニア王立交響楽団",
    "foundAt": "2026-11-12",
@@ -36,6 +84,18 @@
    "title": "Metaphor: Refantazio Orchestral Album",
    "url": "https://music.apple.com/jp/album/metaphor-refantazio-orchestral-album/6819527207?uo=4",
    "id": "atlus-metaphor-refantazio-orchestral-album"
+  },
+  {
+   "about": "Eminem to amerykański raper, jedna z największych postaci hip-hopu.",
+   "artist": "Eminem",
+   "foundAt": "2026-11-14",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-12",
+   "songAbout": "EP z nowymi lub reedycjonowanymi nagraniami (według MusicBrainz).",
+   "title": "Infinite EP",
+   "url": "https://musicbrainz.org/release-group/2133f99e-22e7-48c9-a818-914265089e51",
+   "id": "eminem-infinite-ep"
   },
   {
    "about": "ALT BLK ERA to japoński zespół/projekt z kręgu alt-popu i elektroniki; Novel Core to wokalistka znana z kolaboracji z producentami.",
@@ -84,6 +144,18 @@
    "title": "Snow Kiss",
    "url": "https://music.apple.com/jp/album/snow-kiss-single/6832875101?uo=4",
    "id": "lu-na-snow-kiss"
+  },
+  {
+   "about": "MAIDDOM to producent sceny vocaloidowej pracujący z wokalem LUCI na silniku VOCALOID7.",
+   "artist": "MAIDDOM feat. LUCI (VOCALOID7)",
+   "foundAt": "2026-11-14",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-11",
+   "songAbout": "Nowy kawałek vocaloidowy opublikowany na YouTube.",
+   "title": "Self Proclaimed Angel",
+   "url": "https://youtu.be/djZF7xcschg",
+   "id": "maiddom-self-proclaimed-angel"
   },
   {
    "about": "麻婆豆腐 (Mapo Tofu) to producent Vocaloid/denpa znany z energetycznych utworów.",
