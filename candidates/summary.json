@@ -1,24 +1,45 @@
 {
- "generated": "2026-11-14T01:57:47Z",
+ "generated": "2026-11-15T01:54:41Z",
  "artists": 476,
- "seconds": 1792,
+ "seconds": 2976,
  "music": {
-  "found": 89,
-  "new": 41
+  "found": 91,
+  "new": 46
  },
  "concerts": {
-  "found": 73,
+  "found": 71,
   "new": 14
  },
  "japan": {
-  "found": 13,
-  "new": 9
+  "found": 11,
+  "new": 7
  },
  "calls": {
   "itunes_calls": 455,
-  "songkick_calls": 169,
-  "mb_calls": 455,
-  "vocadb_calls": 241
+  "songkick_calls": 146,
+  "vocadb_calls": 241,
+  "mb_calls": 436,
+  "errors": 19
  },
- "errors": []
+ "errors": [
+  "mb Sana Natori: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb MILGRAM: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb 星街すいせい: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Otonashi AF: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb 花海佑芽: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Ninomae Ina'nis: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb LindaAI-CUE: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb 早川博隆: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb ついなちゃん: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb KAFKA: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb UniChØrd: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb 花譜: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb MORE MORE JUMP!: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Bo Burnham: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb えいぷ: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb OMGkawaiiAngel: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb BAYACHAO: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Ryu*: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb メイプル(伊藤美来): HTTPError HTTP Error 503: Service Temporarily Unavailable"
+ ]
 }
