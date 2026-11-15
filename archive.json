@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-13T05:42:40Z",
+ "updated": "2026-11-15T05:42:09Z",
  "events": [
+  {
+   "id": "2026-11-atomic-pixel-anime-rave-granada-sevilla",
+   "artist": "Atomic Pixel Party – Anime Rave Granada i Sevilla",
+   "title": "Anime rave'y w Andaluzji (Arcade)",
+   "kind": "rave",
+   "tier": 3,
+   "dateStart": "2026-11-13",
+   "dateEnd": "2026-11-14",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Grenada",
+     "date": "2026-11-13",
+     "venue": "Arcade"
+    },
+    {
+     "cc": "ES",
+     "city": "Sewilla",
+     "date": "2026-11-14",
+     "venue": "Arcade"
+    }
+   ],
+   "url": "https://atomicpixel.es/anime-rave-granada/"
+  },
   {
    "id": "2026-11-kawaii-beats-anime-night-warszawa",
    "artist": "Kawaii Beats: Anime Night (DJ Baker Party Maker)",
@@ -761,6 +785,47 @@
     "DJ Kehveli (6.11)"
    ],
    "url": "https://neonya.party/"
+  },
+  {
+   "id": "2026-10-atomic-pixel-party-anime-rave-es",
+   "artist": "Atomic Pixel Party — Anime Rave",
+   "title": "Jesienne imprezy anime w Hiszpanii",
+   "kind": "rave",
+   "tier": 2,
+   "dateStart": "2026-10-09",
+   "dateEnd": "2026-11-14",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Saragossa",
+     "date": "2026-10-09",
+     "venue": "Sala López"
+    },
+    {
+     "cc": "ES",
+     "city": "Bilbao",
+     "date": "2026-10-10",
+     "venue": "Sala Mytho"
+    },
+    {
+     "cc": "ES",
+     "city": "Walencja",
+     "date": "2026-10-16",
+     "venue": "Tulum Valencia Art of Wild"
+    },
+    {
+     "cc": "ES",
+     "city": "Grenada",
+     "date": "2026-11-13"
+    },
+    {
+     "cc": "ES",
+     "city": "Sewilla",
+     "date": "2026-11-14",
+     "venue": "Supra Music Hall"
+    }
+   ],
+   "url": "https://site.fourvenues.com/es/atomic-pixel-party-espana"
   },
   {
    "id": "past-2026-10-08-unsound",

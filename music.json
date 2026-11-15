@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:42:26Z",
+ "updated": "2026-11-15T05:42:09Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -26,6 +26,114 @@
    "id": "d0tc0mmie-trending-topic"
   },
   {
+   "about": "いよわ (Iyowa) to producent vocaloidowy znany z nerwowych, gęstych aranżacji i hitów jak „Wakusei Chokuretsu”.",
+   "artist": "いよわ feat. 初音ミク",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Remiks własnego utworu autorstwa Iyowy z Hatsune Miku; premiera zapowiedziana na 28.11.",
+   "title": "日照雨、少女は閃影に消ゆ -いよわ Remix-",
+   "url": "https://vocadb.net/S/1061184",
+   "id": "iyowa-hatsune-miku-hishigure-remix"
+  },
+  {
+   "about": "いよわ (Iyowa) to producent vocaloidowy znany z nerwowych, gęstych aranżacji i hitów jak „Wakusei Chokuretsu”.",
+   "artist": "いよわ feat. MAYU",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Nowy kawałek z głosem MAYU; premiera zapowiedziana na 28.11.",
+   "title": "ペーパームーン",
+   "url": "https://vocadb.net/S/1061163",
+   "id": "iyowa-mayu-paper-moon"
+  },
+  {
+   "about": "ミ瑞 to japoński producent vocaloidowy/SynthV.",
+   "artist": "ミ瑞 feat. 汎用式概念χ",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Singiel z syntezatorem głosu 汎用式概念χ; premiera zapowiedziana na 28.11.",
+   "title": "ふわ欲",
+   "url": "https://vocadb.net/S/1061300",
+   "id": "mizui-fuwayoku"
+  },
+  {
+   "about": "ミ瑞 to japoński producent vocaloidowy/SynthV.",
+   "artist": "ミ瑞 feat. 可不, 知声",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Duet głosów KAFU i Chis-A; premiera zapowiedziana na 28.11.",
+   "title": "ALIVE!",
+   "url": "https://vocadb.net/S/1061299",
+   "id": "mizui-kafu-alive"
+  },
+  {
+   "about": "ミ瑞 to japoński producent vocaloidowy/SynthV.",
+   "artist": "ミ瑞 feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Singiel z głosem Otomachi Una (Synthesizer V AI); premiera zapowiedziana na 28.11.",
+   "title": "さよならコンティニュー",
+   "url": "https://vocadb.net/S/1061302",
+   "id": "mizui-una-sayonara-continue"
+  },
+  {
+   "about": "ミ瑞 to japoński producent vocaloidowy/SynthV.",
+   "artist": "ミ瑞 feat. 裏命",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Singiel z głosem 裏命; premiera zapowiedziana na 28.11.",
+   "title": "技術的分岐点",
+   "url": "https://vocadb.net/S/1061298",
+   "id": "mizui-uramei-gijutsuteki-bunkiten"
+  },
+  {
+   "about": "はしメロ (Hashimero) to japoński producent/DJ sceny elektronicznej i vocaloidowej.",
+   "artist": "Koven Wei & はしメロ",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-27",
+   "songAbout": "Singiel we współpracy z Koven Wei; premiera zapowiedziana na 27.11.",
+   "title": "Pride",
+   "url": "https://music.apple.com/jp/album/pride-single/6834756148?uo=4",
+   "id": "koven-wei-hashimero-pride"
+  },
+  {
+   "about": "MonochroMenace to kolektyw/label sceny vocaloidowej z zachodnim, elektronicznym brzmieniem; eggtan to jego producent.",
+   "artist": "eggtan feat. Eleanor Forte",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-15",
+   "songAbout": "Energetyczny singiel z angielskim głosem Eleanor Forte (Synthesizer V).",
+   "title": "More Than Fun",
+   "url": "https://youtu.be/wTW6WZV2HIM",
+   "id": "eggtan-eleanor-forte-more-than-fun"
+  },
+  {
+   "about": "Ado to japońska wokalistka, głos „Usseewa” i piosenek z filmu One Piece Film: Red.",
+   "artist": "Ado",
+   "foundAt": "2026-11-15",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-11-14",
+   "songAbout": "Album Ado z coverami „utaite”; premiera 14.11.",
+   "title": "BRAIN 歌いました",
+   "url": "https://musicbrainz.org/release-group/4ede1378-f14c-4d33-99db-d47b8d33f33d",
+   "id": "ado-brain-utaimashita"
+  },
+  {
    "about": "いろはにほへっと to producentka muzyki vocaloidowej i anime-popowej, współpracująca z wokalistką Ayafubumi.",
    "artist": "いろはにほへっと あやふぶみ",
    "foundAt": "2026-11-14",
@@ -38,6 +146,18 @@
    "id": "irohanihohet-gokuraku-gokigen-enniti-ori"
   },
   {
+   "about": "SaphsSapphire to zachodni producent sceny vocaloidowej/SynthV.",
+   "artist": "SaphsSapphire feat. Ci flower",
+   "foundAt": "2026-11-15",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-11-14",
+   "songAbout": "Nowy kawałek z głosem Ci flower na YouTube.",
+   "title": "Dizzy Paranoia Girl",
+   "url": "https://youtu.be/R6rL-nktrXk",
+   "id": "saphssapphire-ci-flower-dizzy-paranoia-girl"
+  },
+  {
    "about": "Steve Aoki to amerykański DJ i producent EDM, znany z kolaboracji i wspólnych projektów z artystami z Japonii.",
    "artist": "Death From Above 1979 & Steve Aoki",
    "foundAt": "2026-11-14",
@@ -48,6 +168,18 @@
    "title": "Private Lives (Steve Aoki 3LKTR0 remix)",
    "url": "https://musicbrainz.org/release-group/e420b6db-a938-49a4-a769-53d88944a425",
    "id": "death-from-above-1979-steve-aoki-private-lives-remix"
+  },
+  {
+   "about": "電音部 (Denonbu) to projekt idolowo-klubowy z muzyką elektroniczną, współpracuje z topowymi DJ-ami i producentami.",
+   "artist": "電音部 & rejection",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-13",
+   "songAbout": "Elektroniczny singiel z duetem rejection.",
+   "title": "Void",
+   "url": "https://music.apple.com/jp/album/void-single/6832456916?uo=4",
+   "id": "denonbu-rejection-void"
   },
   {
    "about": "IDONO KAWAZU to producent vocaloidowy tworzący z użyciem głosu Adachi Rei.",
@@ -74,6 +206,18 @@
    "id": "kobaryo-heat-and-haste"
   },
   {
+   "about": "RiraN to koreański producent sceny gier rytmicznych i vocaloidowej.",
+   "artist": "RiraN",
+   "foundAt": "2026-11-15",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-13",
+   "songAbout": "Singiel z wokalem AZK.",
+   "title": "False Dawn (feat. AZK)",
+   "url": "https://music.apple.com/jp/album/false-dawn-feat-azk-single/6829619515?uo=4",
+   "id": "riran-azk-false-dawn"
+  },
+  {
    "about": "Atlus Sound Team to zespół kompozytorów Persony i Shin Megami Tensei, m.in. Shoji Meguro.",
    "artist": "ATLUS GAME MUSIC × ユークロニア王立交響楽団",
    "foundAt": "2026-11-12",
@@ -96,6 +240,18 @@
    "title": "Infinite EP",
    "url": "https://musicbrainz.org/release-group/2133f99e-22e7-48c9-a818-914265089e51",
    "id": "eminem-infinite-ep"
+  },
+  {
+   "about": "Luna to producent/DJ muzyki bassowej i elektronicznej.",
+   "artist": "Luna",
+   "foundAt": "2026-11-15",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-11-12",
+   "songAbout": "Album bassowy; premiera 12.11.",
+   "title": "Bass Addiction",
+   "url": "https://music.apple.com/jp/album/bass-addiction/6832464923?uo=4",
+   "id": "luna-bass-addiction"
   },
   {
    "about": "ALT BLK ERA to japoński zespół/projekt z kręgu alt-popu i elektroniki; Novel Core to wokalistka znana z kolaboracji z producentami.",
