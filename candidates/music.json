@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-15T01:54:41Z",
- "about": "Premiery 2026-11-01..2026-12-15 artystów z watch.json, których nie ma w music.json",
- "count": 46,
+ "generated": "2026-11-16T01:59:18Z",
+ "about": "Premiery 2026-11-02..2026-12-16 artystów z watch.json, których nie ma w music.json",
+ "count": 37,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -13,102 +13,48 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "いよわ",
-   "artist": "いよわ feat. 初音ミク",
-   "title": "日照雨、少女は閃影に消ゆ -いよわ Remix-",
-   "released": "2026-11-28",
+   "watch": "TAK",
+   "artist": "TAK",
+   "title": "Morning Comes Anyway - Single",
+   "released": "2026-11-15",
    "kind": "singiel",
-   "url": "https://vocadb.net/S/1061184",
-   "source": "vocadb"
-  },
-  {
-   "watch": "いよわ",
-   "artist": "いよわ feat. MAYU",
-   "title": "ペーパームーン",
-   "released": "2026-11-28",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1061163",
-   "source": "vocadb"
-  },
-  {
-   "watch": "ミ瑞",
-   "artist": "ミ瑞 feat. Synthesizer V AI 音街ウナ",
-   "title": "さよならコンティニュー",
-   "released": "2026-11-28",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1061302",
-   "source": "vocadb"
-  },
-  {
-   "watch": "ミ瑞",
-   "artist": "ミ瑞 feat. 汎用式概念χ",
-   "title": "ふわ欲",
-   "released": "2026-11-28",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1061300",
-   "source": "vocadb"
-  },
-  {
-   "watch": "ミ瑞",
-   "artist": "ミ瑞 feat. 可不, 知声",
-   "title": "ALIVE!",
-   "released": "2026-11-28",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1061299",
-   "source": "vocadb"
-  },
-  {
-   "watch": "ミ瑞",
-   "artist": "ミ瑞 feat. 裏命",
-   "title": "技術的分岐点",
-   "released": "2026-11-28",
-   "kind": "singiel",
-   "url": "https://vocadb.net/S/1061298",
-   "source": "vocadb"
-  },
-  {
-   "watch": "はしメロ",
-   "artist": "Koven Wei & はしメロ",
-   "title": "Pride - Single",
-   "released": "2026-11-27",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/pride-single/6834756148?uo=4",
+   "url": "https://music.apple.com/jp/album/morning-comes-anyway-single/6831457035?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "MonochroMenace",
-   "artist": "eggtan feat. Eleanor Forte",
-   "title": "More Than Fun",
+   "watch": "rumaki",
+   "artist": "rumaki",
+   "title": "Don't Swipe (feat. HATSUNE MIKU) - Single",
    "released": "2026-11-15",
    "kind": "singiel",
-   "url": "https://youtu.be/wTW6WZV2HIM",
-   "source": "vocadb"
+   "url": "https://music.apple.com/jp/album/dont-swipe-feat-hatsune-miku-single/6833873858?uo=4",
+   "source": "itunes"
   },
   {
-   "watch": "Ado",
-   "artist": "Ado",
-   "title": "BRAIN 歌いました",
-   "released": "2026-11-14",
-   "kind": "album",
-   "url": "https://musicbrainz.org/release-group/4ede1378-f14c-4d33-99db-d47b8d33f33d",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "VocaloKAT",
-   "artist": "SaphsSapphire feat. Ci flower",
-   "title": "Dizzy Paranoia Girl",
-   "released": "2026-11-14",
-   "kind": "cover",
-   "url": "https://youtu.be/R6rL-nktrXk",
-   "source": "vocadb"
-  },
-  {
-   "watch": "電音部",
-   "artist": "電音部 & rejection",
-   "title": "Void - Single",
-   "released": "2026-11-13",
+   "watch": "rumaki",
+   "artist": "rumaki, こはろP feat. 初音ミク",
+   "title": "すわいぷしないで！",
+   "released": "2026-11-15",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/void-single/6832456916?uo=4",
+   "url": "https://youtu.be/iBaPU82rg60",
+   "source": "vocadb"
+  },
+  {
+   "watch": "いろはにほへっと あやふぶみ",
+   "artist": "いろはにほへっと あやふぶみ",
+   "title": "Gokuraku Gokigen Enbiyori - Single",
+   "released": "2026-11-14",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/gokuraku-gokigen-enbiyori-single/6829738913?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "DYES IWASAKI",
+   "artist": "DYES IWASAKI",
+   "title": "Unshackle - Single",
+   "released": "2026-11-14",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/unshackle-single/6831071429?uo=4",
    "source": "itunes"
   },
   {
@@ -118,15 +64,6 @@
    "released": "2026-11-13",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/no-action-single/6830514270?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "RiraN",
-   "artist": "RiraN",
-   "title": "False Dawn (feat. AZK) - Single",
-   "released": "2026-11-13",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/false-dawn-feat-azk-single/6829619515?uo=4",
    "source": "itunes"
   },
   {
@@ -148,30 +85,12 @@
    "source": "itunes"
   },
   {
-   "watch": "*Luna",
-   "artist": "Luna",
-   "title": "Bass Addiction",
-   "released": "2026-11-12",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/bass-addiction/6832464923?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "東京真中 (Tokyo Manaka)",
    "artist": "東京真中 & 初音ミク",
    "title": "Memory - Single",
    "released": "2026-11-11",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/memory-single/6828710387?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "電音部",
-   "artist": "東京電脳, 電音部, ☆Taku Takahashi & Yackle",
-   "title": "Neo Future (feat. Neneruneru (CV:ICHIGORINAHAMU), Yanami Rain & Yumeno Mia) - Single",
-   "released": "2026-11-11",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/neo-future-feat-neneruneru-cv-ichigorinahamu-yanami/6830056697?uo=4",
    "source": "itunes"
   },
   {
@@ -208,6 +127,15 @@
    "released": "2026-11-09",
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/934c928d-bc52-458c-bec3-7f822bf19bbd",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "花海佑芽",
+   "artist": "初星学園、花海咲季、花海佑芽",
+   "title": "クロスファイア",
+   "released": "2026-11-09",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/865edf45-5afa-4aee-b00c-1eee9df2ee71",
    "source": "musicbrainz"
   },
   {
@@ -407,15 +335,6 @@
    "kind": "singiel",
    "url": "https://musicbrainz.org/release-group/2fe5f777-287b-473e-b16f-4ba45f71876a",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "博衣こより",
-   "artist": "AZKi, 雪花ラミィ & 博衣こより",
-   "title": "Oshitara Hikenai Koideshita - Single",
-   "released": "2026-11-01",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/oshitara-hikenai-koideshita-single/6828274937?uo=4",
-   "source": "itunes"
   }
  ]
 }
