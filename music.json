@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:42:09Z",
+ "updated": "2026-11-16T05:41:55Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -122,6 +122,30 @@
    "id": "eggtan-eleanor-forte-more-than-fun"
   },
   {
+   "about": "rumaki to producent muzyki elektronicznej i vocaloidowej, pracujący z głosem Hatsune Miku.",
+   "artist": "rumaki, こはろP feat. 初音ミク",
+   "foundAt": "2026-11-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-15",
+   "songAbout": "Nowy kawałek z Hatsune Miku, premiera 15 listopada.",
+   "title": "すわいぷしないで！ (Don't Swipe)",
+   "url": "https://youtu.be/iBaPU82rg60",
+   "id": "rumaki-dont-swipe-sugoi"
+  },
+  {
+   "about": "TAK (탁) to koreański producent Vocaloid, współtwórca piosenek do Project SEKAI, znany z „Lemon Melon Cookie”.",
+   "artist": "TAK",
+   "foundAt": "2026-11-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-15",
+   "songAbout": "Nowy singiel TAK, wydany 15 listopada.",
+   "title": "Morning Comes Anyway",
+   "url": "https://music.apple.com/jp/album/morning-comes-anyway-single/6831457035?uo=4",
+   "id": "tak-morning-comes-anyway"
+  },
+  {
    "about": "Ado to japońska wokalistka, głos „Usseewa” i piosenek z filmu One Piece Film: Red.",
    "artist": "Ado",
    "foundAt": "2026-11-15",
@@ -132,6 +156,18 @@
    "title": "BRAIN 歌いました",
    "url": "https://musicbrainz.org/release-group/4ede1378-f14c-4d33-99db-d47b8d33f33d",
    "id": "ado-brain-utaimashita"
+  },
+  {
+   "about": "DYES IWASAKI to japoński producent związany ze sceną vocaloidową i elektroniczną.",
+   "artist": "DYES IWASAKI",
+   "foundAt": "2026-11-16",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-14",
+   "songAbout": "Nowy singiel wydany 14 listopada.",
+   "title": "Unshackle",
+   "url": "https://music.apple.com/jp/album/unshackle-single/6831071429?uo=4",
+   "id": "dyes-iwasaki-unshackle"
   },
   {
    "about": "いろはにほへっと to producentka muzyki vocaloidowej i anime-popowej, współpracująca z wokalistką Ayafubumi.",

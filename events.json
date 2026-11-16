@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:42:26Z",
+ "updated": "2026-11-16T05:41:55Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -2280,6 +2280,59 @@
    "id": "2026-11-otaku-party-die-anime-party-de"
   },
   {
+   "about": "Trasa koncertowa na 30-lecie serii Capcom Resident Evil: motywy z gier i filmów w aranżacji orkiestrowej.",
+   "artist": "Resident Evil 30th Anniversary Concerts – Symphony of Legacy",
+   "dateEnd": "2026-12-15",
+   "dateStart": "2026-11-30",
+   "facts": [
+    {
+     "k": "Londyn",
+     "v": "7.12, 19:00, bilety od 5.03.2026 (Eventim UK)"
+    },
+    {
+     "k": "Wiedeń",
+     "v": "15.12, 20:00"
+    },
+    {
+     "k": "Düsseldorf",
+     "v": "30.11, 20:00"
+    }
+   ],
+   "foundAt": "2026-11-16",
+   "hits": [
+    "Resident Evil Main Theme",
+    "Saferoom Theme",
+    "Mr. X Theme"
+   ],
+   "kind": "symfoniczny",
+   "note": "Pełna orkiestra z wizualizacjami. Termin w Düsseldorfie był wcześniej przeniesiony (z 25.08) – warto sprawdzić potwierdzenie. Setlisty nie opublikowano.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Düsseldorf",
+     "date": "2026-11-30",
+     "venue": "Mitsubishi Electric Halle"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-12-07",
+     "venue": "Eventim Apollo"
+    },
+    {
+     "cc": "AT",
+     "city": "Wiedeń",
+     "date": "2026-12-15",
+     "venue": "Wiener Stadthalle, Halle F"
+    }
+   ],
+   "tickets": "https://wmo.at/resident-evil-30th-anniversary-concerts-symphony-of-legacy-tickets-393058-en.html",
+   "tier": 2,
+   "title": "Orkiestrowy koncert z muzyką z Resident Evil",
+   "url": "https://www.eventimapollo.com/events/resident-evil",
+   "id": "2026-11-resident-evil-symphony-of-legacy"
+  },
+  {
    "about": "Japoński piosenkarz i aktor (Yamapi), dawniej członek NEWS. Znany z dram, m.in. Nobuta wo Produce i Code Blue, oraz z przeboju nagranego z Kazuyą Kamenashim.",
    "artist": "Tomohisa Yamashita",
    "dateEnd": "2026-11-22",
@@ -2697,6 +2750,98 @@
    "id": "2027-01-anime-rap-revolution-vol-1-berlin"
   },
   {
+   "about": "Orkiestrowy koncert z muzyką Lorien Testard z gry Clair Obscur: Expedition 33 (turowy RPG inspirowany jRPG).",
+   "artist": "Clair Obscur: Expedition 33 – A Painted Symphony",
+   "dateEnd": "2027-05-27",
+   "dateStart": "2027-01-28",
+   "foundAt": "2026-11-16",
+   "hits": [
+    "Lumière",
+    "Une vie à t'aimer",
+    "Alicia"
+   ],
+   "kind": "symfoniczny",
+   "note": "Lista skrócona; w trasie jest też wiele miast we Francji (m.in. Bordeaux, Montpellier, Marsylia, Lyon, Tuluza, Rouen, Nantes). Pierwszy koncert z muzyką z gier na O2 w Londynie. Setlisty nie podano.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Amnéville",
+     "date": "2027-01-28",
+     "venue": "Galaxie"
+    },
+    {
+     "cc": "FR",
+     "city": "Strasburg",
+     "date": "2027-01-29",
+     "venue": "Zénith"
+    },
+    {
+     "cc": "FR",
+     "city": "Lille",
+     "date": "2027-02-09",
+     "venue": "Zénith"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-02-28",
+     "venue": "O2 Arena"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2027-03-23",
+     "venue": "Palau Sant Jordi"
+    },
+    {
+     "cc": "BE",
+     "city": "Bruksela",
+     "date": "2027-03-30",
+     "venue": "ING Arena"
+    },
+    {
+     "cc": "DE",
+     "city": "Hamburg",
+     "date": "2027-03-31",
+     "venue": "Barclays Arena"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-04-01",
+     "venue": "Uber Arena"
+    },
+    {
+     "cc": "NO",
+     "city": "Oslo",
+     "date": "2027-04-27",
+     "venue": "Unity Arena"
+    },
+    {
+     "cc": "SE",
+     "city": "Sztokholm",
+     "date": "2027-04-28",
+     "venue": "Avicii Arena"
+    },
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2027-05-03",
+     "venue": "Ziggo Dome"
+    },
+    {
+     "cc": "PL",
+     "city": "Kraków",
+     "date": "2027-05-04",
+     "venue": "Tauron Arena"
+    }
+   ],
+   "tier": 2,
+   "title": "Europejska część trasy 2027",
+   "url": "https://www.videogameschronicle.com/news/clair-obscurs-world-tour-adds-24-more-dates-for-2027-28-including-the-first-ever-video-game-concert-at-londons-o2/",
+   "id": "2027-01-clair-obscur-a-painted-symphony-europe"
+  },
+  {
    "about": "Zimowa edycja fińskiego konwentu Desucon. Gościem honorowym jest kompozytor Yūki Hayashi, autor muzyki do My Hero Academia i Haikyu!!.",
    "artist": "Desucon Frostbite 2027",
    "dateEnd": "2027-01-24",
@@ -2824,6 +2969,37 @@
    "title": "Europe Tour 2027 „SEVERANCE”",
    "url": "https://jrocknews.com/2026/10/madmans-esprit-returns-to-europe-for-2027-tour-severance.html",
    "id": "2027-01-madmans-esprit-severance-europe"
+  },
+  {
+   "about": "Koncert z soundtrackiem Metaphor: ReFantazio – RPG od zespołu Persony (muzyka Shoji Meguro).",
+   "artist": "Metaphor: ReFantazio Orchestra Concert",
+   "dateEnd": "2027-01-24",
+   "dateStart": "2027-01-22",
+   "foundAt": "2026-11-16",
+   "hits": [
+    "Warrior of Light",
+    "Reach Out to the Truth"
+   ],
+   "kind": "symfoniczny",
+   "note": "Europejska część trasy światowej; setlisty i dyrygenta nie ogłoszono.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-01-22",
+     "venue": "Eventim Apollo"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-01-24",
+     "venue": "Le Grand Rex"
+    }
+   ],
+   "tier": 2,
+   "title": "Koncert orkiestrowy z muzyką z gry Atlus",
+   "url": "https://www.eventimapollo.com/events/metaphor-refantazio-orchestra-concert",
+   "id": "2027-01-metaphor-refantazio-orchestra-concert"
   },
   {
    "about": "Japoński zespół grający mieszankę metalu, punku i reggae. Światową sławę dał mu „The Rumbling”, opening finałowego sezonu Attack on Titan.",
@@ -3052,6 +3228,38 @@
    "title": "Koncert muzyki Studio Ghibli (Guillaume Masson i Marie Ishii)",
    "url": "https://www.visitduesseldorf.de/en/calendar-of-events/the-music-of-studio-ghibli-df17b2f052",
    "id": "2027-01-studio-ghibli-in-miyazakis-dream-dusseldorf"
+  },
+  {
+   "about": "Live z obsadą głosową anime i gry Umamusume: Pretty Derby (dziewczyny-konie wyścigowe, anisong z gry).",
+   "artist": "Umamusume: Pretty Derby – 7th EVENT WORLD TOUR: THE STAGE",
+   "dateEnd": "2027-01-20",
+   "dateStart": "2027-01-19",
+   "foundAt": "2026-11-16",
+   "hits": [
+    "Make debut!",
+    "Winning the Soul",
+    "Special Record!"
+   ],
+   "kind": "koncert",
+   "note": "Ogłoszone 10.11.2026; w obsadzie m.in. Ayaka Ohashi, Sumire Uesaka, Yui Ogura. Nie potwierdzono, ile jest muzyki na żywo.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-01-19",
+     "venue": "Eventim Apollo"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-01-20",
+     "venue": "Eventim Apollo"
+    }
+   ],
+   "tier": 2,
+   "title": "Event ze seiyuu w Londynie (19–20.01.2027)",
+   "url": "https://animeintheuk.co.uk/animeeventuk/",
+   "id": "2027-01-umamusume-7th-event-world-tour-london"
   },
   {
    "about": "Symfoniczny przegląd muzyki z anime (Ghibli, Naruto, Dragon Ball, One Piece, Evangelion, Fullmetal Alchemist, Demon Slayer) produkcji Overlook Events, z udziałem twórców oryginalnych ścieżek. Wokalnie największe nazwiska to KOKIA (Origin, The Ancient Magus' Bride) i Hiroki Takahashi, wykonawca pierwszego openingu Dragon Balla.",
@@ -3383,6 +3591,86 @@
    "id": "2027-02-neth-priere-cain-europe"
   },
   {
+   "about": "Japońska wokalistka rockowa i modelka, znana jako głos Nany Osaki z anime i filmu „NANA” (Black Stones), opening „Rose”.",
+   "artist": "Anna Tsuchiya",
+   "dateEnd": "2027-12-11",
+   "dateStart": "2027-03-26",
+   "foundAt": "2026-11-16",
+   "hits": [
+    "Rose",
+    "Kuroi Namida",
+    "Nana",
+    "Rolling Star"
+   ],
+   "kind": "trasa",
+   "note": "Największa jak dotąd trasa międzynarodowa; ogłoszona 4.11.2026, bilety na sześć europejskich koncertów ruszyły 10.11 (Envol Prod). Szczegóły biletów na Londyn jeszcze TBA. Grudniowe punkty (Barcelona, Kraków) to występy na konwentach.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-03-26",
+     "venue": "Scala"
+    },
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2027-03-29",
+     "venue": "Melkweg"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-03-31",
+     "venue": "Le Bataclan"
+    },
+    {
+     "cc": "BE",
+     "city": "Bruksela",
+     "date": "2027-04-02",
+     "venue": "VK"
+    },
+    {
+     "cc": "IT",
+     "city": "Erba (Como)",
+     "date": "2027-04-04",
+     "venue": "LarioFiere"
+    },
+    {
+     "cc": "DE",
+     "city": "Kolonia",
+     "date": "2027-04-06",
+     "venue": "Kantine"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-04-08",
+     "venue": "Kesselhaus"
+    },
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2027-04-10",
+     "venue": "Ääniwalli"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2027-12-05",
+     "venue": "Manga Barcelona"
+    },
+    {
+     "cc": "PL",
+     "city": "Kraków",
+     "date": "2027-12-11"
+    }
+   ],
+   "tier": 1,
+   "title": "WORLD TOUR 2027 – europejskie występy",
+   "url": "https://www.electricbloomwebzine.com/2026/11/anna-tsuchiya-world-tour-2027-europe-asia.html",
+   "id": "2027-03-anna-tsuchiya-world-tour-europe"
+  },
+  {
    "about": "Legenda mrocznego, industrialnego visual kei z Tokio, znana z albumów „Coll:set”, „MIRROR” i „REDEEMER” oraz z europejskich tras w latach 2000. Zespół rozwiązał się w 2011 r., wrócił w 2025 r., a w maju 2026 wydał „RAPTURE”, pierwszy singiel od 16 lat.",
    "artist": "D'ESPAIRSRAY",
    "changeNote": "Warszawa 10.03: w sklepie organizatora wszystkie pule biletów (zwykłe, rodzinne, VIP) mają status „Pula wyprzedana”; godziny wg sklepu: 18:30 klub, 20:00 start",
@@ -3691,6 +3979,81 @@
    "id": "2027-04-hagane-europe"
   },
   {
+   "about": "Japońskie trio electropop (KOM_I, Kenmochi Hidefumi, Dir.F), znane z nowoczesnego j-popu i viralowych utworów w sieci.",
+   "artist": "Wednesday Campanella",
+   "dateEnd": "2027-04-17",
+   "dateStart": "2027-04-01",
+   "foundAt": "2026-11-16",
+   "hits": [
+    "Tom Sawyer",
+    "Aladdin",
+    "Ikkyu-san",
+    "Edison"
+   ],
+   "kind": "trasa",
+   "note": "Ogłoszone 14.11.2026; bilety (zwykłe i VIP upgrade) już w sprzedaży. Warszawa w liście dat, choć nie w treści artykułu.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-04-01",
+     "venue": "EartH"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-04-03",
+     "venue": "Alhambra"
+    },
+    {
+     "cc": "NL",
+     "city": "Haarlem",
+     "date": "2027-04-04",
+     "venue": "Patronaat"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-04-06",
+     "venue": "Kantine am Berghain"
+    },
+    {
+     "cc": "IT",
+     "city": "Mediolan",
+     "date": "2027-04-08",
+     "venue": "Circolo Magnolia"
+    },
+    {
+     "cc": "IT",
+     "city": "Rzym",
+     "date": "2027-04-10",
+     "venue": "Largo Venue"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2027-04-13",
+     "venue": "Niebo"
+    },
+    {
+     "cc": "CZ",
+     "city": "Praga",
+     "date": "2027-04-15",
+     "venue": "Fuchs2"
+    },
+    {
+     "cc": "SE",
+     "city": "Sztokholm",
+     "date": "2027-04-17",
+     "venue": "Hus 7"
+    }
+   ],
+   "tier": 1,
+   "title": "Europe Tour 2027",
+   "url": "https://avo-magazine.com/en/2026/11/wednesday-campanella-will-return-to-europe-in-2027-for-a-full-fledged-tour/",
+   "id": "2027-04-wednesday-campanella-europe"
+  },
+  {
    "about": "Orkiestrowa trasa z okazji 40-lecia serii The Legend of Zelda, z muzyką z gier Nintendo w wykonaniu lokalnych orkiestr.",
    "artist": "The Legend of Zelda 40th Anniversary Concert",
    "changeNote": "Nowe daty: Rzym, Amsterdam, Frankfurt, Paryż i dodatkowy koncert w Londynie (6.04); Hiszpania ma być ogłoszona",
@@ -3881,6 +4244,68 @@
    "title": "Koncerty w Niemczech: Heilbronn i Stuttgart",
    "url": "https://www.songkick.com/concerts/43435382-jeff-lynnes-elo-at-konzert-and-kongresszentrum-harmonie",
    "id": "2027-05-jeff-lynnes-elo-germany"
+  },
+  {
+   "about": "Wokalistka Carolin Mruała (Wønder) z zespołem wykonuje utwory z gier i anime w widowiskowym show.",
+   "artist": "Wønder",
+   "dateEnd": "2027-05-30",
+   "dateStart": "2027-05-21",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "od 138,90 zł z opłatami (eBilet)"
+    },
+    {
+     "k": "Godziny",
+     "v": "19:30"
+    }
+   ],
+   "foundAt": "2026-11-16",
+   "hits": [],
+   "kind": "trasa",
+   "note": "Toruń i Lublin też w planie, bez dat. Klubowy show z zespołem na żywo (nie orkiestra), muzyka z gier i anime + cosplay. Organizator: Knock Out Productions.",
+   "stops": [
+    {
+     "cc": "PL",
+     "city": "Gdańsk",
+     "date": "2027-05-21",
+     "venue": "Drizzly Grizzly"
+    },
+    {
+     "cc": "PL",
+     "city": "Poznań",
+     "date": "2027-05-22",
+     "venue": "Klub Szum"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2027-05-23",
+     "venue": "Progresja"
+    },
+    {
+     "cc": "PL",
+     "city": "Katowice",
+     "date": "2027-05-28",
+     "venue": "P23"
+    },
+    {
+     "cc": "PL",
+     "city": "Kraków",
+     "date": "2027-05-29",
+     "venue": "Hype Park"
+    },
+    {
+     "cc": "PL",
+     "city": "Wrocław",
+     "date": "2027-05-30",
+     "venue": "Zaklęte Rewiry"
+    }
+   ],
+   "tier": 1,
+   "title": "Games X Anime Show – trasa po Polsce",
+   "url": "https://www.ebilet.pl/en/muzyka/pozostale/wonder",
+   "id": "2027-05-wonder-games-x-anime-show-polska"
   },
   {
    "about": "Największy brytyjski festiwal rocka i metalu w Donington Park. HANABIE. to japoński zespół łączący metalcore z kawaii i J-popem, znany z nowoczesnej sceny idol-metal.",
@@ -4243,6 +4668,80 @@
    "title": "Perfecth World Tour — europejska odnoga (czerwiec 2027)",
    "url": "https://www.loudersound.com/bands-artists/live-performances/queens-of-the-stone-age-announce-european-leg-of-perfecth-world-tour",
    "id": "2027-06-queens-of-the-stone-age-perfecth-europe"
+  },
+  {
+   "about": "Największy niemiecki festiwal rockowy; HANABIE. to japońska kapela łącząca metalcore z kawaii.",
+   "artist": "Rock am Ring 2027",
+   "dateEnd": "2027-06-06",
+   "dateStart": "2027-06-04",
+   "foundAt": "2026-11-16",
+   "hits": [
+    "HANABIE. – Tsubasa wo Kudasai",
+    "HANABIE. – Hyakkaryouran"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Turnstile",
+    "Die Toten Hosen",
+    "Faith No More",
+    "Parkway Drive",
+    "Bring Me The Horizon",
+    "Evanescence",
+    "Falling In Reverse",
+    "blink-182",
+    "Billy Talent",
+    "The Prodigy",
+    "Hanabie"
+   ],
+   "note": "HANABIE. w line-upie; dzień występu nie potwierdzony. Bliźniacza edycja Rock im Park.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Nürburg",
+     "venue": "Nürburgring"
+    }
+   ],
+   "tier": 3,
+   "title": "Rock am Ring, Nürburgring – z HANABIE.",
+   "url": "https://www.rock-am-ring.com/en/line-up",
+   "id": "2027-06-rock-am-ring"
+  },
+  {
+   "about": "Wielki niemiecki festiwal rockowo-metalowy; HANABIE. to japońska kapela łącząca metalcore z kawaii.",
+   "artist": "Rock im Park 2027",
+   "dateEnd": "2027-06-06",
+   "dateStart": "2027-06-04",
+   "foundAt": "2026-11-16",
+   "hits": [
+    "HANABIE. – Tsubasa wo Kudasai",
+    "HANABIE. – Hyakkaryouran"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Turnstile",
+    "Die Toten Hosen",
+    "Faith No More",
+    "Parkway Drive",
+    "Bring Me The Horizon",
+    "Evanescence",
+    "Falling In Reverse",
+    "blink-182",
+    "Billy Talent",
+    "The Prodigy",
+    "Hanabie"
+   ],
+   "note": "HANABIE. (japoński hardcore / kawaii metal) w line-upie; dzień występu nie potwierdzony. Ten sam skład gra w Rock am Ring.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Norymberga",
+     "venue": "Zeppelinfeld"
+    }
+   ],
+   "tier": 3,
+   "title": "Rock im Park, Norymberga – z HANABIE.",
+   "url": "https://www.rock-im-park.com/en/line-up",
+   "id": "2027-06-rock-im-park"
   },
   {
    "about": "Największy szwedzki festiwal rocka i metalu, co roku w Norje koło Sölvesborga. Największe nazwy edycji 2027 to Mötley Crüe, Alice Cooper i Queens of the Stone Age.",
@@ -5470,6 +5969,47 @@
    "id": "jp-2026-12-hatsune-miku-countdown-japan-26-27"
   },
   {
+   "about": "Trzy wirtualne wokalistki z agencji KAMITSUBAKI STUDIO (tej samej co KAF), grane na trzy kolejne wieczory.",
+   "artist": "KAMITSUBAKI STUDIO solo lives: Rim / Harusaruhi / Koko",
+   "dateEnd": "2026-12-13",
+   "dateStart": "2026-12-11",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "Arena 14 000 ¥, Balkon S 12 000 ¥, Balkon A 9 800 ¥"
+    }
+   ],
+   "foundAt": "2026-11-16",
+   "hits": [],
+   "kind": "koncert",
+   "note": "4. one-many wirtualnych wokalistek KAMITSUBAKI. Bilety przez Rakuten Ticket; pierwsza loteria zakończona 13.09, sprawdź dalszą sprzedaż.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2026-12-11",
+     "venue": "Kanadevia Hall (Rim „NEUROMANCE IV”)"
+    },
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2026-12-12",
+     "venue": "Kanadevia Hall (Harusaruhi „UNITY - Our Resonance -”)"
+    },
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2026-12-13",
+     "venue": "Kanadevia Hall (Koko „PATHFINDER”)"
+    }
+   ],
+   "tier": 3,
+   "title": "Trzy dni one-manów w Kanadevia Hall",
+   "url": "https://kai-you.net/article/96371",
+   "id": "jp-2026-12-kamitsubaki-studio-solo-lives-rim-harusaruhi-koko"
+  },
+  {
    "about": "Wieczory artystów KAMITSUBAKI STUDIO, wytwórni VTuberów i Vocaloidów.",
    "artist": "KAMITSUBAKI WARS 2026",
    "dateEnd": "2026-12-13",
@@ -5630,6 +6170,49 @@
    "id": "jp-2027-01-hololive-records-music-stage-2027"
   },
   {
+   "about": "Pierwszy solowy live tria hololive (Fubuki, Ayame, Mio) z Gen 1 / GAMERS.",
+   "artist": "hololive – Hyakka Ryoran AyaFubuMi",
+   "dateEnd": "2027-02-14",
+   "dateStart": "2027-02-13",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "SS 14 300 ¥ / S 12 800 ¥ / A 9 800 ¥ / B 8 600 ¥"
+    },
+    {
+     "k": "Stream",
+     "v": "2 dni 12 000 ¥, 1 dzień 6 800 ¥"
+    },
+    {
+     "k": "Godziny",
+     "v": "start 18:00"
+    }
+   ],
+   "foundAt": "2026-11-16",
+   "hits": [],
+   "kind": "koncert",
+   "note": "Stream online przez SPWN i ZAIKO. Loteria FC (2. runda 4–14.12.2026), sprzedaż ogólna 26.12.2026 13:00.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2027-02-13",
+     "venue": "Ariake Arena"
+    },
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2027-02-14",
+     "venue": "Ariake Arena"
+    }
+   ],
+   "tier": 3,
+   "title": "1. solowy live Shirakami Fubuki, Nakiri Ayame i Ookami Mio",
+   "url": "https://hololive.hololivepro.com/news/20261113-01-420/",
+   "id": "jp-2027-02-hololive-hyakka-ryoran-ayafubumi"
+  },
+  {
    "about": "SNOW MIKU to zimowa odmiana Hatsune Miku, promująca Sapporo i Hokkaidō; coroczny live to koncert z udziałem producentów vocaloidowych i orkiestry/zespołu na żywo.",
    "artist": "SNOW MIKU LIVE! 2027",
    "dateEnd": "2027-02-07",
@@ -5699,6 +6282,103 @@
    "title": "Pierwszy Animelo Summer Live w zachodniej Japonii — Mizuho PayPay Dome Fukuoka",
    "url": "https://kai-you.net/article/95941",
    "id": "jp-2027-03-anisama-fukuoka-2027"
+  },
+  {
+   "about": "VTuber NIJISANJI, drugi solowy live.",
+   "artist": "Fuwa Minato (NIJISANJI)",
+   "dateEnd": "2027-03-03",
+   "dateStart": "2027-03-03",
+   "facts": [
+    {
+     "k": "Godziny",
+     "v": "drzwi 16:30, start 18:00"
+    }
+   ],
+   "foundAt": "2026-11-16",
+   "hits": [
+    "ECLIPSE"
+   ],
+   "kind": "koncert",
+   "note": "Związany z singlem „ECLIPSE” (9.12.2026). Loteria z kodem z płyty 9.12–11.01, sprzedaż ogólna 20.02.2027.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2027-03-03",
+     "venue": "Nippon Budokan"
+    }
+   ],
+   "tier": 2,
+   "title": "2nd LIVE „VORTEX”",
+   "url": "https://www.moguravr.com/fuwa-minato-2nd-live-vortex/",
+   "id": "jp-2027-03-fuwa-minato-2nd-live-vortex"
+  },
+  {
+   "about": "Duet VTuberów NIJISANJI (Kuzuha i Kanae).",
+   "artist": "ChroNoiR (NIJISANJI)",
+   "dateEnd": "2027-05-15",
+   "dateStart": "2027-05-15",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "S 15 500 ¥ / A 13 500 ¥"
+    },
+    {
+     "k": "Godziny",
+     "v": "drzwi 16:30, start 18:00"
+    }
+   ],
+   "foundAt": "2026-11-16",
+   "hits": [],
+   "kind": "koncert",
+   "note": "Zapowiedziany razem z pierwszym singlem CD (27.01.2027); loteria z kodem z płyty 27.01–17.02.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Saitama",
+     "date": "2027-05-15",
+     "venue": "GMO Arena Saitama (Saitama Super Arena)"
+    }
+   ],
+   "tier": 2,
+   "title": "2nd Live „Twin King's Gambit”",
+   "url": "https://kai-you.net/article/96964",
+   "id": "jp-2027-05-chronoir-2nd-live-twin-kings-gambit"
+  },
+  {
+   "about": "Wirtualny duet idolski (Tanaka Hime i Suzuki Hina).",
+   "artist": "HIMEHINA",
+   "dateEnd": "2027-07-13",
+   "dateStart": "2027-07-13",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "miejsca numerowane 11 000 ¥"
+    },
+    {
+     "k": "Godziny",
+     "v": "drzwi 16:30, start 17:30"
+    }
+   ],
+   "foundAt": "2026-11-16",
+   "hits": [],
+   "kind": "koncert",
+   "note": "Debiut w Budokanie; presale FC/Lawson zakończony 18.10, sprzedaż ogólna nie podana.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio",
+     "date": "2027-07-13",
+     "venue": "Nippon Budokan"
+    }
+   ],
+   "tier": 2,
+   "title": "LIVE 2027 „BUDOKAN” (tytuł roboczy)",
+   "url": "https://koubo.jp/article/127581",
+   "id": "jp-2027-07-himehina-live-2027-budokan"
   },
   {
    "about": "Coroczny koncert i wystawa Hatsune Miku z udziałem producentów vocaloidowych.",
@@ -5807,6 +6487,43 @@
    "title": "ano in Seoul (2 dni)",
    "url": "https://www.eventworld.com/ano-seoul-tickets-17-10-2026/event/515852",
    "id": "kr-2026-10-ano-seoul"
+  },
+  {
+   "about": "Największa koreańska impreza anime i gier.",
+   "artist": "AGF 2026 (Anime X Game Festival Korea)",
+   "dateEnd": "2026-12-06",
+   "dateStart": "2026-12-04",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "1 dzień 29 000 ₩, 3 dni 65 000 ₩, Fast Ticket 50 000 ₩"
+    }
+   ],
+   "foundAt": "2026-11-16",
+   "hits": [],
+   "kind": "konwent",
+   "lineup": [
+    "Rie Takahashi",
+    "Koki Uchiyama",
+    "Megumi Han",
+    "Yurie Igoma",
+    "DJ Kazu",
+    "3SKM (NIJISANJI)"
+   ],
+   "note": "Brak acts Vocaloid/J-core w programie; Red Stage (Hala 5B) z seiyuu i zamykającym setem DJ Kazu 6.12, scena NIJISANJI z 3SKM 6.12. Rezerwacja Red Stage od 20.11 18:00 na Melon Ticket.",
+   "region": "KR",
+   "stops": [
+    {
+     "cc": "KR",
+     "city": "Goyang (Ilsan)",
+     "date": "2026-12-04",
+     "venue": "KINTEX Hale 1–5"
+    }
+   ],
+   "tier": 2,
+   "title": "Konwent anime/gier w KINTEX – sceny seiyuu, DJ Kazu, NIJISANJI",
+   "url": "https://www.gamemeca.com/en/view.php?gid=1782509",
+   "id": "kr-2026-12-agf-2026-korea"
   },
   {
    "about": "Kenshi Yonezu to japoński wokalista, producent i ilustrator, dawniej vocaloidowy producent Hachi. Znany z openingów i piosenek do anime (Chainsaw Man, Boku no Hero Academia) oraz hitu „Lemon”.",
