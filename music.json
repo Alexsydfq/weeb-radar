@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:41:55Z",
+ "updated": "2026-11-17T05:41:42Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -300,6 +300,18 @@
    "title": "OKAY! OKAY!",
    "url": "https://music.apple.com/jp/album/okay-okay-single/6823220486?uo=4",
    "id": "alt-blk-era-novel-core-okay-okay"
+  },
+  {
+   "about": "Wokalistka związana z kolektywem KAMITSUBAKI STUDIO, znana z wirtualno-popowego brzmienia i współprac wytwórni.",
+   "artist": "CIEL",
+   "foundAt": "2026-11-17",
+   "kind": "album",
+   "pick": true,
+   "released": "2026-11-11",
+   "songAbout": "Drugi album CIEL, wydany cyfrowo przez KAMITSUBAKI; nastrojowy, elektroniczny J-pop w klimacie sceny VTuber/virtual singer.",
+   "title": "晴途",
+   "url": "https://kamitsubaki.jp/news/2026/11/11/12235/",
+   "id": "ciel-seito"
   },
   {
    "about": "Denonbu to multimedialny projekt muzyki klubowej z postaciami-DJ-kami, z udziałem znanych producentów.",
