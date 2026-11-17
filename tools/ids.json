@@ -1311,6 +1311,21 @@
   "songkick": null,
   "vocadb": null
  },
+ "Madeon": {
+  "bandsintown": "https://www.bandsintown.com/a/1089299",
+  "checked": "2026-11-17",
+  "mbid": "fa1de503-aba7-41fa-a1ed-371b3e87a717",
+  "names": [
+   "Deamon",
+   "Earpark",
+   "Hugo Pierre Leclercq",
+   "Madeon",
+   "Nomade",
+   "Wayne Mont"
+  ],
+  "songkick": "4660573",
+  "vocadb": 57958
+ },
  "Mafumafu": {
   "checked": "2026-11-09",
   "mbid": null,
@@ -3120,6 +3135,16 @@
   "mbid": "a88f38b6-dd38-4412-ad82-2b6c0bb2d287",
   "songkick": null,
   "vocadb": null
+ },
+ "suisoh": {
+  "checked": "2026-11-17",
+  "mbid": null,
+  "names": [
+   "suisoh",
+   "水槽"
+  ],
+  "songkick": null,
+  "vocadb": 71756
  },
  "suzie": {
   "checked": "2026-11-09",

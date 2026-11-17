@@ -1,33 +1,32 @@
 {
- "generated": "2026-11-16T01:59:18Z",
- "artists": 476,
- "seconds": 3250,
+ "generated": "2026-11-17T04:40:27Z",
+ "artists": 478,
+ "seconds": 2647,
  "music": {
-  "found": 90,
-  "new": 37
+  "found": 92,
+  "new": 39
  },
  "concerts": {
-  "found": 68,
-  "new": 13
+  "found": 70,
+  "new": 14
  },
  "japan": {
   "found": 11,
   "new": 7
  },
  "calls": {
-  "itunes_calls": 455,
-  "vocadb_calls": 241,
-  "songkick_calls": 146,
-  "mb_calls": 448,
-  "errors": 7
+  "vocadb_calls": 245,
+  "itunes_calls": 457,
+  "mb_calls": 454,
+  "songkick_calls": 148,
+  "errors": 6
  },
  "errors": [
-  "mb t+pazolite: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb kors k: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb 姫森ルーナ: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Sobrem: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Aku P: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb 湊あくあ: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb いめ44: HTTPError HTTP Error 503: Service Temporarily Unavailable"
+  "mb 博衣こより: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb ツミキ: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb ついなちゃん: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb NEEDY GIRL OVERDOSE: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Grace (Vo.Hikari Kodama): HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Queen: HTTPError HTTP Error 503: Service Temporarily Unavailable"
  ]
 }

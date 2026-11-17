@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-16T01:59:18Z",
- "about": "Premiery 2026-11-02..2026-12-16 artystów z watch.json, których nie ma w music.json",
- "count": 37,
+ "generated": "2026-11-17T04:40:27Z",
+ "about": "Premiery 2026-11-03..2026-12-17 artystów z watch.json, których nie ma w music.json",
+ "count": 39,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -15,11 +15,29 @@
   {
    "watch": "TAK",
    "artist": "TAK",
-   "title": "Morning Comes Anyway - Single",
-   "released": "2026-11-15",
+   "title": "Dear Mommy - Single",
+   "released": "2026-11-17",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/morning-comes-anyway-single/6831457035?uo=4",
+   "url": "https://music.apple.com/jp/album/dear-mommy-single/6831921037?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "初星学園 (Gakuen iDOLM@STER)",
+   "artist": "初星学園 & 氷渡香名江",
+   "title": "Metamorphose - Single",
+   "released": "2026-11-17",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/metamorphose-single/6830445999?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "electrovoid",
+   "artist": "retrotenn feat. Synthesizer V 2 AI miki",
+   "title": "Seeya Soon!",
+   "released": "2026-11-16",
+   "kind": "singiel",
+   "url": "https://youtu.be/hN_i12hoTDs",
+   "source": "vocadb"
   },
   {
    "watch": "rumaki",
@@ -31,12 +49,12 @@
    "source": "itunes"
   },
   {
-   "watch": "rumaki",
-   "artist": "rumaki, こはろP feat. 初音ミク",
-   "title": "すわいぷしないで！",
+   "watch": "MonochroMenace",
+   "artist": "eggtan feat. Eleanor Forte Synthesizer V 2 Plus",
+   "title": "More Than Fun",
    "released": "2026-11-15",
    "kind": "singiel",
-   "url": "https://youtu.be/iBaPU82rg60",
+   "url": "https://youtu.be/wTW6WZV2HIM",
    "source": "vocadb"
   },
   {
@@ -49,13 +67,13 @@
    "source": "itunes"
   },
   {
-   "watch": "DYES IWASAKI",
-   "artist": "DYES IWASAKI",
-   "title": "Unshackle - Single",
+   "watch": "DECO*27",
+   "artist": "DECO*27 feat. 鏡音リン, 鏡音レン",
+   "title": "爱言叶V feat. 镜音铃・镜音连",
    "released": "2026-11-14",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/unshackle-single/6831071429?uo=4",
-   "source": "itunes"
+   "kind": "cover",
+   "url": "https://vocadb.net/S/1062436",
+   "source": "vocadb"
   },
   {
    "watch": "IDONO KAWAZU",
@@ -83,6 +101,15 @@
    "kind": "album",
    "url": "https://music.apple.com/jp/album/metaphor-refantazio-orchestral-album/6819527207?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "アトラスサウンドチーム",
+   "artist": "アトラスサウンドチーム",
+   "title": "メタファー：リファンタジオ オーケストラアルバム",
+   "released": "2026-11-12",
+   "kind": "album",
+   "url": "https://musicbrainz.org/release-group/00ab6198-ef35-403f-897e-61decf893064",
+   "source": "musicbrainz"
   },
   {
    "watch": "東京真中 (Tokyo Manaka)",
@@ -326,15 +353,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/0YHJoexs5TU",
    "source": "vocadb"
-  },
-  {
-   "watch": "夏色まつり",
-   "artist": "夏色まつり",
-   "title": "せんしゅセンセーション",
-   "released": "2026-11-02",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/2fe5f777-287b-473e-b16f-4ba45f71876a",
-   "source": "musicbrainz"
   }
  ]
 }

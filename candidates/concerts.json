@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-16T01:59:19Z",
+ "generated": "2026-11-17T04:40:29Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 13,
+ "count": 14,
  "items": [
   {
    "watch": "LiSA",
@@ -135,6 +135,17 @@
    "cc": "UK",
    "venue": "Donington Park",
    "url": "https://www.songkick.com/festivals/1948-download/id/43275076-download-festival-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "Brutalismus 3000",
+   "name": "Brutalismus 3000 @ Green Park St. Pölten",
+   "date": "2027-08-19",
+   "dateEnd": "2027-08-21",
+   "city": "St Pölten",
+   "cc": "AT",
+   "venue": "Green Park St. Pölten",
+   "url": "https://www.songkick.com/festivals/94586-fm4-frequency/id/43377970-fm4-frequency-festival-2027",
    "source": "songkick"
   },
   {
