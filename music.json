@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:41:42Z",
+ "updated": "2026-11-18T05:42:20Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -12,6 +12,18 @@
    "title": "UNDER",
    "url": "https://musicbrainz.org/release-group/d9271379-4fae-4be3-a1a7-354cd3d357f7",
    "id": "eve-pol-under"
+  },
+  {
+   "about": "Chinozo to japoński producent vocaloidowy znany z szybkich, neonowych utworów i współpracy z Hatsune Miku.",
+   "artist": "Chinozo feat. 汎用式概念χ",
+   "foundAt": "2026-11-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Zapowiedziana premiera (28.11.2026) – nowy singiel z syntezowanym wokalem, w typowym dla Chinozo energetycznym stylu.",
+   "title": "EDEN",
+   "url": "https://vocadb.net/S/1062845",
+   "id": "chinozo-eden"
   },
   {
    "about": "d0tc0mmie to producent z kręgu internetowej sceny vocaloidowej i hyperpopu, tworzący na Synthesizer V i Vocaloid.",
@@ -110,6 +122,78 @@
    "id": "koven-wei-hashimero-pride"
   },
   {
+   "about": "Aiobahn to japoński producent i DJ, współtwórca sceny anisong/future bass, znany m.in. z występów na europejskich konwentach.",
+   "artist": "夢限大みゅーたいぷ feat. Aiobahn +81",
+   "foundAt": "2026-11-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-18",
+   "songAbout": "Nowy singiel w kolaboracji z Aiobahn +81 – energetyczny elektroniczny kawałek.",
+   "title": "KEEP ON",
+   "url": "https://musicbrainz.org/release-group/2cbe1102-0083-410e-8bd1-36e04ca90d0b",
+   "id": "aiobahn-keep-on"
+  },
+  {
+   "about": "Hatsuboshi Gakuen to jednostka idolowa z gry Gakuen iDOLM@STER.",
+   "artist": "初星学園 & 氷渡香名江",
+   "foundAt": "2026-11-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-17",
+   "songAbout": "Nowy singiel z serii Gakuen iDOLM@STER, w duecie z Kanae Himuro.",
+   "title": "Metamorphose",
+   "url": "https://music.apple.com/jp/album/metamorphose-single/6830445999?uo=4",
+   "id": "hatsuboshi-gakuen-metamorphose"
+  },
+  {
+   "about": "TAK (탁) to koreański producent Vocaloid, współtwórca utworów do Project SEKAI, znany z „Lemon Melon Cookie”.",
+   "artist": "TAK",
+   "foundAt": "2026-11-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-17",
+   "songAbout": "Nowy singiel TAK, wydany 17.11.2026.",
+   "title": "Dear Mommy",
+   "url": "https://music.apple.com/jp/album/dear-mommy-single/6831921037?uo=4",
+   "id": "tak-dear-mommy"
+  },
+  {
+   "about": "electrovoid to twórca sceny wokaloidowej (Synthesizer V), znany z elektronicznych utworów.",
+   "artist": "retrotenn feat. Synthesizer V 2 AI miki",
+   "foundAt": "2026-11-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-16",
+   "songAbout": "Nowy singiel z wokalem Synthesizer V AI miki, lekki elektroniczny klimat.",
+   "title": "Seeya Soon!",
+   "url": "https://youtu.be/hN_i12hoTDs",
+   "id": "electrovoid-seeya-soon"
+  },
+  {
+   "about": "Queen to legendarny brytyjski zespół rockowy z Freddiem Mercurym.",
+   "artist": "Queen",
+   "foundAt": "2026-11-18",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-16",
+   "songAbout": "Świąteczne EP zawierające klasyk „Thank God It's Christmas” w nowej odsłonie.",
+   "title": "Thank God It's Christmas... Again!",
+   "url": "https://musicbrainz.org/release-group/701fe978-9d5c-4ddb-a564-840595869a96",
+   "id": "queen-thank-god-its-christmas-again"
+  },
+  {
+   "about": "THØRNS to producent elektroniczny związany ze sceną vocaloidową/synthV.",
+   "artist": "THØRNS feat. Yuma",
+   "foundAt": "2026-11-18",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-11-16",
+   "songAbout": "Cover/wersja utworu Affection Addiction z gościnnym udziałem Yumy.",
+   "title": "Affection Addiction",
+   "url": "https://youtu.be/OTbz9J1UJaI",
+   "id": "thorns-affection-addiction"
+  },
+  {
    "about": "MonochroMenace to kolektyw/label sceny vocaloidowej z zachodnim, elektronicznym brzmieniem; eggtan to jego producent.",
    "artist": "eggtan feat. Eleanor Forte",
    "foundAt": "2026-11-15",
@@ -156,6 +240,18 @@
    "title": "BRAIN 歌いました",
    "url": "https://musicbrainz.org/release-group/4ede1378-f14c-4d33-99db-d47b8d33f33d",
    "id": "ado-brain-utaimashita"
+  },
+  {
+   "about": "DECO*27 to jeden z najbardziej znanych japońskich producentów vocaloidowych („Vampire”, „Ghost Rule”).",
+   "artist": "DECO*27 feat. 鏡音リン, 鏡音レン",
+   "foundAt": "2026-11-18",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-11-14",
+   "songAbout": "Wersja „Ai Kotoba V” z wokalami Kagamine Rin i Len, wydana jako chińska wersja na VocaDB.",
+   "title": "爱言叶V feat. 镜音铃・镜音连",
+   "url": "https://vocadb.net/S/1062436",
+   "id": "deco27-aikotoba-v-rin-len"
   },
   {
    "about": "DYES IWASAKI to japoński producent związany ze sceną vocaloidową i elektroniczną.",
@@ -816,6 +912,18 @@
    "title": "blurry",
    "url": "https://music.apple.com/jp/album/blurry-single/6824524335?uo=4",
    "id": "zabson-god-wifi-blurry"
+  },
+  {
+   "about": "ZAQ to japoński wokalista i kompozytor anisongów (opening „Sora no Method”, „Kokoro ni Hibike”); grał m.in. na Pyrkonie.",
+   "artist": "ZAQ & Kostas Tournas",
+   "foundAt": "2026-11-18",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-06",
+   "songAbout": "Remiks w stylu dub/elektroniki w kolaboracji z Kostasem Tournasem.",
+   "title": "NYLON (Cosmic Dub Mix)",
+   "url": "https://music.apple.com/jp/album/nylon-cosmic-dub-mix-single/6827145337?uo=4",
+   "id": "zaq-nylon-cosmic-dub-mix"
   },
   {
    "about": "FoshP to producent w kręgu Jamie Paige.",

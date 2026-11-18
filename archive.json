@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:42:09Z",
+ "updated": "2026-11-18T05:42:20Z",
  "events": [
   {
    "id": "2026-11-atomic-pixel-anime-rave-granada-sevilla",
@@ -24,6 +24,42 @@
     }
    ],
    "url": "https://atomicpixel.es/anime-rave-granada/"
+  },
+  {
+   "id": "2026-11-mayohk-world-tour",
+   "artist": "MAYOHK",
+   "title": "World Tour 2026",
+   "kind": "trasa",
+   "tier": 1,
+   "dateStart": "2026-11-11",
+   "dateEnd": "2026-11-17",
+   "stops": [
+    {
+     "cc": "FI",
+     "city": "Helsinki",
+     "date": "2026-11-11",
+     "venue": "Kuudes Linja"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-13",
+     "venue": "Le 360 Paris Music Factory"
+    },
+    {
+     "cc": "PL",
+     "city": "Warszawa",
+     "date": "2026-11-15",
+     "venue": "VooDoo Club"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-11-17",
+     "venue": "Privatclub"
+    }
+   ],
+   "url": "https://www.voodooclub.pl/event/mayohk-world-tour-2026-warsaw/"
   },
   {
    "id": "2026-11-kawaii-beats-anime-night-warszawa",

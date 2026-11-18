@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:41:55Z",
+ "updated": "2026-11-18T05:42:20Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -3843,6 +3843,37 @@
    "id": "2027-03-steve-aoki-deols"
   },
   {
+   "about": "Symphony on Titan to orkiestrowy koncert Grissini Project z muzyką z anime Attack on Titan (Shingeki no Kyojin), autorstwa m.in. Hiroyuki Sawano.",
+   "artist": "Symphony on Titan (Grissini Project) 2027",
+   "dateEnd": "2027-03-23",
+   "dateStart": "2027-03-22",
+   "foundAt": "2026-11-18",
+   "hits": [
+    "Attack on Titan – Guren no Yumiya",
+    "Attack on Titan – Shinzou wo Sasageyo",
+    "Attack on Titan – YMIR",
+    "Attack on Titan – Apple Seed"
+   ],
+   "kind": "symfoniczny",
+   "note": "Termin 22–23.03.2027 z agendy kulturalnej Paryża; miejsce nie potwierdzone. Seria grana też w Polsce (eBilet: ICE Kraków, bez daty na stronie).",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-03-22"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-03-23"
+    }
+   ],
+   "tier": 2,
+   "title": "Koncert symfoniczny z muzyką z Attack on Titan, Paryż",
+   "url": "https://75.agendaculturel.fr/concert/symphony-on-titan-1.html",
+   "id": "2027-03-symphony-on-titan-paris"
+  },
+  {
    "about": "Japoński producent i DJ z kręgu hyperpopu i muzyki elektronicznej, popularny w środowisku internetowym i anime. Pierwszy raz jedzie jako headliner po Europie.",
    "artist": "¥ØU$UK€ ¥UK1MAT$U",
    "dateEnd": "2027-03-27",
@@ -5135,6 +5166,34 @@
    "title": "Parookaville 2027 – występ na festiwalu",
    "url": "https://www.festivalhopper.de/bands/karten/steve-aoki.php",
    "id": "2027-07-steve-aoki-parookaville"
+  },
+  {
+   "about": "Duży austriacki festiwal muzyczny w St. Pölten. Brutalismus 3000 to niemiecki duet hardtechno / hardcore ze scenografią z internetowej estetyki.",
+   "artist": "FM4 Frequency Festival 2027",
+   "dateEnd": "2027-08-21",
+   "dateStart": "2027-08-19",
+   "foundAt": "2026-11-18",
+   "hits": [
+    "Brutalismus 3000 – Ich bin ein Berliner",
+    "Brutalismus 3000 – Brutalismus 3000"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "Brutalismus 3000"
+   ],
+   "note": "Według Songkick gra Brutalismus 3000; pełny line-up niezweryfikowany.",
+   "stops": [
+    {
+     "cc": "AT",
+     "city": "St. Pölten",
+     "date": "2027-08-19",
+     "venue": "Green Park St. Pölten"
+    }
+   ],
+   "tier": 3,
+   "title": "Festiwal w St. Pölten; gra Brutalismus 3000",
+   "url": "https://www.songkick.com/festivals/94586-fm4-frequency/id/43377970-fm4-frequency-festival-2027",
+   "id": "2027-08-fm4-frequency-festival-brutalismus-3000"
   },
   {
    "about": "Festiwal kultury azjatyckiej w Polsce, z konkursami cosplay, panelami i koncertami.",
