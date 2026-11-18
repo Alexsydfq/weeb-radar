@@ -1,19 +1,8 @@
 {
- "generated": "2026-11-17T04:40:29Z",
+ "generated": "2026-11-18T03:37:37Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 14,
+ "count": 13,
  "items": [
-  {
-   "watch": "LiSA",
-   "name": "LiSA (JP) @ Stadtteilzentrum Lisa",
-   "date": "2026-11-29",
-   "dateEnd": "2026-11-29",
-   "city": "Jena",
-   "cc": "DE",
-   "venue": "Stadtteilzentrum Lisa",
-   "url": "https://www.songkick.com/concerts/43510847-lisa-jp-at-stadtteilzentrum-lisa",
-   "source": "songkick"
-  },
   {
    "watch": "Aiobahn",
    "name": "Aiobahn @ Atlantic Sound BCN",
@@ -138,6 +127,17 @@
    "source": "songkick"
   },
   {
+   "watch": "LCD Soundsystem",
+   "name": "LCD Soundsystem @ Plattform, Platt Fields Park",
+   "date": "2027-07-30",
+   "dateEnd": "2027-07-30",
+   "city": "Manchester",
+   "cc": "UK",
+   "venue": "Plattform, Platt Fields Park",
+   "url": "https://www.songkick.com/concerts/43521276-lcd-soundsystem-at-plattform-platt-fields-park",
+   "source": "songkick"
+  },
+  {
    "watch": "Brutalismus 3000",
    "name": "Brutalismus 3000 @ Green Park St. Pölten",
    "date": "2027-08-19",
@@ -146,17 +146,6 @@
    "cc": "AT",
    "venue": "Green Park St. Pölten",
    "url": "https://www.songkick.com/festivals/94586-fm4-frequency/id/43377970-fm4-frequency-festival-2027",
-   "source": "songkick"
-  },
-  {
-   "watch": "LiSA",
-   "name": "LiSA (JP) @ Stadtteilzentrum Lisa",
-   "date": "2027-11-28",
-   "dateEnd": "2027-11-28",
-   "city": "Jena",
-   "cc": "DE",
-   "venue": "Stadtteilzentrum Lisa",
-   "url": "https://www.songkick.com/concerts/43513245-lisa-jp-at-stadtteilzentrum-lisa",
    "source": "songkick"
   }
  ]
