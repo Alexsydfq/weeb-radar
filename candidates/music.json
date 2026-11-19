@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-18T03:37:36Z",
- "about": "Premiery 2026-11-04..2026-12-18 artystów z watch.json, których nie ma w music.json",
- "count": 41,
+ "generated": "2026-11-19T03:18:58Z",
+ "about": "Premiery 2026-11-05..2026-12-19 artystów z watch.json, których nie ma w music.json",
+ "count": 40,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -13,75 +13,102 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Chinozo",
-   "artist": "Chinozo feat. 汎用式概念χ",
-   "title": "EDEN",
-   "released": "2026-11-28",
+   "watch": "佐藤ちなみに",
+   "artist": "佐藤 ちなみに",
+   "title": "Three Devils - Single",
+   "released": "2026-11-21",
    "kind": "singiel",
-   "url": "https://vocadb.net/S/1062845",
-   "source": "vocadb"
+   "url": "https://music.apple.com/jp/album/three-devils-single/6835891248?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "TAK",
+   "artist": "TAK",
+   "title": "Look At Me, Mama - Single",
+   "released": "2026-11-19",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/look-at-me-mama-single/6833039149?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Marasy",
+   "artist": "marasy & 初音ミク",
+   "title": "ai wo shiru - Single",
+   "released": "2026-11-19",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/ai-wo-shiru-single/6835369743?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Jin (Shizen no Teki-P)",
+   "artist": "JIN",
+   "title": "Makenakerebaii - Single",
+   "released": "2026-11-19",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/makenakerebaii-single/6836265172?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "d0tc0mmie",
    "artist": "d0tc0mmie feat. Synthesizer V AI Megpoid, V7 AI Megpoid",
    "title": "Trending Topic",
-   "released": "2026-11-28",
+   "released": "2026-11-19",
    "kind": "singiel",
    "url": "https://vocadb.net/S/1060748",
    "source": "vocadb"
   },
   {
-   "watch": "Aiobahn",
-   "artist": "夢限大みゅーたいぷ feat. Aiobahn +81",
-   "title": "KEEP ON",
+   "watch": "LiSA",
+   "artist": "LISA",
+   "title": "Leave With Me (Featured in Always Lalisa) - Single",
    "released": "2026-11-18",
    "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/2cbe1102-0083-410e-8bd1-36e04ca90d0b",
-   "source": "musicbrainz"
+   "url": "https://music.apple.com/jp/album/leave-with-me-featured-in-always-lalisa-single/6835541230?uo=4",
+   "source": "itunes"
   },
   {
-   "watch": "TAK",
-   "artist": "TAK",
-   "title": "Dear Mommy - Single",
-   "released": "2026-11-17",
+   "watch": "D.watt",
+   "artist": "D.watt",
+   "title": "Naghma - Single",
+   "released": "2026-11-18",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/dear-mommy-single/6831921037?uo=4",
+   "url": "https://music.apple.com/jp/album/naghma-single/6834457624?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "ryo (supercell)",
+   "artist": "RYO",
+   "title": "Anatani Ichiban Kizutsukitai - Single",
+   "released": "2026-11-18",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/anatani-ichiban-kizutsukitai-single/6835085343?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "LiSA",
+   "artist": "LISA",
+   "title": "Leave With Me",
+   "released": "2026-11-18",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/87edc89e-f83d-4376-9242-47f5c8eeadd6",
+   "source": "musicbrainz"
   },
   {
    "watch": "初星学園 (Gakuen iDOLM@STER)",
-   "artist": "初星学園 & 氷渡香名江",
-   "title": "Metamorphose - Single",
-   "released": "2026-11-17",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/metamorphose-single/6830445999?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Queen",
-   "artist": "Queen",
-   "title": "Thank God It's Christmas... Again!",
-   "released": "2026-11-16",
-   "kind": "EP",
-   "url": "https://musicbrainz.org/release-group/701fe978-9d5c-4ddb-a564-840595869a96",
+   "artist": "初星学園",
+   "title": "Gravure Solo Collection Vol.1「ねえ、言っちゃうよ。」",
+   "released": "2026-11-18",
+   "kind": "album",
+   "url": "https://musicbrainz.org/release-group/639ff568-0460-4cd5-8e33-890eb0119950",
    "source": "musicbrainz"
   },
   {
-   "watch": "THØRNS",
-   "artist": "THØRNS feat. Yuma",
-   "title": "Affection Addiction",
-   "released": "2026-11-16",
-   "kind": "cover",
-   "url": "https://youtu.be/OTbz9J1UJaI",
-   "source": "vocadb"
-  },
-  {
-   "watch": "electrovoid",
-   "artist": "retrotenn feat. Synthesizer V 2 AI miki",
-   "title": "Seeya Soon!",
-   "released": "2026-11-16",
+   "watch": "Marasy",
+   "artist": "まらしぃ, KOUICHI, びび feat. 初音ミク",
+   "title": "愛を知る",
+   "released": "2026-11-18",
    "kind": "singiel",
-   "url": "https://youtu.be/hN_i12hoTDs",
+   "url": "https://youtu.be/V5j4RLcMTmI",
    "source": "vocadb"
   },
   {
@@ -112,13 +139,13 @@
    "source": "itunes"
   },
   {
-   "watch": "DECO*27",
-   "artist": "DECO*27 feat. 鏡音リン, 鏡音レン",
-   "title": "爱言叶V feat. 镜音铃・镜音连",
-   "released": "2026-11-14",
-   "kind": "cover",
-   "url": "https://vocadb.net/S/1062436",
-   "source": "vocadb"
+   "watch": "雨衣",
+   "artist": "Adeliae & 雨衣",
+   "title": "You're a Bomber. - Single",
+   "released": "2026-11-13",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/youre-a-bomber-single/6830514457?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "IDONO KAWAZU",
@@ -189,7 +216,7 @@
    "title": "ノーモアフィクション",
    "released": "2026-11-11",
    "kind": "cover",
-   "url": "https://vocadb.net/S/1059981",
+   "url": "https://youtu.be/9mpa0c2Xkug",
    "source": "vocadb"
   },
   {
@@ -245,15 +272,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/yUplDRop0vs",
    "source": "vocadb"
-  },
-  {
-   "watch": "ZAQ",
-   "artist": "ZAQ & Kostas Tournas",
-   "title": "NYLON (Cosmic Dub Mix) - Single",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/nylon-cosmic-dub-mix-single/6827145337?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "P丸様。",
@@ -344,33 +362,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/8SeLk83L9pM",
    "source": "vocadb"
-  },
-  {
-   "watch": "宇宙ネコ子",
-   "artist": "宇宙ネコ子",
-   "title": "Even When You Grow Up, the Night Is Still Dark",
-   "released": "2026-11-04",
-   "kind": "album",
-   "url": "https://music.apple.com/jp/album/even-when-you-grow-up-the-night-is-still-dark/6829217848?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "初星学園 (Gakuen iDOLM@STER)",
-   "artist": "初星学園",
-   "title": "初星学園 LIVE TOUR Single 修学旅行",
-   "released": "2026-11-04",
-   "kind": "EP",
-   "url": "https://musicbrainz.org/release-group/b868badb-6241-4dd4-bd9b-2804eb1ae302",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "宇宙ネコ子",
-   "artist": "宇宙ネコ子",
-   "title": "大人になっても、夜は暗くて",
-   "released": "2026-11-04",
-   "kind": "EP",
-   "url": "https://musicbrainz.org/release-group/ae5c7874-bf07-45a1-8f2b-afe4a4c6fe83",
-   "source": "musicbrainz"
   }
  ]
 }

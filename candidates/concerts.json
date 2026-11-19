@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-18T03:37:37Z",
+ "generated": "2026-11-19T03:19:00Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 13,
+ "count": 14,
  "items": [
   {
    "watch": "Aiobahn",
@@ -124,6 +124,17 @@
    "cc": "UK",
    "venue": "Donington Park",
    "url": "https://www.songkick.com/festivals/1948-download/id/43275076-download-festival-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "ATARASHII GAKKO!",
+   "name": "Atarashii Gakko! @ Worthy Farm",
+   "date": "2027-06-23",
+   "dateEnd": "2027-06-27",
+   "city": "Pilton",
+   "cc": "UK",
+   "venue": "Worthy Farm",
+   "url": "https://www.songkick.com/festivals/585-glastonbury/id/43524341-glastonbury-festival-2027",
    "source": "songkick"
   },
   {

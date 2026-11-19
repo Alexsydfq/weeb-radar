@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-18T03:37:36Z",
+ "generated": "2026-11-19T03:18:58Z",
  "artists": 478,
- "seconds": 2530,
+ "seconds": 2534,
  "music": {
-  "found": 92,
-  "new": 41
+  "found": 94,
+  "new": 40
  },
  "concerts": {
-  "found": 67,
-  "new": 13
+  "found": 68,
+  "new": 14
  },
  "japan": {
   "found": 11,
@@ -16,19 +16,13 @@
  },
  "calls": {
   "vocadb_calls": 243,
-  "mb_calls": 449,
-  "songkick_calls": 147,
   "itunes_calls": 457,
-  "errors": 8
+  "songkick_calls": 147,
+  "mb_calls": 455,
+  "errors": 2
  },
  "errors": [
-  "mb 東京真中 (Tokyo Manaka): HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb TRAP CHICK: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb rumaki: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Mage-P: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb tamaki: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb はしメロ: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb blaxervant: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Nilfruits: HTTPError HTTP Error 503: Service Temporarily Unavailable"
+  "mb 森羅万象: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb OK Glass: HTTPError HTTP Error 503: Service Temporarily Unavailable"
  ]
 }
