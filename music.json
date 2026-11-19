@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:42:20Z",
+ "updated": "2026-11-19T05:41:54Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -122,6 +122,30 @@
    "id": "koven-wei-hashimero-pride"
   },
   {
+   "about": "Japoński twórca/wykonawca z kręgu sceny wokaloidowej i internetowej.",
+   "artist": "佐藤ちなみに",
+   "foundAt": "2026-11-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-21",
+   "songAbout": "Singiel zapowiedziany na 21 listopada 2026 (premiera jeszcze przed nami).",
+   "title": "Three Devils",
+   "url": "https://music.apple.com/jp/album/three-devils-single/6835891248?uo=4",
+   "id": "sato-chinami-three-devils"
+  },
+  {
+   "about": "Jin (Shizen no Teki-P) to twórca vocaloidowy i kompozytor, znany z serii Kagerou Project.",
+   "artist": "Jin (Shizen no Teki-P)",
+   "foundAt": "2026-11-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-19",
+   "songAbout": "Nowy singiel wydany 19 listopada 2026.",
+   "title": "Makenakerebaii",
+   "url": "https://music.apple.com/jp/album/makenakerebaii-single/6836265172?uo=4",
+   "id": "jin-makenakerebaii"
+  },
+  {
    "about": "Aiobahn to japoński producent i DJ, współtwórca sceny anisong/future bass, znany m.in. z występów na europejskich konwentach.",
    "artist": "夢限大みゅーたいぷ feat. Aiobahn +81",
    "foundAt": "2026-11-18",
@@ -132,6 +156,66 @@
    "title": "KEEP ON",
    "url": "https://musicbrainz.org/release-group/2cbe1102-0083-410e-8bd1-36e04ca90d0b",
    "id": "aiobahn-keep-on"
+  },
+  {
+   "about": "D.watt to japoński producent muzyczny i kompozytor z kręgu sceny vocaloid / internetowej.",
+   "artist": "D.watt",
+   "foundAt": "2026-11-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-18",
+   "songAbout": "Nowy singiel wydany 18 listopada 2026.",
+   "title": "Naghma",
+   "url": "https://music.apple.com/jp/album/naghma-single/6834457624?uo=4",
+   "id": "d-watt-naghma"
+  },
+  {
+   "about": "Postacie idolek z gry Gakuen iDOLM@STER (Gakumas) od Bandai Namco.",
+   "artist": "初星学園 (Gakuen iDOLM@STER)",
+   "foundAt": "2026-11-19",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-11-18",
+   "songAbout": "Album solowych utworów idolek z gry, premiera 18 listopada 2026.",
+   "title": "Gravure Solo Collection Vol.1「ねえ、言っちゃうよ。」",
+   "url": "https://musicbrainz.org/release-group/639ff568-0460-4cd5-8e33-890eb0119950",
+   "id": "hatsuboshi-gakuen-gravure-solo-collection-vol-1"
+  },
+  {
+   "about": "LiSA to japońska wokalistka anisong, znana m.in. z openingów Demon Slayer („Gurenge”, „Homura”).",
+   "artist": "LiSA",
+   "foundAt": "2026-11-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-18",
+   "songAbout": "Nowy singiel, wykorzystany w materiale „Always Lalisa”; premiera 18 listopada 2026.",
+   "title": "Leave With Me",
+   "url": "https://music.apple.com/jp/album/leave-with-me-featured-in-always-lalisa-single/6835541230?uo=4",
+   "id": "lisa-leave-with-me"
+  },
+  {
+   "about": "marasy to pianista i twórca znany z nagrań piano-coverów i utworów z Hatsune Miku.",
+   "artist": "まらしぃ, KOUICHI, びび feat. 初音ミク",
+   "foundAt": "2026-11-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-18",
+   "songAbout": "Nowy singiel z wokalem Hatsune Miku, premiera ok. 18–19 listopada 2026.",
+   "title": "愛を知る (ai wo shiru)",
+   "url": "https://youtu.be/V5j4RLcMTmI",
+   "id": "marasy-hatsune-miku-ai-wo-shiru"
+  },
+  {
+   "about": "ryo to założyciel supercell i producent vocaloidowy, autor „World is Mine” i „Melt”.",
+   "artist": "ryo (supercell)",
+   "foundAt": "2026-11-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-18",
+   "songAbout": "Kolejny singiel z serii nowych wydawnictw ryo, premiera 18 listopada 2026.",
+   "title": "Anatani Ichiban Kizutsukitai",
+   "url": "https://music.apple.com/jp/album/anatani-ichiban-kizutsukitai-single/6835085343?uo=4",
+   "id": "ryo-supercell-anatani-ichiban-kizutsukitai"
   },
   {
    "about": "Hatsuboshi Gakuen to jednostka idolowa z gry Gakuen iDOLM@STER.",
@@ -288,6 +372,18 @@
    "title": "Dizzy Paranoia Girl",
    "url": "https://youtu.be/R6rL-nktrXk",
    "id": "saphssapphire-ci-flower-dizzy-paranoia-girl"
+  },
+  {
+   "about": "Adeliae to producent muzyczny współpracujący z syntezatorem głosu 雨衣 (Amai).",
+   "artist": "Adeliae & 雨衣",
+   "foundAt": "2026-11-19",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-13",
+   "songAbout": "Singiel z wokalem syntezatora 雨衣, wydany 13 listopada 2026.",
+   "title": "You're a Bomber.",
+   "url": "https://music.apple.com/jp/album/youre-a-bomber-single/6830514457?uo=4",
+   "id": "adeliae-ame-youre-a-bomber"
   },
   {
    "about": "Steve Aoki to amerykański DJ i producent EDM, znany z kolaboracji i wspólnych projektów z artystami z Japonii.",
