@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-19T03:18:58Z",
- "about": "Premiery 2026-11-05..2026-12-19 artystów z watch.json, których nie ma w music.json",
- "count": 40,
+ "generated": "2026-11-20T03:02:17Z",
+ "about": "Premiery 2026-11-06..2026-12-20 artystów z watch.json, których nie ma w music.json",
+ "count": 31,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -13,12 +13,12 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "佐藤ちなみに",
-   "artist": "佐藤 ちなみに",
-   "title": "Three Devils - Single",
-   "released": "2026-11-21",
+   "watch": "Unlike Pluto",
+   "artist": "Unlike Pluto",
+   "title": "Goodbye - Single",
+   "released": "2026-11-20",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/three-devils-single/6835891248?uo=4",
+   "url": "https://music.apple.com/jp/album/goodbye-single/6833787719?uo=4",
    "source": "itunes"
   },
   {
@@ -54,26 +54,8 @@
    "title": "Trending Topic",
    "released": "2026-11-19",
    "kind": "singiel",
-   "url": "https://vocadb.net/S/1060748",
+   "url": "https://youtu.be/VvRPaGFyrFA",
    "source": "vocadb"
-  },
-  {
-   "watch": "LiSA",
-   "artist": "LISA",
-   "title": "Leave With Me (Featured in Always Lalisa) - Single",
-   "released": "2026-11-18",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/leave-with-me-featured-in-always-lalisa-single/6835541230?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "D.watt",
-   "artist": "D.watt",
-   "title": "Naghma - Single",
-   "released": "2026-11-18",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/naghma-single/6834457624?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "ryo (supercell)",
@@ -85,15 +67,6 @@
    "source": "itunes"
   },
   {
-   "watch": "LiSA",
-   "artist": "LISA",
-   "title": "Leave With Me",
-   "released": "2026-11-18",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/87edc89e-f83d-4376-9242-47f5c8eeadd6",
-   "source": "musicbrainz"
-  },
-  {
    "watch": "初星学園 (Gakuen iDOLM@STER)",
    "artist": "初星学園",
    "title": "Gravure Solo Collection Vol.1「ねえ、言っちゃうよ。」",
@@ -101,15 +74,6 @@
    "kind": "album",
    "url": "https://musicbrainz.org/release-group/639ff568-0460-4cd5-8e33-890eb0119950",
    "source": "musicbrainz"
-  },
-  {
-   "watch": "Marasy",
-   "artist": "まらしぃ, KOUICHI, びび feat. 初音ミク",
-   "title": "愛を知る",
-   "released": "2026-11-18",
-   "kind": "singiel",
-   "url": "https://youtu.be/V5j4RLcMTmI",
-   "source": "vocadb"
   },
   {
    "watch": "rumaki",
@@ -136,15 +100,6 @@
    "released": "2026-11-14",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/gokuraku-gokigen-enbiyori-single/6829738913?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "雨衣",
-   "artist": "Adeliae & 雨衣",
-   "title": "You're a Bomber. - Single",
-   "released": "2026-11-13",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/youre-a-bomber-single/6830514457?uo=4",
    "source": "itunes"
   },
   {
@@ -208,6 +163,15 @@
    "released": "2026-11-11",
    "kind": "cover",
    "url": "https://youtu.be/cno2Kp5R6To",
+   "source": "vocadb"
+  },
+  {
+   "watch": "東京真中 (Tokyo Manaka)",
+   "artist": "東京真中, 是 feat. 初音ミク V4X (Dark)",
+   "title": "メモリ",
+   "released": "2026-11-11",
+   "kind": "singiel",
+   "url": "https://youtu.be/B4l7d_KiwIE",
    "source": "vocadb"
   },
   {
@@ -289,7 +253,7 @@
    "released": "2026-11-06",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%AA%E9%9A%99%E9%96%93-single/6827068754?uo=4",
-   "source": "itunes+musicbrainz+vocadb"
+   "source": "itunes+vocadb"
   },
   {
    "watch": "ryo (supercell)",
@@ -316,51 +280,6 @@
    "released": "2026-11-06",
    "kind": "singiel",
    "url": "https://youtu.be/8oiyutRI3nI",
-   "source": "vocadb"
-  },
-  {
-   "watch": "白上フブキ",
-   "artist": "アキ・ローゼンタール, 白上フブキ, 宝鐘マリン & 一条莉々華",
-   "title": "Kami-Tsumo Dora Dora Densetsu - EP",
-   "released": "2026-11-05",
-   "kind": "EP",
-   "url": "https://music.apple.com/jp/album/kami-tsumo-dora-dora-densetsu-ep/6830512937?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Ado",
-   "artist": "Ado",
-   "title": "シンカ",
-   "released": "2026-11-05",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/6b628ad4-27b4-4bff-8d5c-bf799777c17c",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "TWIIG feat. Ｔくん",
-   "title": "ROT FOR CLOUT",
-   "released": "2026-11-05",
-   "kind": "cover",
-   "url": "https://youtu.be/KFunV6wv38k",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "FoshP feat. 星野ハナミ",
-   "title": "BIRDBRAIN",
-   "released": "2026-11-05",
-   "kind": "cover",
-   "url": "https://youtu.be/FhzfqiJ2lo4",
-   "source": "vocadb"
-  },
-  {
-   "watch": "nekozume",
-   "artist": "NEKOZUME feat. 雨衣, 重音テトSV",
-   "title": "フーアーユー",
-   "released": "2026-11-05",
-   "kind": "singiel",
-   "url": "https://youtu.be/8SeLk83L9pM",
    "source": "vocadb"
   }
  ]

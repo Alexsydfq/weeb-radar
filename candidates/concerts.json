@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-19T03:19:00Z",
+ "generated": "2026-11-20T03:02:18Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 14,
+ "count": 15,
  "items": [
   {
    "watch": "Aiobahn",
@@ -157,6 +157,17 @@
    "cc": "AT",
    "venue": "Green Park St. Pölten",
    "url": "https://www.songkick.com/festivals/94586-fm4-frequency/id/43377970-fm4-frequency-festival-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "Brutalismus 3000",
+   "name": "Brutalismus 3000 @ Frequency 2027",
+   "date": "2027-08-20",
+   "dateEnd": "2027-08-20",
+   "city": "Austria",
+   "cc": "AT",
+   "venue": "Frequency 2027",
+   "url": "https://www.songkick.com/festivals/672404-frequency/id/43527419-frequency-2027",
    "source": "songkick"
   }
  ]
