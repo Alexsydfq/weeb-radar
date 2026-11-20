@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:42:20Z",
+ "updated": "2026-11-20T05:42:10Z",
  "events": [
   {
    "id": "2026-11-atomic-pixel-anime-rave-granada-sevilla",
@@ -24,6 +24,37 @@
     }
    ],
    "url": "https://atomicpixel.es/anime-rave-granada/"
+  },
+  {
+   "id": "2026-11-flavor-foley-digital-stars-miku-expo",
+   "artist": "FLAVOR FOLEY",
+   "title": "Digital Stars @ MIKU EXPO 2026 EUROPE",
+   "kind": "koncert",
+   "tier": 3,
+   "dateStart": "2026-11-13",
+   "dateEnd": "2026-11-19",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-11-13",
+     "venue": "HEAVEN"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-11-19",
+     "venue": "Hole44"
+    }
+   ],
+   "lineup": [
+    "FLAVOR FOLEY",
+    "Creep-P (Londyn)",
+    "Mizu (Londyn)",
+    "Vault Kid (Berlin)",
+    "ShotenTaro (Berlin)"
+   ],
+   "url": "https://mikuexpo.com/europe2026/events.html"
   },
   {
    "id": "2026-11-mayohk-world-tour",

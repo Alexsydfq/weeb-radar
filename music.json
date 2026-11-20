@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:41:54Z",
+ "updated": "2026-11-20T05:42:10Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -110,6 +110,18 @@
    "id": "mizui-uramei-gijutsuteki-bunkiten"
   },
   {
+   "about": "HIMEHINA to japoński duet muzyczny wokalistek, związany ze sceną vocaloidowo-internetową.",
+   "artist": "HIMEHINA",
+   "foundAt": "2026-11-20",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-27",
+   "songAbout": "Premiera EP zapowiedziana na 27.11.2026.",
+   "title": "VAMPY (EP)",
+   "url": "https://www.haveagood-holiday.com/en/articles/himehina-vampy-ep-release-2026-11-27",
+   "id": "himehina-vampy"
+  },
+  {
    "about": "はしメロ (Hashimero) to japoński producent/DJ sceny elektronicznej i vocaloidowej.",
    "artist": "Koven Wei & はしメロ",
    "foundAt": "2026-11-15",
@@ -134,6 +146,18 @@
    "id": "sato-chinami-three-devils"
   },
   {
+   "about": "Unlike Pluto to amerykański duet elektroniczny znany z remiksów i anime-owych kolaboracji.",
+   "artist": "Unlike Pluto",
+   "foundAt": "2026-11-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Nowy singiel duetu wydany 20.11.2026.",
+   "title": "Goodbye",
+   "url": "https://music.apple.com/jp/album/goodbye-single/6833787719?uo=4",
+   "id": "unlike-pluto-goodbye"
+  },
+  {
    "about": "Jin (Shizen no Teki-P) to twórca vocaloidowy i kompozytor, znany z serii Kagerou Project.",
    "artist": "Jin (Shizen no Teki-P)",
    "foundAt": "2026-11-19",
@@ -144,6 +168,18 @@
    "title": "Makenakerebaii",
    "url": "https://music.apple.com/jp/album/makenakerebaii-single/6836265172?uo=4",
    "id": "jin-makenakerebaii"
+  },
+  {
+   "about": "TAK (탁) to koreański producent Vocaloid, współtwórca utworów do Project SEKAI, znany z „Lemon Melon Cookie”.",
+   "artist": "TAK",
+   "foundAt": "2026-11-20",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-19",
+   "songAbout": "Nowy singiel TAK wydany 19.11.2026, kolejny po „Dear Mommy”.",
+   "title": "Look At Me, Mama",
+   "url": "https://music.apple.com/jp/album/look-at-me-mama-single/6833039149?uo=4",
+   "id": "tak-look-at-me-mama"
   },
   {
    "about": "Aiobahn to japoński producent i DJ, współtwórca sceny anisong/future bass, znany m.in. z występów na europejskich konwentach.",

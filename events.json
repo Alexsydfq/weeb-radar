@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:42:20Z",
+ "updated": "2026-11-20T05:42:10Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -2618,6 +2618,39 @@
    "id": "2026-12-matsuri-26-japanese-music-experience-london"
   },
   {
+   "about": "Koncert symfoniczny z muzyką z filmów Makoto Shinkai (Your Name, Weathering With You, Suzume), m.in. utworów RADWIMPS i Kazumy Jinnouchi.",
+   "artist": "Les Films de Makoto Shinkai en Concert",
+   "dateEnd": "2026-12-12",
+   "dateStart": "2026-12-12",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "12.12.2026, Palais des Congrès, Paryż"
+    }
+   ],
+   "foundAt": "2026-11-20",
+   "hits": [
+    "Zenzenzense",
+    "Sparkle",
+    "Suzume",
+    "Grand Escape"
+   ],
+   "kind": "symfoniczny",
+   "note": "Wpis z agendy lasteve.fr; szczegóły (godzina, ceny, skład) niepotwierdzone w czasie skanu.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-12-12",
+     "venue": "Palais des Congrès"
+    }
+   ],
+   "tier": 2,
+   "title": "Światowa premiera koncertu muzyki z filmów Makoto Shinkai (Paryż)",
+   "url": "https://bit.ly/ShinkaiParis2026",
+   "id": "2026-12-shinkai-concert-paris"
+  },
+  {
    "about": "Japońska singer-songwriterka (うぴ子), działająca od 2020 r.: mocny, ekspresyjny wokal i gitara akustyczna na pograniczu folku i rocka. Ma na koncie albumy „Rashinban” (2024) i „Gekidou” (2026).",
    "artist": "Upiko",
    "dateEnd": "2026-12-05",
@@ -3591,6 +3624,38 @@
    "id": "2027-02-neth-priere-cain-europe"
   },
   {
+   "about": "Orkiestrowy koncert z muzyką z gier Sonic the Hedgehog (SEGA).",
+   "artist": "SONIC Live in Concert",
+   "dateEnd": "2027-02-28",
+   "dateStart": "2027-02-28",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "28.02.2027, Grand Rex, Paryż"
+    }
+   ],
+   "foundAt": "2026-11-20",
+   "hits": [
+    "Green Hill Zone",
+    "Live & Learn",
+    "Open Your Heart"
+   ],
+   "kind": "symfoniczny",
+   "note": "Źródło: agenda lasteve.fr; ceny i godziny niepotwierdzone.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-02-28",
+     "venue": "Grand Rex"
+    }
+   ],
+   "tier": 1,
+   "title": "Koncert symfoniczny z muzyką z serii Sonic",
+   "url": "https://www.gdp.fr/fr/sonic-live-in-concert",
+   "id": "2027-02-sonic-live-in-concert-paris"
+  },
+  {
    "about": "Japońska wokalistka rockowa i modelka, znana jako głos Nany Osaki z anime i filmu „NANA” (Black Stones), opening „Rose”.",
    "artist": "Anna Tsuchiya",
    "dateEnd": "2027-12-11",
@@ -4367,6 +4432,50 @@
    "title": "Download Festival (Donington Park) – gra m.in. HANABIE. i Pierce The Veil",
    "url": "https://www.songkick.com/festivals/1948-download/id/43275076-download-festival-2027",
    "id": "2027-06-download-festival-hanabie-pierce-the-veil"
+  },
+  {
+   "about": "Glastonbury to największy brytyjski festiwal muzyczny. ATARASHII GAKKO! to japońska grupa idolsko-rockowa znana z energetycznych występów i viralowego hitu „Otonablue”.",
+   "artist": "Glastonbury Festival 2027 (ATARASHII GAKKO!)",
+   "dateEnd": "2027-06-27",
+   "dateStart": "2027-06-23",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "weekendowe 408 £ z opłatą, wyprzedane 4.10.2026; resale wiosną 2027"
+    },
+    {
+     "k": "Występ",
+     "v": "dzień i scena TBC"
+    }
+   ],
+   "foundAt": "2026-11-20",
+   "hits": [
+    "Otonablue",
+    "Tokyo Calling",
+    "Fruitspop",
+    "NEO KAWAII"
+   ],
+   "kind": "festiwal",
+   "lineup": [
+    "ATARASHII GAKKO!",
+    "Sam Fender",
+    "Harry Styles",
+    "Billie Eilish",
+    "Cher"
+   ],
+   "note": "Ogłoszone 18.11.2026; dzień i scena jeszcze niepotwierdzone. Bilety weekendowe wyprzedane 4.10.2026 w 42 minuty; revente planowana wiosną 2027.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Pilton",
+     "date": "2027-06-23",
+     "venue": "Worthy Farm"
+    }
+   ],
+   "tier": 3,
+   "title": "Festiwalowy debiut ATARASHII GAKKO! – jedyny japoński akt w pierwszej fali line-upu",
+   "url": "https://www.electricbloomwebzine.com/2026/11/atarashii-gakko-glastonbury-2027.html",
+   "id": "2027-06-glastonbury-atarashii-gakko"
   },
   {
    "about": "Koncert z serii NieR:Orchestra: pełna orkiestra i chór, wokalistki J'Nique Nicole i Emi Evans, wizualizacje na wielkim ekranie i narracja opowiadająca historię prequelu NieR:Automata (Pearl Harbor Descent Operation).",
@@ -5236,8 +5345,9 @@
   {
    "about": "Nowojorski zespół Jamesa Murphy'ego łączący dance-punk z elektroniką, związany z wytwórnią DFA.",
    "artist": "LCD Soundsystem",
+   "changeNote": "Dodano własny koncert: Manchester 30.07.2027 (Plattform, Platt Fields Park)",
    "dateEnd": "2027-08-08",
-   "dateStart": "2027-08-07",
+   "dateStart": "2027-07-30",
    "facts": [
     {
      "k": "Rola",
@@ -5264,6 +5374,12 @@
    "note": "To nie własny koncert: LCD Soundsystem jest wymieniony jako support obu rzymskich koncertów Harry'ego Stylesa (trasa Together, Together). Daty podają tabela trasy w Wikipedii, Songkick i JamBase. Własnych koncertów zespołu w Europie na 2026–2027 nie znaleziono (do końca 2026 gra rezydencje w Nowym Jorku i Aspen). Godzin i cen źródła nie podają.",
    "stops": [
     {
+     "cc": "UK",
+     "city": "Manchester",
+     "date": "2027-07-30",
+     "venue": "Plattform, Platt Fields Park"
+    },
+    {
      "cc": "IT",
      "city": "Rzym",
      "date": "2027-08-07",
@@ -5278,6 +5394,7 @@
    ],
    "tier": 3,
    "title": "Support przed Harrym Stylesem w Rzymie (trasa Together, Together)",
+   "updatedAt": "2026-11-20",
    "url": "https://en.wikipedia.org/wiki/Together,_Together",
    "id": "2027-08-lcd-soundsystem-rome-harry-styles"
   },
@@ -6180,16 +6297,21 @@
   {
    "about": "Dwudniowy lajw label hololive RECORDS z czołowymi VTuberkami agencji, w tym Sakura Miko, Shirakami Fubuki i Houshou Marine. Okazją jest album-box z 67 piosenkami.",
    "artist": "hololive RECORDS MUSIC STAGE 2027",
+   "changeNote": "Znane ceny biletów i streamu",
    "dateEnd": "2027-01-10",
    "dateStart": "2027-01-09",
    "facts": [
     {
      "k": "Bilety",
-     "v": "loteria z kodami z albumu HISTORY COLLECTION (11 CD, 17 600 jen)"
+     "v": "15 000 JPY (arena/dolne/balkon), 11 000 JPY (środek), 9 000 JPY (góra) + 220 JPY opłaty; loteria z kodami z albumu HISTORY COLLECTION"
+    },
+    {
+     "k": "Stream",
+     "v": "6 800 JPY (jeden dzień), 12 000 JPY (dwa dni)"
     },
     {
      "k": "Termin",
-     "v": "9–10.01.2027, K Arena Yokohama"
+     "v": "9–10.01.2027, K Arena Yokohama; przedsprzedaż 20.10.2026–10.02.2027"
     }
    ],
    "foundAt": "2026-10-07",
@@ -6225,6 +6347,7 @@
    ],
    "tier": 3,
    "title": "2 dni w K Arena Yokohama: AZKi, Sakura Miko, Hakos Baelz, ReGLOSS / Fubuki, Marine, Kobo Kanaeru, FLOW GLOW",
+   "updatedAt": "2026-11-20",
    "url": "https://www.4gamers.com.tw/news/detail/80699/hololive-records-history-collection-music-stage-live-2027-announced",
    "id": "jp-2027-01-hololive-records-music-stage-2027"
   },
@@ -6372,6 +6495,43 @@
    "title": "2nd LIVE „VORTEX”",
    "url": "https://www.moguravr.com/fuwa-minato-2nd-live-vortex/",
    "id": "jp-2027-03-fuwa-minato-2nd-live-vortex"
+  },
+  {
+   "about": "hololive fes. to największy coroczny koncert-festiwal VTuberów z agencji hololive production, a SUPER EXPO to towarzysząca mu wystawa i targi z boothami.",
+   "artist": "hololive 8th fes. Brand-New Fanfare + hololive SUPER EXPO 2027",
+   "dateEnd": "2027-03-14",
+   "dateStart": "2027-03-12",
+   "facts": [
+    {
+     "k": "Termin",
+     "v": "12–14.03.2027, Makuhari Messe (Chiba)"
+    },
+    {
+     "k": "Bilety",
+     "v": "szczegóły sprzedaży do ogłoszenia"
+    }
+   ],
+   "foundAt": "2026-11-20",
+   "hits": [
+    "Suisei Hoshimachi – Stellar Stellar",
+    "Usada Pekora – Pekora's Pekora",
+    "Mori Calliope – Mega Core"
+   ],
+   "kind": "festiwal",
+   "note": "Ogłoszone 20.10.2026. Line-up, ceny i start sprzedaży biletów jeszcze nieznane; eventy odbywają się w tym samym miejscu.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Chiba (Makuhari)",
+     "date": "2027-03-12",
+     "venue": "Makuhari Messe"
+    }
+   ],
+   "tier": 3,
+   "title": "Coroczny fes hololive i wielka wystawa w Makuhari Messe",
+   "url": "https://www.4gamers.com.tw/news/detail/82756/hololive-super-expo-2027-and-8th-fes-brand-new-fanfare-announced",
+   "id": "jp-2027-03-hololive-super-expo-8th-fes"
   },
   {
    "about": "Duet VTuberów NIJISANJI (Kuzuha i Kanae).",
