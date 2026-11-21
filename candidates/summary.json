@@ -1,32 +1,24 @@
 {
- "generated": "2026-11-20T03:02:17Z",
+ "generated": "2026-11-21T03:19:20Z",
  "artists": 478,
- "seconds": 2446,
+ "seconds": 3454,
  "music": {
-  "found": 88,
-  "new": 31
+  "found": 89,
+  "new": 41
  },
  "concerts": {
-  "found": 69,
-  "new": 15
+  "found": 67,
+  "new": 14
  },
  "japan": {
-  "found": 11,
-  "new": 7
+  "found": 9,
+  "new": 5
  },
  "calls": {
+  "songkick_calls": 147,
   "itunes_calls": 457,
-  "vocadb_calls": 243,
-  "mb_calls": 452,
-  "songkick_calls": 148,
-  "errors": 6
+  "mb_calls": 457,
+  "vocadb_calls": 243
  },
- "errors": [
-  "mb Bootie Brown: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb AnythingBecomeMoe: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb 恵飛須沢胡桃: TimeoutError The read operation timed out",
-  "mb PEPOYO: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Enako: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb ホロライブファンタジー: HTTPError HTTP Error 503: Service Temporarily Unavailable"
- ]
+ "errors": []
 }

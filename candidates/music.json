@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-20T03:02:17Z",
- "about": "Premiery 2026-11-06..2026-12-20 artystów z watch.json, których nie ma w music.json",
- "count": 31,
+ "generated": "2026-11-21T03:19:20Z",
+ "about": "Premiery 2026-11-07..2026-12-21 artystów z watch.json, których nie ma w music.json",
+ "count": 41,
  "items": [
   {
    "watch": "Eve (japoński wokalista)",
@@ -13,22 +13,139 @@
    "source": "musicbrainz"
   },
   {
-   "watch": "Unlike Pluto",
-   "artist": "Unlike Pluto",
-   "title": "Goodbye - Single",
-   "released": "2026-11-20",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/goodbye-single/6833787719?uo=4",
+   "watch": "d0tc0mmie",
+   "artist": "d0tc0mmie, GUMI & 重音テト",
+   "title": "Breakthrough!",
+   "released": "2026-12-04",
+   "kind": "album",
+   "url": "https://music.apple.com/jp/album/breakthrough/6837197058?uo=4",
    "source": "itunes"
   },
   {
-   "watch": "TAK",
-   "artist": "TAK",
-   "title": "Look At Me, Mama - Single",
-   "released": "2026-11-19",
+   "watch": "d0tc0mmie",
+   "artist": "nogi, d0tc0mmie feat. 夏色花梨",
+   "title": "はぃぱーかゎちー d0tc0mmie Remix",
+   "released": "2026-11-28",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/look-at-me-mama-single/6833039149?uo=4",
+   "url": "https://vocadb.net/S/1065004",
+   "source": "vocadb"
+  },
+  {
+   "watch": "ryo (supercell)",
+   "artist": "supercell",
+   "title": "夜と青",
+   "released": "2026-11-21",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/2549f3d5-bb63-4c58-a076-65805b0cde31",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "HoneyWorks",
+   "artist": "Gom, HoneyWorks feat. 梵そよぎ (Unknown)",
+   "title": "99％恋愛予報",
+   "released": "2026-11-21",
+   "kind": "singiel",
+   "url": "https://youtu.be/E4_iWhKy03Y",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Mili",
+   "artist": "Mili",
+   "title": "City Blue - Single",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/city-blue-single/6830174263?uo=4",
+   "source": "itunes+musicbrainz"
+  },
+  {
+   "watch": "電音部",
+   "artist": "電音部 & ESAI",
+   "title": "Iconic - Single",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/iconic-single/6833400509?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "picco",
+   "artist": "Reno, picco, purini & Mi7s3",
+   "title": "Linkstate (feat. Hatsune Miku, 鏡音リン, 鏡音レン, Megurine Luka, MEIKO & KAITO) - Single",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/linkstate-feat-hatsune-miku-%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3-%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3-megurine-luka/6831511751?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "mona（CV：夏川椎菜）",
+   "artist": "mona(CV:夏川椎菜)",
+   "title": "最強美少女は戦う☆ - Single",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E6%9C%80%E5%BC%B7%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%81%AF%E6%88%A6%E3%81%86-single/6831134243?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Żabson",
+   "artist": "Żabson, BORRO, MIKOUAJ REJW & WIXAPOL",
+   "title": "KLASWIX - Single",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/klaswix-single/6834353744?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Ryu*",
+   "artist": "RYU",
+   "title": "Ice - Single",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/ice-single/6836746599?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Lotus Juice",
+   "artist": "Cheem & Lotus Juice",
+   "title": "WTFU2",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/68a44d75-ca9e-4773-b470-044cb843b56e",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "Jamie Paige",
+   "artist": "MudaiP, Cosmoto feat. 重音テトSV2",
+   "title": "Clover",
+   "released": "2026-11-20",
+   "kind": "cover",
+   "url": "https://youtu.be/oqSNOQS5H40",
+   "source": "vocadb"
+  },
+  {
+   "watch": "煮ル果実",
+   "artist": "煮ル果実 feat. v4 flower",
+   "title": "センテナリアン",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://youtu.be/bDs2b0lpaEA",
+   "source": "vocadb"
+  },
+  {
+   "watch": "picco",
+   "artist": "picco feat. 鏡音リン",
+   "title": "アイ情劣等生 (picco Remix)",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://youtu.be/dTkZpYRjKpY",
+   "source": "vocadb"
+  },
+  {
+   "watch": "electrovoid",
+   "artist": "JorroTreul feat. Yuma, Hayden",
+   "title": "seventyw8",
+   "released": "2026-11-20",
+   "kind": "cover",
+   "url": "https://youtu.be/S-VO58CLvSA",
+   "source": "vocadb"
   },
   {
    "watch": "Marasy",
@@ -56,6 +173,24 @@
    "kind": "singiel",
    "url": "https://youtu.be/VvRPaGFyrFA",
    "source": "vocadb"
+  },
+  {
+   "watch": "電音部",
+   "artist": "電音部, 池袋電音部 & MY NEW GEAR",
+   "title": "Champion Girl (Gaga Rekka Version) - Single",
+   "released": "2026-11-18",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/champion-girl-gaga-rekka-version-single/6833400459?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Getty",
+   "artist": "DJ Noriken & Getty",
+   "title": "Hyprfrevker - Single",
+   "released": "2026-11-18",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/hyprfrevker-single/6835069050?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "ryo (supercell)",
@@ -235,51 +370,6 @@
    "released": "2026-11-08",
    "kind": "singiel",
    "url": "https://youtu.be/yUplDRop0vs",
-   "source": "vocadb"
-  },
-  {
-   "watch": "P丸様。",
-   "artist": "P丸様。",
-   "title": "絶対晴天!! - Single",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E7%B5%B6%E5%AF%BE%E6%99%B4%E5%A4%A9-single/6825373132?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "AnythingBecomeMoe",
-   "artist": "AnythingBecomeMoe & 音街ウナ",
-   "title": "好きな隙間 - Single",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%AA%E9%9A%99%E9%96%93-single/6827068754?uo=4",
-   "source": "itunes+vocadb"
-  },
-  {
-   "watch": "ryo (supercell)",
-   "artist": "RYO",
-   "title": "Watashiwo Misutenaidene - Single",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/watashiwo-misutenaidene-single/6830687235?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Jamie Paige",
-   "artist": "Tiphyloid feat. るるらら",
-   "title": "ROT FOR CLOUT ",
-   "released": "2026-11-06",
-   "kind": "cover",
-   "url": "https://vocadb.net/S/1057933",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Something's off with my Vocaloid",
-   "artist": "うちのボカロは様子がおかしい feat. 初音ミク V4X (Original), 雨衣",
-   "title": "プレイバック",
-   "released": "2026-11-06",
-   "kind": "singiel",
-   "url": "https://youtu.be/8oiyutRI3nI",
    "source": "vocadb"
   }
  ]

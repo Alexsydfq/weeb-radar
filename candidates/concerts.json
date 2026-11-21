@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-20T03:02:18Z",
+ "generated": "2026-11-21T03:19:21Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 15,
+ "count": 14,
  "items": [
   {
    "watch": "Aiobahn",
@@ -135,17 +135,6 @@
    "cc": "UK",
    "venue": "Worthy Farm",
    "url": "https://www.songkick.com/festivals/585-glastonbury/id/43524341-glastonbury-festival-2027",
-   "source": "songkick"
-  },
-  {
-   "watch": "LCD Soundsystem",
-   "name": "LCD Soundsystem @ Plattform, Platt Fields Park",
-   "date": "2027-07-30",
-   "dateEnd": "2027-07-30",
-   "city": "Manchester",
-   "cc": "UK",
-   "venue": "Plattform, Platt Fields Park",
-   "url": "https://www.songkick.com/concerts/43521276-lcd-soundsystem-at-plattform-platt-fields-park",
    "source": "songkick"
   },
   {
