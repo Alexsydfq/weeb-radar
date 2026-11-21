@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:42:10Z",
+ "updated": "2026-11-21T05:42:14Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -12,6 +12,18 @@
    "title": "UNDER",
    "url": "https://musicbrainz.org/release-group/d9271379-4fae-4be3-a1a7-354cd3d357f7",
    "id": "eve-pol-under"
+  },
+  {
+   "about": "d0tc0mmie to producent z pogranicza hyperpopu, jersey clubu i vocaloidowego kawaii-core, znany z kolaboracji z syntezatorami głosu.",
+   "artist": "d0tc0mmie, GUMI & Kasane Teto",
+   "foundAt": "2026-11-21",
+   "kind": "album",
+   "pick": false,
+   "released": "2026-12-04",
+   "songAbout": "Zapowiedziana premiera: album z GUMI i Kasane Teto, energetyczny hyperpop z elementami clubu.",
+   "title": "Breakthrough!",
+   "url": "https://music.apple.com/jp/album/breakthrough/6837197058?uo=4",
+   "id": "d0tc0mmie-gumi-kasane-teto-breakthrough"
   },
   {
    "about": "Chinozo to japoński producent vocaloidowy znany z szybkich, neonowych utworów i współpracy z Hatsune Miku.",
@@ -110,6 +122,18 @@
    "id": "mizui-uramei-gijutsuteki-bunkiten"
   },
   {
+   "about": "d0tc0mmie to producent hyperpopu i clubowych remiksów utworów vocaloidowych.",
+   "artist": "nogi, d0tc0mmie feat. Natsuiro Karin",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Zapowiedziany remiks z wokalem syntezatora Natsuiro Karin, szybki, kolorowy hyperpop.",
+   "title": "はぃぱーかゎちー d0tc0mmie Remix",
+   "url": "https://vocadb.net/S/1065004",
+   "id": "nogi-d0tc0mmie-haipakawachi-remix"
+  },
+  {
    "about": "HIMEHINA to japoński duet muzyczny wokalistek, związany ze sceną vocaloidowo-internetową.",
    "artist": "HIMEHINA",
    "foundAt": "2026-11-20",
@@ -134,6 +158,18 @@
    "id": "koven-wei-hashimero-pride"
   },
   {
+   "about": "HoneyWorks to japoński zespół producentów od serii piosenek o szkolnych miłościach (Kokuhaku Jikkou Iinkai), z licznymi adaptacjami anime i filmowymi.",
+   "artist": "Gom, HoneyWorks feat. Sosogi Bon",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-21",
+   "songAbout": "Nowa piosenka w romantycznym, idolowym stylu HoneyWorks z wokalem Sosogi Bon, publikacja jako MV na YouTube.",
+   "title": "99％恋愛予報",
+   "url": "https://youtu.be/E4_iWhKy03Y",
+   "id": "gom-honeyworks-99-percent-renai-yohou"
+  },
+  {
    "about": "Japoński twórca/wykonawca z kręgu sceny wokaloidowej i internetowej.",
    "artist": "佐藤ちなみに",
    "foundAt": "2026-11-19",
@@ -146,6 +182,90 @@
    "id": "sato-chinami-three-devils"
   },
   {
+   "about": "supercell to kolektyw założony przez ryo, twórcę „Melancholic” i „World is Mine”, znany z openingów anime, m.in. „Kimi no Shiranai Monogatari” z Bakemonogatari.",
+   "artist": "supercell",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-21",
+   "songAbout": "Nowy singiel supercell, wydany w dniu skanu; w klimacie melodyjnego, emocjonalnego popu twórcy.",
+   "title": "夜と青",
+   "url": "https://musicbrainz.org/release-group/2549f3d5-bb63-4c58-a076-65805b0cde31",
+   "id": "supercell-yoru-to-ao"
+  },
+  {
+   "about": "Lotus Juice to raper i wokalista znany z muzyki do serii Persona (Mass Destruction, Burn My Dread).",
+   "artist": "Cheem & Lotus Juice",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Kolaboracja z Cheemem, hip-hopowy singiel z mocnym flow.",
+   "title": "WTFU2",
+   "url": "https://musicbrainz.org/release-group/68a44d75-ca9e-4773-b470-044cb843b56e",
+   "id": "cheem-lotus-juice-wtfu2"
+  },
+  {
+   "about": "Denonbu to multimedialny projekt muzyczny o dziewczynach-DJ-kach z różnych dzielnic Tokio, z elektroniką od czołowych producentów.",
+   "artist": "電音部 & ESAI",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Singiel z serii Denonbu, taneczna elektronika w klimacie clubu.",
+   "title": "Iconic",
+   "url": "https://music.apple.com/jp/album/iconic-single/6833400509?uo=4",
+   "id": "denonbu-esai-iconic"
+  },
+  {
+   "about": "mona to fikcyjna idolka z projektu HoneyWorks, śpiewa głosem seiyuu Natsukawy Shiiny.",
+   "artist": "mona (CV: Natsukawa Shiina)",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Energiczny, idolowy singiel z klimatem anime o magicznych dziewczynach.",
+   "title": "最強美少女は戦う☆",
+   "url": "https://music.apple.com/jp/album/%E6%9C%80%E5%BC%B7%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%81%AF%E6%88%A6%E3%81%86-single/6831134243?uo=4",
+   "id": "mona-saikyou-bishoujo-wa-tatakau"
+  },
+  {
+   "about": "煮ル果実 (Nirukaju) to producent vocaloidowy znany z szybkich, gitarowych utworów rockowych.",
+   "artist": "煮ル果実 feat. v4 flower",
+   "foundAt": "2026-11-21",
+   "kind": "MV",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Nowe MV z wokalem syntezatora v4 flower, dynamiczny vocaloid rock.",
+   "title": "センテナリアン",
+   "url": "https://youtu.be/bDs2b0lpaEA",
+   "id": "nirukaju-centenarian-v4-flower"
+  },
+  {
+   "about": "picco to producent vocaloidowy i DJ, znany z energetycznych utworów w stylu electro i hardcore.",
+   "artist": "picco feat. Kagamine Rin",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Remiks z wokalem Kagamine Rin, taneczny i szybki.",
+   "title": "アイ情劣等生 (picco Remix)",
+   "url": "https://youtu.be/dTkZpYRjKpY",
+   "id": "picco-ai-jouretsutousei-remix"
+  },
+  {
+   "about": "Ryu* to japoński producent eurobeatu i trance, znany z utworów związanych z Initial D i serią Dance Dance Revolution.",
+   "artist": "Ryu*",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Nowy singiel w stylu energetycznego eurobeatu.",
+   "title": "Ice",
+   "url": "https://music.apple.com/jp/album/ice-single/6836746599?uo=4",
+   "id": "ryu-ice"
+  },
+  {
    "about": "Unlike Pluto to amerykański duet elektroniczny znany z remiksów i anime-owych kolaboracji.",
    "artist": "Unlike Pluto",
    "foundAt": "2026-11-20",
@@ -156,6 +276,18 @@
    "title": "Goodbye",
    "url": "https://music.apple.com/jp/album/goodbye-single/6833787719?uo=4",
    "id": "unlike-pluto-goodbye"
+  },
+  {
+   "about": "Żabson to polski raper znany z hitów z wieloma featami i mocnym trapowym brzmieniem.",
+   "artist": "Żabson, BORRO, MIKOUAJ REJW & WIXAPOL",
+   "foundAt": "2026-11-21",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Nowy kolaboracyjny singiel polskiej sceny rapowej.",
+   "title": "KLASWIX",
+   "url": "https://music.apple.com/jp/album/klaswix-single/6834353744?uo=4",
+   "id": "zabson-borro-klaswix"
   },
   {
    "about": "Jin (Shizen no Teki-P) to twórca vocaloidowy i kompozytor, znany z serii Kagerou Project.",
