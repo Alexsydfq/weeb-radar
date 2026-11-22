@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:42:10Z",
+ "updated": "2026-11-22T05:42:10Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -5160,17 +5160,21 @@
   {
    "about": "Największy słowacki festiwal wielogatunkowy (muzyka, teatr, literatura, debaty) na lotnisku w Trenczynie, znany z kameralnej atmosfery. W wyprzedanej edycji 2026 grali m.in. The Cure i Gorillaz.",
    "artist": "Pohoda 2027",
-   "changeNote": "Ogłoszono pierwszy line-up: Massive Attack, The Chemical Brothers, Patti Smith Quartet i inni",
+   "changeNote": "Dodatkowy dzień ADÉLA Day 7.07 (Adéla, Peggy Gou), nowe ceny biletów, Rodrigo Amarante w line-upie",
    "dateEnd": "2027-07-10",
-   "dateStart": "2027-07-08",
+   "dateStart": "2027-07-07",
    "facts": [
     {
      "k": "Termin",
-     "v": "8–10 lipca 2027 (czw.–sob.), Letisko Trenčín"
+     "v": "8–10 lipca 2027 + dodatkowy dzień ADÉLA Day 7 lipca, Letisko Trenčín"
     },
     {
      "k": "Bilety",
-     "v": "karnet 3-dniowy: 149 € do 2 XI 2026, potem 159 € (obecna cena w sklepie festiwalu); do 4 XI sprzedano ok. połowy z 30 tys."
+     "v": "3-dniowy 169 €; 4-dniowy z ADÉLA Day od 218 € (kolejne fale do 258 €, na miejscu 298 €); sam ADÉLA Day od 69 €"
+    },
+    {
+     "k": "Sprzedaż",
+     "v": "rekordowy presale: ok. 20 tys. karnetów 3/4-dniowych i ok. 15 tys. biletów na ADÉLA Day już sprzedane (stan 17.11.2026)"
     },
     {
      "k": "Program",
@@ -5188,21 +5192,24 @@
     "Moonchild Sanelly",
     "Cruz Beckham and The Breakers",
     "Sailor Honeymoon",
-    "Cowboy Hunters"
+    "Cowboy Hunters",
+    "Adéla (ADÉLA Day, 7.07)",
+    "Peggy Gou (ADÉLA Day)",
+    "Rodrigo Amarante"
    ],
-   "note": "Pierwsze fale line-upu (listopad 2026): nikogo z japońskiej sceny ani z listy ulubionych, ogłoszenia będą kolejne.",
+   "note": "Doszedł dodatkowy dzień ADÉLA Day (7.07) z Adélą i Peggy Gou; organizatorzy zapowiadają kolejne ogłoszenia. Nikogo z japońskiej sceny ani z listy ulubionych na razie.",
    "stops": [
     {
      "cc": "SK",
      "city": "Trenczyn",
-     "date": "2027-07-08",
+     "date": "2027-07-07",
      "venue": "Letisko Trenčín"
     }
    ],
    "tickets": "https://shop.pohodafestival.sk/en/tickets-2027",
    "tier": 3,
-   "title": "Festiwal na lotnisku w Trenczynie — line-up jeszcze nieogłoszony",
-   "updatedAt": "2026-11-12",
+   "title": "Festiwal na lotnisku w Trenczynie — Massive Attack, The Chemical Brothers, extra day z Adélą",
+   "updatedAt": "2026-11-22",
    "url": "https://www.pohodafestival.sk/en/news",
    "id": "2027-07-pohoda"
   },

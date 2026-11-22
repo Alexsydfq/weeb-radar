@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:42:14Z",
+ "updated": "2026-11-22T05:42:10Z",
  "songs": [
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
@@ -218,6 +218,30 @@
    "id": "denonbu-esai-iconic"
   },
   {
+   "about": "electrovoid to producent z zachodniej sceny Vocaloid/Synthesizer V, tworzący elektroniczne utwory na syntezatorach głosu.",
+   "artist": "JorroTreul feat. Yuma, Hayden (electrovoid)",
+   "foundAt": "2026-11-22",
+   "kind": "cover",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Świeże wydanie z VocaDB w klimacie elektronicznego utworu na syntezatory głosu.",
+   "title": "seventyw8",
+   "url": "https://vocadb.net/S?filter=seventyw8",
+   "id": "electrovoid-seventyw8"
+  },
+  {
+   "about": "Mili to japoński zespół z wokalistką Cassie Wei, znany z openingów i muzyki do gier (Library of Ruina, Arknights, Lost Ruins) oraz występów na europejskich konwentach.",
+   "artist": "Mili",
+   "foundAt": "2026-11-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Nowy singiel zespołu w jego charakterystycznym, filmowym i elektronicznym brzmieniu z angielskimi tekstami.",
+   "title": "City Blue",
+   "url": "https://musicbrainz.org/search?query=Mili+City+Blue&type=release_group",
+   "id": "mili-city-blue"
+  },
+  {
    "about": "mona to fikcyjna idolka z projektu HoneyWorks, śpiewa głosem seiyuu Natsukawy Shiiny.",
    "artist": "mona (CV: Natsukawa Shiina)",
    "foundAt": "2026-11-21",
@@ -252,6 +276,18 @@
    "title": "アイ情劣等生 (picco Remix)",
    "url": "https://youtu.be/dTkZpYRjKpY",
    "id": "picco-ai-jouretsutousei-remix"
+  },
+  {
+   "about": "picco to japoński producent Vocaloid znany z dynamicznych, energetycznych utworów w stylu J-core i elektroniki.",
+   "artist": "Reno, picco, purini & Mi7s3",
+   "foundAt": "2026-11-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Kolaboracyjny singiel z pełnym składem Piapro Characters (Miku, Rin, Len, Luka, MEIKO i KAITO).",
+   "title": "Linkstate (feat. Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO & KAITO)",
+   "url": "https://music.apple.com/jp/search?term=Linkstate+picco",
+   "id": "picco-linkstate"
   },
   {
    "about": "Ryu* to japoński producent eurobeatu i trance, znany z utworów związanych z Initial D i serią Dance Dance Revolution.",
@@ -336,6 +372,30 @@
    "title": "Naghma",
    "url": "https://music.apple.com/jp/album/naghma-single/6834457624?uo=4",
    "id": "d-watt-naghma"
+  },
+  {
+   "about": "Denonbu (電音部) to projekt idoli DJ-ek łączący anime-idolki z muzyką klubową i EDM, grupy reprezentują dzielnice Tokio.",
+   "artist": "電音部, 池袋電音部 & MY NEW GEAR",
+   "foundAt": "2026-11-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-18",
+   "songAbout": "Klubowa wersja utworu z serii Denonbu w wykonaniu grupy Ikebukuro.",
+   "title": "Champion Girl (Gaga Rekka Version)",
+   "url": "https://music.apple.com/jp/search?term=Champion+Girl+Gaga+Rekka",
+   "id": "denonbu-champion-girl-gaga-rekka"
+  },
+  {
+   "about": "Getty to producent hardcore/hyperpopowej sceny związany z klimatem J-core, a DJ Noriken to jeden z pionierów japońskiej sceny hard dance.",
+   "artist": "DJ Noriken & Getty",
+   "foundAt": "2026-11-22",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-18",
+   "songAbout": "Szybki, hardcore'owy singiel z pogranicza hard dance i hyperpopu.",
+   "title": "Hyprfrevker",
+   "url": "https://music.apple.com/jp/search?term=Hyprfrevker",
+   "id": "dj-noriken-getty-hyprfrevker"
   },
   {
    "about": "Postacie idolek z gry Gakuen iDOLM@STER (Gakumas) od Bandai Namco.",
