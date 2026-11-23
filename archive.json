@@ -1,6 +1,45 @@
 {
- "updated": "2026-11-22T05:42:10Z",
+ "updated": "2026-11-23T05:43:17Z",
  "events": [
+  {
+   "id": "2026-11-tomohisa-yamashita-paris",
+   "artist": "Tomohisa Yamashita",
+   "title": "TOUR 2026 DREAMING",
+   "kind": "koncert",
+   "tier": 1,
+   "dateStart": "2026-11-22",
+   "dateEnd": "2026-11-22",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-22",
+     "venue": "Casino de Paris"
+    }
+   ],
+   "url": "https://www.jame-world.com/en/concerts.html?page=8"
+  },
+  {
+   "id": "2026-11-japan-game-fest-lyon-yuzo-koshiro",
+   "artist": "Japan Game Fest 2 (2026)",
+   "title": "Yuzo Koshiro Edition — koncert chiptune Yuzo Koshiro",
+   "kind": "konwent",
+   "tier": 2,
+   "dateStart": "2026-11-21",
+   "dateEnd": "2026-11-22",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Lyon",
+     "date": "2026-11-21",
+     "venue": "Salle de la Ficelle, 65 boulevard des Canuts"
+    }
+   ],
+   "lineup": [
+    "Yūzō Koshiro"
+   ],
+   "url": "https://megaforcemagazine.com/2026/09/yuzo-koshiro-debarque-a-lyon-pour-un-concert-chiptune/"
+  },
   {
    "id": "jp-2026-11-hatsune-miku-x-kodo-kyoen",
    "artist": "Hatsune Miku × Kodo – Kyōen 2026",
