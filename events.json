@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:42:10Z",
+ "updated": "2026-11-24T05:42:30Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -6713,6 +6713,64 @@
    "title": "ano in Seoul (2 dni)",
    "url": "https://www.eventworld.com/ano-seoul-tickets-17-10-2026/event/515852",
    "id": "kr-2026-10-ano-seoul"
+  },
+  {
+   "about": "Love Live! to multimedialna franczyza idol-anime (μ's, Aqours, Nijigasaki, Liella!). Nitta Emi (Honoka z μ's), Saito Shuka (Setsuna z Nijigasaki) i Pile to znane seiyuu i wokalistki związane z serią.",
+   "artist": "Love Live! 15th Anniversary Seoul – fan eventy seiyuu (Nitta Emi, Saito Shuka, Pile)",
+   "dateEnd": "2026-12-27",
+   "dateStart": "2026-11-28",
+   "facts": [
+    {
+     "k": "Terminy",
+     "v": "Nitta Emi 28–29.11, Saito Shuka 5–6.12, Pile 26–27.12 (po 2 części dziennie)"
+    },
+    {
+     "k": "Miejsce",
+     "v": "Eobeu Studio, Seongsu-dong, Seul, 3. piętro"
+    },
+    {
+     "k": "Bilety",
+     "v": "sprzedaż ruszyła 23.10 i 27.10 (organizator Takiel); bilet obejmuje wystawę"
+    }
+   ],
+   "foundAt": "2026-11-24",
+   "hits": [
+    "μ's – Snow halation",
+    "μ's – Start Dash!!",
+    "Aqours – Aqours☆HEROES"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Nitta Emi (28–29.11)",
+    "Saito Shuka (5–6.12)",
+    "Pile (26–27.12)"
+   ],
+   "note": "To fan eventy (nie pełne koncerty) przy wystawie Love Live! 15th Anniversary Seoul Exhibition (14.11–31.12). Każdy dzień ma dwie części; bilet obejmuje wstęp na wystawę. Brak informacji o streamie. Ceny nie podane w źródle.",
+   "region": "KR",
+   "stops": [
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2026-11-28",
+     "venue": "Eobeu Studio, Seongsu-dong"
+    },
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2026-12-05",
+     "venue": "Eobeu Studio, Seongsu-dong"
+    },
+    {
+     "cc": "KR",
+     "city": "Seul",
+     "date": "2026-12-26",
+     "venue": "Eobeu Studio, Seongsu-dong"
+    }
+   ],
+   "tier": 2,
+   "title": "Fan eventy w Seulu przy wystawie Love Live! Series 15th Anniversary",
+   "url": "https://sports.khan.co.kr/en/article/202610221111007",
+   "id": "kr-2026-11-love-live-15th-seoul-fan-events"
   },
   {
    "about": "Największa koreańska impreza anime i gier.",
