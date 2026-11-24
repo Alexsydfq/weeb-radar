@@ -1,8 +1,53 @@
 {
- "generated": "2026-11-21T03:19:20Z",
- "about": "Premiery 2026-11-07..2026-12-21 artystów z watch.json, których nie ma w music.json",
- "count": 41,
+ "generated": "2026-11-24T06:04:40Z",
+ "about": "Premiery 2026-11-10..2026-12-24 artystów z watch.json, których nie ma w music.json",
+ "count": 59,
  "items": [
+  {
+   "watch": "柊マグネタイト (Hiiragi Magnetite)",
+   "artist": "柊マグネタイト",
+   "title": "虚ト・真ド",
+   "released": "2026-12-23",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1060101",
+   "source": "vocadb"
+  },
+  {
+   "watch": "柊マグネタイト (Hiiragi Magnetite)",
+   "artist": "柊マグネタイト",
+   "title": "縺",
+   "released": "2026-12-23",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1060100",
+   "source": "vocadb"
+  },
+  {
+   "watch": "柊マグネタイト (Hiiragi Magnetite)",
+   "artist": "柊マグネタイト feat. 裏命",
+   "title": "ラボ・ラトリ",
+   "released": "2026-12-23",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/777361",
+   "source": "vocadb"
+  },
+  {
+   "watch": "柊マグネタイト (Hiiragi Magnetite)",
+   "artist": "柊マグネタイト feat. 可不",
+   "title": "カノン",
+   "released": "2026-12-23",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/777360",
+   "source": "vocadb"
+  },
+  {
+   "watch": "柊マグネタイト (Hiiragi Magnetite)",
+   "artist": "柊マグネタイト feat. 可不",
+   "title": "マーシャル・マキシマイザー",
+   "released": "2026-12-23",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/777359",
+   "source": "vocadb"
+  },
   {
    "watch": "Eve (japoński wokalista)",
    "artist": "EVE+POL",
@@ -23,21 +68,102 @@
   },
   {
    "watch": "d0tc0mmie",
-   "artist": "nogi, d0tc0mmie feat. 夏色花梨",
-   "title": "はぃぱーかゎちー d0tc0mmie Remix",
+   "artist": "d0tc0mmie feat. 夏色花梨",
+   "title": "はぃぱーかゎちー (d0tc0mmie Remix)",
    "released": "2026-11-28",
    "kind": "singiel",
    "url": "https://vocadb.net/S/1065004",
    "source": "vocadb"
   },
   {
+   "watch": "Rosa Walton",
+   "artist": "Rosa Walton",
+   "title": "Tell Me It's A Dream - Single",
+   "released": "2026-11-24",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/tell-me-its-a-dream-single/6823708025?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Mage-P",
+   "artist": "Mage-P",
+   "title": "0VERFL0W - Single",
+   "released": "2026-11-24",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/0verfl0w-single/6834283102?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Vane Lily",
+   "artist": "Vane Lily",
+   "title": "Again - Single",
+   "released": "2026-11-23",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/again-single/6837834594?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "AnythingBecomeMoe",
+   "artist": "Adi_uvu feat. 闇音レンリ, 闇音レンリ 統合音源 1.5",
+   "title": "展示中毒",
+   "released": "2026-11-23",
+   "kind": "cover",
+   "url": "https://youtu.be/Vhti3dyiGpU",
+   "source": "vocadb"
+  },
+  {
+   "watch": "NAKISO",
+   "artist": "なきそ feat. 冥鳴ひまり",
+   "title": "駄目メメ",
+   "released": "2026-11-23",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1068718",
+   "source": "vocadb"
+  },
+  {
+   "watch": "VocaloKAT",
+   "artist": "PsySoubi feat. asa V7",
+   "title": "Self Proclaimed Angel",
+   "released": "2026-11-23",
+   "kind": "cover",
+   "url": "https://youtu.be/CRNaS9_XNvY",
+   "source": "vocadb"
+  },
+  {
+   "watch": "TAK",
+   "artist": "TAK",
+   "title": "Psychedelic Highway - EP",
+   "released": "2026-11-22",
+   "kind": "EP",
+   "url": "https://music.apple.com/jp/album/psychedelic-highway-ep/6833928211?uo=4",
+   "source": "itunes"
+  },
+  {
    "watch": "ryo (supercell)",
-   "artist": "supercell",
-   "title": "夜と青",
+   "artist": "RYO",
+   "title": "Busutte Kotobaha, Watashiga Umarete Dekitanda. - Single",
+   "released": "2026-11-22",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/busutte-kotobaha-watashiga-umarete-dekitanda-single/6836670579?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "Jamie Paige",
+   "artist": "Vane Lily, ryutsu feat. フリモメン, 桜乃そら",
+   "title": "Again",
+   "released": "2026-11-22",
+   "kind": "singiel",
+   "url": "https://youtu.be/ShvuQgM7tEE",
+   "source": "vocadb"
+  },
+  {
+   "watch": "picco",
+   "artist": "picco",
+   "title": "Underachieving Lover (Picco Remix) - Single",
    "released": "2026-11-21",
    "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/2549f3d5-bb63-4c58-a076-65805b0cde31",
-   "source": "musicbrainz"
+   "url": "https://music.apple.com/jp/album/underachieving-lover-picco-remix-single/6835385551?uo=4",
+   "source": "itunes"
   },
   {
    "watch": "HoneyWorks",
@@ -49,67 +175,22 @@
    "source": "vocadb"
   },
   {
-   "watch": "Mili",
-   "artist": "Mili",
-   "title": "City Blue - Single",
-   "released": "2026-11-20",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/city-blue-single/6830174263?uo=4",
-   "source": "itunes+musicbrainz"
-  },
-  {
-   "watch": "電音部",
-   "artist": "電音部 & ESAI",
-   "title": "Iconic - Single",
-   "released": "2026-11-20",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/iconic-single/6833400509?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "picco",
-   "artist": "Reno, picco, purini & Mi7s3",
-   "title": "Linkstate (feat. Hatsune Miku, 鏡音リン, 鏡音レン, Megurine Luka, MEIKO & KAITO) - Single",
-   "released": "2026-11-20",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/linkstate-feat-hatsune-miku-%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3-%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3-megurine-luka/6831511751?uo=4",
-   "source": "itunes"
-  },
-  {
    "watch": "mona（CV：夏川椎菜）",
    "artist": "mona(CV:夏川椎菜)",
    "title": "最強美少女は戦う☆ - Single",
    "released": "2026-11-20",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/%E6%9C%80%E5%BC%B7%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%81%AF%E6%88%A6%E3%81%86-single/6831134243?uo=4",
-   "source": "itunes"
+   "source": "itunes+musicbrainz"
   },
   {
-   "watch": "Żabson",
-   "artist": "Żabson, BORRO, MIKOUAJ REJW & WIXAPOL",
-   "title": "KLASWIX - Single",
+   "watch": "0TS",
+   "artist": "0TS",
+   "title": "Just a little bit (About me) [Remaster] - Single",
    "released": "2026-11-20",
    "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/klaswix-single/6834353744?uo=4",
+   "url": "https://music.apple.com/jp/album/just-a-little-bit-about-me-remaster-single/6837296868?uo=4",
    "source": "itunes"
-  },
-  {
-   "watch": "Ryu*",
-   "artist": "RYU",
-   "title": "Ice - Single",
-   "released": "2026-11-20",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/ice-single/6836746599?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Lotus Juice",
-   "artist": "Cheem & Lotus Juice",
-   "title": "WTFU2",
-   "released": "2026-11-20",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/68a44d75-ca9e-4773-b470-044cb843b56e",
-   "source": "musicbrainz"
   },
   {
    "watch": "Jamie Paige",
@@ -121,12 +202,48 @@
    "source": "vocadb"
   },
   {
-   "watch": "煮ル果実",
-   "artist": "煮ル果実 feat. v4 flower",
-   "title": "センテナリアン",
+   "watch": "Chinozo",
+   "artist": "Chinozo feat. ついなちゃん AI",
+   "title": "ああきっしょ",
    "released": "2026-11-20",
    "kind": "singiel",
-   "url": "https://youtu.be/bDs2b0lpaEA",
+   "url": "https://vocadb.net/S/1065415",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Parang",
+   "artist": "Parang feat. AI ナースロボ＿タイプＴ",
+   "title": "冷凍庫 ",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1066393",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Atena",
+   "artist": "Atena feat. 初音ミク",
+   "title": "祝祭?",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1069012",
+   "source": "vocadb"
+  },
+  {
+   "watch": "いよわ",
+   "artist": "いよわ feat. Synthesizer V AI 音街ウナ",
+   "title": "ピース (TV size)",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1068703",
+   "source": "vocadb"
+  },
+  {
+   "watch": "youまん",
+   "artist": "youまん feat. v flower",
+   "title": "わらわら",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1064990",
    "source": "vocadb"
   },
   {
@@ -139,12 +256,111 @@
    "source": "vocadb"
   },
   {
+   "watch": "南ノ南",
+   "artist": "南ノ南 feat. フリモメン, 重音テトSV",
+   "title": "dodekai NASBI...",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1068924",
+   "source": "vocadb"
+  },
+  {
+   "watch": "いのうつはSA",
+   "artist": "いのうつはSA feat. Synthesizer V AI 音街ウナ, HALO",
+   "title": "飛んで終い",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1068796",
+   "source": "vocadb"
+  },
+  {
+   "watch": "ミ瑞",
+   "artist": "ミ瑞, ブブゼラ feat. 重音テトSV, 奕夕",
+   "title": "ドポカリプス",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1065168",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Yunosuke",
+   "artist": "雄之助, 晴いちばん, ざんぎ feat. 初音ミク",
+   "title": "インサニティ",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1065157",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Yunosuke",
+   "artist": "雄之助, Ruliea feat. 初音ミク",
+   "title": "マガーク",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1065031",
+   "source": "vocadb"
+  },
+  {
+   "watch": "MAMEKAKAO",
+   "artist": "豆カカオ feat. 初音ミク",
+   "title": "ロリポップは永遠に思春期の夢を見る",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1069021",
+   "source": "vocadb"
+  },
+  {
+   "watch": "MAMEKAKAO",
+   "artist": "豆カカオ feat. 初音ミク",
+   "title": "しゅれでぃんがー・へぶん",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1066967",
+   "source": "vocadb"
+  },
+  {
    "watch": "electrovoid",
    "artist": "JorroTreul feat. Yuma, Hayden",
    "title": "seventyw8",
    "released": "2026-11-20",
    "kind": "cover",
    "url": "https://youtu.be/S-VO58CLvSA",
+   "source": "vocadb"
+  },
+  {
+   "watch": "rusino",
+   "artist": "ルシノ feat. 初音ミク V4X (Dark)",
+   "title": "プレイアビス",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1068724",
+   "source": "vocadb"
+  },
+  {
+   "watch": "なみぐる",
+   "artist": "なみぐる feat. ずんだもん, 重音テト",
+   "title": "フォトジェ肉",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1065772",
+   "source": "vocadb"
+  },
+  {
+   "watch": "d0tc0mmie",
+   "artist": "d0tc0mmie, シトロP feat. 初音ミク, 重音テトSV",
+   "title": "Can you feel it",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1068935",
+   "source": "vocadb"
+  },
+  {
+   "watch": "d0tc0mmie",
+   "artist": "d0tc0mmie feat. 重音テトSV, 初音ミク",
+   "title": "嘘ならば",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1066231",
    "source": "vocadb"
   },
   {
@@ -157,13 +373,13 @@
    "source": "itunes"
   },
   {
-   "watch": "Jin (Shizen no Teki-P)",
-   "artist": "JIN",
-   "title": "Makenakerebaii - Single",
+   "watch": "Riproducer",
+   "artist": "kewwi feat. Kevin 2",
+   "title": "dearly devoured",
    "released": "2026-11-19",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/makenakerebaii-single/6836265172?uo=4",
-   "source": "itunes"
+   "kind": "cover",
+   "url": "https://youtu.be/oJg9pjwqGn8",
+   "source": "vocadb"
   },
   {
    "watch": "d0tc0mmie",
@@ -173,24 +389,6 @@
    "kind": "singiel",
    "url": "https://youtu.be/VvRPaGFyrFA",
    "source": "vocadb"
-  },
-  {
-   "watch": "電音部",
-   "artist": "電音部, 池袋電音部 & MY NEW GEAR",
-   "title": "Champion Girl (Gaga Rekka Version) - Single",
-   "released": "2026-11-18",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/champion-girl-gaga-rekka-version-single/6833400459?uo=4",
-   "source": "itunes"
-  },
-  {
-   "watch": "Getty",
-   "artist": "DJ Noriken & Getty",
-   "title": "Hyprfrevker - Single",
-   "released": "2026-11-18",
-   "kind": "singiel",
-   "url": "https://music.apple.com/jp/album/hyprfrevker-single/6835069050?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "ryo (supercell)",
@@ -238,6 +436,15 @@
    "source": "itunes"
   },
   {
+   "watch": "DECO*27",
+   "artist": "DECO*27 feat. 鏡音リン, 鏡音レン",
+   "title": "愛言葉Ⅴ",
+   "released": "2026-11-14",
+   "kind": "cover",
+   "url": "https://vocadb.net/S/1062436",
+   "source": "vocadb"
+  },
+  {
    "watch": "IDONO KAWAZU",
    "artist": "IDONO KAWAZU & 足立レイ",
    "title": "No-Action - Single",
@@ -245,6 +452,15 @@
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/no-action-single/6830514270?uo=4",
    "source": "itunes"
+  },
+  {
+   "watch": "Apashe",
+   "artist": "Apashe",
+   "title": "Pursuit - Single",
+   "released": "2026-11-13",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/pursuit-single/6828207685?uo=4",
+   "source": "itunes+musicbrainz"
   },
   {
    "watch": "AnythingBecomeMoe",
@@ -316,60 +532,6 @@
    "released": "2026-11-11",
    "kind": "cover",
    "url": "https://youtu.be/9mpa0c2Xkug",
-   "source": "vocadb"
-  },
-  {
-   "watch": "藤田ことね",
-   "artist": "初星学園、藤田ことね、十王星南",
-   "title": "FANTASTIC GATHERING!",
-   "released": "2026-11-09",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/934c928d-bc52-458c-bec3-7f822bf19bbd",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "花海佑芽",
-   "artist": "初星学園、花海咲季、花海佑芽",
-   "title": "クロスファイア",
-   "released": "2026-11-09",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/865edf45-5afa-4aee-b00c-1eee9df2ee71",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "秦谷美鈴",
-   "artist": "初星学園、月村手毬、秦谷美鈴",
-   "title": "慟哭のコンチェルト",
-   "released": "2026-11-08",
-   "kind": "singiel",
-   "url": "https://musicbrainz.org/release-group/12d6f080-1e44-4e7f-911a-a3fb60e5a0dd",
-   "source": "musicbrainz"
-  },
-  {
-   "watch": "Sasuke Haraguchi",
-   "artist": "原口沙輔 feat. various",
-   "title": "星を探して♭♭",
-   "released": "2026-11-08",
-   "kind": "cover",
-   "url": "https://youtu.be/931lT5zGBy8",
-   "source": "vocadb"
-  },
-  {
-   "watch": "25時、ナイトコードで。",
-   "artist": "Colorful Palette feat. various",
-   "title": "星を探して♭♭",
-   "released": "2026-11-08",
-   "kind": "singiel",
-   "url": "https://youtu.be/t35wDTAewDs",
-   "source": "vocadb"
-  },
-  {
-   "watch": "Monochrome Media",
-   "artist": "Various artists",
-   "title": "DOGGONE",
-   "released": "2026-11-08",
-   "kind": "singiel",
-   "url": "https://youtu.be/yUplDRop0vs",
    "source": "vocadb"
   }
  ]

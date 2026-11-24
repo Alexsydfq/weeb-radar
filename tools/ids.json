@@ -8,6 +8,16 @@
   "songkick": "110737-luna",
   "vocadb": 1620
  },
+ "0TS": {
+  "checked": "2026-11-24",
+  "mbid": "72207243-e341-4202-bb6a-de99d13af63d",
+  "names": [
+   "0TS",
+   "0tenshi"
+  ],
+  "songkick": null,
+  "vocadb": 95619
+ },
  "100 gecs": {
   "bandsintown": "https://www.bandsintown.com/a/15491130",
   "checked": "2026-11-09",
@@ -214,6 +224,12 @@
   ],
   "songkick": null,
   "vocadb": 101146
+ },
+ "Apashe": {
+  "checked": "2026-11-24",
+  "mbid": "ce0724ab-2d63-415b-bbb1-839f97bb771a",
+  "songkick": "7621484",
+  "vocadb": null
  },
  "Arianne": {
   "checked": "2026-11-09",
@@ -2078,6 +2094,12 @@
   "songkick": "83812-ryu",
   "vocadb": 540
  },
+ "Ryusei Sakura": {
+  "checked": "2026-11-24",
+  "mbid": null,
+  "songkick": null,
+  "vocadb": null
+ },
  "SAKURAmoti": {
   "checked": "2026-11-09",
   "mbid": "743615f5-16b5-4e8d-a8ab-5cdc74adea4d",
@@ -3598,6 +3620,16 @@
   "mbid": "abd169b6-499e-43f2-9a9d-1ee8c96b4c8d",
   "songkick": null,
   "vocadb": null
+ },
+ "シトロP": {
+  "checked": "2026-11-24",
+  "mbid": null,
+  "names": [
+   "Citolo",
+   "しとろ"
+  ],
+  "songkick": null,
+  "vocadb": 96964
  },
  "タケノコ少年": {
   "checked": "2026-11-09",

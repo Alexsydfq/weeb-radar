@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-21T03:19:21Z",
+ "generated": "2026-11-24T06:04:42Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 14,
+ "count": 18,
  "items": [
   {
    "watch": "Aiobahn",
@@ -127,6 +127,17 @@
    "source": "songkick"
   },
   {
+   "watch": "Pierce The Veil",
+   "name": "Pierce the Veil @ Palladium",
+   "date": "2027-06-22",
+   "dateEnd": "2027-06-22",
+   "city": "Cologne",
+   "cc": "DE",
+   "venue": "Palladium",
+   "url": "https://www.songkick.com/festivals/3815402-pierce-the-veil-europe/id/43535802-pierce-the-veil--europe-2027",
+   "source": "songkick"
+  },
+  {
    "watch": "ATARASHII GAKKO!",
    "name": "Atarashii Gakko! @ Worthy Farm",
    "date": "2027-06-23",
@@ -135,6 +146,39 @@
    "cc": "UK",
    "venue": "Worthy Farm",
    "url": "https://www.songkick.com/festivals/585-glastonbury/id/43524341-glastonbury-festival-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "Pierce The Veil",
+   "name": "Pierce the Veil @ Tempodrom",
+   "date": "2027-06-23",
+   "dateEnd": "2027-06-23",
+   "city": "Berlin",
+   "cc": "DE",
+   "venue": "Tempodrom",
+   "url": "https://www.songkick.com/festivals/3815402-pierce-the-veil-europe/id/43535799-pierce-the-veil--europe-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "Queens of the Stone Age",
+   "name": "Queens of the Stone Age @ Groene Heuvels",
+   "date": "2027-07-02",
+   "dateEnd": "2027-07-04",
+   "city": "Beuningen",
+   "cc": "NL",
+   "venue": "Groene Heuvels",
+   "url": "https://www.songkick.com/festivals/79961-down-the-rabbit-hole/id/43536171-down-the-rabbit-hole-2027",
+   "source": "songkick"
+  },
+  {
+   "watch": "Gilla Band",
+   "name": "Gilla Band @ Praia Fluvial do Taboão",
+   "date": "2027-08-18",
+   "dateEnd": "2027-08-21",
+   "city": "Paredes de Coura",
+   "cc": "PT",
+   "venue": "Praia Fluvial do Taboão",
+   "url": "https://www.songkick.com/festivals/1247-paredes-de-coura/id/43524586-paredes-de-coura-festival-2027",
    "source": "songkick"
   },
   {
