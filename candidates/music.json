@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-24T06:04:40Z",
- "about": "Premiery 2026-11-10..2026-12-24 artystów z watch.json, których nie ma w music.json",
- "count": 59,
+ "generated": "2026-11-25T05:09:54Z",
+ "about": "Premiery 2026-11-11..2026-12-25 artystów z watch.json, których nie ma w music.json",
+ "count": 68,
  "items": [
   {
    "watch": "柊マグネタイト (Hiiragi Magnetite)",
@@ -67,12 +67,102 @@
    "source": "itunes"
   },
   {
+   "watch": "Yoshida Yasei",
+   "artist": "吉田夜世",
+   "title": "ルルブートレグ",
+   "released": "2026-11-28",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1072367",
+   "source": "vocadb"
+  },
+  {
+   "watch": "いのうつはSA",
+   "artist": "いのうつはSA feat. Synthesizer V AI 音街ウナ",
+   "title": "はすのはな",
+   "released": "2026-11-28",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1070146",
+   "source": "vocadb"
+  },
+  {
+   "watch": "Otonashi AF",
+   "artist": "音無あふ",
+   "title": "り♡にゅー！支配者のキャロル",
+   "released": "2026-11-28",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1072360",
+   "source": "vocadb"
+  },
+  {
+   "watch": "はろける",
+   "artist": "はろける",
+   "title": "ふぁんぶる！",
+   "released": "2026-11-28",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1072365",
+   "source": "vocadb"
+  },
+  {
+   "watch": "MAMEKAKAO",
+   "artist": "豆カカオ feat. 初音ミク, Synthesizer V AI 音街ウナ",
+   "title": "L ILY",
+   "released": "2026-11-28",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1070167",
+   "source": "vocadb"
+  },
+  {
+   "watch": "rusino",
+   "artist": "ルシノ",
+   "title": "Dear ＊",
+   "released": "2026-11-28",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1072362",
+   "source": "vocadb"
+  },
+  {
    "watch": "d0tc0mmie",
    "artist": "d0tc0mmie feat. 夏色花梨",
    "title": "はぃぱーかゎちー (d0tc0mmie Remix)",
    "released": "2026-11-28",
    "kind": "singiel",
    "url": "https://vocadb.net/S/1065004",
+   "source": "vocadb"
+  },
+  {
+   "watch": "NOMELON NOLEMON",
+   "artist": "NOMELON NOLEMON",
+   "title": "わたしたちのオカルト - Single",
+   "released": "2026-11-25",
+   "kind": "singiel",
+   "url": "https://music.apple.com/jp/album/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88-single/6832973551?uo=4",
+   "source": "itunes+musicbrainz"
+  },
+  {
+   "watch": "名取さな",
+   "artist": "名取さな",
+   "title": "Life with Sana Natori EP - EP",
+   "released": "2026-11-25",
+   "kind": "EP",
+   "url": "https://music.apple.com/jp/album/life-with-sana-natori-ep-ep/6828771907?uo=4",
+   "source": "itunes"
+  },
+  {
+   "watch": "白銀ノエル",
+   "artist": "白銀ノエル",
+   "title": "ヒカリノ海ヘ",
+   "released": "2026-11-25",
+   "kind": "singiel",
+   "url": "https://musicbrainz.org/release-group/8faf872a-d9a2-4cf4-bda1-668a2d1eca2d",
+   "source": "musicbrainz"
+  },
+  {
+   "watch": "東京真中 (Tokyo Manaka)",
+   "artist": "東京真中 feat. 重音テトSV2",
+   "title": "プアプア",
+   "released": "2026-11-25",
+   "kind": "singiel",
+   "url": "https://youtu.be/hntBfJwHjpg",
    "source": "vocadb"
   },
   {
@@ -100,7 +190,7 @@
    "released": "2026-11-23",
    "kind": "singiel",
    "url": "https://music.apple.com/jp/album/again-single/6837834594?uo=4",
-   "source": "itunes"
+   "source": "itunes+musicbrainz"
   },
   {
    "watch": "AnythingBecomeMoe",
@@ -117,7 +207,7 @@
    "title": "駄目メメ",
    "released": "2026-11-23",
    "kind": "singiel",
-   "url": "https://vocadb.net/S/1068718",
+   "url": "https://vocadb.net/S/1068714",
    "source": "vocadb"
   },
   {
@@ -128,15 +218,6 @@
    "kind": "cover",
    "url": "https://youtu.be/CRNaS9_XNvY",
    "source": "vocadb"
-  },
-  {
-   "watch": "TAK",
-   "artist": "TAK",
-   "title": "Psychedelic Highway - EP",
-   "released": "2026-11-22",
-   "kind": "EP",
-   "url": "https://music.apple.com/jp/album/psychedelic-highway-ep/6833928211?uo=4",
-   "source": "itunes"
   },
   {
    "watch": "ryo (supercell)",
@@ -280,6 +361,15 @@
    "released": "2026-11-20",
    "kind": "singiel",
    "url": "https://vocadb.net/S/1065168",
+   "source": "vocadb"
+  },
+  {
+   "watch": "藤原ハガネ",
+   "artist": "藤原ハガネ feat. 重音テトSV",
+   "title": "コンヴェンション",
+   "released": "2026-11-20",
+   "kind": "singiel",
+   "url": "https://vocadb.net/S/1065421",
    "source": "vocadb"
   },
   {
@@ -514,15 +604,6 @@
    "released": "2026-11-11",
    "kind": "cover",
    "url": "https://youtu.be/cno2Kp5R6To",
-   "source": "vocadb"
-  },
-  {
-   "watch": "東京真中 (Tokyo Manaka)",
-   "artist": "東京真中, 是 feat. 初音ミク V4X (Dark)",
-   "title": "メモリ",
-   "released": "2026-11-11",
-   "kind": "singiel",
-   "url": "https://youtu.be/B4l7d_KiwIE",
    "source": "vocadb"
   },
   {

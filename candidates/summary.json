@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-24T06:04:40Z",
+ "generated": "2026-11-25T05:09:54Z",
  "artists": 482,
- "seconds": 2624,
+ "seconds": 3251,
  "music": {
-  "found": 104,
-  "new": 59
+  "found": 113,
+  "new": 68
  },
  "concerts": {
   "found": 69,
@@ -15,10 +15,24 @@
   "new": 5
  },
  "calls": {
-  "vocadb_calls": 249,
   "itunes_calls": 461,
-  "songkick_calls": 150,
-  "mb_calls": 467
+  "vocadb_calls": 245,
+  "songkick_calls": 148,
+  "mb_calls": 449,
+  "errors": 12
  },
- "errors": []
+ "errors": [
+  "mb Kairiki Bear: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb マサラダ (Masarada): HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Yuuyu: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Chinozo: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Azari: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb 雨衣: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb 柏木カレキ: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Toccoyaki: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb AnythingBecomeMoe: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb ATARASHII GAKKO!: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb yanaginagi: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Electric Light Orchestra: HTTPError HTTP Error 503: Service Temporarily Unavailable"
+ ]
 }
