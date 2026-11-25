@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-22T05:42:10Z",
+ "updated": "2026-11-25T05:42:38Z",
  "songs": [
+  {
+   "about": "Hiiragi Magnetite to japoński producent vocaloidowy znany z mrocznych, szybkich utworów z Kafu i Hatsune Miku.",
+   "artist": "柊マグネタイト feat. 可不",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-12-23",
+   "songAbout": "Zapowiedziana premiera (23.12.2026) z głosem KAFU.",
+   "title": "カノン",
+   "url": "https://vocadb.net/S/777360",
+   "id": "hiiragi-magnetite-canon"
+  },
+  {
+   "about": "Hiiragi Magnetite to japoński producent vocaloidowy znany z mrocznych, szybkich utworów z Kafu i Hatsune Miku.",
+   "artist": "柊マグネタイト",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-12-23",
+   "songAbout": "Zapowiedziana premiera (23.12.2026), element zapowiedzianego wydawnictwa producenta.",
+   "title": "縺",
+   "url": "https://vocadb.net/S/1060100",
+   "id": "hiiragi-magnetite-hata"
+  },
+  {
+   "about": "Hiiragi Magnetite to japoński producent vocaloidowy znany z mrocznych, szybkich utworów z Kafu i Hatsune Miku.",
+   "artist": "柊マグネタイト",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-12-23",
+   "songAbout": "Zapowiedziana premiera (23.12.2026) — ciężki, gęsty elektro-rockowy kawałek w stylu producenta.",
+   "title": "虚ト・真ド",
+   "url": "https://vocadb.net/S/1060101",
+   "id": "hiiragi-magnetite-kyoto-shindo"
+  },
+  {
+   "about": "Hiiragi Magnetite to japoński producent vocaloidowy znany z mrocznych, szybkich utworów z Kafu i Hatsune Miku.",
+   "artist": "柊マグネタイト feat. 裏命",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-12-23",
+   "songAbout": "Zapowiedziana premiera (23.12.2026) z głosem Uramei.",
+   "title": "ラボ・ラトリ",
+   "url": "https://vocadb.net/S/777361",
+   "id": "hiiragi-magnetite-labo-latori"
+  },
+  {
+   "about": "Hiiragi Magnetite to japoński producent vocaloidowy znany z mrocznych, szybkich utworów z Kafu i Hatsune Miku.",
+   "artist": "柊マグネタイト feat. 可不",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-12-23",
+   "songAbout": "Zapowiedziana premiera (23.12.2026) z głosem KAFU, ostry rockowy klimat.",
+   "title": "マーシャル・マキシマイザー",
+   "url": "https://vocadb.net/S/777359",
+   "id": "hiiragi-magnetite-marshall-maximizer"
+  },
   {
    "about": "Eve to japoński wokalista i autor, znany z hitów „Kaikai Kitan” (opening Jujutsu Kaisen) i „Dramaturgy”.",
    "artist": "Eve × POL",
@@ -158,6 +218,78 @@
    "id": "koven-wei-hashimero-pride"
   },
   {
+   "about": "Mage-P to producent elektroniczny związany ze sceną vocaloidową i bass music.",
+   "artist": "Mage-P",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-24",
+   "songAbout": "Energetyczny kawałek elektroniczny z mocnym bassem.",
+   "title": "0VERFL0W",
+   "url": "https://music.apple.com/jp/album/0verfl0w-single/6834283102?uo=4",
+   "id": "mage-p-0verfl0w"
+  },
+  {
+   "about": "Rosa Walton to brytyjska wokalistka znana ze współpracy z Porter Robinsonem i Jamie Paige.",
+   "artist": "Rosa Walton",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-24",
+   "songAbout": "Marzycielski, elektroniczny pop o nostalgicznym nastroju.",
+   "title": "Tell Me It's A Dream",
+   "url": "https://music.apple.com/jp/album/tell-me-its-a-dream-single/6823708025?uo=4",
+   "id": "rosa-walton-tell-me-its-a-dream"
+  },
+  {
+   "about": "なきそ (Nakiso) to japoński producent vocaloidowy znany z melancholijnych piosenek.",
+   "artist": "なきそ feat. 冥鳴ひまり",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-23",
+   "songAbout": "Mroczny, emocjonalny kawałek z głosem Meimei Himari.",
+   "title": "駄目メメ",
+   "url": "https://vocadb.net/S/1068718",
+   "id": "nakiso-damememe"
+  },
+  {
+   "about": "Vane Lily to producent i wokalista z kręgu sceny vocaloidowej i hyperpopu.",
+   "artist": "Vane Lily",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-23",
+   "songAbout": "Błyszczący hyperpop z melodią w stylu vocaloid; wersja z ryutsu na YouTube.",
+   "title": "Again",
+   "url": "https://music.apple.com/jp/album/again-single/6837834594?uo=4",
+   "id": "vane-lily-again"
+  },
+  {
+   "about": "RYO to założyciel supercell, twórca „World is Mine” i muzyki do Bakemonogatari.",
+   "artist": "RYO",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-22",
+   "songAbout": "Nowy singiel RYO w jego charakterystycznym, melodyjnym stylu.",
+   "title": "ぶすって言葉は、私が生まれてできたんだ。",
+   "url": "https://music.apple.com/jp/album/busutte-kotobaha-watashiga-umarete-dekitanda-single/6836670579?uo=4",
+   "id": "ryo-busutte-kotoba"
+  },
+  {
+   "about": "TAK to koreański producent vocaloidowy, autor m.in. Lemon Melon Cookie i utworów do Project SEKAI.",
+   "artist": "TAK",
+   "foundAt": "2026-11-25",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-22",
+   "songAbout": "EP z psychodelicznym, rytmicznym elektropopem producenta.",
+   "title": "Psychedelic Highway",
+   "url": "https://music.apple.com/jp/album/psychedelic-highway-ep/6833928211?uo=4",
+   "id": "tak-psychedelic-highway-ep"
+  },
+  {
    "about": "HoneyWorks to japoński zespół producentów od serii piosenek o szkolnych miłościach (Kokuhaku Jikkou Iinkai), z licznymi adaptacjami anime i filmowymi.",
    "artist": "Gom, HoneyWorks feat. Sosogi Bon",
    "foundAt": "2026-11-21",
@@ -194,6 +326,18 @@
    "id": "supercell-yoru-to-ao"
   },
   {
+   "about": "Atena to producent vocaloidowy związany z sceną Hatsune Miku.",
+   "artist": "Atena feat. 初音ミク",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Kawałek z Miku o świątecznym, nieco niepokojącym klimacie.",
+   "title": "祝祭?",
+   "url": "https://vocadb.net/S/1069012",
+   "id": "atena-shukusai"
+  },
+  {
    "about": "Lotus Juice to raper i wokalista znany z muzyki do serii Persona (Mass Destruction, Burn My Dread).",
    "artist": "Cheem & Lotus Juice",
    "foundAt": "2026-11-21",
@@ -204,6 +348,42 @@
    "title": "WTFU2",
    "url": "https://musicbrainz.org/release-group/68a44d75-ca9e-4773-b470-044cb843b56e",
    "id": "cheem-lotus-juice-wtfu2"
+  },
+  {
+   "about": "Chinozo to japoński producent znany z „Gimme x Gimme” i „Fire Fire”.",
+   "artist": "Chinozo feat. ついなちゃん AI",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Chaotyczny, szybki pop z głosem AI Tsuina-chan.",
+   "title": "ああきっしょ",
+   "url": "https://vocadb.net/S/1065415",
+   "id": "chinozo-aa-kisho"
+  },
+  {
+   "about": "d0tc0mmie to producent hyperpopu i vocaloid, znany z Teto i Miku.",
+   "artist": "d0tc0mmie, シトロP feat. 初音ミク, 重音テトSV",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Energetyczny hyperpop z Miku i Teto.",
+   "title": "Can you feel it",
+   "url": "https://vocadb.net/S/1068935",
+   "id": "d0tc0mmie-can-you-feel-it"
+  },
+  {
+   "about": "d0tc0mmie to producent hyperpopu i vocaloid, znany z Teto i Miku.",
+   "artist": "d0tc0mmie feat. 重音テトSV, 初音ミク",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Nowy utwór d0tc0mmie z Teto SV i Miku.",
+   "title": "嘘ならば",
+   "url": "https://vocadb.net/S/1066231",
+   "id": "d0tc0mmie-uso-naraba"
   },
   {
    "about": "Denonbu to multimedialny projekt muzyczny o dziewczynach-DJ-kach z różnych dzielnic Tokio, z elektroniką od czołowych producentów.",
@@ -230,6 +410,54 @@
    "id": "electrovoid-seventyw8"
   },
   {
+   "about": "いのうつはSA to producent vocaloidowy o eksperymentalnym stylu.",
+   "artist": "いのうつはSA feat. Synthesizer V AI 音街ウナ, HALO",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Dynamiczny utwór z Otomachi Una i HALO.",
+   "title": "飛んで終い",
+   "url": "https://vocadb.net/S/1068796",
+   "id": "inoutsuwa-sa-tonde-shimai"
+  },
+  {
+   "about": "いよわ (Iyowa) to producent vocaloidowy znany z „Hakuchuumu”, bliski gustowi sceny Project SEKAI.",
+   "artist": "いよわ feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Wersja TV size piosenki z głosem Otomachi Una.",
+   "title": "ピース (TV size)",
+   "url": "https://vocadb.net/S/1068703",
+   "id": "iyowa-peace-tv-size"
+  },
+  {
+   "about": "豆カカオ (Mamekakao) to producent vocaloidowy.",
+   "artist": "豆カカオ feat. 初音ミク",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Słodko-gorzki pop z Miku.",
+   "title": "ロリポップは永遠に思春期の夢を見る",
+   "url": "https://vocadb.net/S/1069021",
+   "id": "mamekakao-lollipop-adolescence"
+  },
+  {
+   "about": "豆カカオ (Mamekakao) to producent vocaloidowy.",
+   "artist": "豆カカオ feat. 初音ミク",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Zabawny, nawiązujący do kota Schrödingera utwór z Miku.",
+   "title": "しゅれでぃんがー・へぶん",
+   "url": "https://vocadb.net/S/1066967",
+   "id": "mamekakao-shuredinger-heaven"
+  },
+  {
    "about": "Mili to japoński zespół z wokalistką Cassie Wei, znany z openingów i muzyki do gier (Library of Ruina, Arknights, Lost Ruins) oraz występów na europejskich konwentach.",
    "artist": "Mili",
    "foundAt": "2026-11-22",
@@ -240,6 +468,30 @@
    "title": "City Blue",
    "url": "https://musicbrainz.org/search?query=Mili+City+Blue&type=release_group",
    "id": "mili-city-blue"
+  },
+  {
+   "about": "南ノ南 to producent z sceny vocaloid / Kasane Teto.",
+   "artist": "南ノ南 feat. フリモメン, 重音テトSV",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Eksperymentalny utwór z Teto SV.",
+   "title": "dodekai NASBI...",
+   "url": "https://vocadb.net/S/1068924",
+   "id": "minaminomi-dodekai-nasbi"
+  },
+  {
+   "about": "ミ瑞 (Mizui) to producent vocaloidowy znany z energetycznych, dziwacznych utworów.",
+   "artist": "ミ瑞, ブブゼラ feat. 重音テトSV, 奕夕",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Zwariowany kawałek z Kasane Teto SV.",
+   "title": "ドポカリプス",
+   "url": "https://vocadb.net/S/1065168",
+   "id": "mizui-dopocalypse"
   },
   {
    "about": "mona to fikcyjna idolka z projektu HoneyWorks, śpiewa głosem seiyuu Natsukawy Shiiny.",
@@ -254,6 +506,18 @@
    "id": "mona-saikyou-bishoujo-wa-tatakau"
   },
   {
+   "about": "なみぐる (Namigur) to producent z sceny Zundamon i Kasane Teto.",
+   "artist": "なみぐる feat. ずんだもん, 重音テト",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Humorystyczny utwór z Zundamonem i Teto.",
+   "title": "フォトジェ肉",
+   "url": "https://vocadb.net/S/1065772",
+   "id": "namigur-photogenic-niku"
+  },
+  {
    "about": "煮ル果実 (Nirukaju) to producent vocaloidowy znany z szybkich, gitarowych utworów rockowych.",
    "artist": "煮ル果実 feat. v4 flower",
    "foundAt": "2026-11-21",
@@ -264,6 +528,18 @@
    "title": "センテナリアン",
    "url": "https://youtu.be/bDs2b0lpaEA",
    "id": "nirukaju-centenarian-v4-flower"
+  },
+  {
+   "about": "Parang (파랑) to koreański producent z sceny gier rytmicznych i vocaloid.",
+   "artist": "Parang feat. AI ナースロボ＿タイプＴ",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Elektroniczny utwór z głosem AI.",
+   "title": "冷凍庫",
+   "url": "https://vocadb.net/S/1066393",
+   "id": "parang-reitoko"
   },
   {
    "about": "picco to producent vocaloidowy i DJ, znany z energetycznych utworów w stylu electro i hardcore.",
@@ -290,6 +566,18 @@
    "id": "picco-linkstate"
   },
   {
+   "about": "ルシノ (Rusino) to producent vocaloidowy.",
+   "artist": "ルシノ feat. 初音ミク V4X (Dark)",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Mroczny kawałek z Miku V4X Dark.",
+   "title": "プレイアビス",
+   "url": "https://vocadb.net/S/1068724",
+   "id": "rusino-play-abyss"
+  },
+  {
    "about": "Ryu* to japoński producent eurobeatu i trance, znany z utworów związanych z Initial D i serią Dance Dance Revolution.",
    "artist": "Ryu*",
    "foundAt": "2026-11-21",
@@ -314,6 +602,42 @@
    "id": "unlike-pluto-goodbye"
   },
   {
+   "about": "youまん to producent vocaloidowy.",
+   "artist": "youまん feat. v flower",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Lekki, melodyjny utwór z v flower.",
+   "title": "わらわら",
+   "url": "https://vocadb.net/S/1064990",
+   "id": "youman-warawara"
+  },
+  {
+   "about": "雄之助 (Yunosuke) to producent vocaloidowy.",
+   "artist": "雄之助, 晴いちばん, ざんぎ feat. 初音ミク",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Szybki, szalony utwór z Miku, kolaboracja z Haru Ichiban.",
+   "title": "インサニティ",
+   "url": "https://vocadb.net/S/1065157",
+   "id": "yunosuke-insanity"
+  },
+  {
+   "about": "雄之助 (Yunosuke) to producent vocaloidowy.",
+   "artist": "雄之助, Ruliea feat. 初音ミク",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Kolejny utwór z Hatsune Miku, kolaboracja z Ruliea.",
+   "title": "マガーク",
+   "url": "https://vocadb.net/S/1065031",
+   "id": "yunosuke-maguruku"
+  },
+  {
    "about": "Żabson to polski raper znany z hitów z wieloma featami i mocnym trapowym brzmieniem.",
    "artist": "Żabson, BORRO, MIKOUAJ REJW & WIXAPOL",
    "foundAt": "2026-11-21",
@@ -336,6 +660,18 @@
    "title": "Makenakerebaii",
    "url": "https://music.apple.com/jp/album/makenakerebaii-single/6836265172?uo=4",
    "id": "jin-makenakerebaii"
+  },
+  {
+   "about": "kewwi to producent zachodniej sceny vocaloid.",
+   "artist": "kewwi feat. Kevin 2",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-19",
+   "songAbout": "Mroczny pop z Kevinem 2.",
+   "title": "dearly devoured",
+   "url": "https://youtu.be/oJg9pjwqGn8",
+   "id": "kewwi-dearly-devoured"
   },
   {
    "about": "TAK (탁) to koreański producent Vocaloid, współtwórca utworów do Project SEKAI, znany z „Lemon Melon Cookie”.",
@@ -612,6 +948,18 @@
    "title": "You're a Bomber.",
    "url": "https://music.apple.com/jp/album/youre-a-bomber-single/6830514457?uo=4",
    "id": "adeliae-ame-youre-a-bomber"
+  },
+  {
+   "about": "Apashe to kanadyjski producent bass/brutal bass z orkiestrowymi wpływami.",
+   "artist": "Apashe",
+   "foundAt": "2026-11-25",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-13",
+   "songAbout": "Brutalny, filmowy bass z mocnym dropem.",
+   "title": "Pursuit",
+   "url": "https://music.apple.com/jp/album/pursuit-single/6828207685?uo=4",
+   "id": "apashe-pursuit"
   },
   {
    "about": "Steve Aoki to amerykański DJ i producent EDM, znany z kolaboracji i wspólnych projektów z artystami z Japonii.",
