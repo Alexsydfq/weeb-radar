@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-25T05:09:55Z",
+ "generated": "2026-11-26T04:17:57Z",
  "about": "Koncerty w Europie (Songkick, VocaDB; kind=symfoniczny to orkiestrowe serie z gier/anime), których nie ma w events.json",
- "count": 18,
+ "count": 20,
  "items": [
   {
    "watch": "Aiobahn",
@@ -12,6 +12,28 @@
    "cc": "ES",
    "venue": "Atlantic Sound BCN",
    "url": "https://www.songkick.com/festivals/3812493-manga-barcelona-night-party-by-atomic-pixel-party/id/43498072-manga-barcelona-night-party-by-atomic-pixel-party-2026",
+   "source": "songkick"
+  },
+  {
+   "watch": "Mori Calliope",
+   "name": "Mori Calliope @ Glòries Multicines Mooby",
+   "date": "2026-12-04",
+   "dateEnd": "2026-12-04",
+   "city": "Barcelona",
+   "cc": "ES",
+   "venue": "Glòries Multicines Mooby",
+   "url": "https://www.songkick.com/concerts/43538684-mori-calliope-at-glories-multicines-mooby",
+   "source": "songkick"
+  },
+  {
+   "watch": "Mori Calliope",
+   "name": "Mori Calliope @ Glòries Multicines Mooby",
+   "date": "2026-12-05",
+   "dateEnd": "2026-12-05",
+   "city": "Barcelona",
+   "cc": "ES",
+   "venue": "Glòries Multicines Mooby",
+   "url": "https://www.songkick.com/concerts/43538710-mori-calliope-at-glories-multicines-mooby",
    "source": "songkick"
   },
   {

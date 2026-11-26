@@ -1,38 +1,34 @@
 {
- "generated": "2026-11-25T05:09:54Z",
+ "generated": "2026-11-26T04:17:56Z",
  "artists": 482,
- "seconds": 3251,
+ "seconds": 2493,
  "music": {
-  "found": 113,
-  "new": 68
+  "found": 107,
+  "new": 40
  },
  "concerts": {
-  "found": 69,
-  "new": 18
+  "found": 70,
+  "new": 20
  },
  "japan": {
   "found": 9,
-  "new": 5
+  "new": 6
  },
  "calls": {
-  "itunes_calls": 461,
   "vocadb_calls": 245,
+  "itunes_calls": 461,
   "songkick_calls": 148,
-  "mb_calls": 449,
-  "errors": 12
+  "mb_calls": 453,
+  "errors": 8
  },
  "errors": [
-  "mb Kairiki Bear: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb マサラダ (Masarada): HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb BABYMETAL: HTTPError HTTP Error 503: Service Temporarily Unavailable",
   "mb Yuuyu: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Chinozo: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Azari: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb 雨衣: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb 柏木カレキ: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Toccoyaki: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb AnythingBecomeMoe: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb ATARASHII GAKKO!: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb Fubuki Shirakami: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb TENKO SHIBUKI: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb ODDEEO: HTTPError HTTP Error 503: Service Temporarily Unavailable",
+  "mb WitcheswithGlitches: HTTPError HTTP Error 503: Service Temporarily Unavailable",
   "mb yanaginagi: HTTPError HTTP Error 503: Service Temporarily Unavailable",
-  "mb Electric Light Orchestra: HTTPError HTTP Error 503: Service Temporarily Unavailable"
+  "mb rerulili: HTTPError HTTP Error 503: Service Temporarily Unavailable"
  ]
 }

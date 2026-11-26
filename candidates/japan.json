@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-25T05:09:55Z",
+ "generated": "2026-11-26T04:17:57Z",
  "about": "Lajwy w Japonii i Korei (Songkick, VocaDB), których nie ma w events.json",
- "count": 5,
+ "count": 6,
  "items": [
   {
    "watch": null,
@@ -12,6 +12,17 @@
    "cc": "JP",
    "category": "Festival",
    "url": "https://note.com/nbaji/n/n9b14d298adcf",
+   "source": "vocadb"
+  },
+  {
+   "watch": null,
+   "name": "MIKUEC 2026",
+   "date": "2026-12-12",
+   "dateEnd": "2026-12-13",
+   "city": "アフラックホールUEC",
+   "cc": "JP",
+   "category": "Concert",
+   "url": "https://mikuec.com/2026/",
    "source": "vocadb"
   },
   {
