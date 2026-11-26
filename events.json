@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:42:30Z",
+ "updated": "2026-11-26T05:42:01Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -1943,8 +1943,9 @@
   {
    "about": "Joe Hisaishi to kompozytor muzyki do prawie wszystkich filmów Hayao Miyazakiego i studia Ghibli (Spirited Away, Totoro, Princess Mononoke). Gra jako solista i dyryguje Royal Philharmonic Orchestra.",
    "artist": "Joe Hisaishi – World Dream Tour",
-   "dateEnd": "2026-12-02",
-   "dateStart": "2026-11-30",
+   "changeNote": "Nowe przystanki: Stuttgart 28.11 (wyprzedane) i Luksemburg 17.06.2027 (sprzedaż od 25.03.2027)",
+   "dateEnd": "2027-06-17",
+   "dateStart": "2026-11-28",
    "facts": [
     {
      "k": "Program",
@@ -1975,20 +1976,32 @@
    "stops": [
     {
      "cc": "DE",
+     "city": "Stuttgart",
+     "date": "2026-11-28",
+     "venue": "Liederhalle"
+    },
+    {
+     "cc": "DE",
      "city": "Berlin",
      "date": "2026-11-30",
-     "venue": "Philharmonie Berlin"
+     "venue": "Philharmonie"
     },
     {
      "cc": "DE",
      "city": "Hamburg",
-     "date": "2026-12-02",
-     "venue": "Elbphilharmonie"
+     "date": "2026-12-02"
+    },
+    {
+     "cc": "LU",
+     "city": "Luksemburg",
+     "date": "2027-06-17",
+     "venue": "Philharmonie Luxembourg"
     }
    ],
    "tickets": "https://www.elbphilharmonie.de/en/whats-on/joe-hisaishis-world-dream-tour/27698",
    "tier": 2,
    "title": "Joe Hisaishi z Royal Philharmonic Orchestra: Berlin i Hamburg",
+   "updatedAt": "2026-11-26",
    "url": "https://www.visitberlin.de/en/event/joe-hisaishis-world-dream-tour",
    "id": "2026-11-joe-hisaishi-world-dream-tour"
   },
@@ -2785,6 +2798,7 @@
   {
    "about": "Orkiestrowy koncert z muzyką Lorien Testard z gry Clair Obscur: Expedition 33 (turowy RPG inspirowany jRPG).",
    "artist": "Clair Obscur: Expedition 33 – A Painted Symphony",
+   "changeNote": "Nowe przystanki we Francji: Clermont-Ferrand, Bordeaux, Montpellier, Marsylia, Lyon, Tuluza, Rouen, Nantes",
    "dateEnd": "2027-05-27",
    "dateStart": "2027-01-28",
    "foundAt": "2026-11-16",
@@ -2799,78 +2813,116 @@
     {
      "cc": "FR",
      "city": "Amnéville",
-     "date": "2027-01-28",
-     "venue": "Galaxie"
+     "date": "2027-01-28"
     },
     {
      "cc": "FR",
      "city": "Strasburg",
-     "date": "2027-01-29",
-     "venue": "Zénith"
+     "date": "2027-01-29"
     },
     {
      "cc": "FR",
      "city": "Lille",
-     "date": "2027-02-09",
+     "date": "2027-02-09"
+    },
+    {
+     "cc": "FR",
+     "city": "Clermont-Ferrand",
+     "date": "2027-02-10",
      "venue": "Zénith"
+    },
+    {
+     "cc": "FR",
+     "city": "Bordeaux",
+     "date": "2027-02-11",
+     "venue": "Arkéa Arena"
     },
     {
      "cc": "UK",
      "city": "Londyn",
      "date": "2027-02-28",
-     "venue": "O2 Arena"
+     "venue": "O2"
+    },
+    {
+     "cc": "FR",
+     "city": "Montpellier",
+     "date": "2027-03-03",
+     "venue": "Sud de France Arena"
+    },
+    {
+     "cc": "FR",
+     "city": "Marsylia",
+     "date": "2027-03-04",
+     "venue": "Dome"
+    },
+    {
+     "cc": "FR",
+     "city": "Lyon",
+     "date": "2027-03-07",
+     "venue": "LDLC Arena"
+    },
+    {
+     "cc": "FR",
+     "city": "Tuluza",
+     "date": "2027-03-22",
+     "venue": "Zénith"
     },
     {
      "cc": "ES",
      "city": "Barcelona",
-     "date": "2027-03-23",
-     "venue": "Palau Sant Jordi"
+     "date": "2027-03-23"
     },
     {
      "cc": "BE",
      "city": "Bruksela",
-     "date": "2027-03-30",
-     "venue": "ING Arena"
+     "date": "2027-03-30"
     },
     {
      "cc": "DE",
      "city": "Hamburg",
-     "date": "2027-03-31",
-     "venue": "Barclays Arena"
+     "date": "2027-03-31"
     },
     {
      "cc": "DE",
      "city": "Berlin",
-     "date": "2027-04-01",
-     "venue": "Uber Arena"
+     "date": "2027-04-01"
     },
     {
      "cc": "NO",
      "city": "Oslo",
-     "date": "2027-04-27",
-     "venue": "Unity Arena"
+     "date": "2027-04-27"
     },
     {
      "cc": "SE",
      "city": "Sztokholm",
-     "date": "2027-04-28",
-     "venue": "Avicii Arena"
+     "date": "2027-04-28"
     },
     {
      "cc": "NL",
      "city": "Amsterdam",
-     "date": "2027-05-03",
-     "venue": "Ziggo Dome"
+     "date": "2027-05-03"
     },
     {
      "cc": "PL",
      "city": "Kraków",
-     "date": "2027-05-04",
-     "venue": "Tauron Arena"
+     "date": "2027-05-04"
+    },
+    {
+     "cc": "FR",
+     "city": "Rouen",
+     "date": "2027-05-25",
+     "venue": "Zénith"
+    },
+    {
+     "cc": "FR",
+     "city": "Nantes",
+     "date": "2027-05-27",
+     "venue": "Zénith"
     }
    ],
    "tier": 2,
    "title": "Europejska część trasy 2027",
+   "updatedAt": "2026-11-26",
    "url": "https://www.videogameschronicle.com/news/clair-obscurs-world-tour-adds-24-more-dates-for-2027-28-including-the-first-ever-video-game-concert-at-londons-o2/",
    "id": "2027-01-clair-obscur-a-painted-symphony-europe"
   },
@@ -3033,6 +3085,28 @@
    "title": "Koncert orkiestrowy z muzyką z gry Atlus",
    "url": "https://www.eventimapollo.com/events/metaphor-refantazio-orchestra-concert",
    "id": "2027-01-metaphor-refantazio-orchestra-concert"
+  },
+  {
+   "about": "Węgierski konwent popkultury i anime w Budapeszcie, organizowany kilka razy w roku.",
+   "artist": "MondoCon Winter 2027",
+   "dateEnd": "2027-01-09",
+   "dateStart": "2027-01-09",
+   "foundAt": "2026-11-26",
+   "hits": [],
+   "kind": "konwent",
+   "note": "Goście muzyczni i ceny jeszcze nieogłoszone.",
+   "stops": [
+    {
+     "cc": "HU",
+     "city": "Budapeszt",
+     "date": "2027-01-09",
+     "venue": "Hungexpo"
+    }
+   ],
+   "tier": 3,
+   "title": "MondoCon — edycja zimowa, Budapeszt",
+   "url": "https://www.mondocon.hu/",
+   "id": "2027-01-mondocon-winter-budapeszt"
   },
   {
    "about": "Japoński zespół grający mieszankę metalu, punku i reggae. Światową sławę dał mu „The Rumbling”, opening finałowego sezonu Attack on Titan.",
@@ -3880,6 +3954,27 @@
    "id": "2027-03-jupiter-europe"
   },
   {
+   "about": "Szwajcarski konwent anime i mangi, jeden z największych w Europie francuskojęzycznej.",
+   "artist": "Polymanga 2027",
+   "dateEnd": "2027-03-29",
+   "dateStart": "2027-03-26",
+   "foundAt": "2026-11-26",
+   "hits": [],
+   "kind": "konwent",
+   "note": "Termin wg Anime Passport; oficjalna strona ma niespójne dane (edycja 2026 była w Lozannie), gości 2027 brak.",
+   "stops": [
+    {
+     "cc": "CH",
+     "city": "Montreux",
+     "date": "2027-03-26"
+    }
+   ],
+   "tier": 2,
+   "title": "Polymanga — Montreux",
+   "url": "https://www.animepassport.eu/",
+   "id": "2027-03-polymanga-montreux"
+  },
+  {
    "about": "Steve Aoki to amerykański DJ i producent EDM, znany z elektrycznych setów z tortami i współprac m.in. z BTS i Linkin Park.",
    "artist": "Steve Aoki",
    "dateEnd": "2027-03-20",
@@ -3937,6 +4032,36 @@
    "title": "Koncert symfoniczny z muzyką z Attack on Titan, Paryż",
    "url": "https://75.agendaculturel.fr/concert/symphony-on-titan-1.html",
    "id": "2027-03-symphony-on-titan-paris"
+  },
+  {
+   "about": "Cykl koncertów, w których orkiestra i wokaliści grają najpopularniejsze piosenki i motywy z anime.",
+   "artist": "The Animesy",
+   "dateEnd": "2027-03-10",
+   "dateStart": "2027-03-10",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "od 22,85 €"
+    }
+   ],
+   "foundAt": "2026-11-26",
+   "hits": [
+    "Opening i ending z popularnych anime"
+   ],
+   "kind": "symfoniczny",
+   "note": "Koncert z przebojami anime w Filharmonii Berlińskiej; w Hiszpanii zapowiadane są też koncerty The Animesy, bez dat.",
+   "stops": [
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2027-03-10",
+     "venue": "Philharmonie"
+    }
+   ],
+   "tier": 2,
+   "title": "Die besten Anime-Songs in Concert — Berlin",
+   "url": "https://www.berlin.de/en/tickets/concerts/the-animesy/2027-03-10-the-animesy-im-konzert-die-besten-anime-songs-30dc501b-dcef-4606-994a-5d26d4d87bf6/",
+   "id": "2027-03-the-animesy-berlin"
   },
   {
    "about": "Japoński producent i DJ z kręgu hyperpopu i muzyki elektronicznej, popularny w środowisku internetowym i anime. Pierwszy raz jedzie jako headliner po Europie.",
@@ -4073,6 +4198,40 @@
    "title": "Through the Night — European Tour Part 1",
    "url": "https://tokyonoizu.com/japanese-band-tours",
    "id": "2027-04-hagane-europe"
+  },
+  {
+   "about": "Japoński gitarzysta i kompozytor rockowy, były członek BOOWY. Znany z utworu „Battle Without Honor or Humanity” z filmu Kill Bill.",
+   "artist": "HOTEI (Tomoyasu Hotei)",
+   "dateEnd": "2027-04-03",
+   "dateStart": "2027-04-01",
+   "foundAt": "2026-11-26",
+   "hits": [
+    "Battle Without Honor or Humanity",
+    "Bad Feeling",
+    "Dreamin'",
+    "Thrill"
+   ],
+   "kind": "trasa",
+   "note": "Dwa europejskie przystanki trasy; bilety przez 1link.jp/hotei_world.",
+   "stops": [
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2027-04-01",
+     "venue": "La Maroquinerie"
+    },
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-04-03",
+     "venue": "O2 Academy Islington"
+    }
+   ],
+   "tickets": "https://1link.jp/hotei_world",
+   "tier": 1,
+   "title": "Guitarhythm World Tour 2027 — Paryż i Londyn",
+   "url": "https://tokyonoizu.com/japanese-band-tours",
+   "id": "2027-04-hotei-guitarhythm-world-tour"
   },
   {
    "about": "Japońskie trio electropop (KOM_I, Kenmochi Hidefumi, Dir.F), znane z nowoczesnego j-popu i viralowych utworów w sieci.",
@@ -4279,6 +4438,7 @@
   {
    "about": "Najstarszy czeski konwent anime i mangi, w Brnie.",
    "artist": "Animefest 2027",
+   "changeNote": "Gość: Makoto Yukimura; news o biletach 2027",
    "dateEnd": "2027-05-23",
    "dateStart": "2027-05-21",
    "facts": [
@@ -4293,7 +4453,7 @@
    ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
-   "note": "Goście jeszcze nieogłoszeni.",
+   "note": "Gość: Makoto Yukimura (Vinland Saga). 22.11.2026 opublikowano news o biletach 2027; gości muzycznych jeszcze nie ogłoszono.",
    "stops": [
     {
      "cc": "CZ",
@@ -4304,6 +4464,7 @@
    ],
    "tier": 3,
    "title": "",
+   "updatedAt": "2026-11-26",
    "url": "https://www.animefest.cz/",
    "id": "2027-05-animefest-brno"
   },
@@ -4340,6 +4501,28 @@
    "title": "Koncerty w Niemczech: Heilbronn i Stuttgart",
    "url": "https://www.songkick.com/concerts/43435382-jeff-lynnes-elo-at-konzert-and-kongresszentrum-harmonie",
    "id": "2027-05-jeff-lynnes-elo-germany"
+  },
+  {
+   "about": "Największy brytyjski konwent popkultury (anime, gry, komiksy, cosplay) w londyńskim ExCeL.",
+   "artist": "MCM Comic Con London 2027",
+   "dateEnd": "2027-05-30",
+   "dateStart": "2027-05-28",
+   "foundAt": "2026-11-26",
+   "hits": [],
+   "kind": "konwent",
+   "note": "Goście 2027 jeszcze nieogłoszeni, w tym goście muzyczni.",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2027-05-28",
+     "venue": "ExCeL"
+    }
+   ],
+   "tier": 2,
+   "title": "MCM London Comic Con — edycja majowa",
+   "url": "https://www.mcmcomiccon.com/london/en-us.html",
+   "id": "2027-05-mcm-comic-con-london"
   },
   {
    "about": "Wokalistka Carolin Mruała (Wønder) z zespołem wykonuje utwory z gier i anime w widowiskowym show.",
@@ -4610,7 +4793,7 @@
   {
    "about": "Jeden z najważniejszych europejskich festiwali miejskich (indie, elektronika, pop), w 2027 r. świętuje 25. edycję. W 2026 r. grali tam m.in. The Cure, Gorillaz, My Bloody Valentine i Massive Attack.",
    "artist": "Primavera Sound Barcelona 2027",
-   "changeNote": "W line-upie także Brutalismus 3000 b2b ISOxo",
+   "changeNote": "Pełna fala line-upu (ok. 150 artystów), m.in. CHVRCHES, Bleachers, ANOHNI, Arca",
    "dateEnd": "2027-06-06",
    "dateStart": "2027-06-02",
    "facts": [
@@ -4651,7 +4834,7 @@
     "Gilla Band",
     "Brutalismus 3000 b2b ISOxo",
     "Underworld",
-    "Bicep",
+    "BICEP",
     "Metronomy",
     "King Gizzard & the Lizard Wizard",
     "Weyes Blood",
@@ -4662,11 +4845,39 @@
     "Shygirl",
     "Kim Petras",
     "Converge",
-    "Richie Hawtin",
-    "Four Tet",
-    "Dixon"
+    "Richie Hawtin x Four Tet x Dixon",
+    "CHVRCHES",
+    "Bleachers",
+    "ANOHNI",
+    "Arca",
+    "Boy Harsher",
+    "Joy Orbison",
+    "John Talabot",
+    "Wallows",
+    "Hearts2Hearts",
+    "English Teacher",
+    "Friko",
+    "Isaiah Rashad",
+    "Juana Molina",
+    "Mabe Fratti",
+    "MUNA",
+    "Tirzah",
+    "Twisted Teens",
+    "underscores",
+    "Vashti Bunyan",
+    "Bonnie \"Prince\" Billy",
+    "Atlas Sound",
+    "Don Caballero",
+    "Full of Hell",
+    "Have a Nice Life",
+    "Jesu",
+    "Lip Critic",
+    "PISS",
+    "Snow Strippers",
+    "Warning",
+    "Westside Cowboy"
    ],
-   "note": "Line-up ogłoszony 5.10.2026; z listy „artists” grają Gilla Band i Brutalismus 3000 (b2b ISOxo). Brak japońskich artystów otaku. Termin: 2–6.06.2027, Parc del Fòrum (niedziela 6.06 to Primavera Bits, elektronika).",
+   "note": "Ogłoszono ok. 150 artystów (tu najważniejsi). Z listy obserwowanych grają Gilla Band i Brutalismus 3000 b2b ISOxo; Gorillaz, LCD Soundsystem i japońskich artystów w line-upie nie ma.",
    "stops": [
     {
      "cc": "ES",
@@ -4678,7 +4889,7 @@
    "tickets": "https://www.primaverasound.com/en/barcelona",
    "tier": 3,
    "title": "25. edycja — line-up ogłoszony 5.10.2026 (151 wykonawców): Doechii, Phoebe Bridgers, Massive Attack, The Chemical Brothers, Gilla Band",
-   "updatedAt": "2026-10-09",
+   "updatedAt": "2026-11-26",
    "url": "https://www.dodmagazine.es/cartel-primavera-sound-2027/",
    "id": "2027-06-primavera-sound-barcelona"
   },
@@ -4948,7 +5159,7 @@
   {
    "about": "Jeden z najstarszych niemieckich konwentów anime, z koncertami japońskich artystów w głównej sali Rosengarten w Mannheimie. Największą gwiazdą muzyczną edycji 2027 jest Hironobu Kageyama, głos „CHA-LA HEAD-CHA-LA” z Dragon Ball Z; obok niego Eir Aoi (Sword Art Online) i Little Glee Monster (My Hero Academia, Boruto).",
    "artist": "AnimagiC 2027",
-   "changeNote": "Nowi w programie muzycznym: VIDEOGAMES live in concert, Taiko Heidelberg; Eir Aoi zagra dwa koncerty",
+   "changeNote": "Nowa w line-upie: Maki Otsuki",
    "dateEnd": "2027-08-01",
    "dateStart": "2027-07-30",
    "facts": [
@@ -4979,12 +5190,13 @@
    ],
    "kind": "konwent",
    "lineup": [
-    "VIDEOGAMES live in concert",
     "Hironobu Kageyama",
     "Little Glee Monster",
     "Eir Aoi",
-    "Taiko Heidelberg",
-    "SHIHORI"
+    "Maki Otsuki",
+    "SHIHORI",
+    "VIDEOGAMES live in concert",
+    "Taiko Heidelberg"
    ],
    "note": "Ogłoszeni muzycznie: Hironobu Kageyama (50-lecie kariery), Little Glee Monster (pierwszy raz w Europie w sześcioosobowym składzie), Eir Aoi (dwa koncerty), SHIHORI, a także VIDEOGAMES live in concert i Taiko Heidelberg. Organizator zapowiada kolejnych gości.",
    "stops": [
@@ -4997,7 +5209,7 @@
    ],
    "tier": 3,
    "title": "SHOWTIME",
-   "updatedAt": "2026-10-04",
+   "updatedAt": "2026-11-26",
    "url": "https://animagic.de/",
    "id": "2027-07-animagic"
   },
@@ -5053,16 +5265,13 @@
   {
    "about": "Nowy w Polsce konwent popkulturowy brytyjskiej firmy Monopoly Events (Comic Con Liverpool, Manchester, Scotland): spotkania z aktorami, autografy, sesje zdjęciowe i cosplay. Gwiazd muzycznych jeszcze nie ogłoszono.",
    "artist": "Comic Con Poland 2027",
-   "dateEnd": "2027-07-11",
-   "dateStart": "2027-07-10",
+   "changeNote": "Zmiana terminu na 17–18.07.2027",
+   "dateEnd": "2027-07-18",
+   "dateStart": "2027-07-17",
    "facts": [
     {
      "k": "Termin",
-     "v": "10–11.07.2027, EXPO Kraków"
-    },
-    {
-     "k": "Bilety",
-     "v": "sprzedaż ma ruszyć pod koniec października 2026, ceny jeszcze nieznane"
+     "v": "17–18.07.2027, EXPO Kraków (zmiana z 10–11.07)"
     },
     {
      "k": "Organizator",
@@ -5076,12 +5285,13 @@
     {
      "cc": "PL",
      "city": "Kraków",
-     "date": "2027-07-10",
-     "venue": "EXPO Kraków, ul. Galicyjska 9"
+     "date": "2027-07-17",
+     "venue": "EXPO Kraków"
     }
    ],
    "tier": 2,
    "title": "Nowy konwent popkulturowy od organizatorów Comic Con Liverpool, w EXPO Kraków",
+   "updatedAt": "2026-11-26",
    "url": "https://blogokomiksach.pl/comic-con-poland-2027-expo-krakow/",
    "id": "2027-07-comic-con-poland"
   },
@@ -5125,6 +5335,7 @@
   {
    "about": "Największy festiwal kultury japońskiej w Europie, w Paryżu. Co roku goszczą tu japońscy artyści, a koncerty Anisong Festa przyciągają gwiazdy anisongu.",
    "artist": "Japan Expo Paris 2027",
+   "changeNote": "Gość honorowy: Yôichi Takahashi; ticketing 2027 otwarty",
    "dateEnd": "2027-07-11",
    "dateStart": "2027-07-08",
    "facts": [
@@ -5143,7 +5354,7 @@
    ],
    "foundAt": "2026-10-02",
    "kind": "konwent",
-   "note": "Program muzyczny jeszcze nieogłoszony. Termin nakłada się na DoKomi (9–11.07).",
+   "note": "Gość honorowy: Yôichi Takahashi (Captain Tsubasa). Koncertów i gości muzycznych na 2027 jeszcze nie ogłoszono; strona podaje, że ticketing 2027 jest otwarty.",
    "stops": [
     {
      "cc": "FR",
@@ -5154,13 +5365,14 @@
    ],
    "tier": 3,
    "title": "",
+   "updatedAt": "2026-11-26",
    "url": "https://www.jds.fr/paris/foires-et-salons/foires/japan-expo-261090_A",
    "id": "2027-07-japan-expo-paris"
   },
   {
    "about": "Największy słowacki festiwal wielogatunkowy (muzyka, teatr, literatura, debaty) na lotnisku w Trenczynie, znany z kameralnej atmosfery. W wyprzedanej edycji 2026 grali m.in. The Cure i Gorillaz.",
    "artist": "Pohoda 2027",
-   "changeNote": "Dodatkowy dzień ADÉLA Day 7.07 (Adéla, Peggy Gou), nowe ceny biletów, Rodrigo Amarante w line-upie",
+   "changeNote": "Nowi w line-upie: Honey Dijon (ADÉLA Day), Wasia Project",
    "dateEnd": "2027-07-10",
    "dateStart": "2027-07-07",
    "facts": [
@@ -5193,9 +5405,11 @@
     "Cruz Beckham and The Breakers",
     "Sailor Honeymoon",
     "Cowboy Hunters",
+    "Rodrigo Amarante",
+    "Wasia Project",
     "Adéla (ADÉLA Day, 7.07)",
     "Peggy Gou (ADÉLA Day)",
-    "Rodrigo Amarante"
+    "Honey Dijon (ADÉLA Day)"
    ],
    "note": "Doszedł dodatkowy dzień ADÉLA Day (7.07) z Adélą i Peggy Gou; organizatorzy zapowiadają kolejne ogłoszenia. Nikogo z japońskiej sceny ani z listy ulubionych na razie.",
    "stops": [
@@ -5209,7 +5423,7 @@
    "tickets": "https://shop.pohodafestival.sk/en/tickets-2027",
    "tier": 3,
    "title": "Festiwal na lotnisku w Trenczynie — Massive Attack, The Chemical Brothers, extra day z Adélą",
-   "updatedAt": "2026-11-22",
+   "updatedAt": "2026-11-26",
    "url": "https://www.pohodafestival.sk/en/news",
    "id": "2027-07-pohoda"
   },
@@ -5314,24 +5528,25 @@
   {
    "about": "Festiwal kultury azjatyckiej w Polsce, z konkursami cosplay, panelami i koncertami.",
    "artist": "Hikari 2027",
+   "changeNote": "Nowe miejsce: Międzynarodowe Targi Poznańskie; ceny biletów",
    "dateEnd": "2027-08-29",
    "dateStart": "2027-08-27",
    "facts": [
     {
      "k": "Termin",
-     "v": "27–29.08.2027, Poznań (8. edycja); obiektu strona jeszcze nie podaje"
+     "v": "27–29.08.2027, Międzynarodowe Targi Poznańskie (8. edycja)"
     },
     {
      "k": "Motyw",
-     "v": "yokai i mitologia japońska (w 2026 „Wonderland”)"
+     "v": "yokai i mitologia japońska"
     },
     {
      "k": "Bilety",
-     "v": "sprzedaż jeszcze nie ruszyła; pozycje w sklepie (100–450 zł) oznaczone jako niedostępne"
+     "v": "100 zł/dzień, 210 zł 3-dniowy, Stage Pass 300 zł, Shiny 450 zł; sprzedaż jeszcze niedostępna"
     },
     {
      "k": "Goście",
-     "v": "na 2027 nieogłoszeni; strona pokazuje wciąż gwiazdy edycji 2026"
+     "v": "na 2027 nieogłoszeni"
     }
    ],
    "foundAt": "2026-10-02",
@@ -5346,6 +5561,7 @@
    ],
    "tier": 3,
    "title": "Festiwal Kultury Azjatyckiej",
+   "updatedAt": "2026-11-26",
    "url": "https://hikari.pl/",
    "id": "2027-08-hikari"
   },
@@ -5643,6 +5859,27 @@
    "title": "\"Iwaou\" THE TOUR — Europa",
    "url": "https://electricbloomwebzine.com/tours/mass-of-the-fermenting-dregs-iwaou-the-tour",
    "id": "2027-09-mass-of-the-fermenting-dregs-europe"
+  },
+  {
+   "about": "Największy w Europie festiwal komiksu, gier i anime we Włoszech; co roku gości japońskich twórców muzyki z anime i gier.",
+   "artist": "Lucca Comics & Games 2027",
+   "dateEnd": "2027-11-01",
+   "dateStart": "2027-10-28",
+   "foundAt": "2026-11-26",
+   "hits": [],
+   "kind": "konwent",
+   "note": "Termin ogłoszony 2.11.2026 po zamknięciu edycji 2026 (800 tys. odwiedzających); goście muzyczni nieznani.",
+   "stops": [
+    {
+     "cc": "IT",
+     "city": "Lucca",
+     "date": "2027-10-28"
+    }
+   ],
+   "tier": 3,
+   "title": "Lucca Comics & Games — edycja 2027",
+   "url": "https://senalnews.com/en/events/lucca-comics-games-closes-diamond-edition-with-800000-visitors-and-announces-2027-dates",
+   "id": "2027-10-lucca-comics-and-games"
   },
   {
    "about": "Polski konwent mangi i anime, jubileuszowa 10. edycja.",

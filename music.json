@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:42:38Z",
+ "updated": "2026-11-26T05:42:01Z",
  "songs": [
   {
    "about": "Hiiragi Magnetite to japoński producent vocaloidowy znany z mrocznych, szybkich utworów z Kafu i Hatsune Miku.",
@@ -110,6 +110,30 @@
    "id": "d0tc0mmie-trending-topic"
   },
   {
+   "about": "Harokeru to twórca vocaloidowy obecny na VocaDB.",
+   "artist": "はろける",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Zapowiedziana premiera 28.11.2026.",
+   "title": "ふぁんぶる！",
+   "url": "https://vocadb.net/S/1072365",
+   "id": "harokeru-fumble"
+  },
+  {
+   "about": "Inoutsuwa SA to producent korzystający z Synthesizer V AI.",
+   "artist": "いのうつはSA feat. Synthesizer V AI",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Zapowiedziana premiera 28.11.2026 z wokalem Synthesizer V AI.",
+   "title": "はすのはな",
+   "url": "https://vocadb.net/S/1070146",
+   "id": "inoutsuwa-sa-hasu-no-hana"
+  },
+  {
    "about": "いよわ (Iyowa) to producent vocaloidowy znany z nerwowych, gęstych aranżacji i hitów jak „Wakusei Chokuretsu”.",
    "artist": "いよわ feat. 初音ミク",
    "foundAt": "2026-11-15",
@@ -132,6 +156,18 @@
    "title": "ペーパームーン",
    "url": "https://vocadb.net/S/1061163",
    "id": "iyowa-mayu-paper-moon"
+  },
+  {
+   "about": "Mamekakao to producent vocaloidowy tworzący z Miku i Synthesizer V.",
+   "artist": "豆カカオ feat. 初音ミク, Synthesizer V AI",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Zapowiedziana premiera 28.11.2026 z Hatsune Miku i Synthesizer V.",
+   "title": "L ILY",
+   "url": "https://vocadb.net/S/1070167",
+   "id": "mamekakao-l-ily"
   },
   {
    "about": "ミ瑞 to japoński producent vocaloidowy/SynthV.",
@@ -194,6 +230,42 @@
    "id": "nogi-d0tc0mmie-haipakawachi-remix"
   },
   {
+   "about": "Otonashi AF to twórca vocaloidowy, znany też z wcześniejszych wydań.",
+   "artist": "音無あふ",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Zapowiedziana premiera 28.11.2026.",
+   "title": "り♡にゅー！支配者のキャロル",
+   "url": "https://vocadb.net/S/1072360",
+   "id": "otonashi-af-renew-shihaisha-no-carol"
+  },
+  {
+   "about": "Rusino to twórca vocaloidowy znany z wcześniejszych utworów na VocaDB.",
+   "artist": "ルシノ",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Zapowiedziana premiera 28.11.2026.",
+   "title": "Dear ＊",
+   "url": "https://vocadb.net/S/1072362",
+   "id": "rusino-dear"
+  },
+  {
+   "about": "Yoshida Yasei to twórca muzyki vocaloidowej obecny na VocaDB.",
+   "artist": "吉田夜世",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Zapowiedziana premiera 28.11.2026.",
+   "title": "ルルブートレグ",
+   "url": "https://vocadb.net/S/1072367",
+   "id": "yoshida-yasei-rurubootleg"
+  },
+  {
    "about": "HIMEHINA to japoński duet muzyczny wokalistek, związany ze sceną vocaloidowo-internetową.",
    "artist": "HIMEHINA",
    "foundAt": "2026-11-20",
@@ -216,6 +288,54 @@
    "title": "Pride",
    "url": "https://music.apple.com/jp/album/pride-single/6834756148?uo=4",
    "id": "koven-wei-hashimero-pride"
+  },
+  {
+   "about": "Sana Natori to VTuberka i piosenkarka, znana z zapętlonych kawałków i corocznych lajwów.",
+   "artist": "名取さな",
+   "foundAt": "2026-11-26",
+   "kind": "EP",
+   "pick": false,
+   "released": "2026-11-25",
+   "songAbout": "Nowy minialbum VTuberki, premiera 25.11.2026.",
+   "title": "Life with Sana Natori EP",
+   "url": "https://music.apple.com/jp/album/life-with-sana-natori-ep-ep/6828771907?uo=4",
+   "id": "natori-sana-life-with-sana-natori-ep"
+  },
+  {
+   "about": "NOMELON NOLEMON to duet muzyczny, znany z piosenek ilustrowanych teledyskami i anime.",
+   "artist": "NOMELON NOLEMON",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-25",
+   "songAbout": "Nowy singiel duetu o okultystycznym tytule, premiera 25.11.2026.",
+   "title": "わたしたちのオカルト",
+   "url": "https://music.apple.com/jp/album/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88-single/6832973551?uo=4",
+   "id": "nomelon-nolemon-watashitachi-no-occult"
+  },
+  {
+   "about": "Shirogane Noel to wokalistka i VTuberka z hololive, znana z coverów i energicznych utworów.",
+   "artist": "白銀ノエル",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-25",
+   "songAbout": "Nowy singiel hololive'owej artystki, premiera 25.11.2026.",
+   "title": "ヒカリノ海ヘ",
+   "url": "https://musicbrainz.org/release-group/8faf872a-d9a2-4cf4-bda1-668a2d1eca2d",
+   "id": "shirogane-noel-hikarino-umi-e"
+  },
+  {
+   "about": "Tokyo Manaka to producent vocaloidowy tworzący piosenki dla Miku i Kasane Teto.",
+   "artist": "東京真中 feat. 重音テトSV2",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-25",
+   "songAbout": "Kawałek z wokalem Kasane Teto SV2, premiera 25.11.2026.",
+   "title": "プアプア",
+   "url": "https://youtu.be/hntBfJwHjpg",
+   "id": "tokyo-manaka-feat-teto-puapua"
   },
   {
    "about": "Mage-P to producent elektroniczny związany ze sceną vocaloidową i bass music.",
@@ -300,6 +420,18 @@
    "title": "99％恋愛予報",
    "url": "https://youtu.be/E4_iWhKy03Y",
    "id": "gom-honeyworks-99-percent-renai-yohou"
+  },
+  {
+   "about": "picco to japoński twórca muzyki elektronicznej związany ze sceną vocaloidową.",
+   "artist": "picco",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-21",
+   "songAbout": "Remix w wydaniu singlowym, taneczny klimat elektroniczny.",
+   "title": "Underachieving Lover (Picco Remix)",
+   "url": "https://music.apple.com/jp/album/underachieving-lover-picco-remix-single/6835385551?uo=4",
+   "id": "picco-underachieving-lover-picco-remix"
   },
   {
    "about": "Japoński twórca/wykonawca z kręgu sceny wokaloidowej i internetowej.",
@@ -408,6 +540,18 @@
    "title": "seventyw8",
    "url": "https://vocadb.net/S?filter=seventyw8",
    "id": "electrovoid-seventyw8"
+  },
+  {
+   "about": "Producent vocaloidowy publikujący na VocaDB; tu z głosem Kasane Teto SV.",
+   "artist": "藤原ハガネ feat. 重音テトSV",
+   "foundAt": "2026-11-26",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-20",
+   "songAbout": "Nowy kawałek z syntezowanym wokalem Teto SV, premiera 20.11.2026.",
+   "title": "コンヴェンション",
+   "url": "https://vocadb.net/S/1065421",
+   "id": "fujiwara-hagane-convention"
   },
   {
    "about": "いのうつはSA to producent vocaloidowy o eksperymentalnym stylu.",
