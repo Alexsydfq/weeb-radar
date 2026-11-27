@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:42:01Z",
+ "updated": "2026-11-27T05:42:17Z",
  "songs": [
   {
    "about": "Hiiragi Magnetite to japoński producent vocaloidowy znany z mrocznych, szybkich utworów z Kafu i Hatsune Miku.",
@@ -134,6 +134,18 @@
    "id": "inoutsuwa-sa-hasu-no-hana"
   },
   {
+   "about": "Producent vocaloidowy znany z utworów z głosem Otonomachi Una i Kasane Teto.",
+   "artist": "いのうつはSA feat. Synthesizer V AI 音街ウナ",
+   "foundAt": "2026-11-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Nowy utwór z głosem Otonomachi Una; premiera zapowiedziana na 28.11.",
+   "title": "大人にはなれないの",
+   "url": "https://vocadb.net/S/1072801",
+   "id": "inoutsuwa-sa-otona-ni-wa-narenai-no"
+  },
+  {
    "about": "いよわ (Iyowa) to producent vocaloidowy znany z nerwowych, gęstych aranżacji i hitów jak „Wakusei Chokuretsu”.",
    "artist": "いよわ feat. 初音ミク",
    "foundAt": "2026-11-15",
@@ -218,6 +230,18 @@
    "id": "mizui-uramei-gijutsuteki-bunkiten"
   },
   {
+   "about": "munina to producent/artysta elektroniczny związany ze sceną vocaloidową i hyperpopową.",
+   "artist": "munina",
+   "foundAt": "2026-11-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Singiel z głosem Kasane Teto; premiera zapowiedziana na 28.11.",
+   "title": "Scars Became Art! (feat. KASANE TETO)",
+   "url": "https://music.apple.com/jp/album/scars-became-art-feat-kasane-teto-single/6836163068?uo=4",
+   "id": "munina-scars-became-art"
+  },
+  {
    "about": "d0tc0mmie to producent hyperpopu i clubowych remiksów utworów vocaloidowych.",
    "artist": "nogi, d0tc0mmie feat. Natsuiro Karin",
    "foundAt": "2026-11-21",
@@ -228,6 +252,18 @@
    "title": "はぃぱーかゎちー d0tc0mmie Remix",
    "url": "https://vocadb.net/S/1065004",
    "id": "nogi-d0tc0mmie-haipakawachi-remix"
+  },
+  {
+   "about": "Producentka Otonashi AF, tworzy utwory z głosami Adachi Rei i Kasane Teto.",
+   "artist": "音無あふ feat. 足立レイ, トモ (VoiSona Talk)",
+   "foundAt": "2026-11-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-28",
+   "songAbout": "Nowy singiel z głosami VoiSona; premiera zapowiedziana na 28.11.",
+   "title": "ヒトデナシ",
+   "url": "https://vocadb.net/S/1072663",
+   "id": "otonashi-af-hitodenashi"
   },
   {
    "about": "Otonashi AF to twórca vocaloidowy, znany też z wcześniejszych wydań.",
@@ -288,6 +324,18 @@
    "title": "Pride",
    "url": "https://music.apple.com/jp/album/pride-single/6834756148?uo=4",
    "id": "koven-wei-hashimero-pride"
+  },
+  {
+   "about": "Mapo Tofu (麻婆豆腐) to producent muzyki z kręgu vocaloidowego/elektronicznego.",
+   "artist": "麻婆豆腐",
+   "foundAt": "2026-11-27",
+   "kind": "singiel",
+   "pick": false,
+   "released": "2026-11-25",
+   "songAbout": "Halloweenowy singiel wydany 25.11.",
+   "title": "Happy Halloween",
+   "url": "https://music.apple.com/jp/album/happy-halloween-single/6831068123?uo=4",
+   "id": "mapo-tofu-happy-halloween"
   },
   {
    "about": "Sana Natori to VTuberka i piosenkarka, znana z zapętlonych kawałków i corocznych lajwów.",
