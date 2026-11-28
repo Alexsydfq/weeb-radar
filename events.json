@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:42:01Z",
+ "updated": "2026-11-28T05:41:47Z",
  "events": [
   {
    "about": "Japoński kompozytor muzyki do anime, łączący orkiestrę z rockiem i elektroniką. Autor ścieżek dźwiękowych do Naruto Shippuden, Fairy Tail i Pretty Cure.",
@@ -132,7 +132,8 @@
   {
    "about": "Brytyjski duet sióstr Nyrobi i Chayi Beckett-Messam z Nottingham, łączący alternatywny rock i nu metal z elektroniką rave'ową. Debiutancki album „Rave Immortal” ukazał się w 2025 r., a duet zdobył nagrodę MOBO w kategorii Best Alternative Music Act.",
    "artist": "ALT BLK ERA",
-   "dateEnd": "2026-11-28",
+   "changeNote": "Doszedł festiwal Bearded Theory 2027 (Walton-on-Trent, 25–30.05)",
+   "dateEnd": "2027-05-30",
    "dateStart": "2026-10-07",
    "facts": [
     {
@@ -177,10 +178,17 @@
      "city": "Leeds",
      "date": "2026-11-28",
      "venue": "Oporto (BBC Introducing Live)"
+    },
+    {
+     "cc": "UK",
+     "city": "Walton-on-Trent",
+     "date": "2027-05-25",
+     "venue": "Bearded Theory (Catton Hall, 25–30.05)"
     }
    ],
    "tier": 3,
    "title": "Beyond The Music + BBC Introducing Live",
+   "updatedAt": "2026-11-28",
    "url": "https://leedsliving.co.uk/music-dance/introducing-live-takes-over-leeds-on-28-november/",
    "id": "2026-10-alt-blk-era-uk"
   },
@@ -480,8 +488,8 @@
   {
    "about": "Irlandzki zespół noise-rockowy i post-punkowy z Dublina, dawniej występujący jako Girl Band. Trasa towarzyszy nowemu albumowi „Pugnello”.",
    "artist": "Gilla Band",
-   "changeNote": "Nowe przystanki w Irlandii i Belfaście (17.04–7.05.2027)",
-   "dateEnd": "2027-05-07",
+   "changeNote": "Doszły festiwale: Primavera Sound (Barcelona, 3–5.06.2027) i Paredes de Coura (18–21.08.2027)",
+   "dateEnd": "2027-08-21",
    "dateStart": "2026-10-07",
    "facts": [
     {
@@ -670,12 +678,24 @@
      "city": "Kilkenny",
      "date": "2027-05-07",
      "venue": "Set Theatre"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2027-06-03",
+     "venue": "Primavera Sound (Parc del Fòrum, 3–5.06)"
+    },
+    {
+     "cc": "PT",
+     "city": "Paredes de Coura",
+     "date": "2027-08-18",
+     "venue": "Paredes de Coura Festival (18–21.08)"
     }
    ],
    "tickets": "https://www.ticketmaster.pl/event/gilla-band-bilety/1691255868",
    "tier": 3,
    "title": "Europa i Wielka Brytania 2027 (album „Pugnello”) + Salford i Londyn w październiku 2026",
-   "updatedAt": "2026-11-10",
+   "updatedAt": "2026-11-28",
    "url": "https://www.songkick.com/artists/10184465/calendar",
    "id": "2026-10-gilla-band-europe"
   },
@@ -2629,6 +2649,56 @@
    "title": "Hitsujibungaku, Kyary Pamyu Pamyu, Otoboke Beaver",
    "url": "https://tokyonoizu.com/japanese-band-tours",
    "id": "2026-12-matsuri-26-japanese-music-experience-london"
+  },
+  {
+   "about": "Mori Calliope to raperka i wirtualna żniwiarka z hololive English -Myth-, znana z mrocznego hip-hopu i piosenek wydawanych też przez Universal Music Japan. IRyS to wirtualna śpiewaczka hololive English (Project: HOPE).",
+   "artist": "Mori Calliope (z IRyS)",
+   "dateEnd": "2026-12-05",
+   "dateStart": "2026-12-04",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "od 50 € · Eventbrite"
+    },
+    {
+     "k": "Godziny",
+     "v": "drzwi 18:30 (4.12)"
+    },
+    {
+     "k": "Daty",
+     "v": "4.12 i 5.12.2026"
+    }
+   ],
+   "foundAt": "2026-11-28",
+   "hits": [
+    "Dead Beats",
+    "Excuse My Rudeness, But Could You Please RIP?"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Mori Calliope",
+    "IRyS"
+   ],
+   "note": "Dwa wieczory w kinie Mooby przy Glòries, w trakcie Manga Barcelona. Songkick podaje gościnnie IRyS; formuła wydarzenia (koncert / pokaz) nie jest opisana.",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2026-12-04",
+     "venue": "Glòries Multicines Mooby"
+    },
+    {
+     "cc": "ES",
+     "city": "Barcelona",
+     "date": "2026-12-05",
+     "venue": "Glòries Multicines Mooby"
+    }
+   ],
+   "tickets": "https://www.songkick.com/concerts/43538684-mori-calliope-at-glories-multicines-mooby",
+   "tier": 3,
+   "title": "Mori Calliope with IRyS – Barcelona, 2 pokazy",
+   "url": "https://www.songkick.com/concerts/43538684-mori-calliope-at-glories-multicines-mooby",
+   "id": "2026-12-mori-calliope-irys-barcelona"
   },
   {
    "about": "Koncert symfoniczny z muzyką z filmów Makoto Shinkai (Your Name, Weathering With You, Suzume), m.in. utworów RADWIMPS i Kazumy Jinnouchi.",
@@ -4932,7 +5002,8 @@
   {
    "about": "Amerykański zespół stoner rockowy Josha Hommego, jeden z ulubionych aktów z listy. Znany z albumów „Songs for the Deaf” i „Rated R”.",
    "artist": "Queens of the Stone Age",
-   "dateEnd": "2027-06-30",
+   "changeNote": "Doszedł festiwal Down the Rabbit Hole (Beuningen, 2–4.07.2027)",
+   "dateEnd": "2027-07-04",
    "dateStart": "2027-06-13",
    "facts": [
     {
@@ -5012,11 +5083,18 @@
      "city": "Pula",
      "date": "2027-06-30",
      "venue": "Pula Arena"
+    },
+    {
+     "cc": "NL",
+     "city": "Beuningen",
+     "date": "2027-07-02",
+     "venue": "Down the Rabbit Hole (2–4.07)"
     }
    ],
    "tickets": "https://www.ticketmaster.com/queens-of-the-stone-age-tickets/artist/730011",
    "tier": 3,
    "title": "Perfecth World Tour — europejska odnoga (czerwiec 2027)",
+   "updatedAt": "2026-11-28",
    "url": "https://www.loudersound.com/bands-artists/live-performances/queens-of-the-stone-age-announce-european-leg-of-perfecth-world-tour",
    "id": "2027-06-queens-of-the-stone-age-perfecth-europe"
   },
@@ -6389,6 +6467,59 @@
    "id": "jp-2026-12-hatsune-miku-countdown-japan-26-27"
   },
   {
+   "about": "Cykliczny klub fanowski dla słuchaczy hololive w akihabarskim klubie MOGRA: DJ-e puszczają piosenki talentów hololive, a goście to twórcy muzyki dla hololive.",
+   "artist": "holoLis SUPER PARTY 2nd Anniversary (MOGRA)",
+   "dateEnd": "2026-12-27",
+   "dateStart": "2026-12-27",
+   "duration": "13:00–19:00 (JST)",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "przedsprzedaż 3500 JPY, w dniu 4000 JPY (1 drink) · LivePocket"
+    },
+    {
+     "k": "Godziny",
+     "v": "13:00 otwarcie, 19:00 zamknięcie"
+    },
+    {
+     "k": "Wiek",
+     "v": "bez limitu, alkohol od 20 lat; legitymacja wymagana"
+    }
+   ],
+   "foundAt": "2026-11-28",
+   "hits": [
+    "Hoshimachi Suisei – NEXT COLOR PLANET",
+    "hololive IDOL PROJECT – Stardust Song"
+   ],
+   "kind": "rave",
+   "lineup": [
+    "Honda Yuki (EverNest)",
+    "Poplica",
+    "DJ EN34世",
+    "G!mm!C",
+    "Kr@U",
+    "Gren",
+    "SMAAAASH!!",
+    "Sū-san",
+    "Rei"
+   ],
+   "note": "Drugie urodziny cyklu „ホロスパ”: parter DJ-ski z muzyką hololive i piętro spotkań fanów, cosplay mile widziany. Timetable ma być ogłoszony; stream niedozwolony.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Akihabara)",
+     "date": "2026-12-27",
+     "venue": "MOGRA"
+    }
+   ],
+   "tickets": "https://livepocket.jp/e/hololissuperparty_2612",
+   "tier": 3,
+   "title": "Fanowska impreza DJ-ska z muzyką hololive, goście: Poplica i Honda Yuki (EverNest)",
+   "url": "https://club-mogra.jp/2026/12/27/10735/",
+   "id": "jp-2026-12-holospa-2nd-mogra"
+  },
+  {
    "about": "Trzy wirtualne wokalistki z agencji KAMITSUBAKI STUDIO (tej samej co KAF), grane na trzy kolejne wieczory.",
    "artist": "KAMITSUBAKI STUDIO solo lives: Rim / Harusaruhi / Koko",
    "dateEnd": "2026-12-13",
@@ -6459,6 +6590,69 @@
    "title": "Trzy solowe lajwy: Rim, Harubiko, Koko",
    "url": "https://kamitsubaki.jp/news/2026/08/27/11915/",
    "id": "jp-2026-12-kamitsubaki-wars-kanadevia"
+  },
+  {
+   "about": "Studencki koncert fanowski z hologramową Hatsune Miku i innymi głosami Vocaloid/CeVIO, organizowany w sali Aflac Hall Uniwersytetu Elektrokomunikacji (UEC) w Chōfu pod Tokio.",
+   "artist": "MIKUEC 2026",
+   "dateEnd": "2026-12-13",
+   "dateStart": "2026-12-12",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "bezpłatne, rezerwacja obowiązkowa (LivePocket)"
+    },
+    {
+     "k": "Godziny",
+     "v": "12.12: 17:00 · 13.12: 11:30 i 17:00 (JST)"
+    },
+    {
+     "k": "Miejsce",
+     "v": "stojące / wolne miejsca"
+    }
+   ],
+   "foundAt": "2026-11-28",
+   "hits": [
+    "Hatsune Miku – World is Mine",
+    "Hatsune Miku – Senbonzakura",
+    "Hatsune Miku – Tell Your World"
+   ],
+   "kind": "koncert",
+   "lineup": [
+    "Hatsune Miku",
+    "Kagamine Rin",
+    "Kagamine Len",
+    "MEIKO",
+    "KAITO",
+    "Megurine Luka",
+    "GUMI",
+    "Otomachi Una",
+    "IA",
+    "v flower",
+    "Tohoku Kiritan",
+    "Kai Yuki",
+    "Nurse Robot Type T"
+   ],
+   "note": "Stream online tylko 3. pokazu (13.12, 17:00 JST) – status „w przygotowaniu”. Wstęp bezpłatny, ale wymagana rezerwacja na każdy pokaz osobno (LivePocket).",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Chōfu (Tokio)",
+     "date": "2026-12-12",
+     "venue": "Aflac Hall UEC"
+    },
+    {
+     "cc": "JP",
+     "city": "Chōfu (Tokio)",
+     "date": "2026-12-13",
+     "venue": "Aflac Hall UEC"
+    }
+   ],
+   "tickets": "https://mikuec.com/2026/",
+   "tier": 3,
+   "title": "Koncert Hatsune Miku i Vocaloidów na uczelni UEC, wstęp wolny (3 pokazy)",
+   "url": "https://mikuec.com/2026/",
+   "id": "jp-2026-12-mikuec-2026"
   },
   {
    "about": "Pierwszy girls idol festival NIJISANJI z Tsukino Mito, Lize Helesta i innymi.",
@@ -6537,6 +6731,54 @@
    "title": "3DCG live Hatsune Miku i wirtualnych grup – Kobe i Yokohama",
    "url": "https://pjsekai.sega.jp/colorfullive/6th-crossing/schedule-and-ticket.html",
    "id": "jp-2026-12-project-sekai-colorful-live-6th"
+  },
+  {
+   "about": "Spokojniejszy odpowiednik nocy Vocaloid w Akihabarze: DJ-e grają utwory producentów Vocaloid, a VJ-e dokładają wizualizacje.",
+   "artist": "VOCALOID DJ BAR39 (MOGRA)",
+   "dateEnd": "2026-12-09",
+   "dateStart": "2026-12-09",
+   "duration": "18:00–23:00 (JST)",
+   "facts": [
+    {
+     "k": "Bilety",
+     "v": "3000 JPY przy wejściu (1 drink)"
+    },
+    {
+     "k": "Godziny",
+     "v": "18:00–23:00"
+    },
+    {
+     "k": "Wiek",
+     "v": "alkohol od 20 lat; legitymacja wymagana"
+    }
+   ],
+   "foundAt": "2026-11-28",
+   "hits": [
+    "Hatsune Miku – World is Mine",
+    "Hatsune Miku – Senbonzakura"
+   ],
+   "kind": "rave",
+   "lineup": [
+    "FAIO",
+    "Noro",
+    "Eiyan",
+    "Yuu",
+    "PIXY"
+   ],
+   "note": "Cykliczny bar DJ-ski z muzyką Vocaloid w środku tygodnia; DJ-e i VJ-e podani przez klub, stream nieznany.",
+   "region": "JP",
+   "stops": [
+    {
+     "cc": "JP",
+     "city": "Tokio (Akihabara)",
+     "date": "2026-12-09",
+     "venue": "MOGRA"
+    }
+   ],
+   "tier": 2,
+   "title": "Wieczór DJ-ski z Vocaloidami: FAIO, Noro, Eiyan, Yuu, PIXY",
+   "url": "https://club-mogra.jp/2026/12/09/10573/",
+   "id": "jp-2026-12-vocaloid-dj-bar39-mogra"
   },
   {
    "about": "Dwudniowy lajw label hololive RECORDS z czołowymi VTuberkami agencji, w tym Sakura Miko, Shirakami Fubuki i Houshou Marine. Okazją jest album-box z 67 piosenkami.",

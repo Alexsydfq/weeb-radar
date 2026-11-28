@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-23T05:43:17Z",
+ "updated": "2026-11-28T05:41:47Z",
  "events": [
+  {
+   "id": "2026-11-miku-expo-afterparty-madrid",
+   "artist": "Miku Expo Afterparty (Atomic Pixel Party)",
+   "title": "Imprezy klubowe po koncertach MIKU EXPO (Madryt, Lizbona)",
+   "kind": "rave",
+   "tier": 2,
+   "dateStart": "2026-11-25",
+   "dateEnd": "2026-11-27",
+   "stops": [
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-11-25",
+     "venue": "Marta, Cariño! (Calle de Silva 4)"
+    },
+    {
+     "cc": "PT",
+     "city": "Lizbona",
+     "date": "2026-11-27"
+    }
+   ],
+   "url": "https://eventosfrikis.com/2026/07/25/miku-expo-afterparty/"
+  },
   {
    "id": "2026-11-tomohisa-yamashita-paris",
    "artist": "Tomohisa Yamashita",
@@ -125,6 +148,72 @@
     "ShotenTaro (Berlin)"
    ],
    "url": "https://mikuexpo.com/europe2026/events.html"
+  },
+  {
+   "id": "2026-11-hatsune-miku-expo-europe",
+   "artist": "Hatsune Miku",
+   "title": "MIKU EXPO 2026 Europe",
+   "kind": "trasa",
+   "tier": 3,
+   "dateStart": "2026-11-12",
+   "dateEnd": "2026-11-27",
+   "stops": [
+    {
+     "cc": "UK",
+     "city": "Londyn",
+     "date": "2026-11-12",
+     "venue": "The O2"
+    },
+    {
+     "cc": "BE",
+     "city": "Bruksela",
+     "date": "2026-11-14",
+     "venue": "ING Arena"
+    },
+    {
+     "cc": "NL",
+     "city": "Amsterdam",
+     "date": "2026-11-15",
+     "venue": "AFAS Live"
+    },
+    {
+     "cc": "DE",
+     "city": "Berlin",
+     "date": "2026-11-17",
+     "venue": "Velodrom"
+    },
+    {
+     "cc": "DE",
+     "city": "Düsseldorf",
+     "date": "2026-11-20",
+     "venue": "PSD Bank Dome"
+    },
+    {
+     "cc": "FR",
+     "city": "Paryż",
+     "date": "2026-11-22",
+     "venue": "Accor Arena"
+    },
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-11-24",
+     "venue": "Palacio Vistalegre"
+    },
+    {
+     "cc": "ES",
+     "city": "Madryt",
+     "date": "2026-11-25",
+     "venue": "Palacio Vistalegre"
+    },
+    {
+     "cc": "PT",
+     "city": "Lizbona",
+     "date": "2026-11-27",
+     "venue": "Sagres Campo Pequeno"
+    }
+   ],
+   "url": "https://mikuexpo.com/europe2026/"
   },
   {
    "id": "2026-11-mayohk-world-tour",
